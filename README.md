@@ -23,7 +23,7 @@ el commit para no eliminar los que hayan subido otros usuarios.
 ```
 git add <MMMMM>
 git commit -m "MMMMM Nombre del municipio" MMMMM/*
-git push
+git push -f
 ```
 
 Es necesario recibir previamente permisos para poder subir archivos.
