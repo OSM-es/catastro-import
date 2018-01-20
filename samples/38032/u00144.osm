@@ -1386,6 +1386,8 @@
     <nd ref='-39587' />
     <nd ref='-40929' />
     <nd ref='-40905' />
+    <nd ref='-40237' />
+    <nd ref='-39561' />
     <nd ref='-40895' />
     <nd ref='-40925' />
     <tag k='building' v='residential' />
@@ -2826,8 +2828,6 @@
     <tag k='building:levels' v='1' />
   </way>
   <way id='-41267' action='modify'>
-    <nd ref='-40243' />
-    <nd ref='-40187' />
     <nd ref='-40193' />
     <nd ref='-40197' />
     <nd ref='-40199' />
@@ -2850,8 +2850,6 @@
     <nd ref='-40235' />
     <nd ref='-40873' />
     <nd ref='-40193' />
-    <nd ref='-40187' />
-    <nd ref='-40243' />
     <tag k='building' v='residential' />
     <tag k='building:levels' v='2' />
   </way>
@@ -2918,6 +2916,8 @@
   <way id='-41277' action='modify'>
     <nd ref='-40929' />
     <nd ref='-40905' />
+    <nd ref='-40237' />
+    <nd ref='-39561' />
     <nd ref='-40895' />
     <nd ref='-40925' />
     <nd ref='-40929' />
