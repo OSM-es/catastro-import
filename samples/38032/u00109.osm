@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-41082' action='modify' lat='28.4544054899' lon='-16.3689604887' />
+  <node id='-41084' action='modify' lat='28.4543719305' lon='-16.3691563343' />
+  <node id='-41086' action='modify' lat='28.45435039156' lon='-16.36911337235' />
+  <node id='-41088' action='modify' lat='28.4542401955' lon='-16.3690273934' />
+  <node id='-41090' action='modify' lat='28.4543298037' lon='-16.3687957826'>
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='38290' />
+    <tag k='addr:street' v='Calle el Sol' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='-41092' action='modify' lat='28.4542658831' lon='-16.3689949433' />
+  <node id='-41094' action='modify' lat='28.4544297881' lon='-16.3692185571' />
+  <node id='-41096' action='modify' lat='28.4543857977' lon='-16.3690159935' />
+  <node id='-41098' action='modify' lat='28.45428373292' lon='-16.36917263663' />
+  <node id='-41100' action='modify' lat='28.45433135601' lon='-16.36910291756' />
+  <node id='-41102' action='modify' lat='28.45421053804' lon='-16.36913596704' />
+  <node id='-41104' action='modify' lat='28.4542100484' lon='-16.3693325526' />
+  <node id='-41106' action='modify' lat='28.45425719943' lon='-16.36933922835' />
+  <node id='-41108' action='modify' lat='28.4544236291' lon='-16.3688171393' />
+  <node id='-41110' action='modify' lat='28.4543943769' lon='-16.368907855' />
+  <node id='-41112' action='modify' lat='28.4544052284' lon='-16.3691568655' />
+  <node id='-41114' action='modify' lat='28.45443045026' lon='-16.3691557987' />
+  <node id='-41116' action='modify' lat='28.4543173532' lon='-16.3692434556' />
+  <node id='-41118' action='modify' lat='28.4544044225' lon='-16.3692459052' />
+  <node id='-41120' action='modify' lat='28.4543721428' lon='-16.3691531712' />
+  <node id='-41122' action='modify' lat='28.45423656524' lon='-16.36928156085' />
+  <node id='-41124' action='modify' lat='28.4543027113' lon='-16.3692096689' />
+  <node id='-41126' action='modify' lat='28.45416228215' lon='-16.36924937434' />
+  <node id='-41128' action='modify' lat='28.4542747005' lon='-16.3691680509' />
+  <node id='-41130' action='modify' lat='28.4543814982' lon='-16.3689499675' />
+  <node id='-41132' action='modify' lat='28.45423279799' lon='-16.36933322888' />
+  <node id='-41134' action='modify' lat='28.45435319' lon='-16.3690096503' />
+  <node id='-41136' action='modify' lat='28.45427252767' lon='-16.36929430135' />
+  <node id='-41138' action='modify' lat='28.454306366' lon='-16.3688644428' />
+  <node id='-41140' action='modify' lat='28.4544047082' lon='-16.3692175191' />
+  <node id='-41142' action='modify' lat='28.454302736' lon='-16.3691085689' />
+  <node id='-41144' action='modify' lat='28.45433892504' lon='-16.36914038139' />
+  <node id='-41146' action='modify' lat='28.4541360778' lon='-16.3693109708' />
+  <node id='-41148' action='modify' lat='28.4542715893' lon='-16.3689660143' />
+  <node id='-41150' action='modify' lat='28.4543963167' lon='-16.3690289964' />
+  <node id='-41152' action='modify' lat='28.4542488995' lon='-16.3690324073' />
+  <node id='-41154' action='modify' lat='28.45427383002' lon='-16.36919641884' />
+  <node id='-41156' action='modify' lat='28.45431988949' lon='-16.3691299266' />
+  <node id='-41158' action='modify' lat='28.45428775' lon='-16.3691000018' />
+  <node id='-41160' action='modify' lat='28.4543272766' lon='-16.3690017594' />
+  <node id='-41162' action='modify' lat='28.454335659' lon='-16.3687786295' />
+  <node id='-41164' action='modify' lat='28.4543522599' lon='-16.3690123956' />
+  <node id='-41166' action='modify' lat='28.4543185679' lon='-16.369024114' />
+  <node id='-41168' action='modify' lat='28.4542239472' lon='-16.3690635393' />
+  <node id='-41170' action='modify' lat='28.4543465996' lon='-16.369144366' />
+  <node id='-41172' action='modify' lat='28.45429078383' lon='-16.36890995327' />
+  <node id='-41174' action='modify' lat='28.45428706125' lon='-16.36892082573'>
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='38290' />
+    <tag k='addr:street' v='Calle el Sol' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='-41176' action='modify'>
+    <nd ref='-41122' />
+    <nd ref='-41154' />
+    <nd ref='-41098' />
+    <nd ref='-41102' />
+    <nd ref='-41126' />
+    <nd ref='-41146' />
+    <nd ref='-41104' />
+    <nd ref='-41132' />
+    <nd ref='-41106' />
+    <nd ref='-41136' />
+    <nd ref='-41122' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='38290' />
+    <tag k='addr:street' v='Calle el Sol' />
+    <tag k='building' v='residential' />
+    <tag k='building:levels' v='2' />
+  </way>
+  <way id='-41178' action='modify'>
+    <nd ref='-41146' />
+    <nd ref='-41104' />
+    <nd ref='-41132' />
+    <nd ref='-41106' />
+    <nd ref='-41136' />
+    <nd ref='-41122' />
+    <nd ref='-41126' />
+    <nd ref='-41146' />
+    <tag k='building:levels' v='1' />
+    <tag k='building:part' v='yes' />
+  </way>
+  <way id='-41180' action='modify'>
+    <nd ref='-41170' />
+    <nd ref='-41150' />
+    <nd ref='-41134' />
+    <nd ref='-41164' />
+    <nd ref='-41160' />
+    <nd ref='-41166' />
+    <nd ref='-41092' />
+    <nd ref='-41152' />
+    <nd ref='-41088' />
+    <nd ref='-41168' />
+    <nd ref='-41158' />
+    <nd ref='-41142' />
+    <nd ref='-41128' />
+    <nd ref='-41098' />
+    <nd ref='-41154' />
+    <nd ref='-41124' />
+    <nd ref='-41116' />
+    <nd ref='-41118' />
+    <nd ref='-41140' />
+    <nd ref='-41112' />
+    <nd ref='-41084' />
+    <nd ref='-41120' />
+    <nd ref='-41170' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='38290' />
+    <tag k='addr:street' v='Calle el Sol' />
+    <tag k='building' v='residential' />
+    <tag k='building:levels' v='2' />
+  </way>
+  <way id='-41182' action='modify'>
+    <nd ref='-41140' />
+    <nd ref='-41094' />
+    <nd ref='-41114' />
+    <nd ref='-41112' />
+    <nd ref='-41140' />
+    <tag k='abandoned:building' v='yes' />
+    <tag k='building' v='ruins' />
+  </way>
+  <way id='-41184' action='modify'>
+    <nd ref='-41170' />
+    <nd ref='-41150' />
+    <nd ref='-41134' />
+    <nd ref='-41164' />
+    <nd ref='-41160' />
+    <nd ref='-41166' />
+    <nd ref='-41158' />
+    <nd ref='-41142' />
+    <nd ref='-41128' />
+    <nd ref='-41098' />
+    <nd ref='-41154' />
+    <nd ref='-41124' />
+    <nd ref='-41116' />
+    <nd ref='-41118' />
+    <nd ref='-41140' />
+    <nd ref='-41112' />
+    <nd ref='-41084' />
+    <nd ref='-41120' />
+    <nd ref='-41170' />
+  </way>
+  <way id='-41186' action='modify'>
+    <nd ref='-41108' />
+    <nd ref='-41162' />
+    <nd ref='-41090' />
+    <nd ref='-41138' />
+    <nd ref='-41110' />
+    <nd ref='-41108' />
+    <tag k='building:levels' v='1' />
+    <tag k='building:part' v='yes' />
+  </way>
+  <way id='-41188' action='modify'>
+    <nd ref='-41156' />
+    <nd ref='-41100' />
+    <nd ref='-41086' />
+    <nd ref='-41144' />
+    <nd ref='-41156' />
+  </way>
+  <way id='-41190' action='modify'>
+    <nd ref='-41130' />
+    <nd ref='-41110' />
+    <nd ref='-41108' />
+    <nd ref='-41162' />
+    <nd ref='-41090' />
+    <nd ref='-41138' />
+    <nd ref='-41172' />
+    <nd ref='-41130' />
+    <tag k='building' v='residential' />
+    <tag k='building:levels' v='2' />
+  </way>
+  <way id='-41192' action='modify'>
+    <nd ref='-41172' />
+    <nd ref='-41174' />
+    <nd ref='-41148' />
+    <nd ref='-41096' />
+    <nd ref='-41082' />
+    <nd ref='-41130' />
+    <nd ref='-41172' />
+    <tag k='building' v='residential' />
+    <tag k='building:levels' v='2' />
+  </way>
+  <relation id='-41194' action='modify'>
+    <member type='way' ref='-41184' role='outer' />
+    <member type='way' ref='-41188' role='inner' />
+    <tag k='building:levels' v='1' />
+    <tag k='building:part' v='yes' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+</osm>
