@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-51954' action='modify' lat='28.35364018918' lon='-16.41885282755' />
+  <node id='-51955' action='modify' lat='28.34330098079' lon='-16.41276956677' />
+  <node id='-51956' action='modify' lat='28.35358352934' lon='-16.43141628385' />
+  <node id='-51957' action='modify' lat='28.33345183509' lon='-16.39571071208' />
+  <node id='-51958' action='modify' lat='28.34175237483' lon='-16.4367592442' />
+  <node id='-51959' action='modify' lat='28.34492510425' lon='-16.41225458264' />
+  <node id='-51960' action='modify' lat='28.3441224882' lon='-16.43032194257' />
+  <node id='-51961' action='modify' lat='28.33417543926' lon='-16.41601503029' />
+  <node id='-51962' action='modify' lat='28.34273441317' lon='-16.4193061021' />
+  <node id='-51963' action='modify' lat='28.34170987519' lon='-16.42138481408' />
+  <node id='-51964' action='modify' lat='28.35356464586' lon='-16.43403411984' />
+  <node id='-51965' action='modify' lat='28.33399247203' lon='-16.41627118126' />
+  <node id='-51966' action='modify' lat='28.3477861545' lon='-16.41694309473' />
+  <node id='-51967' action='modify' lat='28.3328049516' lon='-16.39355421603' />
+  <node id='-51968' action='modify' lat='28.34762562665' lon='-16.42893792272' />
+  <node id='-51969' action='modify' lat='28.33433008409' lon='-16.43109441876' />
+  <node id='-51970' action='modify' lat='28.33494390643' lon='-16.41116024137' />
+  <node id='-51971' action='modify' lat='28.3547637398' lon='-16.42292977452' />
+  <node id='-51972' action='modify' lat='28.34336707932' lon='-16.43326164365' />
+  <node id='-51973' action='modify' lat='28.3377580098' lon='-16.41312362909' />
+  <node id='-51974' action='modify' lat='28.34039260464' lon='-16.42834783673' />
+  <node id='-51975' action='modify' lat='28.33256415411' lon='-16.39793159723' />
+  <node id='-51976' action='modify' lat='28.33903281704' lon='-16.42904521108' />
+  <node id='-51977' action='modify' lat='28.3452367065' lon='-16.4167928803' />
+  <node id='-51978' action='modify' lat='28.35515085542' lon='-16.42102005243' />
+  <node id='-51979' action='modify' lat='28.35648210278' lon='-16.42100931287' />
+  <node id='-51980' action='modify' lat='28.35423500714' lon='-16.43162013173' />
+  <node id='-51981' action='modify' lat='28.33920279144' lon='-16.43705965161' />
+  <node id='-51982' action='modify' lat='28.34767283797' lon='-16.43598676801' />
+  <node id='-51983' action='modify' lat='28.35076986411' lon='-16.41990425348' />
+  <node id='-51984' action='modify' lat='28.33601100451' lon='-16.43180252194' />
+  <node id='-51985' action='modify' lat='28.34923551608' lon='-16.41768336833' />
+  <node id='-51986' action='modify' lat='28.34270136371' lon='-16.41857654124' />
+  <node id='-51987' action='modify' lat='28.34509462337' lon='-16.41617158423' />
+  <node id='-51988' action='modify' lat='28.3535268789' lon='-16.4345276463' />
+  <node id='-51989' action='modify' lat='28.33609599416' lon='-16.41540886045' />
+  <node id='-51990' action='modify' lat='28.34638869205' lon='-16.4169645524' />
+  <node id='-51991' action='modify' lat='28.33783354548' lon='-16.43310071111' />
+  <node id='-51992' action='modify' lat='28.35966384276' lon='-16.43267156839' />
+  <node id='-51993' action='modify' lat='28.3415729617' lon='-16.42739297032' />
+  <node id='-51994' action='modify' lat='28.36215628909' lon='-16.43561126947' />
+  <node id='-51995' action='modify' lat='28.34099694909' lon='-16.42854095578' />
+  <node id='-51996' action='modify' lat='28.35381957248' lon='-16.42933488965' />
+  <node id='-51997' action='modify' lat='28.34975955732' lon='-16.4147114861' />
+  <node id='-51998' action='modify' lat='28.33977882322' lon='-16.39100076914' />
+  <node id='-51999' action='modify' lat='28.35553795074' lon='-16.42092348218' />
+  <node id='-52000' action='modify' lat='28.33598268405' lon='-16.43383028269' />
+  <node id='-52001' action='modify' lat='28.35197843149' lon='-16.42020466089' />
+  <node id='-52002' action='modify' lat='28.34411304563' lon='-16.42549396634' />
+  <node id='-52003' action='modify' lat='28.35738848084' lon='-16.42011881948' />
+  <node id='-52004' action='modify' lat='28.3478333563' lon='-16.41576291203' />
+  <node id='-52005' action='modify' lat='28.35448049049' lon='-16.43193126798' />
+  <node id='-52006' action='modify' lat='28.34995785018' lon='-16.42033340693' />
+  <node id='-52007' action='modify' lat='28.33923112048' lon='-16.43140555501' />
+  <node id='-52008' action='modify' lat='28.34098985987' lon='-16.42121315271' />
+  <node id='-52009' action='modify' lat='28.33637930195' lon='-16.40198709726' />
+  <node id='-52010' action='modify' lat='28.33517054762' lon='-16.43204928517' />
+  <node id='-52011' action='modify' lat='28.35072264001' lon='-16.41863287032' />
+  <node id='-52012' action='modify' lat='28.35632159752' lon='-16.42460347295' />
+  <node id='-52013' action='modify' lat='28.34572771424' lon='-16.41547323346' />
+  <node id='-52014' action='modify' lat='28.35461267359' lon='-16.43716693997' />
+  <node id='-52015' action='modify' lat='28.34176181762' lon='-16.42742515683' />
+  <node id='-52016' action='modify' lat='28.33494391587' lon='-16.40702965021' />
+  <node id='-52017' action='modify' lat='28.35408394018' lon='-16.42815471768' />
+  <node id='-52018' action='modify' lat='28.35109088172' lon='-16.4154839623' />
+  <node id='-52019' action='modify' lat='28.33911781372' lon='-16.39035703897' />
+  <node id='-52020' action='modify' lat='28.3446135011' lon='-16.41406775594' />
+  <node id='-52021' action='modify' lat='28.34199788704' lon='-16.42976404309' />
+  <node id='-52022' action='modify' lat='28.3540461734' lon='-16.43025756955' />
+  <node id='-52023' action='modify' lat='28.34119525831' lon='-16.39662267923' />
+  <node id='-52024' action='modify' lat='28.34148797643' lon='-16.43167377591' />
+  <node id='-52025' action='modify' lat='28.35139303339' lon='-16.41567709208' />
+  <node id='-52026' action='modify' lat='28.35842702951' lon='-16.42228604436' />
+  <node id='-52027' action='modify' lat='28.35508475478' lon='-16.43424869657' />
+  <node id='-52028' action='modify' lat='28.3384001416' lon='-16.40999080896' />
+  <node id='-52029' action='modify' lat='28.34451908516' lon='-16.40820982218' />
+  <node id='-52030' action='modify' lat='28.35770948788' lon='-16.42658830762' />
+  <node id='-52031' action='modify' lat='28.3423944754' lon='-16.41945094138' />
+  <node id='-52032' action='modify' lat='28.34971235637' lon='-16.42026903391' />
+  <node id='-52033' action='modify' lat='28.33489668945' lon='-16.43173814893' />
+  <node id='-52034' action='modify' lat='28.35633103902' lon='-16.42376662374' />
+  <node id='-52035' action='modify' lat='28.3467286076' lon='-16.41638518453' />
+  <node id='-52036' action='modify' lat='28.34548221065' lon='-16.4269101727' />
+  <node id='-52037' action='modify' lat='28.33787925844' lon='-16.43157221027' />
+  <node id='-52038' action='modify' lat='28.36126883385' lon='-16.43496753931' />
+  <node id='-52039' action='modify' lat='28.33299855904' lon='-16.40125753641' />
+  <node id='-52040' action='modify' lat='28.33840013215' lon='-16.42968894124' />
+  <node id='-52041' action='modify' lat='28.33594491084' lon='-16.43209221125' />
+  <node id='-52042' action='modify' lat='28.34339540725' lon='-16.41455055356' />
+  <node id='-52043' action='modify' lat='28.34219046909' lon='-16.42976092308' />
+  <node id='-52044' action='modify' lat='28.35336636918' lon='-16.43085838437' />
+  <node id='-52045' action='modify' lat='28.34134633416' lon='-16.43445254445' />
+  <node id='-52046' action='modify' lat='28.34340487822' lon='-16.40820984364' />
+  <node id='-52047' action='modify' lat='28.3390084468' lon='-16.4280915955'>
+    <tag k='addr:housenumber' v='S-N' />
+    <tag k='addr:postcode' v='38550' />
+    <tag k='addr:street' v='Camino de Galván' />
+  </node>
+  <node id='-52048' action='modify' lat='28.34550109556' lon='-16.41339183927' />
+  <node id='-52049' action='modify' lat='28.34455684588' lon='-16.42640591741' />
+  <node id='-52050' action='modify' lat='28.33290883096' lon='-16.39460564196' />
+  <node id='-52051' action='modify' lat='28.35985265706' lon='-16.42573000073' />
+  <node id='-52052' action='modify' lat='28.34155642971' lon='-16.42114341527' />
+  <node id='-52053' action='modify' lat='28.35467876509' lon='-16.43525720716' />
+  <node id='-52054' action='modify' lat='28.34933937938' lon='-16.41738832533' />
+  <node id='-52055' action='modify' lat='28.34846599444' lon='-16.41464712381' />
+  <node id='-52056' action='modify' lat='28.33415655233' lon='-16.41611695424' />
+  <node id='-52057' action='modify' lat='28.33512333075' lon='-16.43130899549' />
+  <node id='-52058' action='modify' lat='28.35606667692' lon='-16.42277957082' />
+  <node id='-52059' action='modify' lat='28.34222451319' lon='-16.42994643331' />
+  <node id='-52060' action='modify' lat='28.3466341841' lon='-16.41554833531' />
+  <node id='-52061' action='modify' lat='28.3618541775' lon='-16.43483879328' />
+  <node id='-52062' action='modify' lat='28.33292301049' lon='-16.39894010782' />
+  <node id='-52063' action='modify' lat='28.33854177835' lon='-16.42921687245' />
+  <node id='-52119' action='modify' lat='28.33970798681' lon='-16.41852558196' />
+  <node id='-52120' action='modify' lat='28.33990628899' lon='-16.41903520167' />
+  <way id='-52064' action='modify'>
+    <nd ref='-52018' />
+    <nd ref='-51997' />
+  </way>
+  <way id='-52065' action='modify'>
+    <nd ref='-52060' />
+    <nd ref='-52035' />
+    <nd ref='-51977' />
+  </way>
+  <way id='-52066' action='modify'>
+    <nd ref='-52030' />
+    <nd ref='-52012' />
+    <nd ref='-52034' />
+    <nd ref='-52058' />
+    <nd ref='-51971' />
+  </way>
+  <way id='-52067' action='modify'>
+    <nd ref='-51993' />
+    <nd ref='-51974' />
+  </way>
+  <way id='-52068' action='modify'>
+    <nd ref='-51992' />
+    <nd ref='-52038' />
+    <nd ref='-52061' />
+    <nd ref='-51994' />
+  </way>
+  <way id='-52069' action='modify'>
+    <nd ref='-52054' />
+    <nd ref='-51985' />
+    <nd ref='-52011' />
+    <tag k='name' v='Camino Cosme' />
+  </way>
+  <way id='-52070' action='modify'>
+    <nd ref='-52002' />
+    <nd ref='-52049' />
+    <nd ref='-51960' />
+    <nd ref='-51982' />
+    <tag k='name' v='Confirmar Camino de Juan Leal' />
+  </way>
+  <way id='-52071' action='modify'>
+    <nd ref='-52015' />
+    <nd ref='-52043' />
+    <nd ref='-52059' />
+    <nd ref='-51972' />
+  </way>
+  <way id='-52072' action='modify'>
+    <nd ref='-51977' />
+    <nd ref='-51987' />
+    <nd ref='-52020' />
+    <nd ref='-52042' />
+    <nd ref='-51955' />
+    <tag k='name' v='Calle Majano (Hidalga la)' />
+  </way>
+  <way id='-52073' action='modify'>
+    <nd ref='-51961' />
+    <nd ref='-52056' />
+    <nd ref='-51965' />
+    <tag k='name' v='Confirmar si Calle Radioaficionado sigue por aquí o hacia Calle Candelaria' />
+  </way>
+  <way id='-52074' action='modify'>
+    <nd ref='-52021' />
+    <nd ref='-52024' />
+    <nd ref='-52045' />
+    <nd ref='-51958' />
+    <nd ref='-51981' />
+  </way>
+  <way id='-52075' action='modify'>
+    <nd ref='-52028' />
+    <nd ref='-52009' />
+    <tag k='name' v='Camino Choza la (Hidalga la)' />
+  </way>
+  <way id='-52076' action='modify'>
+    <nd ref='-52019' />
+    <nd ref='-51998' />
+    <nd ref='-52023' />
+    <nd ref='-52046' />
+    <nd ref='-52029' />
+    <nd ref='-52055' />
+    <nd ref='-52004' />
+    <nd ref='-51966' />
+    <nd ref='-51990' />
+    <tag k='name' v='Camino/Carmen Tomatica (Hidalga la)' />
+  </way>
+  <way id='-52077' action='modify'>
+    <nd ref='-51987' />
+    <nd ref='-52013' />
+  </way>
+  <way id='-52078' action='modify'>
+    <nd ref='-51991' />
+    <nd ref='-52037' />
+    <nd ref='-52040' />
+    <nd ref='-52063' />
+    <nd ref='-51976' />
+  </way>
+  <way id='-52079' action='modify'>
+    <nd ref='-51999' />
+    <nd ref='-51979' />
+    <nd ref='-52003' />
+    <nd ref='-52026' />
+    <nd ref='-52051' />
+    <tag k='name' v='Camino Charcos los (Arafo)' />
+  </way>
+  <way id='-52080' action='modify'>
+    <nd ref='-52008' />
+    <nd ref='-52052' />
+    <nd ref='-51963' />
+    <tag k='name' v='Calle Chogo (Arafo)' />
+  </way>
+  <way id='-52081' action='modify'>
+    <nd ref='-52004' />
+    <nd ref='-52048' />
+    <nd ref='-51959' />
+  </way>
+  <way id='-52082' action='modify'>
+    <nd ref='-52031' />
+    <nd ref='-51962' />
+    <nd ref='-51986' />
+  </way>
+  <way id='-52083' action='modify'>
+    <nd ref='-52025' />
+    <nd ref='-51954' />
+    <nd ref='-51978' />
+  </way>
+  <way id='-52084' action='modify'>
+    <nd ref='-52000' />
+    <nd ref='-52041' />
+  </way>
+  <way id='-52085' action='modify'>
+    <nd ref='-52007' />
+    <nd ref='-52037' />
+    <nd ref='-51984' />
+    <nd ref='-52010' />
+    <nd ref='-52033' />
+    <nd ref='-52057' />
+    <nd ref='-51969' />
+  </way>
+  <way id='-52086' action='modify'>
+    <nd ref='-51989' />
+    <nd ref='-51970' />
+    <tag k='name' v='Calle Madrid' />
+  </way>
+  <way id='-52087' action='modify'>
+    <nd ref='-51973' />
+    <nd ref='-52016' />
+    <nd ref='-52039' />
+    <nd ref='-52062' />
+    <nd ref='-51975' />
+    <tag k='name' v='Calle Calles (Hidalga la)' />
+  </way>
+  <way id='-52088' action='modify'>
+    <nd ref='-52047' />
+    <nd ref='-51995' />
+    <nd ref='-52021' />
+    <nd ref='-52043' />
+  </way>
+  <way id='-52089' action='modify'>
+    <nd ref='-52001' />
+    <nd ref='-51983' />
+    <nd ref='-52006' />
+    <nd ref='-52032' />
+  </way>
+  <way id='-52090' action='modify'>
+    <nd ref='-52036' />
+    <nd ref='-51968' />
+    <tag k='name' v='Camino de Juan Leal / de los Frailes ?' />
+  </way>
+  <way id='-52091' action='modify'>
+    <nd ref='-52017' />
+    <nd ref='-51996' />
+    <nd ref='-52022' />
+    <nd ref='-52044' />
+    <nd ref='-51956' />
+    <nd ref='-51980' />
+    <nd ref='-52005' />
+    <nd ref='-52027' />
+    <nd ref='-52053' />
+    <nd ref='-51964' />
+    <nd ref='-51988' />
+    <nd ref='-52014' />
+  </way>
+  <way id='-52092' action='modify'>
+    <nd ref='-51957' />
+    <nd ref='-52050' />
+    <nd ref='-51967' />
+    <tag k='name' v='Calle Heliodoro Rodrigue Coello (Hidalga la)' />
+  </way>
+  <way id='-52121' action='modify'>
+    <nd ref='-52119' />
+    <nd ref='-52120' />
+    <tag k='name' v='Confirmar nombre y numeros de portal en este tramo' />
+  </way>
+</osm>
