@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00019"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-21" lat="43.1548752817" lon="-4.62449923786" visible="true"/>
+<node action="modify" id="-48" lat="43.1548066519" lon="-4.62440325623" visible="true"/>
+<node action="modify" id="-25" lat="43.154993234" lon="-4.62418306052" visible="true"/>
+<node action="modify" id="-38" lat="43.1547919171" lon="-4.62420627424" visible="true"/>
+<node action="modify" id="-45" lat="43.154774638" lon="-4.62444116307" visible="true"/>
+<node action="modify" id="-47" lat="43.1548219794" lon="-4.62440853282" visible="true"/>
+<node action="modify" id="-9" lat="43.1548770679" lon="-4.62450026913" visible="true"/>
+<node action="modify" id="-20" lat="43.1548108081" lon="-4.62447391501" visible="true"/>
+<node action="modify" id="-33" lat="43.1548555589" lon="-4.62413797104" visible="true"/>
+<node action="modify" id="-10" lat="43.1548495627" lon="-4.62463631459" visible="true"/>
+<node action="modify" id="-16" lat="43.1547890194" lon="-4.62436315059" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Eduardo Garc&#237;a de Enterr&#237;a"/>
+</node>
+<node action="modify" id="-36" lat="43.154818236" lon="-4.62402690382" visible="true"/>
+<node action="modify" id="-39" lat="43.1548005233" lon="-4.62420896207" visible="true"/>
+<node action="modify" id="-19" lat="43.1548070706" lon="-4.6244717374" visible="true"/>
+<node action="modify" id="-14" lat="43.1547865721" lon="-4.62431095936" visible="true"/>
+<node action="modify" id="-3" lat="43.1549111394" lon="-4.62466303679" visible="true"/>
+<node action="modify" id="-15" lat="43.154797921" lon="-4.6243148637" visible="true"/>
+<node action="modify" id="-32" lat="43.1548395592" lon="-4.62422475529" visible="true"/>
+<node action="modify" id="-37" lat="43.1548038223" lon="-4.62412513725" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Eduardo Garc&#237;a de Enterr&#237;a"/>
+</node>
+<node action="modify" id="-35" lat="43.1549588351" lon="-4.62406899564" visible="true"/>
+<node action="modify" id="-4" lat="43.1549604005" lon="-4.6244660711" visible="true"/>
+<node action="modify" id="-7" lat="43.1549293982" lon="-4.62426501706" visible="true"/>
+<node action="modify" id="-23" lat="43.1549760764" lon="-4.62428162777" visible="true"/>
+<node action="modify" id="-5" lat="43.1549884352" lon="-4.62428638293" visible="true"/>
+<node action="modify" id="-24" lat="43.1549775749" lon="-4.62427121305" visible="true"/>
+<node action="modify" id="-26" lat="43.1549441167" lon="-4.62416700637" visible="true"/>
+<node action="modify" id="-46" lat="43.1548113057" lon="-4.62445377582" visible="true"/>
+<node action="modify" id="-50" lat="43.1548050402" lon="-4.62421079133" visible="true"/>
+<way action="modify" id="-40" visible="true">
+  <nd ref="-50"/>
+  <nd ref="-14"/>
+  <nd ref="-15"/>
+  <nd ref="-16"/>
+  <nd ref="-45"/>
+  <nd ref="-46"/>
+  <nd ref="-47"/>
+  <nd ref="-48"/>
+  <nd ref="-32"/>
+  <nd ref="-50"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-29" visible="true">
+  <nd ref="-39"/>
+  <nd ref="-50"/>
+  <nd ref="-32"/>
+  <nd ref="-33"/>
+  <nd ref="-26"/>
+  <nd ref="-35"/>
+  <nd ref="-36"/>
+  <nd ref="-37"/>
+  <nd ref="-38"/>
+  <nd ref="-39"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-10"/>
+  <nd ref="-3"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-23"/>
+  <nd ref="-7"/>
+  <nd ref="-21"/>
+  <nd ref="-9"/>
+  <nd ref="-10"/>
+  <tag k="building" v="public"/>
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de Eduardo Garc&#237;a de Enterr&#237;a"/>
+</way>
+<way action="modify" id="-11" visible="true">
+  <nd ref="-32"/>
+  <nd ref="-50"/>
+  <nd ref="-14"/>
+  <nd ref="-15"/>
+  <nd ref="-16"/>
+  <nd ref="-45"/>
+  <nd ref="-46"/>
+  <nd ref="-19"/>
+  <nd ref="-20"/>
+  <nd ref="-21"/>
+  <nd ref="-7"/>
+  <nd ref="-23"/>
+  <nd ref="-24"/>
+  <nd ref="-25"/>
+  <nd ref="-26"/>
+  <nd ref="-33"/>
+  <nd ref="-32"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="2"/>
+</way>
+</osm>

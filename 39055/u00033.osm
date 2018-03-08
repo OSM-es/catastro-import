@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00033"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-5" lat="43.1541372746" lon="-4.62418745689" visible="true"/>
+<node action="modify" id="-6" lat="43.154160907" lon="-4.62405143936" visible="true"/>
+<node action="modify" id="-3" lat="43.1539995067" lon="-4.62409412667" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Cervantes"/>
+</node>
+<node action="modify" id="-2" lat="43.1540051808" lon="-4.62406637824" visible="true"/>
+<node action="modify" id="-4" lat="43.1539978266" lon="-4.62410234285" visible="true"/>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-2"/>
+  <nd ref="-3"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-6"/>
+  <nd ref="-2"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+</osm>

@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00016"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-85" lat="43.1509388435" lon="-4.62563257983" visible="true"/>
+<node action="modify" id="-133" lat="43.1529472243" lon="-4.62506310741" visible="true"/>
+<node action="modify" id="-92" lat="43.1507264009" lon="-4.62560545705" visible="true"/>
+<node action="modify" id="-157" lat="43.1533421224" lon="-4.62486844476" visible="true"/>
+<node action="modify" id="-149" lat="43.1533715022" lon="-4.62513291982" visible="true"/>
+<node action="modify" id="-86" lat="43.150941978" lon="-4.62553430442" visible="true"/>
+<node action="modify" id="-93" lat="43.1507834296" lon="-4.62562271089" visible="true"/>
+<node action="modify" id="-134" lat="43.1529524" lon="-4.62506324458" visible="true"/>
+<node action="modify" id="-127" lat="43.1531950277" lon="-4.62505543271" visible="true"/>
+<node action="modify" id="-29" lat="43.1529281785" lon="-4.62477285899" visible="true"/>
+<node action="modify" id="-51" lat="43.1521341653" lon="-4.62559553799" visible="true"/>
+<node action="modify" id="-94" lat="43.1507974365" lon="-4.6256255419" visible="true"/>
+<node action="modify" id="-97" lat="43.15082549" lon="-4.62552703688" visible="true"/>
+<node action="modify" id="-69" lat="43.1518908383" lon="-4.62573618579" visible="true"/>
+<node action="modify" id="-144" lat="43.1528613213" lon="-4.62509283246" visible="true"/>
+<node action="modify" id="-137" lat="43.153035342" lon="-4.62484198365" visible="true"/>
+<node action="modify" id="-52" lat="43.1521251568" lon="-4.62554512031" visible="true"/>
+<node action="modify" id="-35" lat="43.1529902914" lon="-4.62477450485" visible="true"/>
+<node action="modify" id="-74" lat="43.1518958159" lon="-4.62561121985" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</node>
+<node action="modify" id="-42" lat="43.152059748" lon="-4.62555542949" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</node>
+<node action="modify" id="-154" lat="43.1533353067" lon="-4.62494255" visible="true"/>
+<node action="modify" id="-53" lat="43.1521128522" lon="-4.62554922166" visible="true"/>
+<node action="modify" id="-6" lat="43.1531008141" lon="-4.62476562651" visible="true"/>
+<node action="modify" id="-123" lat="43.1531005524" lon="-4.62480940379" visible="true"/>
+<node action="modify" id="-84" lat="43.1508632907" lon="-4.62562808525" visible="true"/>
+<node action="modify" id="-28" lat="43.1529318077" lon="-4.62472192686" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-31" lat="43.1529906269" lon="-4.62476356771" visible="true"/>
+<node action="modify" id="-132" lat="43.1529299085" lon="-4.62505676962" visible="true"/>
+<node action="modify" id="-49" lat="43.1521295022" lon="-4.6256195199" visible="true"/>
+<node action="modify" id="-135" lat="43.1529852831" lon="-4.62488081308" visible="true"/>
+<node action="modify" id="-98" lat="43.1507405261" lon="-4.62551125633" visible="true"/>
+<node action="modify" id="-50" lat="43.1521258422" lon="-4.62559826903" visible="true"/>
+<node action="modify" id="-25" lat="43.1529632326" lon="-4.62463788492" visible="true"/>
+<node action="modify" id="-141" lat="43.1529281374" lon="-4.62483914897" visible="true"/>
+<node action="modify" id="-128" lat="43.1532461895" lon="-4.62480711351" visible="true"/>
+<node action="modify" id="-142" lat="43.152923559" lon="-4.62483816673" visible="true"/>
+<node action="modify" id="-129" lat="43.1531072705" lon="-4.62476751945" visible="true"/>
+<node action="modify" id="-81" lat="43.1516635871" lon="-4.62565586894" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</node>
+<node action="modify" id="-80" lat="43.1517268074" lon="-4.62564901836" visible="true"/>
+<node action="modify" id="-150" lat="43.1533848231" lon="-4.62503192303" visible="true"/>
+<node action="modify" id="-156" lat="43.1534017438" lon="-4.62488035588" visible="true"/>
+<node action="modify" id="-47" lat="43.1521234795" lon="-4.62566314374" visible="true"/>
+<node action="modify" id="-77" lat="43.1516541125" lon="-4.62565689562" visible="true"/>
+<node action="modify" id="-163" lat="43.1531110896" lon="-4.62463810668" visible="true"/>
+<node action="modify" id="-96" lat="43.1508664261" lon="-4.62552980937" visible="true"/>
+<node action="modify" id="-15" lat="43.1530472423" lon="-4.62463653183" visible="true"/>
+<node action="modify" id="-62" lat="43.1519808539" lon="-4.62558228173" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</node>
+<node action="modify" id="-70" lat="43.1519255847" lon="-4.62572431637" visible="true"/>
+<node action="modify" id="-139" lat="43.1529955376" lon="-4.62484638958" visible="true"/>
+<node action="modify" id="-21" lat="43.1530454034" lon="-4.62476600308" visible="true"/>
+<node action="modify" id="-12" lat="43.1530451547" lon="-4.62478351016" visible="true"/>
+<node action="modify" id="-160" lat="43.1531047364" lon="-4.62471738948" visible="true"/>
+<node action="modify" id="-124" lat="43.1530355969" lon="-4.62514763092" visible="true"/>
+<node action="modify" id="-19" lat="43.1530461202" lon="-4.62471553499" visible="true"/>
+<node action="modify" id="-26" lat="43.1529470007" lon="-4.62463954565" visible="true"/>
+<node action="modify" id="-48" lat="43.1521164706" lon="-4.62562409391" visible="true"/>
+<node action="modify" id="-27" lat="43.1529344765" lon="-4.62468447378" visible="true"/>
+<node action="modify" id="-161" lat="43.1532281729" lon="-4.62472521697" visible="true"/>
+<node action="modify" id="-111" lat="43.1520274013" lon="-4.62567194827" visible="true"/>
+<node action="modify" id="-122" lat="43.1531040689" lon="-4.62478783855" visible="true"/>
+<node action="modify" id="-44" lat="43.152049521" lon="-4.62559275288" visible="true"/>
+<node action="modify" id="-118" lat="43.1520143085" lon="-4.62560574152" visible="true"/>
+<node action="modify" id="-148" lat="43.1533022294" lon="-4.62511583307" visible="true"/>
+<node action="modify" id="-109" lat="43.1520699152" lon="-4.62568090968" visible="true"/>
+<node action="modify" id="-145" lat="43.1528802958" lon="-4.62512629637" visible="true"/>
+<node action="modify" id="-3" lat="43.1530551865" lon="-4.62478377599" visible="true"/>
+<node action="modify" id="-108" lat="43.1520715642" lon="-4.62568969779" visible="true"/>
+<node action="modify" id="-143" lat="43.152893795" lon="-4.62503810211" visible="true"/>
+<node action="modify" id="-18" lat="43.152992001" lon="-4.62471437157" visible="true"/>
+<node action="modify" id="-115" lat="43.1519440839" lon="-4.62559480339" visible="true"/>
+<node action="modify" id="-136" lat="43.1530187022" lon="-4.62488250426" visible="true"/>
+<node action="modify" id="-16" lat="43.1530002934" lon="-4.6246367699" visible="true"/>
+<node action="modify" id="-116" lat="43.1519652634" lon="-4.62569486755" visible="true"/>
+<node action="modify" id="-41" lat="43.1521097593" lon="-4.62553843977" visible="true"/>
+<node action="modify" id="-110" lat="43.152064664" lon="-4.62565820844" visible="true"/>
+<node action="modify" id="-126" lat="43.153161239" lon="-4.62505060155" visible="true"/>
+<node action="modify" id="-155" lat="43.1533913416" lon="-4.62495338223" visible="true"/>
+<node action="modify" id="-78" lat="43.1516572713" lon="-4.62574039923" visible="true"/>
+<node action="modify" id="-140" lat="43.1529893429" lon="-4.62484572117" visible="true"/>
+<node action="modify" id="-151" lat="43.1533154568" lon="-4.62501507989" visible="true"/>
+<node action="modify" id="-79" lat="43.1517273252" lon="-4.62573173627" visible="true"/>
+<node action="modify" id="-91" lat="43.150739092" lon="-4.62552082066" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</node>
+<node action="modify" id="-65" lat="43.1519709778" lon="-4.62572679277" visible="true"/>
+<node action="modify" id="-162" lat="43.1532307517" lon="-4.62464508992" visible="true"/>
+<node action="modify" id="-125" lat="43.1531344603" lon="-4.62518616413" visible="true"/>
+<node action="modify" id="-17" lat="43.1529941955" lon="-4.62463721098" visible="true"/>
+<node action="modify" id="-66" lat="43.1520336723" lon="-4.62570367304" visible="true"/>
+<node action="modify" id="-120" lat="43.152042259" lon="-4.6255613708" visible="true"/>
+<node action="modify" id="-71" lat="43.151922914" lon="-4.62570948712" visible="true"/>
+<node action="modify" id="-75" lat="43.1518672634" lon="-4.62562093084" visible="true"/>
+<node action="modify" id="-138" lat="43.1529997557" lon="-4.62484104064" visible="true"/>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-12"/>
+  <nd ref="-3"/>
+  <nd ref="-122"/>
+  <nd ref="-129"/>
+  <nd ref="-6"/>
+  <nd ref="-160"/>
+  <nd ref="-163"/>
+  <nd ref="-15"/>
+  <nd ref="-19"/>
+  <nd ref="-21"/>
+  <nd ref="-12"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Cayetano"/>
+</way>
+<way action="modify" id="-159" visible="true">
+  <nd ref="-160"/>
+  <nd ref="-161"/>
+  <nd ref="-162"/>
+  <nd ref="-163"/>
+  <nd ref="-160"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-153" visible="true">
+  <nd ref="-154"/>
+  <nd ref="-155"/>
+  <nd ref="-156"/>
+  <nd ref="-157"/>
+  <nd ref="-154"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-13" visible="true">
+  <nd ref="-19"/>
+  <nd ref="-15"/>
+  <nd ref="-16"/>
+  <nd ref="-17"/>
+  <nd ref="-18"/>
+  <nd ref="-19"/>
+  <tag k="building" v="industrial"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Cayetano"/>
+</way>
+<way action="modify" id="-40" visible="true">
+  <nd ref="-41"/>
+  <nd ref="-42"/>
+  <nd ref="-120"/>
+  <nd ref="-44"/>
+  <nd ref="-110"/>
+  <nd ref="-109"/>
+  <nd ref="-47"/>
+  <nd ref="-48"/>
+  <nd ref="-49"/>
+  <nd ref="-50"/>
+  <nd ref="-51"/>
+  <nd ref="-52"/>
+  <nd ref="-53"/>
+  <nd ref="-41"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-99" visible="true">
+  <nd ref="-116"/>
+  <nd ref="-65"/>
+  <nd ref="-66"/>
+  <nd ref="-111"/>
+  <nd ref="-116"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-121" visible="true">
+  <nd ref="-122"/>
+  <nd ref="-123"/>
+  <nd ref="-124"/>
+  <nd ref="-125"/>
+  <nd ref="-126"/>
+  <nd ref="-127"/>
+  <nd ref="-128"/>
+  <nd ref="-129"/>
+  <nd ref="-122"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-89" visible="true">
+  <nd ref="-98"/>
+  <nd ref="-91"/>
+  <nd ref="-92"/>
+  <nd ref="-93"/>
+  <nd ref="-94"/>
+  <nd ref="-84"/>
+  <nd ref="-96"/>
+  <nd ref="-97"/>
+  <nd ref="-98"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-55" visible="true">
+  <nd ref="-66"/>
+  <nd ref="-108"/>
+  <nd ref="-109"/>
+  <nd ref="-110"/>
+  <nd ref="-44"/>
+  <nd ref="-120"/>
+  <nd ref="-62"/>
+  <nd ref="-115"/>
+  <nd ref="-116"/>
+  <nd ref="-65"/>
+  <nd ref="-66"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-131" visible="true">
+  <nd ref="-132"/>
+  <nd ref="-133"/>
+  <nd ref="-134"/>
+  <nd ref="-135"/>
+  <nd ref="-136"/>
+  <nd ref="-137"/>
+  <nd ref="-138"/>
+  <nd ref="-139"/>
+  <nd ref="-140"/>
+  <nd ref="-141"/>
+  <nd ref="-142"/>
+  <nd ref="-143"/>
+  <nd ref="-144"/>
+  <nd ref="-145"/>
+  <nd ref="-132"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-20" visible="true">
+  <nd ref="-21"/>
+  <nd ref="-19"/>
+  <nd ref="-18"/>
+  <nd ref="-17"/>
+  <nd ref="-25"/>
+  <nd ref="-26"/>
+  <nd ref="-27"/>
+  <nd ref="-28"/>
+  <nd ref="-29"/>
+  <nd ref="-35"/>
+  <nd ref="-31"/>
+  <nd ref="-21"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-67" visible="true">
+  <nd ref="-75"/>
+  <nd ref="-69"/>
+  <nd ref="-70"/>
+  <nd ref="-71"/>
+  <nd ref="-116"/>
+  <nd ref="-115"/>
+  <nd ref="-74"/>
+  <nd ref="-75"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-83" visible="true">
+  <nd ref="-84"/>
+  <nd ref="-85"/>
+  <nd ref="-86"/>
+  <nd ref="-96"/>
+  <nd ref="-84"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels:underground" v="1"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</way>
+<way action="modify" id="-147" visible="true">
+  <nd ref="-148"/>
+  <nd ref="-149"/>
+  <nd ref="-150"/>
+  <nd ref="-151"/>
+  <nd ref="-148"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-33" visible="true">
+  <nd ref="-140"/>
+  <nd ref="-35"/>
+  <nd ref="-29"/>
+  <nd ref="-142"/>
+  <nd ref="-141"/>
+  <nd ref="-140"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:street" v="Calle del Tullo"/>
+</way>
+<way action="modify" id="-76" visible="true">
+  <nd ref="-77"/>
+  <nd ref="-78"/>
+  <nd ref="-79"/>
+  <nd ref="-80"/>
+  <nd ref="-81"/>
+  <nd ref="-77"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-105" visible="true">
+  <nd ref="-111"/>
+  <nd ref="-66"/>
+  <nd ref="-108"/>
+  <nd ref="-109"/>
+  <nd ref="-110"/>
+  <nd ref="-111"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-112" visible="true">
+  <nd ref="-120"/>
+  <nd ref="-62"/>
+  <nd ref="-115"/>
+  <nd ref="-116"/>
+  <nd ref="-111"/>
+  <nd ref="-118"/>
+  <nd ref="-44"/>
+  <nd ref="-120"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+</osm>

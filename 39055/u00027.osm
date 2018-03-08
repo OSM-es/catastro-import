@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00027"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-3" lat="43.1532898156" lon="-4.62472193076" visible="true"/>
+<node action="modify" id="-4" lat="43.1533188222" lon="-4.62472088227" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de San Cayetano"/>
+</node>
+<node action="modify" id="-7" lat="43.1532826452" lon="-4.62464351315" visible="true"/>
+<node action="modify" id="-6" lat="43.1533606417" lon="-4.62462934509" visible="true"/>
+<node action="modify" id="-5" lat="43.1533762998" lon="-4.62471880466" visible="true"/>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-7"/>
+  <nd ref="-3"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-6"/>
+  <nd ref="-7"/>
+  <tag k="building" v="industrial"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+</osm>

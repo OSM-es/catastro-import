@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00042"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-10" lat="43.1539042489" lon="-4.62269454471" visible="true"/>
+<node action="modify" id="-21" lat="43.1538336408" lon="-4.62246455207" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Doctor Encinas"/>
+</node>
+<node action="modify" id="-4" lat="43.1537498456" lon="-4.62271409839" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Doctor Encinas"/>
+</node>
+<node action="modify" id="-35" lat="43.154067464" lon="-4.62225953311" visible="true"/>
+<node action="modify" id="-43" lat="43.1541097449" lon="-4.62209731306" visible="true"/>
+<node action="modify" id="-33" lat="43.154039897" lon="-4.62234932531" visible="true"/>
+<node action="modify" id="-14" lat="43.1537830953" lon="-4.62261496116" visible="true"/>
+<node action="modify" id="-34" lat="43.154033839" lon="-4.62234473733" visible="true"/>
+<node action="modify" id="-6" lat="43.1537959511" lon="-4.62281319965" visible="true"/>
+<node action="modify" id="-38" lat="43.1539113441" lon="-4.62223808117" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Doctor Encinas"/>
+</node>
+<node action="modify" id="-45" lat="43.1539546005" lon="-4.62212525464" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Doctor Encinas"/>
+</node>
+<node action="modify" id="-18" lat="43.1539478752" lon="-4.62258353143" visible="true"/>
+<node action="modify" id="-7" lat="43.1538525162" lon="-4.62265972209" visible="true"/>
+<node action="modify" id="-42" lat="43.1540510691" lon="-4.62224729217" visible="true"/>
+<node action="modify" id="-26" lat="43.154030741" lon="-4.62237269736" visible="true"/>
+<node action="modify" id="-25" lat="43.1539887016" lon="-4.62247945439" visible="true"/>
+<node action="modify" id="-28" lat="43.1538716996" lon="-4.62235124639" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Doctor Encinas"/>
+</node>
+<node action="modify" id="-13" lat="43.1538033" lon="-4.62255485677" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Doctor Encinas"/>
+</node>
+<node action="modify" id="-31" lat="43.1538969463" lon="-4.62227617602" visible="true"/>
+<node action="modify" id="-5" lat="43.1537306352" lon="-4.62277137601" visible="true"/>
+<node action="modify" id="-24" lat="43.1538603761" lon="-4.62238491632" visible="true"/>
+<node action="modify" id="-44" lat="43.1539956624" lon="-4.62202037729" visible="true"/>
+<node action="modify" id="-17" lat="43.1538214526" lon="-4.62250085683" visible="true"/>
+<node action="modify" id="-41" lat="43.1539368949" lon="-4.62217047676" visible="true"/>
+<way action="modify" id="-8" visible="true">
+  <nd ref="-7"/>
+  <nd ref="-10"/>
+  <nd ref="-18"/>
+  <nd ref="-17"/>
+  <nd ref="-13"/>
+  <nd ref="-14"/>
+  <nd ref="-7"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-40" visible="true">
+  <nd ref="-41"/>
+  <nd ref="-42"/>
+  <nd ref="-43"/>
+  <nd ref="-44"/>
+  <nd ref="-45"/>
+  <nd ref="-41"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-23" visible="true">
+  <nd ref="-24"/>
+  <nd ref="-25"/>
+  <nd ref="-26"/>
+  <nd ref="-31"/>
+  <nd ref="-28"/>
+  <nd ref="-24"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-7"/>
+  <nd ref="-14"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-6"/>
+  <nd ref="-7"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-16" visible="true">
+  <nd ref="-17"/>
+  <nd ref="-18"/>
+  <nd ref="-25"/>
+  <nd ref="-24"/>
+  <nd ref="-21"/>
+  <nd ref="-17"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-30" visible="true">
+  <nd ref="-31"/>
+  <nd ref="-26"/>
+  <nd ref="-33"/>
+  <nd ref="-34"/>
+  <nd ref="-35"/>
+  <nd ref="-42"/>
+  <nd ref="-41"/>
+  <nd ref="-38"/>
+  <nd ref="-31"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+</osm>

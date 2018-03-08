@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00011"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-134" lat="43.1537514636" lon="-4.62559215852" visible="true"/>
+<node action="modify" id="-146" lat="43.1534651099" lon="-4.62599781958" visible="true"/>
+<node action="modify" id="-101" lat="43.1537086577" lon="-4.62654757052" visible="true"/>
+<node action="modify" id="-98" lat="43.1539485493" lon="-4.62655264904" visible="true"/>
+<node action="modify" id="-32" lat="43.1534696157" lon="-4.62595956616" visible="true"/>
+<node action="modify" id="-102" lat="43.1537062023" lon="-4.62670124358" visible="true"/>
+<node action="modify" id="-23" lat="43.153511168" lon="-4.62589966491" visible="true"/>
+<node action="modify" id="-113" lat="43.1536118875" lon="-4.62608632928" visible="true"/>
+<node action="modify" id="-16" lat="43.1535357982" lon="-4.62594065882" visible="true"/>
+<node action="modify" id="-100" lat="43.1538150833" lon="-4.62653078286" visible="true"/>
+<node action="modify" id="-66" lat="43.1534244081" lon="-4.62573893428" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</node>
+<node action="modify" id="-104" lat="43.1537760828" lon="-4.62668286555" visible="true"/>
+<node action="modify" id="-135" lat="43.1536842872" lon="-4.6255539662" visible="true"/>
+<node action="modify" id="-99" lat="43.1538143994" lon="-4.62657381149" visible="true"/>
+<node action="modify" id="-58" lat="43.1535118701" lon="-4.62572355545" visible="true"/>
+<node action="modify" id="-13" lat="43.15356126" lon="-4.62582178131" visible="true"/>
+<node action="modify" id="-107" lat="43.153879543" lon="-4.62681380992" visible="true"/>
+<node action="modify" id="-65" lat="43.1534370723" lon="-4.62568307639" visible="true"/>
+<node action="modify" id="-96" lat="43.1539794156" lon="-4.62676266345" visible="true"/>
+<node action="modify" id="-14" lat="43.1535524008" lon="-4.62586194835" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</node>
+<node action="modify" id="-161" lat="43.1536376334" lon="-4.62590852221" visible="true"/>
+<node action="modify" id="-15" lat="43.1535416253" lon="-4.62591080372" visible="true"/>
+<node action="modify" id="-25" lat="43.1534008112" lon="-4.62589022014" visible="true"/>
+<node action="modify" id="-70" lat="43.1539481263" lon="-4.6256170449" visible="true"/>
+<node action="modify" id="-109" lat="43.1538726341" lon="-4.62690831116" visible="true"/>
+<node action="modify" id="-133" lat="43.1537170917" lon="-4.6257043986" visible="true"/>
+<node action="modify" id="-30" lat="43.1534690705" lon="-4.62599792461" visible="true"/>
+<node action="modify" id="-73" lat="43.1538871864" lon="-4.62546980796" visible="true"/>
+<node action="modify" id="-123" lat="43.1540322" lon="-4.62553071409" visible="true"/>
+<node action="modify" id="-31" lat="43.1534740936" lon="-4.62597395176" visible="true"/>
+<node action="modify" id="-75" lat="43.1539295789" lon="-4.6257056048" visible="true"/>
+<node action="modify" id="-28" lat="43.1534046033" lon="-4.62599719897" visible="true"/>
+<node action="modify" id="-80" lat="43.1535184985" lon="-4.62601743791" visible="true"/>
+<node action="modify" id="-84" lat="43.1536170173" lon="-4.62584137008" visible="true"/>
+<node action="modify" id="-97" lat="43.1539452126" lon="-4.6267616453" visible="true"/>
+<node action="modify" id="-85" lat="43.1536512266" lon="-4.62586031988" visible="true"/>
+<node action="modify" id="-127" lat="43.1539872298" lon="-4.62572975758" visible="true"/>
+<node action="modify" id="-86" lat="43.1536781809" lon="-4.62576472689" visible="true"/>
+<node action="modify" id="-87" lat="43.1536437391" lon="-4.62574660731" visible="true"/>
+<node action="modify" id="-108" lat="43.1538741425" lon="-4.62681364819" visible="true"/>
+<node action="modify" id="-33" lat="43.1535053408" lon="-4.62592951999" visible="true"/>
+<node action="modify" id="-26" lat="43.1533968184" lon="-4.62593672745" visible="true"/>
+<node action="modify" id="-165" lat="43.1536515693" lon="-4.62570601284" visible="true"/>
+<node action="modify" id="-39" lat="43.1534079112" lon="-4.62584397507" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</node>
+<node action="modify" id="-46" lat="43.1534201643" lon="-4.625757652" visible="true"/>
+<node action="modify" id="-55" lat="43.1534611229" lon="-4.62562578572" visible="true"/>
+<node action="modify" id="-49" lat="43.1534127145" lon="-4.62580665046" visible="true"/>
+<node action="modify" id="-17" lat="43.1535290727" lon="-4.6259703671" visible="true"/>
+<node action="modify" id="-56" lat="43.1534450043" lon="-4.62566418181" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</node>
+<node action="modify" id="-142" lat="43.1535113954" lon="-4.6260103621" visible="true"/>
+<node action="modify" id="-54" lat="43.1535982432" lon="-4.62570321532" visible="true"/>
+<node action="modify" id="-132" lat="43.153708869" lon="-4.62569975292" visible="true"/>
+<node action="modify" id="-45" lat="43.1534965665" lon="-4.6257866126" visible="true"/>
+<node action="modify" id="-125" lat="43.1538422162" lon="-4.62566885103" visible="true"/>
+<node action="modify" id="-103" lat="43.1537759644" lon="-4.62669024185" visible="true"/>
+<node action="modify" id="-110" lat="43.1539770434" lon="-4.62691141974" visible="true"/>
+<node action="modify" id="-48" lat="43.1534140682" lon="-4.62579556131" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</node>
+<node action="modify" id="-35" lat="43.1534066409" lon="-4.6258538467" visible="true"/>
+<node action="modify" id="-10" lat="43.1535995826" lon="-4.62588774251" visible="true"/>
+<node action="modify" id="-106" lat="43.153881468" lon="-4.6266933299" visible="true"/>
+<node action="modify" id="-7" lat="43.1534112662" lon="-4.62610523786" visible="true"/>
+<node action="modify" id="-43" lat="43.1535208613" lon="-4.62585121168" visible="true"/>
+<node action="modify" id="-53" lat="43.1535937277" lon="-4.62572030195" visible="true"/>
+<node action="modify" id="-52" lat="43.153562043" lon="-4.62581737442" visible="true"/>
+<node action="modify" id="-4" lat="43.1534349393" lon="-4.62627055546" visible="true"/>
+<node action="modify" id="-105" lat="43.1538628342" lon="-4.62666917825" visible="true"/>
+<node action="modify" id="-115" lat="43.1536451515" lon="-4.62591268801" visible="true"/>
+<node action="modify" id="-9" lat="43.1535739119" lon="-4.62601497172" visible="true"/>
+<node action="modify" id="-90" lat="43.1538479461" lon="-4.6268900807" visible="true"/>
+<node action="modify" id="-51" lat="43.1535301595" lon="-4.62580521391" visible="true"/>
+<node action="modify" id="-114" lat="43.1536351367" lon="-4.62594575285" visible="true"/>
+<node action="modify" id="-151" lat="43.1534756248" lon="-4.62606894072" visible="true"/>
+<node action="modify" id="-120" lat="43.1535643226" lon="-4.62606243765" visible="true"/>
+<node action="modify" id="-149" lat="43.1533981976" lon="-4.62604241239" visible="true"/>
+<node action="modify" id="-12" lat="43.1536146181" lon="-4.62584988505" visible="true"/>
+<node action="modify" id="-136" lat="43.1536502753" lon="-4.62566622187" visible="true"/>
+<node action="modify" id="-89" lat="43.1538495553" lon="-4.62691210801" visible="true"/>
+<node action="modify" id="-5" lat="43.1535034605" lon="-4.62616315143" visible="true"/>
+<node action="modify" id="-47" lat="43.1534169947" lon="-4.62577158881" visible="true"/>
+<node action="modify" id="-128" lat="43.1540072314" lon="-4.62564025223" visible="true"/>
+<node action="modify" id="-11" lat="43.1536034287" lon="-4.62588956636" visible="true"/>
+<node action="modify" id="-164" lat="43.1536615402" lon="-4.62567286684" visible="true"/>
+<node action="modify" id="-91" lat="43.1537395503" lon="-4.62690484761" visible="true"/>
+<node action="modify" id="-92" lat="43.1537411595" lon="-4.62692687489" visible="true"/>
+<node action="modify" id="-3" lat="43.1534243214" lon="-4.62619640701" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</node>
+<node action="modify" id="-148" lat="43.153395138" lon="-4.62599793188" visible="true"/>
+<node action="modify" id="-166" lat="43.1536989696" lon="-4.62573261796" visible="true"/>
+<way action="modify" id="-21" visible="true">
+  <nd ref="-33"/>
+  <nd ref="-23"/>
+  <nd ref="-35"/>
+  <nd ref="-25"/>
+  <nd ref="-26"/>
+  <nd ref="-148"/>
+  <nd ref="-28"/>
+  <nd ref="-146"/>
+  <nd ref="-30"/>
+  <nd ref="-31"/>
+  <nd ref="-32"/>
+  <nd ref="-33"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle del Sol"/>
+</way>
+<way action="modify" id="-152" visible="true">
+  <nd ref="-85"/>
+  <nd ref="-86"/>
+  <nd ref="-87"/>
+  <nd ref="-53"/>
+  <nd ref="-52"/>
+  <nd ref="-13"/>
+  <nd ref="-12"/>
+  <nd ref="-11"/>
+  <nd ref="-161"/>
+  <nd ref="-85"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-76" visible="true">
+  <nd ref="-120"/>
+  <nd ref="-9"/>
+  <nd ref="-17"/>
+  <nd ref="-80"/>
+  <nd ref="-120"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-68" visible="true">
+  <nd ref="-75"/>
+  <nd ref="-70"/>
+  <nd ref="-128"/>
+  <nd ref="-123"/>
+  <nd ref="-73"/>
+  <nd ref="-125"/>
+  <nd ref="-75"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-137" visible="true">
+  <nd ref="-151"/>
+  <nd ref="-5"/>
+  <nd ref="-120"/>
+  <nd ref="-80"/>
+  <nd ref="-142"/>
+  <nd ref="-151"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-82" visible="true">
+  <nd ref="-87"/>
+  <nd ref="-84"/>
+  <nd ref="-85"/>
+  <nd ref="-86"/>
+  <nd ref="-87"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-163" visible="true">
+  <nd ref="-164"/>
+  <nd ref="-165"/>
+  <nd ref="-166"/>
+  <nd ref="-132"/>
+  <nd ref="-164"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-88" visible="true">
+  <nd ref="-89"/>
+  <nd ref="-90"/>
+  <nd ref="-91"/>
+  <nd ref="-92"/>
+  <nd ref="-89"/>
+  <tag k="building" v="public"/>
+</way>
+<way action="modify" id="-34" visible="true">
+  <nd ref="-35"/>
+  <nd ref="-23"/>
+  <nd ref="-43"/>
+  <nd ref="-49"/>
+  <nd ref="-39"/>
+  <nd ref="-35"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-94" visible="true">
+  <nd ref="-110"/>
+  <nd ref="-96"/>
+  <nd ref="-97"/>
+  <nd ref="-98"/>
+  <nd ref="-99"/>
+  <nd ref="-100"/>
+  <nd ref="-101"/>
+  <nd ref="-102"/>
+  <nd ref="-103"/>
+  <nd ref="-104"/>
+  <nd ref="-105"/>
+  <nd ref="-106"/>
+  <nd ref="-107"/>
+  <nd ref="-108"/>
+  <nd ref="-109"/>
+  <nd ref="-110"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-121" visible="true">
+  <nd ref="-128"/>
+  <nd ref="-123"/>
+  <nd ref="-73"/>
+  <nd ref="-125"/>
+  <nd ref="-75"/>
+  <nd ref="-127"/>
+  <nd ref="-128"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-111" visible="true">
+  <nd ref="-120"/>
+  <nd ref="-113"/>
+  <nd ref="-114"/>
+  <nd ref="-115"/>
+  <nd ref="-161"/>
+  <nd ref="-11"/>
+  <nd ref="-10"/>
+  <nd ref="-9"/>
+  <nd ref="-120"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-144" visible="true">
+  <nd ref="-151"/>
+  <nd ref="-146"/>
+  <nd ref="-28"/>
+  <nd ref="-148"/>
+  <nd ref="-149"/>
+  <nd ref="-7"/>
+  <nd ref="-151"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-8" visible="true">
+  <nd ref="-9"/>
+  <nd ref="-10"/>
+  <nd ref="-11"/>
+  <nd ref="-12"/>
+  <nd ref="-13"/>
+  <nd ref="-14"/>
+  <nd ref="-15"/>
+  <nd ref="-16"/>
+  <nd ref="-17"/>
+  <nd ref="-80"/>
+  <nd ref="-120"/>
+  <nd ref="-9"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="disused:building" v="industrial"/>
+</way>
+<way action="modify" id="-50" visible="true">
+  <nd ref="-51"/>
+  <nd ref="-52"/>
+  <nd ref="-53"/>
+  <nd ref="-54"/>
+  <nd ref="-55"/>
+  <nd ref="-56"/>
+  <nd ref="-65"/>
+  <nd ref="-58"/>
+  <nd ref="-45"/>
+  <nd ref="-51"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-41" visible="true">
+  <nd ref="-49"/>
+  <nd ref="-43"/>
+  <nd ref="-51"/>
+  <nd ref="-45"/>
+  <nd ref="-46"/>
+  <nd ref="-47"/>
+  <nd ref="-48"/>
+  <nd ref="-49"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-129" visible="true">
+  <nd ref="-136"/>
+  <nd ref="-164"/>
+  <nd ref="-132"/>
+  <nd ref="-133"/>
+  <nd ref="-134"/>
+  <nd ref="-135"/>
+  <nd ref="-136"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-7"/>
+  <nd ref="-3"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-151"/>
+  <nd ref="-7"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-61" visible="true">
+  <nd ref="-46"/>
+  <nd ref="-45"/>
+  <nd ref="-58"/>
+  <nd ref="-65"/>
+  <nd ref="-66"/>
+  <nd ref="-46"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+</osm>

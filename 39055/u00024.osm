@@ -1,0 +1,1722 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00024"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-248" lat="43.1528366809" lon="-4.6231812405" visible="true"/>
+<node action="modify" id="-148" lat="43.1530376935" lon="-4.62443581254" visible="true"/>
+<node action="modify" id="-234" lat="43.1528338552" lon="-4.62332721862" visible="true"/>
+<node action="modify" id="-149" lat="43.1530218654" lon="-4.62433896968" visible="true"/>
+<node action="modify" id="-247" lat="43.1528294397" lon="-4.62317633219" visible="true"/>
+<node action="modify" id="-152" lat="43.1528943274" lon="-4.62431591286" visible="true"/>
+<node action="modify" id="-161" lat="43.1528670109" lon="-4.62356309987" visible="true"/>
+<node action="modify" id="-150" lat="43.15293494" lon="-4.62434748998" visible="true"/>
+<node action="modify" id="-203" lat="43.1528684759" lon="-4.62344008274" visible="true"/>
+<node action="modify" id="-241" lat="43.1528957923" lon="-4.62319616804" visible="true"/>
+<node action="modify" id="-197" lat="43.1527600267" lon="-4.62342386655" visible="true"/>
+<node action="modify" id="-737" lat="43.1524899647" lon="-4.62362817001" visible="true"/>
+<node action="modify" id="-242" lat="43.1529089715" lon="-4.62315580757" visible="true"/>
+<node action="modify" id="-430" lat="43.1529447189" lon="-4.62384157095" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</node>
+<node action="modify" id="-159" lat="43.1528535969" lon="-4.62365041235" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</node>
+<node action="modify" id="-56" lat="43.1530777566" lon="-4.62397307506" visible="true"/>
+<node action="modify" id="-160" lat="43.1528563434" lon="-4.62361680953" visible="true"/>
+<node action="modify" id="-467" lat="43.1525567683" lon="-4.62352708995" visible="true"/>
+<node action="modify" id="-471" lat="43.1525321662" lon="-4.62349040301" visible="true"/>
+<node action="modify" id="-198" lat="43.152751967" lon="-4.62343976468" visible="true"/>
+<node action="modify" id="-444" lat="43.1529046601" lon="-4.62389548798" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</node>
+<node action="modify" id="-452" lat="43.152776009" lon="-4.62387148894" visible="true"/>
+<node action="modify" id="-368" lat="43.1526940191" lon="-4.6226689248" visible="true"/>
+<node action="modify" id="-627" lat="43.1525752525" lon="-4.623182714" visible="true"/>
+<node action="modify" id="-225" lat="43.152733988" lon="-4.62315352828" visible="true"/>
+<node action="modify" id="-485" lat="43.1525177381" lon="-4.62356799551" visible="true"/>
+<node action="modify" id="-362" lat="43.1525156514" lon="-4.62290895568" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</node>
+<node action="modify" id="-520" lat="43.152545916" lon="-4.62380348927" visible="true"/>
+<node action="modify" id="-43" lat="43.1529976109" lon="-4.62422074338" visible="true"/>
+<node action="modify" id="-32" lat="43.1530757421" lon="-4.62419772318" visible="true"/>
+<node action="modify" id="-299" lat="43.1526938567" lon="-4.62316273181" visible="true"/>
+<node action="modify" id="-664" lat="43.1529997225" lon="-4.62370191421" visible="true"/>
+<node action="modify" id="-312" lat="43.1526753636" lon="-4.62313933382" visible="true"/>
+<node action="modify" id="-535" lat="43.1524371999" lon="-4.6237774086" visible="true"/>
+<node action="modify" id="-46" lat="43.1529460138" lon="-4.62432859705" visible="true"/>
+<node action="modify" id="-367" lat="43.1527361883" lon="-4.62271776033" visible="true"/>
+<node action="modify" id="-4" lat="43.1532763778" lon="-4.62412038869" visible="true"/>
+<node action="modify" id="-705" lat="43.152753874" lon="-4.62372095495" visible="true"/>
+<node action="modify" id="-47" lat="43.1530025795" lon="-4.62430205398" visible="true"/>
+<node action="modify" id="-370" lat="43.1525672135" lon="-4.62287317949" visible="true"/>
+<node action="modify" id="-307" lat="43.1526518791" lon="-4.62324683316" visible="true"/>
+<node action="modify" id="-448" lat="43.1529232207" lon="-4.62403133762" visible="true"/>
+<node action="modify" id="-42" lat="43.1530489929" lon="-4.62415372241" visible="true"/>
+<node action="modify" id="-815" lat="43.1527158223" lon="-4.62388258128" visible="true"/>
+<node action="modify" id="-817" lat="43.152659736" lon="-4.62379068096" visible="true"/>
+<node action="modify" id="-537" lat="43.152474053" lon="-4.62386609348" visible="true"/>
+<node action="modify" id="-298" lat="43.1527156412" lon="-4.62319029218" visible="true"/>
+<node action="modify" id="-543" lat="43.1524637579" lon="-4.62365188307" visible="true"/>
+<node action="modify" id="-81" lat="43.1528005402" lon="-4.62428132834" visible="true"/>
+<node action="modify" id="-706" lat="43.1527782989" lon="-4.62369780343" visible="true"/>
+<node action="modify" id="-674" lat="43.153005126" lon="-4.62389850175" visible="true"/>
+<node action="modify" id="-237" lat="43.1529644938" lon="-4.62326660786" visible="true"/>
+<node action="modify" id="-288" lat="43.1526795686" lon="-4.62313090788" visible="true"/>
+<node action="modify" id="-486" lat="43.1525452471" lon="-4.62353945269" visible="true"/>
+<node action="modify" id="-509" lat="43.1526112629" lon="-4.62394934985" visible="true"/>
+<node action="modify" id="-54" lat="43.1530377893" lon="-4.62406696422" visible="true"/>
+<node action="modify" id="-513" lat="43.1525461717" lon="-4.62403910199" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-608" lat="43.1529054413" lon="-4.62287278414" visible="true"/>
+<node action="modify" id="-66" lat="43.1529404061" lon="-4.62410731426" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-440" lat="43.1529694915" lon="-4.62399419055" visible="true"/>
+<node action="modify" id="-423" lat="43.1529656958" lon="-4.62380455768" visible="true"/>
+<node action="modify" id="-37" lat="43.153030363" lon="-4.62431596377" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-818" lat="43.1526169192" lon="-4.62383825051" visible="true"/>
+<node action="modify" id="-660" lat="43.1529982893" lon="-4.62372136389" visible="true"/>
+<node action="modify" id="-805" lat="43.152831106" lon="-4.62394870919" visible="true"/>
+<node action="modify" id="-704" lat="43.1528039729" lon="-4.62381312725" visible="true"/>
+<node action="modify" id="-55" lat="43.1530898526" lon="-4.62398999899" visible="true"/>
+<node action="modify" id="-204" lat="43.1528569516" lon="-4.62338343519" visible="true"/>
+<node action="modify" id="-738" lat="43.152498091" lon="-4.62362026796" visible="true"/>
+<node action="modify" id="-354" lat="43.1525008194" lon="-4.6229324244" visible="true"/>
+<node action="modify" id="-60" lat="43.1529965007" lon="-4.62396883219" visible="true"/>
+<node action="modify" id="-512" lat="43.1525095249" lon="-4.62395121212" visible="true"/>
+<node action="modify" id="-515" lat="43.1526000845" lon="-4.62401493866" visible="true"/>
+<node action="modify" id="-356" lat="43.1526182656" lon="-4.62306418492" visible="true"/>
+<node action="modify" id="-51" lat="43.1529326847" lon="-4.62425900113" visible="true"/>
+<node action="modify" id="-843" lat="43.1524682291" lon="-4.62364804739" visible="true"/>
+<node action="modify" id="-57" lat="43.1530665921" lon="-4.62387118407" visible="true"/>
+<node action="modify" id="-124" lat="43.1527017245" lon="-4.62425177625" visible="true"/>
+<node action="modify" id="-65" lat="43.1529617169" lon="-4.62416124978" visible="true"/>
+<node action="modify" id="-361" lat="43.1525457711" lon="-4.62286129707" visible="true"/>
+<node action="modify" id="-130" lat="43.1527374282" lon="-4.62436907598" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-132" lat="43.152786109" lon="-4.62430837254" visible="true"/>
+<node action="modify" id="-605" lat="43.1529575101" lon="-4.62295595612" visible="true"/>
+<node action="modify" id="-463" lat="43.1525507968" lon="-4.62353353631" visible="true"/>
+<node action="modify" id="-278" lat="43.1528037869" lon="-4.62296713181" visible="true"/>
+<node action="modify" id="-277" lat="43.1528526463" lon="-4.62282366714" visible="true"/>
+<node action="modify" id="-268" lat="43.1529191439" lon="-4.62304939004" visible="true"/>
+<node action="modify" id="-400" lat="43.1530064882" lon="-4.62313803943" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</node>
+<node action="modify" id="-497" lat="43.1526451467" lon="-4.62403184392" visible="true"/>
+<node action="modify" id="-223" lat="43.1527357476" lon="-4.62323794814" visible="true"/>
+<node action="modify" id="-432" lat="43.1529166891" lon="-4.6238812472" visible="true"/>
+<node action="modify" id="-270" lat="43.1528575375" lon="-4.62300569714" visible="true"/>
+<node action="modify" id="-456" lat="43.1528813574" lon="-4.62387258675" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</node>
+<node action="modify" id="-282" lat="43.1529012732" lon="-4.62286890421" visible="true"/>
+<node action="modify" id="-118" lat="43.1526679365" lon="-4.6243280688" visible="true"/>
+<node action="modify" id="-743" lat="43.1526451483" lon="-4.62410497904" visible="true"/>
+<node action="modify" id="-612" lat="43.1528947084" lon="-4.62303204134" visible="true"/>
+<node action="modify" id="-335" lat="43.1525767511" lon="-4.62308313314" visible="true"/>
+<node action="modify" id="-739" lat="43.1524604513" lon="-4.62354384888" visible="true"/>
+<node action="modify" id="-230" lat="43.152708757" lon="-4.62329186392" visible="true"/>
+<node action="modify" id="-340" lat="43.1525237233" lon="-4.62320336483" visible="true"/>
+<node action="modify" id="-629" lat="43.152643191" lon="-4.62323604461" visible="true"/>
+<node action="modify" id="-147" lat="43.1529406097" lon="-4.62445778198" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-286" lat="43.1526960638" lon="-4.62305160244" visible="true"/>
+<node action="modify" id="-490" lat="43.1524742509" lon="-4.62341439573" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</node>
+<node action="modify" id="-357" lat="43.1526321121" lon="-4.62307832614" visible="true"/>
+<node action="modify" id="-350" lat="43.1524932277" lon="-4.62295977281" visible="true"/>
+<node action="modify" id="-267" lat="43.1528829578" lon="-4.62313735935" visible="true"/>
+<node action="modify" id="-355" lat="43.1526072425" lon="-4.62307951267" visible="true"/>
+<node action="modify" id="-351" lat="43.1524557687" lon="-4.62300285775" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</node>
+<node action="modify" id="-338" lat="43.1524879766" lon="-4.62315248536" visible="true"/>
+<node action="modify" id="-11" lat="43.1532135426" lon="-4.62408748498" visible="true"/>
+<node action="modify" id="-789" lat="43.1524237686" lon="-4.62341300229" visible="true"/>
+<node action="modify" id="-366" lat="43.1527299279" lon="-4.62272743989" visible="true"/>
+<node action="modify" id="-233" lat="43.1527882303" lon="-4.62328698149" visible="true"/>
+<node action="modify" id="-431" lat="43.1529335592" lon="-4.6238612655" visible="true"/>
+<node action="modify" id="-703" lat="43.1528517667" lon="-4.62379777714" visible="true"/>
+<node action="modify" id="-196" lat="43.1527354766" lon="-4.62339584483" visible="true"/>
+<node action="modify" id="-337" lat="43.1525227304" lon="-4.62310199627" visible="true"/>
+<node action="modify" id="-276" lat="43.1528802482" lon="-4.62284934493" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</node>
+<node action="modify" id="-182" lat="43.152762537" lon="-4.62355184739" visible="true"/>
+<node action="modify" id="-329" lat="43.1526042378" lon="-4.62330474413" visible="true"/>
+<node action="modify" id="-461" lat="43.1527477716" lon="-4.62388156412" visible="true"/>
+<node action="modify" id="-759" lat="43.1525820509" lon="-4.62388377365" visible="true"/>
+<node action="modify" id="-285" lat="43.1527355244" lon="-4.6229676618" visible="true"/>
+<node action="modify" id="-264" lat="43.1528229632" lon="-4.62317045406" visible="true"/>
+<node action="modify" id="-266" lat="43.1528784837" lon="-4.62314806394" visible="true"/>
+<node action="modify" id="-151" lat="43.1529372819" lon="-4.62433476116" visible="true"/>
+<node action="modify" id="-681" lat="43.1527476575" lon="-4.62401550189" visible="true"/>
+<node action="modify" id="-71" lat="43.1528833784" lon="-4.62427528245" visible="true"/>
+<node action="modify" id="-235" lat="43.152859145" lon="-4.62328068378" visible="true"/>
+<node action="modify" id="-12" lat="43.1531994391" lon="-4.62407933559" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</node>
+<node action="modify" id="-386" lat="43.1529013408" lon="-4.62320008576" visible="true"/>
+<node action="modify" id="-488" lat="43.1525185005" lon="-4.62343814017" visible="true"/>
+<node action="modify" id="-807" lat="43.1528936279" lon="-4.6239085488" visible="true"/>
+<node action="modify" id="-388" lat="43.1529664629" lon="-4.62326079034" visible="true"/>
+<node action="modify" id="-67" lat="43.1529269478" lon="-4.6240732526" visible="true"/>
+<node action="modify" id="-790" lat="43.1524215148" lon="-4.62341318859" visible="true"/>
+<node action="modify" id="-514" lat="43.1525509668" lon="-4.62405060189" visible="true"/>
+<node action="modify" id="-708" lat="43.1528861408" lon="-4.62375565976" visible="true"/>
+<node action="modify" id="-633" lat="43.1526044398" lon="-4.6231237475" visible="true"/>
+<node action="modify" id="-199" lat="43.1527703692" lon="-4.62345649255" visible="true"/>
+<node action="modify" id="-422" lat="43.1529817957" lon="-4.62376144589" visible="true"/>
+<node action="modify" id="-271" lat="43.1528294349" lon="-4.62307577025" visible="true"/>
+<node action="modify" id="-424" lat="43.1529531857" lon="-4.62382662884" visible="true"/>
+<node action="modify" id="-74" lat="43.1528863959" lon="-4.6241135028" visible="true"/>
+<node action="modify" id="-129" lat="43.1526920633" lon="-4.62434240886" visible="true"/>
+<node action="modify" id="-378" lat="43.1527867465" lon="-4.62313842224" visible="true"/>
+<node action="modify" id="-379" lat="43.1528174005" lon="-4.62306623369" visible="true"/>
+<node action="modify" id="-390" lat="43.1529959528" lon="-4.62317218436" visible="true"/>
+<node action="modify" id="-212" lat="43.1526986031" lon="-4.62330645336" visible="true"/>
+<node action="modify" id="-339" lat="43.1525160588" lon="-4.62319245577" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</node>
+<node action="modify" id="-505" lat="43.1526555306" lon="-4.62412812989" visible="true"/>
+<node action="modify" id="-215" lat="43.1527043059" lon="-4.62342845402" visible="true"/>
+<node action="modify" id="-797" lat="43.1527281655" lon="-4.62400863328" visible="true"/>
+<node action="modify" id="-224" lat="43.1527643542" lon="-4.62318212141" visible="true"/>
+<node action="modify" id="-265" lat="43.1528441409" lon="-4.62311849844" visible="true"/>
+<node action="modify" id="-239" lat="43.1528954985" lon="-4.62321811071" visible="true"/>
+<node action="modify" id="-466" lat="43.1526017529" lon="-4.62348602837" visible="true"/>
+<node action="modify" id="-396" lat="43.1529596983" lon="-4.62301528863" visible="true"/>
+<node action="modify" id="-5" lat="43.1532556403" lon="-4.62410952947" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</node>
+<node action="modify" id="-721" lat="43.1526999089" lon="-4.62370100385" visible="true"/>
+<node action="modify" id="-27" lat="43.1531200136" lon="-4.62437748262" visible="true"/>
+<node action="modify" id="-126" lat="43.1526667516" lon="-4.62431078173" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-397" lat="43.1529564068" lon="-4.62302581116" visible="true"/>
+<node action="modify" id="-408" lat="43.1529824652" lon="-4.6237526576" visible="true"/>
+<node action="modify" id="-28" lat="43.1531400183" lon="-4.62435961791" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-228" lat="43.152673555" lon="-4.62327462618" visible="true"/>
+<node action="modify" id="-222" lat="43.1527791913" lon="-4.62327900128" visible="true"/>
+<node action="modify" id="-24" lat="43.1532463698" lon="-4.62422979258" visible="true"/>
+<node action="modify" id="-491" lat="43.1524672997" lon="-4.62341661454" visible="true"/>
+<node action="modify" id="-236" lat="43.152933228" lon="-4.62333006037" visible="true"/>
+<node action="modify" id="-213" lat="43.1526640304" lon="-4.62335612633" visible="true"/>
+<node action="modify" id="-13" lat="43.1531660279" lon="-4.6240600297" visible="true"/>
+<node action="modify" id="-217" lat="43.1527802217" lon="-4.62334903558" visible="true"/>
+<node action="modify" id="-761" lat="43.1525429839" lon="-4.62380610507" visible="true"/>
+<node action="modify" id="-210" lat="43.1527270859" lon="-4.62326552964" visible="true"/>
+<node action="modify" id="-493" lat="43.1524880023" lon="-4.62348062453" visible="true"/>
+<node action="modify" id="-744" lat="43.1526148422" lon="-4.62403117043" visible="true"/>
+<node action="modify" id="-383" lat="43.1528105615" lon="-4.6229719847" visible="true"/>
+<node action="modify" id="-525" lat="43.1524980455" lon="-4.62392366622" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-214" lat="43.1526961723" lon="-4.62341384744" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</node>
+<node action="modify" id="-404" lat="43.1530022975" lon="-4.62366704732" visible="true"/>
+<node action="modify" id="-23" lat="43.1532593475" lon="-4.62424169738" visible="true"/>
+<node action="modify" id="-26" lat="43.1531011366" lon="-4.62433713399" visible="true"/>
+<node action="modify" id="-218" lat="43.1527601174" lon="-4.62333407061" visible="true"/>
+<node action="modify" id="-29" lat="43.1531842157" lon="-4.62432014847" visible="true"/>
+<node action="modify" id="-401" lat="43.1530269952" lon="-4.62307157691" visible="true"/>
+<node action="modify" id="-447" lat="43.1529050507" lon="-4.62404266332" visible="true"/>
+<node action="modify" id="-114" lat="43.1526640614" lon="-4.62427153289" visible="true"/>
+<node action="modify" id="-120" lat="43.1527026946" lon="-4.62430394909" visible="true"/>
+<node action="modify" id="-518" lat="43.1525553157" lon="-4.62390854879" visible="true"/>
+<node action="modify" id="-598" lat="43.1527674939" lon="-4.62330371428" visible="true"/>
+<node action="modify" id="-146" lat="43.1529228714" lon="-4.62446179602" visible="true"/>
+<node action="modify" id="-194" lat="43.1528260027" lon="-4.62337506491" visible="true"/>
+<node action="modify" id="-808" lat="43.152885265" lon="-4.62388237666" visible="true"/>
+<node action="modify" id="-170" lat="43.1528799956" lon="-4.62349838255" visible="true"/>
+<node action="modify" id="-173" lat="43.1528059065" lon="-4.62349039444" visible="true"/>
+<node action="modify" id="-532" lat="43.1525021566" lon="-4.62371954712" visible="true"/>
+<node action="modify" id="-82" lat="43.1528240319" lon="-4.62427961381" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-174" lat="43.1527857319" lon="-4.62347165795" visible="true"/>
+<node action="modify" id="-694" lat="43.1528582224" lon="-4.62381462539" visible="true"/>
+<node action="modify" id="-93" lat="43.1527791452" lon="-4.62414784154" visible="true"/>
+<node action="modify" id="-145" lat="43.1528692604" lon="-4.62443245724" visible="true"/>
+<node action="modify" id="-104" lat="43.1527415207" lon="-4.62422036142" visible="true"/>
+<node action="modify" id="-58" lat="43.1530478458" lon="-4.62389741317" visible="true"/>
+<node action="modify" id="-76" lat="43.1528578373" lon="-4.62414619934" visible="true"/>
+<node action="modify" id="-382" lat="43.1528478739" lon="-4.6229988307" visible="true"/>
+<node action="modify" id="-762" lat="43.152520511" lon="-4.62382558777" visible="true"/>
+<node action="modify" id="-75" lat="43.1528676626" lon="-4.62413495037" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-745" lat="43.1525628924" lon="-4.624071918" visible="true"/>
+<node action="modify" id="-791" lat="43.152435128" lon="-4.6235008705" visible="true"/>
+<node action="modify" id="-413" lat="43.153027303" lon="-4.62367214323" visible="true"/>
+<node action="modify" id="-794" lat="43.1528283324" lon="-4.62395126154" visible="true"/>
+<node action="modify" id="-616" lat="43.152633346" lon="-4.62322353495" visible="true"/>
+<node action="modify" id="-834" lat="43.1527984248" lon="-4.62383383307" visible="true"/>
+<node action="modify" id="-793" lat="43.1528318982" lon="-4.6239753634" visible="true"/>
+<node action="modify" id="-105" lat="43.1527446355" lon="-4.6242292991" visible="true"/>
+<node action="modify" id="-798" lat="43.1527417405" lon="-4.62409517095" visible="true"/>
+<node action="modify" id="-606" lat="43.1529144196" lon="-4.62292541508" visible="true"/>
+<node action="modify" id="-158" lat="43.1528515488" lon="-4.62367547125" visible="true"/>
+<node action="modify" id="-801" lat="43.1528442706" lon="-4.62406225063" visible="true"/>
+<node action="modify" id="-100" lat="43.1527752006" lon="-4.62428384002" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-508" lat="43.152582484" lon="-4.62397314843" visible="true"/>
+<node action="modify" id="-188" lat="43.1526367398" lon="-4.62350128901" visible="true"/>
+<node action="modify" id="-175" lat="43.1527659279" lon="-4.6235222969" visible="true"/>
+<node action="modify" id="-556" lat="43.152372324" lon="-4.6234171048" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</node>
+<node action="modify" id="-141" lat="43.1528838047" lon="-4.62431501916" visible="true"/>
+<node action="modify" id="-193" lat="43.1528301241" lon="-4.62336897355" visible="true"/>
+<node action="modify" id="-809" lat="43.1528257641" lon="-4.6239190504" visible="true"/>
+<node action="modify" id="-692" lat="43.1527273434" lon="-4.6237030832" visible="true"/>
+<node action="modify" id="-725" lat="43.1527222068" lon="-4.6236526141" visible="true"/>
+<node action="modify" id="-812" lat="43.1526277374" lon="-4.62386590192" visible="true"/>
+<node action="modify" id="-133" lat="43.1527319363" lon="-4.62430558463" visible="true"/>
+<node action="modify" id="-446" lat="43.1528674391" lon="-4.62392654953" visible="true"/>
+<node action="modify" id="-407" lat="43.1529849571" lon="-4.62371952267" visible="true"/>
+<node action="modify" id="-91" lat="43.152845109" lon="-4.62410404599" visible="true"/>
+<node action="modify" id="-800" lat="43.1527612325" lon="-4.6241020396" visible="true"/>
+<node action="modify" id="-103" lat="43.1527515627" lon="-4.62421706074" visible="true"/>
+<node action="modify" id="-112" lat="43.1526066609" lon="-4.62423732822" visible="true"/>
+<node action="modify" id="-726" lat="43.1527211608" lon="-4.62365144875" visible="true"/>
+<node action="modify" id="-190" lat="43.152738994" lon="-4.62351666422" visible="true"/>
+<node action="modify" id="-816" lat="43.1527121756" lon="-4.62387717775" visible="true"/>
+<node action="modify" id="-14" lat="43.1531349003" lon="-4.62410876998" visible="true"/>
+<node action="modify" id="-139" lat="43.1528479729" lon="-4.62442476532" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-568" lat="43.1531934348" lon="-4.6243367503" visible="true"/>
+<node action="modify" id="-116" lat="43.1526651794" lon="-4.62419374154" visible="true"/>
+<node action="modify" id="-746" lat="43.1525608792" lon="-4.62407386324" visible="true"/>
+<node action="modify" id="-90" lat="43.1528502561" lon="-4.62412109944" visible="true"/>
+<node action="modify" id="-836" lat="43.152905829" lon="-4.62375632257" visible="true"/>
+<node action="modify" id="-171" lat="43.1528514275" lon="-4.6234936905" visible="true"/>
+<node action="modify" id="-181" lat="43.1527919797" lon="-4.62355803848" visible="true"/>
+<node action="modify" id="-410" lat="43.1530161666" lon="-4.62376174114" visible="true"/>
+<node action="modify" id="-94" lat="43.1527890215" lon="-4.6241872812" visible="true"/>
+<node action="modify" id="-164" lat="43.1527795848" lon="-4.62365130469" visible="true"/>
+<node action="modify" id="-80" lat="43.1527891834" lon="-4.62420600437" visible="true"/>
+<node action="modify" id="-77" lat="43.1528615471" lon="-4.62416523174" visible="true"/>
+<node action="modify" id="-582" lat="43.1527748162" lon="-4.62413055765" visible="true"/>
+<node action="modify" id="-138" lat="43.1528068187" lon="-4.62440989493" visible="true"/>
+<node action="modify" id="-172" lat="43.1528473351" lon="-4.62349339398" visible="true"/>
+<node action="modify" id="-191" lat="43.1526684655" lon="-4.62344211062" visible="true"/>
+<node action="modify" id="-837" lat="43.1528449432" lon="-4.6236745707" visible="true"/>
+<node action="modify" id="-137" lat="43.1527742244" lon="-4.62439070613" visible="true"/>
+<node action="modify" id="-108" lat="43.1527594168" lon="-4.62428540451" visible="true"/>
+<node action="modify" id="-476" lat="43.1525822468" lon="-4.62344175882" visible="true"/>
+<node action="modify" id="-825" lat="43.1526781975" lon="-4.62361989605" visible="true"/>
+<node action="modify" id="-38" lat="43.1530515763" lon="-4.62437763744" visible="true"/>
+<node action="modify" id="-557" lat="43.1523635497" lon="-4.62341780335" visible="true"/>
+<node action="modify" id="-659" lat="43.1529957143" lon="-4.62375623077" visible="true"/>
+<node action="modify" id="-48" lat="43.1529898192" lon="-4.62425808448" visible="true">
+  <tag k="addr:housenumber" v="3A"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle del Llano"/>
+</node>
+<node action="modify" id="-389" lat="43.1529928916" lon="-4.62317989776" visible="true"/>
+<node action="modify" id="-713" lat="43.1526875638" lon="-4.6237269965" visible="true"/>
+<node action="modify" id="-369" lat="43.1526256869" lon="-4.62277899255" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</node>
+<node action="modify" id="-611" lat="43.1529255672" lon="-4.62295842521" visible="true"/>
+<node action="modify" id="-489" lat="43.1525099948" lon="-4.62340298633" visible="true"/>
+<node action="modify" id="-671" lat="43.1529819007" lon="-4.62398271225" visible="true"/>
+<node action="modify" id="-838" lat="43.1527777639" lon="-4.62366540018" visible="true"/>
+<node action="modify" id="-459" lat="43.1527536471" lon="-4.62384826681" visible="true"/>
+<node action="modify" id="-666" lat="43.1529889417" lon="-4.62366432613" visible="true"/>
+<node action="modify" id="-441" lat="43.1529806826" lon="-4.62398384224" visible="true"/>
+<node action="modify" id="-538" lat="43.1524891995" lon="-4.62385271993" visible="true"/>
+<node action="modify" id="-506" lat="43.1526455535" lon="-4.62410466385" visible="true"/>
+<node action="modify" id="-699" lat="43.1527406513" lon="-4.62370441951" visible="true"/>
+<node action="modify" id="-607" lat="43.1529262355" lon="-4.62289830742" visible="true"/>
+<node action="modify" id="-707" lat="43.1528355218" lon="-4.6236877516" visible="true"/>
+<node action="modify" id="-799" lat="43.1527593456" lon="-4.62409001667" visible="true"/>
+<node action="modify" id="-73" lat="43.1529212138" lon="-4.62419805755" visible="true"/>
+<node action="modify" id="-504" lat="43.1526007838" lon="-4.62417021768" visible="true"/>
+<node action="modify" id="-736" lat="43.1524517287" lon="-4.62355157525" visible="true"/>
+<node action="modify" id="-628" lat="43.1526345694" lon="-4.62325125019" visible="true"/>
+<node action="modify" id="-106" lat="43.1527179624" lon="-4.6242433512" visible="true"/>
+<node action="modify" id="-635" lat="43.15254624" lon="-4.62312684726" visible="true"/>
+<node action="modify" id="-573" lat="43.1530940613" lon="-4.62417557839" visible="true"/>
+<node action="modify" id="-111" lat="43.1526201338" lon="-4.62422729317" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-376" lat="43.15279341" lon="-4.62302576876" visible="true"/>
+<node action="modify" id="-839" lat="43.1527385447" lon="-4.6236564904" visible="true"/>
+<node action="modify" id="-663" lat="43.1529863632" lon="-4.62370007843" visible="true"/>
+<node action="modify" id="-460" lat="43.1527388222" lon="-4.6238523018" visible="true"/>
+<node action="modify" id="-478" lat="43.1525657735" lon="-4.62340681831" visible="true"/>
+<node action="modify" id="-651" lat="43.1530370987" lon="-4.62376738721" visible="true"/>
+<node action="modify" id="-85" lat="43.1527933931" lon="-4.62420473226" visible="true"/>
+<node action="modify" id="-496" lat="43.152669243" lon="-4.6240851212" visible="true"/>
+<node action="modify" id="-811" lat="43.1526127653" lon="-4.62384352124" visible="true"/>
+<node action="modify" id="-323" lat="43.1526494188" lon="-4.62319132606" visible="true"/>
+<node action="modify" id="-654" lat="43.1530228495" lon="-4.62367123817" visible="true"/>
+<node action="modify" id="-324" lat="43.1525985934" lon="-4.62313334387" visible="true"/>
+<node action="modify" id="-588" lat="43.1527281267" lon="-4.62428851128" visible="true"/>
+<node action="modify" id="-547" lat="43.1524522947" lon="-4.62376386763" visible="true"/>
+<node action="modify" id="-10" lat="43.1531779986" lon="-4.62415554065" visible="true"/>
+<node action="modify" id="-328" lat="43.1525778453" lon="-4.6232733959" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</node>
+<node action="modify" id="-783" lat="43.1523251161" lon="-4.62344839367" visible="true"/>
+<node action="modify" id="-325" lat="43.1525804446" lon="-4.62316313334" visible="true"/>
+<node action="modify" id="-544" lat="43.1524115071" lon="-4.62369259214" visible="true"/>
+<node action="modify" id="-751" lat="43.1526388134" lon="-4.6240123916" visible="true"/>
+<node action="modify" id="-533" lat="43.1524830014" lon="-4.62373652264" visible="true"/>
+<node action="modify" id="-391" lat="43.1529240426" lon="-4.62312933957" visible="true"/>
+<node action="modify" id="-715" lat="43.1527064476" lon="-4.62364064203" visible="true"/>
+<node action="modify" id="-784" lat="43.1523686063" lon="-4.62361348797" visible="true"/>
+<node action="modify" id="-610" lat="43.1528782321" lon="-4.62292495538" visible="true"/>
+<node action="modify" id="-597" lat="43.1527738825" lon="-4.6233097512" visible="true"/>
+<node action="modify" id="-113" lat="43.1526247315" lon="-4.62429007696" visible="true"/>
+<node action="modify" id="-553" lat="43.1524630708" lon="-4.6234163796" visible="true"/>
+<node action="modify" id="-289" lat="43.1527234126" lon="-4.62317471969" visible="true"/>
+<node action="modify" id="-646" lat="43.1530303757" lon="-4.62306032863" visible="true"/>
+<node action="modify" id="-291" lat="43.1527544483" lon="-4.62310986285" visible="true"/>
+<node action="modify" id="-326" lat="43.1525710151" lon="-4.62317861086" visible="true"/>
+<node action="modify" id="-828" lat="43.152588844" lon="-4.62360852733" visible="true"/>
+<node action="modify" id="-345" lat="43.1524240281" lon="-4.62303936545" visible="true"/>
+<node action="modify" id="-720" lat="43.1526969378" lon="-4.62370732058" visible="true"/>
+<node action="modify" id="-813" lat="43.1526456862" lon="-4.6238435137" visible="true"/>
+<node action="modify" id="-614" lat="43.1526686395" lon="-4.62321325393" visible="true"/>
+<node action="modify" id="-684" lat="43.1527457707" lon="-4.62400347897" visible="true"/>
+<node action="modify" id="-780" lat="43.152412029" lon="-4.62350419453" visible="true"/>
+<node action="modify" id="-33" lat="43.1530501128" lon="-4.62422705367" visible="true"/>
+<node action="modify" id="-358" lat="43.1526369895" lon="-4.62308362076" visible="true"/>
+<node action="modify" id="-652" lat="43.1530353584" lon="-4.62374630381" visible="true"/>
+<node action="modify" id="-359" lat="43.1526653329" lon="-4.62311683997" visible="true"/>
+<node action="modify" id="-372" lat="43.1526703388" lon="-4.62299250197" visible="true"/>
+<node action="modify" id="-732" lat="43.1524040407" lon="-4.62369840855" visible="true"/>
+<node action="modify" id="-536" lat="43.152469388" lon="-4.62385486758" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</node>
+<node action="modify" id="-747" lat="43.152569749" lon="-4.62409097216" visible="true"/>
+<node action="modify" id="-795" lat="43.1527438883" lon="-4.62399145618" visible="true"/>
+<node action="modify" id="-78" lat="43.1528650581" lon="-4.62418304129" visible="true"/>
+<node action="modify" id="-453" lat="43.1527906743" lon="-4.62392943605" visible="true"/>
+<node action="modify" id="-734" lat="43.1523783213" lon="-4.62360658116" visible="true"/>
+<node action="modify" id="-162" lat="43.1527942995" lon="-4.62354051251" visible="true"/>
+<node action="modify" id="-748" lat="43.1525916482" lon="-4.6241467801" visible="true"/>
+<node action="modify" id="-561" lat="43.1524356469" lon="-4.62356582192" visible="true"/>
+<node action="modify" id="-185" lat="43.1527206726" lon="-4.6236274838" visible="true"/>
+<node action="modify" id="-327" lat="43.1525403797" lon="-4.62322889536" visible="true"/>
+<node action="modify" id="-675" lat="43.1529617447" lon="-4.62395347892" visible="true"/>
+<node action="modify" id="-464" lat="43.1525905653" lon="-4.62360588562" visible="true"/>
+<node action="modify" id="-673" lat="43.1530261663" lon="-4.62392761092" visible="true"/>
+<node action="modify" id="-638" lat="43.1526496073" lon="-4.62296858543" visible="true"/>
+<node action="modify" id="-717" lat="43.1526289242" lon="-4.62354630491" visible="true"/>
+<node action="modify" id="-574" lat="43.153123642" lon="-4.62422309791" visible="true"/>
+<node action="modify" id="-829" lat="43.1525937555" lon="-4.62361775852" visible="true"/>
+<node action="modify" id="-814" lat="43.1526918323" lon="-4.62391251475" visible="true"/>
+<node action="modify" id="-641" lat="43.1527703247" lon="-4.62277426076" visible="true"/>
+<node action="modify" id="-781" lat="43.152374161" lon="-4.62350761948" visible="true"/>
+<node action="modify" id="-373" lat="43.1527912327" lon="-4.62279842793" visible="true"/>
+<way action="modify" id="-803" visible="true">
+  <nd ref="-809"/>
+  <nd ref="-805"/>
+  <nd ref="-446"/>
+  <nd ref="-807"/>
+  <nd ref="-808"/>
+  <nd ref="-809"/>
+  <tag k="building" v="residential"/>
+</way>
+<way action="modify" id="-483" visible="true">
+  <nd ref="-493"/>
+  <nd ref="-485"/>
+  <nd ref="-486"/>
+  <nd ref="-471"/>
+  <nd ref="-488"/>
+  <nd ref="-489"/>
+  <nd ref="-490"/>
+  <nd ref="-491"/>
+  <nd ref="-553"/>
+  <nd ref="-493"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-15" visible="true">
+  <nd ref="-24"/>
+  <nd ref="-10"/>
+  <nd ref="-14"/>
+  <nd ref="-573"/>
+  <nd ref="-574"/>
+  <nd ref="-29"/>
+  <nd ref="-568"/>
+  <nd ref="-23"/>
+  <nd ref="-24"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="building:levels:underground" v="1"/>
+  <tag k="addr:street" v="Calle de San Cayetano"/>
+</way>
+<way action="modify" id="-262" visible="true">
+  <nd ref="-378"/>
+  <nd ref="-264"/>
+  <nd ref="-265"/>
+  <nd ref="-266"/>
+  <nd ref="-267"/>
+  <nd ref="-268"/>
+  <nd ref="-612"/>
+  <nd ref="-270"/>
+  <nd ref="-271"/>
+  <nd ref="-379"/>
+  <nd ref="-378"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</way>
+<way action="modify" id="-469" visible="true">
+  <nd ref="-476"/>
+  <nd ref="-471"/>
+  <nd ref="-486"/>
+  <nd ref="-463"/>
+  <nd ref="-467"/>
+  <nd ref="-466"/>
+  <nd ref="-476"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels:underground" v="1"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-595" visible="true">
+  <nd ref="-218"/>
+  <nd ref="-597"/>
+  <nd ref="-598"/>
+  <nd ref="-210"/>
+  <nd ref="-230"/>
+  <nd ref="-218"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-656" visible="true">
+  <nd ref="-407"/>
+  <nd ref="-408"/>
+  <nd ref="-659"/>
+  <nd ref="-660"/>
+  <nd ref="-407"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-331" visible="true">
+  <nd ref="-325"/>
+  <nd ref="-324"/>
+  <nd ref="-633"/>
+  <nd ref="-335"/>
+  <nd ref="-635"/>
+  <nd ref="-337"/>
+  <nd ref="-338"/>
+  <nd ref="-339"/>
+  <nd ref="-340"/>
+  <nd ref="-327"/>
+  <nd ref="-326"/>
+  <nd ref="-325"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-10"/>
+  <nd ref="-24"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-11"/>
+  <nd ref="-10"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-44" visible="true">
+  <nd ref="-51"/>
+  <nd ref="-46"/>
+  <nd ref="-47"/>
+  <nd ref="-48"/>
+  <nd ref="-65"/>
+  <nd ref="-73"/>
+  <nd ref="-51"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-319" visible="true">
+  <nd ref="-628"/>
+  <nd ref="-629"/>
+  <nd ref="-616"/>
+  <nd ref="-323"/>
+  <nd ref="-324"/>
+  <nd ref="-325"/>
+  <nd ref="-326"/>
+  <nd ref="-327"/>
+  <nd ref="-328"/>
+  <nd ref="-329"/>
+  <nd ref="-628"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-668" visible="true">
+  <nd ref="-675"/>
+  <nd ref="-441"/>
+  <nd ref="-671"/>
+  <nd ref="-60"/>
+  <nd ref="-673"/>
+  <nd ref="-674"/>
+  <nd ref="-675"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-52" visible="true">
+  <nd ref="-671"/>
+  <nd ref="-54"/>
+  <nd ref="-55"/>
+  <nd ref="-56"/>
+  <nd ref="-57"/>
+  <nd ref="-58"/>
+  <nd ref="-673"/>
+  <nd ref="-60"/>
+  <nd ref="-671"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</way>
+<way action="modify" id="-450" visible="true">
+  <nd ref="-461"/>
+  <nd ref="-452"/>
+  <nd ref="-453"/>
+  <nd ref="-809"/>
+  <nd ref="-808"/>
+  <nd ref="-456"/>
+  <nd ref="-694"/>
+  <nd ref="-834"/>
+  <nd ref="-459"/>
+  <nd ref="-460"/>
+  <nd ref="-461"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-587" visible="true">
+  <nd ref="-588"/>
+  <nd ref="-108"/>
+  <nd ref="-103"/>
+  <nd ref="-104"/>
+  <nd ref="-105"/>
+  <nd ref="-106"/>
+  <nd ref="-588"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-300" visible="true">
+  <nd ref="-614"/>
+  <nd ref="-299"/>
+  <nd ref="-312"/>
+  <nd ref="-323"/>
+  <nd ref="-616"/>
+  <nd ref="-629"/>
+  <nd ref="-307"/>
+  <nd ref="-614"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-563" visible="true">
+  <nd ref="-568"/>
+  <nd ref="-23"/>
+  <nd ref="-24"/>
+  <nd ref="-29"/>
+  <nd ref="-568"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-676" visible="true">
+  <nd ref="-684"/>
+  <nd ref="-797"/>
+  <nd ref="-798"/>
+  <nd ref="-799"/>
+  <nd ref="-681"/>
+  <nd ref="-684"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-375" visible="true">
+  <nd ref="-376"/>
+  <nd ref="-291"/>
+  <nd ref="-378"/>
+  <nd ref="-379"/>
+  <nd ref="-271"/>
+  <nd ref="-270"/>
+  <nd ref="-382"/>
+  <nd ref="-383"/>
+  <nd ref="-376"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="12A"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</way>
+<way action="modify" id="-776" visible="true">
+  <nd ref="-784"/>
+  <nd ref="-734"/>
+  <nd ref="-561"/>
+  <nd ref="-780"/>
+  <nd ref="-781"/>
+  <nd ref="-557"/>
+  <nd ref="-783"/>
+  <nd ref="-784"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-309" visible="true">
+  <nd ref="-324"/>
+  <nd ref="-323"/>
+  <nd ref="-312"/>
+  <nd ref="-288"/>
+  <nd ref="-359"/>
+  <nd ref="-358"/>
+  <nd ref="-357"/>
+  <nd ref="-633"/>
+  <nd ref="-324"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-643" visible="true">
+  <nd ref="-397"/>
+  <nd ref="-401"/>
+  <nd ref="-646"/>
+  <nd ref="-396"/>
+  <nd ref="-397"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-683" visible="true">
+  <nd ref="-684"/>
+  <nd ref="-681"/>
+  <nd ref="-793"/>
+  <nd ref="-794"/>
+  <nd ref="-795"/>
+  <nd ref="-684"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-136" visible="true">
+  <nd ref="-137"/>
+  <nd ref="-138"/>
+  <nd ref="-139"/>
+  <nd ref="-145"/>
+  <nd ref="-141"/>
+  <nd ref="-132"/>
+  <nd ref="-137"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-613" visible="true">
+  <nd ref="-614"/>
+  <nd ref="-323"/>
+  <nd ref="-616"/>
+  <nd ref="-629"/>
+  <nd ref="-307"/>
+  <nd ref="-614"/>
+  <tag k="building:part" v="roof"/>
+</way>
+<way action="modify" id="-792" visible="true">
+  <nd ref="-793"/>
+  <nd ref="-794"/>
+  <nd ref="-795"/>
+  <nd ref="-684"/>
+  <nd ref="-797"/>
+  <nd ref="-798"/>
+  <nd ref="-799"/>
+  <nd ref="-800"/>
+  <nd ref="-801"/>
+  <nd ref="-793"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-87" visible="true">
+  <nd ref="-77"/>
+  <nd ref="-76"/>
+  <nd ref="-90"/>
+  <nd ref="-91"/>
+  <nd ref="-582"/>
+  <nd ref="-93"/>
+  <nd ref="-94"/>
+  <nd ref="-85"/>
+  <nd ref="-78"/>
+  <nd ref="-77"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</way>
+<way action="modify" id="-69" visible="true">
+  <nd ref="-78"/>
+  <nd ref="-71"/>
+  <nd ref="-51"/>
+  <nd ref="-73"/>
+  <nd ref="-74"/>
+  <nd ref="-75"/>
+  <nd ref="-76"/>
+  <nd ref="-77"/>
+  <nd ref="-78"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-166" visible="true">
+  <nd ref="-181"/>
+  <nd ref="-162"/>
+  <nd ref="-161"/>
+  <nd ref="-170"/>
+  <nd ref="-171"/>
+  <nd ref="-172"/>
+  <nd ref="-173"/>
+  <nd ref="-174"/>
+  <nd ref="-175"/>
+  <nd ref="-182"/>
+  <nd ref="-181"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-709" visible="true">
+  <nd ref="-464"/>
+  <nd ref="-828"/>
+  <nd ref="-829"/>
+  <nd ref="-713"/>
+  <nd ref="-720"/>
+  <nd ref="-715"/>
+  <nd ref="-825"/>
+  <nd ref="-717"/>
+  <nd ref="-464"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-62" visible="true">
+  <nd ref="-74"/>
+  <nd ref="-73"/>
+  <nd ref="-65"/>
+  <nd ref="-66"/>
+  <nd ref="-67"/>
+  <nd ref="-74"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-98" visible="true">
+  <nd ref="-108"/>
+  <nd ref="-100"/>
+  <nd ref="-81"/>
+  <nd ref="-80"/>
+  <nd ref="-103"/>
+  <nd ref="-104"/>
+  <nd ref="-105"/>
+  <nd ref="-106"/>
+  <nd ref="-588"/>
+  <nd ref="-108"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-662" visible="true">
+  <nd ref="-663"/>
+  <nd ref="-664"/>
+  <nd ref="-404"/>
+  <nd ref="-666"/>
+  <nd ref="-663"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-763" visible="true">
+  <nd ref="-547"/>
+  <nd ref="-535"/>
+  <nd ref="-536"/>
+  <nd ref="-537"/>
+  <nd ref="-538"/>
+  <nd ref="-547"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-528" visible="true">
+  <nd ref="-538"/>
+  <nd ref="-762"/>
+  <nd ref="-761"/>
+  <nd ref="-532"/>
+  <nd ref="-533"/>
+  <nd ref="-547"/>
+  <nd ref="-535"/>
+  <nd ref="-536"/>
+  <nd ref="-537"/>
+  <nd ref="-538"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-630" visible="true">
+  <nd ref="-325"/>
+  <nd ref="-324"/>
+  <nd ref="-633"/>
+  <nd ref="-335"/>
+  <nd ref="-635"/>
+  <nd ref="-325"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-274" visible="true">
+  <nd ref="-282"/>
+  <nd ref="-276"/>
+  <nd ref="-277"/>
+  <nd ref="-278"/>
+  <nd ref="-383"/>
+  <nd ref="-382"/>
+  <nd ref="-610"/>
+  <nd ref="-282"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-575" visible="true">
+  <nd ref="-94"/>
+  <nd ref="-85"/>
+  <nd ref="-78"/>
+  <nd ref="-77"/>
+  <nd ref="-94"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-439" visible="true">
+  <nd ref="-440"/>
+  <nd ref="-441"/>
+  <nd ref="-675"/>
+  <nd ref="-432"/>
+  <nd ref="-444"/>
+  <nd ref="-807"/>
+  <nd ref="-446"/>
+  <nd ref="-447"/>
+  <nd ref="-448"/>
+  <nd ref="-440"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-128" visible="true">
+  <nd ref="-129"/>
+  <nd ref="-130"/>
+  <nd ref="-137"/>
+  <nd ref="-132"/>
+  <nd ref="-133"/>
+  <nd ref="-120"/>
+  <nd ref="-129"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-517" visible="true">
+  <nd ref="-518"/>
+  <nd ref="-759"/>
+  <nd ref="-520"/>
+  <nd ref="-761"/>
+  <nd ref="-762"/>
+  <nd ref="-538"/>
+  <nd ref="-537"/>
+  <nd ref="-525"/>
+  <nd ref="-512"/>
+  <nd ref="-518"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-701" visible="true">
+  <nd ref="-708"/>
+  <nd ref="-703"/>
+  <nd ref="-704"/>
+  <nd ref="-705"/>
+  <nd ref="-706"/>
+  <nd ref="-707"/>
+  <nd ref="-708"/>
+</way>
+<way action="modify" id="-283" visible="true">
+  <nd ref="-376"/>
+  <nd ref="-285"/>
+  <nd ref="-286"/>
+  <nd ref="-359"/>
+  <nd ref="-288"/>
+  <nd ref="-289"/>
+  <nd ref="-225"/>
+  <nd ref="-291"/>
+  <nd ref="-376"/>
+  <tag k="building" v="industrial"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</way>
+<way action="modify" id="-364" visible="true">
+  <nd ref="-641"/>
+  <nd ref="-366"/>
+  <nd ref="-367"/>
+  <nd ref="-368"/>
+  <nd ref="-369"/>
+  <nd ref="-370"/>
+  <nd ref="-638"/>
+  <nd ref="-372"/>
+  <nd ref="-373"/>
+  <nd ref="-641"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-206" visible="true">
+  <nd ref="-218"/>
+  <nd ref="-597"/>
+  <nd ref="-598"/>
+  <nd ref="-210"/>
+  <nd ref="-230"/>
+  <nd ref="-212"/>
+  <nd ref="-213"/>
+  <nd ref="-214"/>
+  <nd ref="-215"/>
+  <nd ref="-196"/>
+  <nd ref="-217"/>
+  <nd ref="-218"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-840" visible="true">
+  <nd ref="-544"/>
+  <nd ref="-543"/>
+  <nd ref="-843"/>
+  <nd ref="-737"/>
+  <nd ref="-738"/>
+  <nd ref="-739"/>
+  <nd ref="-736"/>
+  <nd ref="-561"/>
+  <nd ref="-734"/>
+  <nd ref="-784"/>
+  <nd ref="-732"/>
+  <nd ref="-544"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-749" visible="true">
+  <nd ref="-497"/>
+  <nd ref="-751"/>
+  <nd ref="-744"/>
+  <nd ref="-506"/>
+  <nd ref="-496"/>
+  <nd ref="-497"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-344" visible="true">
+  <nd ref="-345"/>
+  <nd ref="-338"/>
+  <nd ref="-337"/>
+  <nd ref="-635"/>
+  <nd ref="-335"/>
+  <nd ref="-350"/>
+  <nd ref="-351"/>
+  <nd ref="-345"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-602" visible="true">
+  <nd ref="-612"/>
+  <nd ref="-268"/>
+  <nd ref="-605"/>
+  <nd ref="-606"/>
+  <nd ref="-607"/>
+  <nd ref="-608"/>
+  <nd ref="-282"/>
+  <nd ref="-610"/>
+  <nd ref="-611"/>
+  <nd ref="-612"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-79" visible="true">
+  <nd ref="-80"/>
+  <nd ref="-81"/>
+  <nd ref="-82"/>
+  <nd ref="-71"/>
+  <nd ref="-78"/>
+  <nd ref="-85"/>
+  <nd ref="-80"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="disused:building" v="residential"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-415" visible="true">
+  <nd ref="-673"/>
+  <nd ref="-58"/>
+  <nd ref="-651"/>
+  <nd ref="-410"/>
+  <nd ref="-659"/>
+  <nd ref="-408"/>
+  <nd ref="-422"/>
+  <nd ref="-423"/>
+  <nd ref="-424"/>
+  <nd ref="-674"/>
+  <nd ref="-673"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="building:levels:underground" v="1"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</way>
+<way action="modify" id="-25" visible="true">
+  <nd ref="-26"/>
+  <nd ref="-27"/>
+  <nd ref="-28"/>
+  <nd ref="-29"/>
+  <nd ref="-574"/>
+  <nd ref="-573"/>
+  <nd ref="-32"/>
+  <nd ref="-33"/>
+  <nd ref="-26"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-232" visible="true">
+  <nd ref="-233"/>
+  <nd ref="-234"/>
+  <nd ref="-235"/>
+  <nd ref="-236"/>
+  <nd ref="-237"/>
+  <nd ref="-388"/>
+  <nd ref="-239"/>
+  <nd ref="-386"/>
+  <nd ref="-241"/>
+  <nd ref="-242"/>
+  <nd ref="-267"/>
+  <nd ref="-266"/>
+  <nd ref="-265"/>
+  <nd ref="-264"/>
+  <nd ref="-247"/>
+  <nd ref="-248"/>
+  <nd ref="-233"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</way>
+<way action="modify" id="-250" visible="true">
+  <nd ref="-606"/>
+  <nd ref="-607"/>
+  <nd ref="-608"/>
+  <nd ref="-282"/>
+  <nd ref="-610"/>
+  <nd ref="-382"/>
+  <nd ref="-270"/>
+  <nd ref="-612"/>
+  <nd ref="-268"/>
+  <nd ref="-605"/>
+  <nd ref="-606"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</way>
+<way action="modify" id="-219" visible="true">
+  <nd ref="-210"/>
+  <nd ref="-598"/>
+  <nd ref="-222"/>
+  <nd ref="-223"/>
+  <nd ref="-224"/>
+  <nd ref="-225"/>
+  <nd ref="-289"/>
+  <nd ref="-298"/>
+  <nd ref="-228"/>
+  <nd ref="-212"/>
+  <nd ref="-230"/>
+  <nd ref="-210"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-462" visible="true">
+  <nd ref="-463"/>
+  <nd ref="-464"/>
+  <nd ref="-717"/>
+  <nd ref="-466"/>
+  <nd ref="-467"/>
+  <nd ref="-463"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-427" visible="true">
+  <nd ref="-674"/>
+  <nd ref="-424"/>
+  <nd ref="-430"/>
+  <nd ref="-431"/>
+  <nd ref="-432"/>
+  <nd ref="-675"/>
+  <nd ref="-441"/>
+  <nd ref="-671"/>
+  <nd ref="-60"/>
+  <nd ref="-673"/>
+  <nd ref="-674"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-35" visible="true">
+  <nd ref="-43"/>
+  <nd ref="-37"/>
+  <nd ref="-38"/>
+  <nd ref="-26"/>
+  <nd ref="-33"/>
+  <nd ref="-32"/>
+  <nd ref="-42"/>
+  <nd ref="-43"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-549" visible="true">
+  <nd ref="-780"/>
+  <nd ref="-791"/>
+  <nd ref="-493"/>
+  <nd ref="-553"/>
+  <nd ref="-789"/>
+  <nd ref="-790"/>
+  <nd ref="-556"/>
+  <nd ref="-557"/>
+  <nd ref="-783"/>
+  <nd ref="-784"/>
+  <nd ref="-734"/>
+  <nd ref="-561"/>
+  <nd ref="-780"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-719" visible="true">
+  <nd ref="-720"/>
+  <nd ref="-721"/>
+  <nd ref="-692"/>
+  <nd ref="-699"/>
+  <nd ref="-839"/>
+  <nd ref="-725"/>
+  <nd ref="-726"/>
+  <nd ref="-715"/>
+  <nd ref="-720"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-8" visible="true">
+  <nd ref="-14"/>
+  <nd ref="-10"/>
+  <nd ref="-11"/>
+  <nd ref="-12"/>
+  <nd ref="-13"/>
+  <nd ref="-14"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-178" visible="true">
+  <nd ref="-185"/>
+  <nd ref="-164"/>
+  <nd ref="-181"/>
+  <nd ref="-182"/>
+  <nd ref="-175"/>
+  <nd ref="-190"/>
+  <nd ref="-185"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-353" visible="true">
+  <nd ref="-354"/>
+  <nd ref="-355"/>
+  <nd ref="-356"/>
+  <nd ref="-357"/>
+  <nd ref="-358"/>
+  <nd ref="-359"/>
+  <nd ref="-286"/>
+  <nd ref="-361"/>
+  <nd ref="-362"/>
+  <nd ref="-354"/>
+  <tag k="building" v="industrial"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-117" visible="true">
+  <nd ref="-118"/>
+  <nd ref="-129"/>
+  <nd ref="-120"/>
+  <nd ref="-133"/>
+  <nd ref="-588"/>
+  <nd ref="-106"/>
+  <nd ref="-124"/>
+  <nd ref="-114"/>
+  <nd ref="-126"/>
+  <nd ref="-118"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-402" visible="true">
+  <nd ref="-654"/>
+  <nd ref="-404"/>
+  <nd ref="-666"/>
+  <nd ref="-663"/>
+  <nd ref="-407"/>
+  <nd ref="-408"/>
+  <nd ref="-659"/>
+  <nd ref="-410"/>
+  <nd ref="-651"/>
+  <nd ref="-652"/>
+  <nd ref="-413"/>
+  <nd ref="-654"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="addr:street" v="Calle de Cimavilla"/>
+</way>
+<way action="modify" id="-192" visible="true">
+  <nd ref="-193"/>
+  <nd ref="-194"/>
+  <nd ref="-217"/>
+  <nd ref="-196"/>
+  <nd ref="-197"/>
+  <nd ref="-198"/>
+  <nd ref="-199"/>
+  <nd ref="-174"/>
+  <nd ref="-173"/>
+  <nd ref="-172"/>
+  <nd ref="-203"/>
+  <nd ref="-204"/>
+  <nd ref="-193"/>
+  <tag k="building" v="public"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-155" visible="true">
+  <nd ref="-838"/>
+  <nd ref="-837"/>
+  <nd ref="-158"/>
+  <nd ref="-159"/>
+  <nd ref="-160"/>
+  <nd ref="-161"/>
+  <nd ref="-162"/>
+  <nd ref="-181"/>
+  <nd ref="-164"/>
+  <nd ref="-838"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-810" visible="true">
+  <nd ref="-811"/>
+  <nd ref="-812"/>
+  <nd ref="-813"/>
+  <nd ref="-814"/>
+  <nd ref="-815"/>
+  <nd ref="-816"/>
+  <nd ref="-817"/>
+  <nd ref="-818"/>
+  <nd ref="-811"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-494" visible="true">
+  <nd ref="-506"/>
+  <nd ref="-496"/>
+  <nd ref="-497"/>
+  <nd ref="-751"/>
+  <nd ref="-744"/>
+  <nd ref="-745"/>
+  <nd ref="-746"/>
+  <nd ref="-747"/>
+  <nd ref="-748"/>
+  <nd ref="-504"/>
+  <nd ref="-505"/>
+  <nd ref="-506"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</way>
+<way action="modify" id="-109" visible="true">
+  <nd ref="-116"/>
+  <nd ref="-111"/>
+  <nd ref="-112"/>
+  <nd ref="-113"/>
+  <nd ref="-114"/>
+  <nd ref="-124"/>
+  <nd ref="-116"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-581" visible="true">
+  <nd ref="-582"/>
+  <nd ref="-93"/>
+  <nd ref="-90"/>
+  <nd ref="-91"/>
+  <nd ref="-582"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-186" visible="true">
+  <nd ref="-191"/>
+  <nd ref="-188"/>
+  <nd ref="-185"/>
+  <nd ref="-190"/>
+  <nd ref="-191"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-507" visible="true">
+  <nd ref="-508"/>
+  <nd ref="-509"/>
+  <nd ref="-759"/>
+  <nd ref="-518"/>
+  <nd ref="-512"/>
+  <nd ref="-513"/>
+  <nd ref="-514"/>
+  <nd ref="-515"/>
+  <nd ref="-508"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-785" visible="true">
+  <nd ref="-791"/>
+  <nd ref="-493"/>
+  <nd ref="-553"/>
+  <nd ref="-789"/>
+  <nd ref="-790"/>
+  <nd ref="-791"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-144" visible="true">
+  <nd ref="-145"/>
+  <nd ref="-146"/>
+  <nd ref="-147"/>
+  <nd ref="-148"/>
+  <nd ref="-149"/>
+  <nd ref="-150"/>
+  <nd ref="-151"/>
+  <nd ref="-152"/>
+  <nd ref="-141"/>
+  <nd ref="-145"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-770" visible="true">
+  <nd ref="-533"/>
+  <nd ref="-762"/>
+  <nd ref="-761"/>
+  <nd ref="-532"/>
+  <nd ref="-533"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-735" visible="true">
+  <nd ref="-736"/>
+  <nd ref="-737"/>
+  <nd ref="-738"/>
+  <nd ref="-739"/>
+  <nd ref="-736"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-539" visible="true">
+  <nd ref="-533"/>
+  <nd ref="-532"/>
+  <nd ref="-843"/>
+  <nd ref="-543"/>
+  <nd ref="-544"/>
+  <nd ref="-732"/>
+  <nd ref="-535"/>
+  <nd ref="-547"/>
+  <nd ref="-533"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Fuente de la Riega"/>
+</way>
+<way action="modify" id="-385" visible="true">
+  <nd ref="-386"/>
+  <nd ref="-239"/>
+  <nd ref="-388"/>
+  <nd ref="-389"/>
+  <nd ref="-390"/>
+  <nd ref="-391"/>
+  <nd ref="-386"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de San Pedro"/>
+</way>
+<way action="modify" id="-393" visible="true">
+  <nd ref="-401"/>
+  <nd ref="-646"/>
+  <nd ref="-396"/>
+  <nd ref="-397"/>
+  <nd ref="-391"/>
+  <nd ref="-390"/>
+  <nd ref="-400"/>
+  <nd ref="-401"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-569" visible="true">
+  <nd ref="-574"/>
+  <nd ref="-10"/>
+  <nd ref="-14"/>
+  <nd ref="-573"/>
+  <nd ref="-574"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-637" visible="true">
+  <nd ref="-638"/>
+  <nd ref="-372"/>
+  <nd ref="-373"/>
+  <nd ref="-641"/>
+  <nd ref="-638"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-820" visible="true">
+  <nd ref="-839"/>
+  <nd ref="-725"/>
+  <nd ref="-726"/>
+  <nd ref="-715"/>
+  <nd ref="-825"/>
+  <nd ref="-717"/>
+  <nd ref="-464"/>
+  <nd ref="-828"/>
+  <nd ref="-829"/>
+  <nd ref="-713"/>
+  <nd ref="-720"/>
+  <nd ref="-721"/>
+  <nd ref="-692"/>
+  <nd ref="-834"/>
+  <nd ref="-694"/>
+  <nd ref="-836"/>
+  <nd ref="-837"/>
+  <nd ref="-838"/>
+  <nd ref="-839"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-741" visible="true">
+  <nd ref="-748"/>
+  <nd ref="-743"/>
+  <nd ref="-744"/>
+  <nd ref="-745"/>
+  <nd ref="-746"/>
+  <nd ref="-747"/>
+  <nd ref="-748"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-293" visible="true">
+  <nd ref="-299"/>
+  <nd ref="-614"/>
+  <nd ref="-307"/>
+  <nd ref="-228"/>
+  <nd ref="-298"/>
+  <nd ref="-299"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-691" visible="true">
+  <nd ref="-692"/>
+  <nd ref="-834"/>
+  <nd ref="-694"/>
+  <nd ref="-836"/>
+  <nd ref="-837"/>
+  <nd ref="-838"/>
+  <nd ref="-839"/>
+  <nd ref="-699"/>
+  <nd ref="-692"/>
+</way>
+<way action="modify" id="-649" visible="true">
+  <nd ref="-410"/>
+  <nd ref="-651"/>
+  <nd ref="-652"/>
+  <nd ref="-413"/>
+  <nd ref="-654"/>
+  <nd ref="-410"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="3"/>
+</way>
+<way action="modify" id="-620" visible="true">
+  <nd ref="-629"/>
+  <nd ref="-616"/>
+  <nd ref="-323"/>
+  <nd ref="-324"/>
+  <nd ref="-325"/>
+  <nd ref="-326"/>
+  <nd ref="-627"/>
+  <nd ref="-628"/>
+  <nd ref="-629"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-477" visible="true">
+  <nd ref="-478"/>
+  <nd ref="-488"/>
+  <nd ref="-471"/>
+  <nd ref="-476"/>
+  <nd ref="-478"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels:underground" v="1"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="addr:street" v="Calle de la Solana"/>
+</way>
+<way action="modify" id="-729" visible="true">
+  <nd ref="-734"/>
+  <nd ref="-784"/>
+  <nd ref="-732"/>
+  <nd ref="-544"/>
+  <nd ref="-734"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-756" visible="true">
+  <nd ref="-762"/>
+  <nd ref="-518"/>
+  <nd ref="-759"/>
+  <nd ref="-520"/>
+  <nd ref="-761"/>
+  <nd ref="-762"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<relation action="modify" id="-690" visible="true">
+  <member ref="-691" role="outer" type="way"/>
+  <member ref="-701" role="inner" type="way"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="type" v="multipolygon"/>
+</relation>
+</osm>

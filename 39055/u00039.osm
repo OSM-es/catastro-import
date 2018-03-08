@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00039"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-7" lat="43.1521966985" lon="-4.62263658428" visible="true"/>
+<node action="modify" id="-4" lat="43.1524137515" lon="-4.62260326632" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</node>
+<node action="modify" id="-3" lat="43.1523086126" lon="-4.62277303673" visible="true"/>
+<node action="modify" id="-5" lat="43.1524917055" lon="-4.62247739148" visible="true"/>
+<node action="modify" id="-2" lat="43.1521894653" lon="-4.62264977392" visible="true"/>
+<node action="modify" id="-6" lat="43.1523816843" lon="-4.6223483931" visible="true"/>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-2"/>
+  <nd ref="-3"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-6"/>
+  <nd ref="-7"/>
+  <nd ref="-2"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+</osm>

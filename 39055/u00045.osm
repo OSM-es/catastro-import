@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00045"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-33" lat="43.1553544517" lon="-4.62182520612" visible="true"/>
+<node action="modify" id="-127" lat="43.1557938805" lon="-4.62162231486" visible="true"/>
+<node action="modify" id="-92" lat="43.1553445776" lon="-4.62212054225" visible="true"/>
+<node action="modify" id="-49" lat="43.1550628408" lon="-4.6219675443" visible="true"/>
+<node action="modify" id="-103" lat="43.1558271449" lon="-4.62275624773" visible="true"/>
+<node action="modify" id="-50" lat="43.155018459" lon="-4.62202393104" visible="true"/>
+<node action="modify" id="-30" lat="43.1551487447" lon="-4.62210756951" visible="true"/>
+<node action="modify" id="-37" lat="43.1553075096" lon="-4.62165570274" visible="true"/>
+<node action="modify" id="-99" lat="43.1555739171" lon="-4.62273183423" visible="true"/>
+<node action="modify" id="-4" lat="43.1563568431" lon="-4.621182772" visible="true"/>
+<node action="modify" id="-97" lat="43.1554303215" lon="-4.6226473496" visible="true"/>
+<node action="modify" id="-73" lat="43.1555561928" lon="-4.62250861631" visible="true"/>
+<node action="modify" id="-5" lat="43.1563145961" lon="-4.62106726877" visible="true"/>
+<node action="modify" id="-95" lat="43.155434258" lon="-4.62254757647" visible="true"/>
+<node action="modify" id="-38" lat="43.1552612997" lon="-4.62171400948" visible="true"/>
+<node action="modify" id="-75" lat="43.1556553579" lon="-4.62257704262" visible="true"/>
+<node action="modify" id="-29" lat="43.1551406379" lon="-4.62209505569" visible="true"/>
+<node action="modify" id="-102" lat="43.1556749937" lon="-4.62297016696" visible="true"/>
+<node action="modify" id="-76" lat="43.1556322004" lon="-4.62260988425" visible="true"/>
+<node action="modify" id="-132" lat="43.1556723605" lon="-4.62160631549" visible="true"/>
+<node action="modify" id="-51" lat="43.1550336412" lon="-4.62204548753" visible="true"/>
+<node action="modify" id="-48" lat="43.1550713077" lon="-4.62198006762" visible="true"/>
+<node action="modify" id="-116" lat="43.1554744625" lon="-4.62222735517" visible="true"/>
+<node action="modify" id="-28" lat="43.1550812105" lon="-4.62217072943" visible="true"/>
+<node action="modify" id="-128" lat="43.1557905036" lon="-4.62153021931" visible="true"/>
+<node action="modify" id="-46" lat="43.1551017103" lon="-4.62191888323" visible="true"/>
+<node action="modify" id="-104" lat="43.1557232022" lon="-4.62261868835" visible="true"/>
+<node action="modify" id="-126" lat="43.1558398781" lon="-4.62168060108" visible="true"/>
+<node action="modify" id="-34" lat="43.15541498" lon="-4.6217480849" visible="true"/>
+<node action="modify" id="-100" lat="43.1556099838" lon="-4.62277952669" visible="true"/>
+<node action="modify" id="-135" lat="43.1557876425" lon="-4.62175744411" visible="true"/>
+<node action="modify" id="-74" lat="43.155579345" lon="-4.62247614352" visible="true"/>
+<node action="modify" id="-114" lat="43.1554178326" lon="-4.62203304525" visible="true"/>
+<node action="modify" id="-85" lat="43.1557784062" lon="-4.6224341813" visible="true"/>
+<node action="modify" id="-121" lat="43.1556411114" lon="-4.62169513966" visible="true"/>
+<node action="modify" id="-35" lat="43.1553475936" lon="-4.62164839935" visible="true"/>
+<node action="modify" id="-69" lat="43.1556750854" lon="-4.62230353288" visible="true"/>
+<node action="modify" id="-32" lat="43.1553629186" lon="-4.62183772948" visible="true"/>
+<node action="modify" id="-87" lat="43.1555845767" lon="-4.62243741575" visible="true"/>
+<node action="modify" id="-131" lat="43.1556284535" lon="-4.62155299841" visible="true"/>
+<node action="modify" id="-101" lat="43.1555717597" lon="-4.62283312446" visible="true"/>
+<node action="modify" id="-129" lat="43.1557188678" lon="-4.62152734076" visible="true"/>
+<node action="modify" id="-41" lat="43.155228593" lon="-4.62175988196" visible="true"/>
+<node action="modify" id="-45" lat="43.1551446355" lon="-4.62186393373" visible="true"/>
+<node action="modify" id="-31" lat="43.1552553914" lon="-4.62197320453" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Santa Olaja"/>
+</node>
+<node action="modify" id="-107" lat="43.1556064688" lon="-4.62240141038" visible="true"/>
+<node action="modify" id="-120" lat="43.155727416" lon="-4.62180311788" visible="true"/>
+<node action="modify" id="-43" lat="43.1551861135" lon="-4.62183452852" visible="true"/>
+<node action="modify" id="-36" lat="43.1553233841" lon="-4.62167924545" visible="true"/>
+<node action="modify" id="-123" lat="43.1555936423" lon="-4.62200261841" visible="true"/>
+<node action="modify" id="-79" lat="43.1556860667" lon="-4.62257047564" visible="true"/>
+<node action="modify" id="-77" lat="43.1556495219" lon="-4.62263297365" visible="true"/>
+<node action="modify" id="-108" lat="43.155649233" lon="-4.62233814824" visible="true"/>
+<node action="modify" id="-110" lat="43.1555063592" lon="-4.62226941447" visible="true"/>
+<node action="modify" id="-91" lat="43.1555456897" lon="-4.62238571307" visible="true"/>
+<node action="modify" id="-133" lat="43.1556760626" lon="-4.62170087321" visible="true"/>
+<node action="modify" id="-14" lat="43.1561690356" lon="-4.62115057471" visible="true"/>
+<node action="modify" id="-130" lat="43.1556785426" lon="-4.62147511468" visible="true"/>
+<node action="modify" id="-15" lat="43.15620433" lon="-4.62125248735" visible="true"/>
+<node action="modify" id="-52" lat="43.1550134688" lon="-4.62207103457" visible="true"/>
+<node action="modify" id="-39" lat="43.1552704728" lon="-4.62172753543" visible="true"/>
+<node action="modify" id="-9" lat="43.156312462" lon="-4.62121276559" visible="true"/>
+<node action="modify" id="-90" lat="43.1555059465" lon="-4.62244517456" visible="true"/>
+<node action="modify" id="-47" lat="43.1551098171" lon="-4.62193139703" visible="true"/>
+<node action="modify" id="-13" lat="43.1561625083" lon="-4.62112826293" visible="true"/>
+<node action="modify" id="-134" lat="43.1557448504" lon="-4.62170170872" visible="true"/>
+<node action="modify" id="-65" lat="43.156259963" lon="-4.62121546082" visible="true"/>
+<node action="modify" id="-93" lat="43.155193253" lon="-4.62233466778" visible="true"/>
+<node action="modify" id="-89" lat="43.1555385199" lon="-4.62248490271" visible="true"/>
+<node action="modify" id="-17" lat="43.1563435816" lon="-4.62144054048" visible="true"/>
+<node action="modify" id="-98" lat="43.1555356906" lon="-4.62278592391" visible="true"/>
+<node action="modify" id="-44" lat="43.1551531094" lon="-4.62187596526" visible="true"/>
+<node action="modify" id="-40" lat="43.1552360006" lon="-4.62177090134" visible="true"/>
+<node action="modify" id="-117" lat="43.1555182298" lon="-4.62216542332" visible="true"/>
+<node action="modify" id="-60" lat="43.156238739" lon="-4.62108649212" visible="true"/>
+<node action="modify" id="-18" lat="43.1563850594" lon="-4.62141113444" visible="true"/>
+<node action="modify" id="-115" lat="43.155374061" lon="-4.62209497699" visible="true"/>
+<node action="modify" id="-59" lat="43.156259184" lon="-4.6210671074" visible="true"/>
+<node action="modify" id="-2" lat="43.1562702106" lon="-4.62109725616" visible="true"/>
+<node action="modify" id="-21" lat="43.1554860574" lon="-4.62186656342" visible="true"/>
+<node action="modify" id="-22" lat="43.1554982224" lon="-4.62188564462" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de Santa Olaja"/>
+</node>
+<node action="modify" id="-24" lat="43.1555231146" lon="-4.6218695116" visible="true"/>
+<node action="modify" id="-42" lat="43.1551787058" lon="-4.62182350914" visible="true"/>
+<node action="modify" id="-20" lat="43.1555058418" lon="-4.62184297991" visible="true"/>
+<node action="modify" id="-105" lat="43.1556824064" lon="-4.62267616023" visible="true"/>
+<node action="modify" id="-63" lat="43.1562492547" lon="-4.62110694146" visible="true"/>
+<node action="modify" id="-83" lat="43.1556899575" lon="-4.62257549839" visible="true"/>
+<node action="modify" id="-23" lat="43.1555029701" lon="-4.62189309173" visible="true"/>
+<node action="modify" id="-64" lat="43.1562836007" lon="-4.62119985044" visible="true"/>
+<node action="modify" id="-122" lat="43.1555073334" lon="-4.62189464619" visible="true"/>
+<node action="modify" id="-94" lat="43.1553960246" lon="-4.62260216409" visible="true"/>
+<node action="modify" id="-96" lat="43.1554689149" lon="-4.62259277766" visible="true"/>
+<node action="modify" id="-88" lat="43.1555767951" lon="-4.62242737028" visible="true"/>
+<node action="modify" id="-109" lat="43.1555501264" lon="-4.62220748262" visible="true"/>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-2"/>
+  <nd ref="-9"/>
+  <nd ref="-4"/>
+  <nd ref="-5"/>
+  <nd ref="-2"/>
+  <tag k="building" v="industrial"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="addr:street" v="Calle de Santa Olaja"/>
+</way>
+<way action="modify" id="-106" visible="true">
+  <nd ref="-107"/>
+  <nd ref="-108"/>
+  <nd ref="-109"/>
+  <nd ref="-110"/>
+  <nd ref="-107"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-66" visible="true">
+  <nd ref="-79"/>
+  <nd ref="-85"/>
+  <nd ref="-69"/>
+  <nd ref="-87"/>
+  <nd ref="-88"/>
+  <nd ref="-89"/>
+  <nd ref="-73"/>
+  <nd ref="-74"/>
+  <nd ref="-75"/>
+  <nd ref="-76"/>
+  <nd ref="-77"/>
+  <nd ref="-83"/>
+  <nd ref="-79"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-112" visible="true">
+  <nd ref="-117"/>
+  <nd ref="-114"/>
+  <nd ref="-115"/>
+  <nd ref="-116"/>
+  <nd ref="-117"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-7" visible="true">
+  <nd ref="-18"/>
+  <nd ref="-9"/>
+  <nd ref="-2"/>
+  <nd ref="-59"/>
+  <nd ref="-60"/>
+  <nd ref="-13"/>
+  <nd ref="-14"/>
+  <nd ref="-15"/>
+  <nd ref="-65"/>
+  <nd ref="-17"/>
+  <nd ref="-18"/>
+  <tag k="building" v="industrial"/>
+  <tag k="addr:housenumber" v="10A"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de Santa Olaja"/>
+</way>
+<way action="modify" id="-80" visible="true">
+  <nd ref="-105"/>
+  <nd ref="-77"/>
+  <nd ref="-83"/>
+  <nd ref="-79"/>
+  <nd ref="-85"/>
+  <nd ref="-69"/>
+  <nd ref="-87"/>
+  <nd ref="-88"/>
+  <nd ref="-89"/>
+  <nd ref="-90"/>
+  <nd ref="-91"/>
+  <nd ref="-92"/>
+  <nd ref="-93"/>
+  <nd ref="-94"/>
+  <nd ref="-95"/>
+  <nd ref="-96"/>
+  <nd ref="-97"/>
+  <nd ref="-98"/>
+  <nd ref="-99"/>
+  <nd ref="-100"/>
+  <nd ref="-101"/>
+  <nd ref="-102"/>
+  <nd ref="-103"/>
+  <nd ref="-104"/>
+  <nd ref="-105"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-124" visible="true">
+  <nd ref="-135"/>
+  <nd ref="-126"/>
+  <nd ref="-127"/>
+  <nd ref="-128"/>
+  <nd ref="-129"/>
+  <nd ref="-130"/>
+  <nd ref="-131"/>
+  <nd ref="-132"/>
+  <nd ref="-133"/>
+  <nd ref="-134"/>
+  <nd ref="-135"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-19" visible="true">
+  <nd ref="-20"/>
+  <nd ref="-21"/>
+  <nd ref="-22"/>
+  <nd ref="-23"/>
+  <nd ref="-24"/>
+  <nd ref="-20"/>
+  <tag k="building" v="industrial"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-118" visible="true">
+  <nd ref="-123"/>
+  <nd ref="-120"/>
+  <nd ref="-121"/>
+  <nd ref="-122"/>
+  <nd ref="-123"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-53" visible="true">
+  <nd ref="-65"/>
+  <nd ref="-17"/>
+  <nd ref="-18"/>
+  <nd ref="-9"/>
+  <nd ref="-2"/>
+  <nd ref="-59"/>
+  <nd ref="-60"/>
+  <nd ref="-13"/>
+  <nd ref="-14"/>
+  <nd ref="-63"/>
+  <nd ref="-64"/>
+  <nd ref="-65"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-26" visible="true">
+  <nd ref="-52"/>
+  <nd ref="-28"/>
+  <nd ref="-29"/>
+  <nd ref="-30"/>
+  <nd ref="-31"/>
+  <nd ref="-32"/>
+  <nd ref="-33"/>
+  <nd ref="-34"/>
+  <nd ref="-35"/>
+  <nd ref="-36"/>
+  <nd ref="-37"/>
+  <nd ref="-38"/>
+  <nd ref="-39"/>
+  <nd ref="-40"/>
+  <nd ref="-41"/>
+  <nd ref="-42"/>
+  <nd ref="-43"/>
+  <nd ref="-44"/>
+  <nd ref="-45"/>
+  <nd ref="-46"/>
+  <nd ref="-47"/>
+  <nd ref="-48"/>
+  <nd ref="-49"/>
+  <nd ref="-50"/>
+  <nd ref="-51"/>
+  <nd ref="-52"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="4"/>
+</way>
+</osm>

@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='yes'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 39055 Potes u00053"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="source:date:addr" v="2017-09-06"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-60" lat="43.1538364988" lon="-4.62052438622" visible="true"/>
+<node action="modify" id="-48" lat="43.1539822752" lon="-4.62052528723" visible="true"/>
+<node action="modify" id="-40" lat="43.1541778797" lon="-4.62047239885" visible="true"/>
+<node action="modify" id="-33" lat="43.154652704" lon="-4.6200221458" visible="true"/>
+<node action="modify" id="-81" lat="43.1545643537" lon="-4.61864737092" visible="true"/>
+<node action="modify" id="-61" lat="43.1538800828" lon="-4.62056202072" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Calle de la Portilla"/>
+</node>
+<node action="modify" id="-7" lat="43.1546471692" lon="-4.61853790463" visible="true"/>
+<node action="modify" id="-69" lat="43.1537805268" lon="-4.62038195953" visible="true"/>
+<node action="modify" id="-84" lat="43.1545753515" lon="-4.61863282838" visible="true"/>
+<node action="modify" id="-83" lat="43.154606201" lon="-4.61867675777" visible="true"/>
+<node action="modify" id="-68" lat="43.1537701731" lon="-4.62040726798" visible="true"/>
+<node action="modify" id="-64" lat="43.1538603228" lon="-4.62046352043" visible="true"/>
+<node action="modify" id="-145" lat="43.1540951626" lon="-4.62001218672" visible="true"/>
+<node action="modify" id="-49" lat="43.1539804715" lon="-4.62054454917" visible="true"/>
+<node action="modify" id="-30" lat="43.1544712179" lon="-4.62001470627" visible="true"/>
+<node action="modify" id="-42" lat="43.1540388088" lon="-4.6205069798" visible="true"/>
+<node action="modify" id="-36" lat="43.1540059364" lon="-4.6205328001" visible="true"/>
+<node action="modify" id="-32" lat="43.1546075394" lon="-4.62012560055" visible="true"/>
+<node action="modify" id="-39" lat="43.1541452387" lon="-4.62054574024" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</node>
+<node action="modify" id="-130" lat="43.1544564307" lon="-4.62013943542" visible="true"/>
+<node action="modify" id="-12" lat="43.1546311366" lon="-4.61871225983" visible="true"/>
+<node action="modify" id="-119" lat="43.154044409" lon="-4.62063319386" visible="true"/>
+<node action="modify" id="-41" lat="43.1540795469" lon="-4.62040265291" visible="true"/>
+<node action="modify" id="-43" lat="43.1540217924" lon="-4.62049410796" visible="true"/>
+<node action="modify" id="-54" lat="43.1540571044" lon="-4.62064715076" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</node>
+<node action="modify" id="-13" lat="43.1546525735" lon="-4.61868416238" visible="true"/>
+<node action="modify" id="-109" lat="43.1545338798" lon="-4.61996615032" visible="true"/>
+<node action="modify" id="-110" lat="43.1545581164" lon="-4.61998581143" visible="true"/>
+<node action="modify" id="-111" lat="43.1545712063" lon="-4.61995580893" visible="true"/>
+<node action="modify" id="-112" lat="43.1545163518" lon="-4.61991118936" visible="true"/>
+<node action="modify" id="-62" lat="43.1539275961" lon="-4.62060304832" visible="true"/>
+<node action="modify" id="-67" lat="43.1537265582" lon="-4.62037143199" visible="true"/>
+<node action="modify" id="-70" lat="43.1538337986" lon="-4.62042260143" visible="true"/>
+<node action="modify" id="-117" lat="43.1541328645" lon="-4.62057354418" visible="true"/>
+<node action="modify" id="-120" lat="43.1540017246" lon="-4.62066515643" visible="true"/>
+<node action="modify" id="-121" lat="43.1540161411" lon="-4.62067722165" visible="true"/>
+<node action="modify" id="-124" lat="43.1543929901" lon="-4.62030876097" visible="true"/>
+<node action="modify" id="-31" lat="43.154502157" lon="-4.62003987618" visible="true"/>
+<node action="modify" id="-132" lat="43.1542443848" lon="-4.62014490166" visible="true"/>
+<node action="modify" id="-125" lat="43.1544007691" lon="-4.620286582" visible="true"/>
+<node action="modify" id="-126" lat="43.1543764078" lon="-4.62027064418" visible="true"/>
+<node action="modify" id="-90" lat="43.1546842908" lon="-4.61860853525" visible="true"/>
+<node action="modify" id="-127" lat="43.1543686333" lon="-4.62029282326" visible="true"/>
+<node action="modify" id="-91" lat="43.1546967542" lon="-4.61862628617" visible="true"/>
+<node action="modify" id="-131" lat="43.1542870847" lon="-4.62002918778" visible="true"/>
+<node action="modify" id="-72" lat="43.1537800922" lon="-4.62024100066" visible="true"/>
+<node action="modify" id="-133" lat="43.1544155136" lon="-4.62025642657" visible="true"/>
+<node action="modify" id="-92" lat="43.15467012" lon="-4.61866118323" visible="true"/>
+<node action="modify" id="-136" lat="43.1545336629" lon="-4.62021797737" visible="true"/>
+<node action="modify" id="-23" lat="43.1550083952" lon="-4.61936794396" visible="true"/>
+<node action="modify" id="-6" lat="43.1546907911" lon="-4.61860001742" visible="true"/>
+<node action="modify" id="-63" lat="43.153946718" lon="-4.620530866" visible="true"/>
+<node action="modify" id="-139" lat="43.154644392" lon="-4.62021991946" visible="true"/>
+<node action="modify" id="-46" lat="43.1540118546" lon="-4.6205345554" visible="true"/>
+<node action="modify" id="-143" lat="43.1542257386" lon="-4.61992252591" visible="true"/>
+<node action="modify" id="-14" lat="43.1546527192" lon="-4.61868436301" visible="true"/>
+<node action="modify" id="-71" lat="43.153877637" lon="-4.62031552796" visible="true"/>
+<node action="modify" id="-144" lat="43.1541465713" lon="-4.61987283662" visible="true"/>
+<node action="modify" id="-55" lat="43.1541324249" lon="-4.62059185829" visible="true"/>
+<node action="modify" id="-22" lat="43.1549629477" lon="-4.61931759126" visible="true"/>
+<node action="modify" id="-146" lat="43.1541729238" lon="-4.62006577473" visible="true"/>
+<node action="modify" id="-20" lat="43.1549101665" lon="-4.61927177958" visible="true"/>
+<node action="modify" id="-24" lat="43.1550039845" lon="-4.61937537064" visible="true"/>
+<node action="modify" id="-150" lat="43.1542159757" lon="-4.61972934948" visible="true"/>
+<node action="modify" id="-151" lat="43.1542192279" lon="-4.61973146475" visible="true"/>
+<node action="modify" id="-135" lat="43.1545551882" lon="-4.62015409822" visible="true"/>
+<node action="modify" id="-18" lat="43.1549544034" lon="-4.61919728806" visible="true"/>
+<node action="modify" id="-152" lat="43.1542358647" lon="-4.61968371611" visible="true"/>
+<node action="modify" id="-153" lat="43.1541916421" lon="-4.61965325749" visible="true"/>
+<node action="modify" id="-154" lat="43.1541895068" lon="-4.61965938448" visible="true"/>
+<node action="modify" id="-96" lat="43.1549584761" lon="-4.61932512149" visible="true"/>
+<node action="modify" id="-155" lat="43.1541720935" lon="-4.61970935348" visible="true"/>
+<node action="modify" id="-156" lat="43.1541579135" lon="-4.61975004638" visible="true"/>
+<node action="modify" id="-137" lat="43.1545969192" lon="-4.62025937546" visible="true"/>
+<node action="modify" id="-5" lat="43.1547119798" lon="-4.61863018725" visible="true"/>
+<node action="modify" id="-149" lat="43.1541993718" lon="-4.61977700056" visible="true"/>
+<node action="modify" id="-138" lat="43.1546325889" lon="-4.62023313673" visible="true"/>
+<node action="modify" id="-3" lat="43.1546612987" lon="-4.61869658743" visible="true"/>
+<node action="modify" id="-17" lat="43.1550962767" lon="-4.61935305459" visible="true"/>
+<node action="modify" id="-98" lat="43.1549147035" lon="-4.61926413977" visible="true"/>
+<node action="modify" id="-76" lat="43.1546788453" lon="-4.61867360214" visible="true"/>
+<node action="modify" id="-101" lat="43.1550523562" lon="-4.61942878139" visible="true"/>
+<node action="modify" id="-16" lat="43.1550566398" lon="-4.61942139563" visible="true"/>
+<node action="modify" id="-82" lat="43.1545951547" lon="-4.61869122524" visible="true"/>
+<way action="modify" id="-27" visible="true">
+  <nd ref="-111"/>
+  <nd ref="-112"/>
+  <nd ref="-30"/>
+  <nd ref="-31"/>
+  <nd ref="-32"/>
+  <nd ref="-33"/>
+  <nd ref="-111"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:street" v="Carretera Nueva"/>
+</way>
+<way action="modify" id="-35" visible="true">
+  <nd ref="-36"/>
+  <nd ref="-46"/>
+  <nd ref="-117"/>
+  <nd ref="-39"/>
+  <nd ref="-40"/>
+  <nd ref="-41"/>
+  <nd ref="-42"/>
+  <nd ref="-43"/>
+  <nd ref="-36"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-79" visible="true">
+  <nd ref="-84"/>
+  <nd ref="-81"/>
+  <nd ref="-82"/>
+  <nd ref="-83"/>
+  <nd ref="-84"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-85" visible="true">
+  <nd ref="-92"/>
+  <nd ref="-76"/>
+  <nd ref="-5"/>
+  <nd ref="-6"/>
+  <nd ref="-90"/>
+  <nd ref="-91"/>
+  <nd ref="-92"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="building:levels:underground" v="1"/>
+</way>
+<way action="modify" id="-65" visible="true">
+  <nd ref="-72"/>
+  <nd ref="-67"/>
+  <nd ref="-68"/>
+  <nd ref="-69"/>
+  <nd ref="-70"/>
+  <nd ref="-71"/>
+  <nd ref="-72"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Calle de la Portilla"/>
+</way>
+<way action="modify" id="-1" visible="true">
+  <nd ref="-14"/>
+  <nd ref="-3"/>
+  <nd ref="-76"/>
+  <nd ref="-5"/>
+  <nd ref="-6"/>
+  <nd ref="-7"/>
+  <nd ref="-84"/>
+  <nd ref="-81"/>
+  <nd ref="-82"/>
+  <nd ref="-83"/>
+  <nd ref="-12"/>
+  <nd ref="-13"/>
+  <nd ref="-14"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="building:levels:underground" v="1"/>
+  <tag k="addr:street" v="Camino Viejo"/>
+</way>
+<way action="modify" id="-58" visible="true">
+  <nd ref="-64"/>
+  <nd ref="-60"/>
+  <nd ref="-61"/>
+  <nd ref="-62"/>
+  <nd ref="-63"/>
+  <nd ref="-64"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-93" visible="true">
+  <nd ref="-98"/>
+  <nd ref="-20"/>
+  <nd ref="-96"/>
+  <nd ref="-22"/>
+  <nd ref="-98"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-105" visible="true">
+  <nd ref="-112"/>
+  <nd ref="-30"/>
+  <nd ref="-31"/>
+  <nd ref="-109"/>
+  <nd ref="-110"/>
+  <nd ref="-111"/>
+  <nd ref="-112"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-113" visible="true">
+  <nd ref="-121"/>
+  <nd ref="-54"/>
+  <nd ref="-55"/>
+  <nd ref="-117"/>
+  <nd ref="-46"/>
+  <nd ref="-119"/>
+  <nd ref="-120"/>
+  <nd ref="-121"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-134" visible="true">
+  <nd ref="-135"/>
+  <nd ref="-136"/>
+  <nd ref="-137"/>
+  <nd ref="-138"/>
+  <nd ref="-139"/>
+  <nd ref="-135"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-122" visible="true">
+  <nd ref="-127"/>
+  <nd ref="-124"/>
+  <nd ref="-125"/>
+  <nd ref="-126"/>
+  <nd ref="-127"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-45" visible="true">
+  <nd ref="-46"/>
+  <nd ref="-36"/>
+  <nd ref="-48"/>
+  <nd ref="-49"/>
+  <nd ref="-63"/>
+  <nd ref="-62"/>
+  <nd ref="-120"/>
+  <nd ref="-121"/>
+  <nd ref="-54"/>
+  <nd ref="-55"/>
+  <nd ref="-117"/>
+  <nd ref="-46"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-99" visible="true">
+  <nd ref="-24"/>
+  <nd ref="-101"/>
+  <nd ref="-16"/>
+  <nd ref="-23"/>
+  <nd ref="-24"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-128" visible="true">
+  <nd ref="-133"/>
+  <nd ref="-130"/>
+  <nd ref="-131"/>
+  <nd ref="-132"/>
+  <nd ref="-133"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-141" visible="true">
+  <nd ref="-146"/>
+  <nd ref="-143"/>
+  <nd ref="-144"/>
+  <nd ref="-145"/>
+  <nd ref="-146"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way action="modify" id="-15" visible="true">
+  <nd ref="-16"/>
+  <nd ref="-17"/>
+  <nd ref="-18"/>
+  <nd ref="-98"/>
+  <nd ref="-20"/>
+  <nd ref="-96"/>
+  <nd ref="-22"/>
+  <nd ref="-23"/>
+  <nd ref="-24"/>
+  <nd ref="-101"/>
+  <nd ref="-16"/>
+  <tag k="building" v="residential"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="addr:postcode" v="39570"/>
+  <tag k="addr:street" v="Camino Viejo"/>
+</way>
+<way action="modify" id="-147" visible="true">
+  <nd ref="-156"/>
+  <nd ref="-149"/>
+  <nd ref="-150"/>
+  <nd ref="-151"/>
+  <nd ref="-152"/>
+  <nd ref="-153"/>
+  <nd ref="-154"/>
+  <nd ref="-155"/>
+  <nd ref="-156"/>
+  <tag k="building" v="residential"/>
+  <tag k="building:levels" v="1"/>
+</way>
+<way action="modify" id="-73" visible="true">
+  <nd ref="-14"/>
+  <nd ref="-3"/>
+  <nd ref="-76"/>
+  <nd ref="-92"/>
+  <nd ref="-14"/>
+  <tag k="building:part" v="yes"/>
+  <tag k="building:levels" v="1"/>
+</way>
+</osm>
