@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
 "features": [
 { "type": "Feature", "properties": { "localId": "07.064.1.1.0254107FE1105S", "spec": "Parcel", "designator": "1", "image": "http:\/\/ovc.catastro.meh.es\/OVCServWeb\/OVCWcfLibres\/OVCFotoFachada.svc\/RecuperarFotoFachadaGet?ReferenciaCatastral=0254107FE1105S", "PD_id": "ES.SDGC.PD.07.064.7720", "TN_id": "ES.SDGC.TN.07.064.1", "AU_id": "ES.SDGC.AU.07.064", "postCode": 7720, "TN_text": "CL ANTONIA ORFILA" }, "geometry": { "type": "Point", "coordinates": [ 4.288021069812165, 39.879910173289488 ] } },
 { "type": "Feature", "properties": { "localId": "07.064.1.13.0254104FE1105S", "spec": "Entrance", "designator": "13", "image": "http:\/\/ovc.catastro.meh.es\/OVCServWeb\/OVCWcfLibres\/OVCFotoFachada.svc\/RecuperarFotoFachadaGet?ReferenciaCatastral=0254104FE1105S", "PD_id": "ES.SDGC.PD.07.064.7720", "TN_id": "ES.SDGC.TN.07.064.1", "AU_id": "ES.SDGC.AU.07.064", "postCode": 7720, "TN_text": "CL ANTONIA ORFILA" }, "geometry": { "type": "Point", "coordinates": [ 4.287567272750349, 39.880161795862819 ] } },
