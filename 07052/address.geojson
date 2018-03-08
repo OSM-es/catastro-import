@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
 "features": [
 { "type": "Feature", "properties": { "localId": "07.052.1.S-N.07052A00200147", "spec": "Parcel", "designator": "S-N", "image": "http:\/\/ovc.catastro.meh.es\/OVCServWeb\/OVCWcfLibres\/OVCFotoFachada.svc\/RecuperarFotoFachadaGet?ReferenciaCatastral=07052A00200147", "PD_id": "ES.SDGC.PD.07.052.7711", "TN_id": "ES.SDGC.TN.07.052.1", "AU_id": "ES.SDGC.AU.07.052", "postCode": 7711, "TN_text": "CL CALVO SOTELO" }, "geometry": { "type": "Point", "coordinates": [ 4.244112555242944, 39.861343384737715 ] } },
 { "type": "Feature", "properties": { "localId": "07.052.10.S-N.07052A00100054", "spec": "Parcel", "designator": "S-N", "image": "http:\/\/ovc.catastro.meh.es\/OVCServWeb\/OVCWcfLibres\/OVCFotoFachada.svc\/RecuperarFotoFachadaGet?ReferenciaCatastral=07052A00100054", "PD_id": "ES.SDGC.PD.07.052.7711", "TN_id": "ES.SDGC.TN.07.052.10", "AU_id": "ES.SDGC.AU.07.052", "postCode": 7711, "TN_text": "CL SANT LLUIS" }, "geometry": { "type": "Point", "coordinates": [ 4.253858093488772, 39.853675748494489 ] } },
