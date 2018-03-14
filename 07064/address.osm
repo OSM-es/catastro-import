@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<osm version='0.6' generator='JOSM'upload='never'>
+<osm version='0.6' generator='JOSM' upload='never'>
   <node id='-39097' lat='39.86134338474' lon='4.24411255524'>
     <tag k='AU_id' v='ES.SDGC.AU.07.052' />
     <tag k='PD_id' v='ES.SDGC.PD.07.052.7711' />
