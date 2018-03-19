@@ -1,0 +1,1620 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.1.5'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2017-09-06"/>
+</changeset>
+<node action="modify" id="-216" lat="28.339729749" lon="-16.41874609" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-258" lat="28.3286064661" lon="-16.3788058982" visible="true">
+  <tag k="addr:housenumber" v="47A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-45" lat="28.3396094925" lon="-16.4171144458" visible="true">
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Victoria P&#233;rez Batista"/>
+</node>
+<node action="modify" id="-273" lat="28.3410132131" lon="-16.4214758215" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n Le&#243;n"/>
+</node>
+<node action="modify" id="-76" lat="28.337977534" lon="-16.4216764524" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Flora"/>
+</node>
+<node action="modify" id="-189" lat="28.3405423376" lon="-16.4201370169" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-170" lat="28.3388205087" lon="-16.4201250691" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle San Pedro"/>
+</node>
+<node action="modify" id="-46" lat="28.339547479" lon="-16.4168981766" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Primera Transversal Mario Marrero Fari&#241;a"/>
+</node>
+<node action="modify" id="-301" lat="28.3411602142" lon="-16.4224973716" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Manuel Herrera"/>
+</node>
+<node action="modify" id="-95" lat="28.3378979493" lon="-16.4222633711" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-97" lat="28.3374919044" lon="-16.4207734348" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-219" lat="28.340210359" lon="-16.4156764075" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Modesto Fraile Poujade"/>
+</node>
+<node action="modify" id="-47" lat="28.3418074936" lon="-16.4189745432" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-172" lat="28.3421661753" lon="-16.4217895608" visible="true">
+  <tag k="addr:housenumber" v="17A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-175" lat="28.342608007" lon="-16.4212050108" visible="true">
+  <tag k="addr:housenumber" v="34B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-137" lat="28.3428657005" lon="-16.4202935661" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Pablo II"/>
+</node>
+<node action="modify" id="-288" lat="28.3384329987" lon="-16.4238111803" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-265" lat="28.3411148449" lon="-16.4227464193" visible="true">
+  <tag k="addr:housenumber" v="1C"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-48" lat="28.3415150008" lon="-16.419081869" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-166" lat="28.341184186" lon="-16.4168407369" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Rafael Clavijo Garc&#237;a"/>
+</node>
+<node action="modify" id="-138" lat="28.3362373336" lon="-16.3927489494" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Luis Marrero Moreno"/>
+</node>
+<node action="modify" id="-256" lat="28.3278911444" lon="-16.3787133307" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-49" lat="28.3415993465" lon="-16.4190709808" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-125" lat="28.3366219722" lon="-16.402483496" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino la Choza"/>
+</node>
+<node action="modify" id="-139" lat="28.3392259129" lon="-16.4205765752" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-80" lat="28.3394889303" lon="-16.4260926051" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-299" lat="28.3408534469" lon="-16.4226202022" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Manuel Herrera"/>
+</node>
+<node action="modify" id="-56" lat="28.3422984792" lon="-16.4193802339" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Segunda transversal Norte"/>
+</node>
+<node action="modify" id="-140" lat="28.3390475756" lon="-16.4206542801" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-51" lat="28.3417729108" lon="-16.4189975915" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-106" lat="28.3376815138" lon="-16.4230343247" visible="true">
+  <tag k="addr:housenumber" v="91"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-212" lat="28.3339015203" lon="-16.4201948313" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Luis Braille"/>
+</node>
+<node action="modify" id="-141" lat="28.3388919821" lon="-16.4205760086" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-286" lat="28.3360683598" lon="-16.4229826547" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-52" lat="28.3417541355" lon="-16.4189740629" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-96" lat="28.337471919" lon="-16.4205692542" visible="true">
+  <tag k="addr:housenumber" v="40A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-142" lat="28.3389104038" lon="-16.4206097129" visible="true">
+  <tag k="addr:housenumber" v="20A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-254" lat="28.3285021517" lon="-16.3793486239" visible="true">
+  <tag k="addr:housenumber" v="31B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-136" lat="28.341442697" lon="-16.4201464503" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Pablo II"/>
+</node>
+<node action="modify" id="-83" lat="28.3394851813" lon="-16.4263216699" visible="true">
+  <tag k="addr:housenumber" v="45B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-269" lat="28.3413500139" lon="-16.4228197239" visible="true">
+  <tag k="addr:housenumber" v="5B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-176" lat="28.3428383614" lon="-16.4210345148" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-143" lat="28.338550401" lon="-16.4208215611" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-227" lat="28.3373995083" lon="-16.4194448734" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida de los Reyes de Espa&#241;a"/>
+</node>
+<node action="modify" id="-54" lat="28.3419183885" lon="-16.4185779638" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Rafael Clavijo Garc&#237;a Segunda"/>
+</node>
+<node action="modify" id="-237" lat="28.3409686797" lon="-16.4255783405" visible="true">
+  <tag k="addr:housenumber" v="53B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-167" lat="28.3420618499" lon="-16.4248503881" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle San Antonio"/>
+</node>
+<node action="modify" id="-144" lat="28.3394459542" lon="-16.4202468475" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-85" lat="28.3396340574" lon="-16.4260407842" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-274" lat="28.337485233" lon="-16.4234562673" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-187" lat="28.3402875463" lon="-16.4201456889" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-145" lat="28.3371159388" lon="-16.4188590968" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Doctor Gonz&#225;lez Marrero"/>
+</node>
+<node action="modify" id="-284" lat="28.3364758582" lon="-16.422951317" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-4" lat="28.3410342669" lon="-16.4200265147" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-296" lat="28.337947738" lon="-16.417766975" visible="true">
+  <tag k="addr:housenumber" v="23A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Gu&#237;a de Isora"/>
+</node>
+<node action="modify" id="-87" lat="28.3396519845" lon="-16.4261302827" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-146" lat="28.3402931187" lon="-16.4188894343" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-252" lat="28.3286003275" lon="-16.3767415245" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-57" lat="28.3423227008" lon="-16.4192327886" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Segunda transversal Norte"/>
+</node>
+<node action="modify" id="-267" lat="28.3411824248" lon="-16.4227581195" visible="true">
+  <tag k="addr:housenumber" v="1E"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-107" lat="28.3377039694" lon="-16.4232695496" visible="true">
+  <tag k="addr:housenumber" v="94"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-183" lat="28.3429490437" lon="-16.4208443243" visible="true">
+  <tag k="addr:housenumber" v="48B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-147" lat="28.34030694" lon="-16.4188274932" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-225" lat="28.3373220364" lon="-16.4252212805" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Nuestra Se&#241;ora de Candelaria"/>
+</node>
+<node action="modify" id="-58" lat="28.3423283026" lon="-16.4191789448" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Segunda transversal Norte"/>
+</node>
+<node action="modify" id="-235" lat="28.3410919424" lon="-16.4256150784" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-68" lat="28.3323023503" lon="-16.3967738114" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-148" lat="28.3403385737" lon="-16.4187537515" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-241" lat="28.3405381103" lon="-16.4182169671" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Mario Marrero Fari&#241;a"/>
+</node>
+<node action="modify" id="-59" lat="28.3324612693" lon="-16.3973572114" visible="true">
+  <tag k="addr:housenumber" v="11A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-177" lat="28.3429807747" lon="-16.4209411427" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-208" lat="28.3422587473" lon="-16.4108414279" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Lu&#237;s Otazo Marrero"/>
+</node>
+<node action="modify" id="-149" lat="28.3405796794" lon="-16.4185503825" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-291" lat="28.3352386297" lon="-16.4228114932" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-60" lat="28.3333816499" lon="-16.3954112673" visible="true">
+  <tag k="addr:housenumber" v="12C"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-77" lat="28.3388603454" lon="-16.4249500668" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-280" lat="28.3363658251" lon="-16.4230336191" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-90" lat="28.3391662082" lon="-16.4186757007" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-3" lat="28.3409496228" lon="-16.419756486" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-188" lat="28.3403987811" lon="-16.4201225738" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-302" lat="28.3360696888" lon="-16.4199766058" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Mar&#237;a Auxiliadora"/>
+</node>
+<node action="modify" id="-151" lat="28.3401512295" lon="-16.4190987113" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-223" lat="28.3384845237" lon="-16.418690963" visible="true">
+  <tag k="addr:housenumber" v="16B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle C&#225;ndido Mesa Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-293" lat="28.334242189" lon="-16.4169955952" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Candelaria"/>
+</node>
+<node action="modify" id="-62" lat="28.3328075864" lon="-16.3970474669" visible="true">
+  <tag k="addr:housenumber" v="13A"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-88" lat="28.3396076914" lon="-16.4262836245" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-152" lat="28.3402617684" lon="-16.4189619555" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-63" lat="28.3330568629" lon="-16.3966776965" visible="true">
+  <tag k="addr:housenumber" v="13B"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-108" lat="28.3376320944" lon="-16.4233938579" visible="true">
+  <tag k="addr:housenumber" v="96"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-153" lat="28.3399478896" lon="-16.42236544" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Valent&#237;n Fari&#241;a Fari&#241;a"/>
+</node>
+<node action="modify" id="-247" lat="28.3386146787" lon="-16.4252003834" visible="true">
+  <tag k="addr:housenumber" v="26D"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-64" lat="28.3336289151" lon="-16.3951494883" visible="true">
+  <tag k="addr:housenumber" v="14A"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-69" lat="28.3313518057" lon="-16.3982003374" visible="true">
+  <tag k="addr:housenumber" v="4A"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-154" lat="28.3391609757" lon="-16.3661935373" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Calle de las Piteras"/>
+</node>
+<node action="modify" id="-65" lat="28.3344368935" lon="-16.3944054029" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-178" lat="28.3430904234" lon="-16.4208590216" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-155" lat="28.3390987581" lon="-16.3663499405" visible="true">
+  <tag k="addr:housenumber" v="14A"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Calle la Magarza"/>
+</node>
+<node action="modify" id="-221" lat="28.3395567094" lon="-16.4182939038" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle M&#250;sicos de Arafo"/>
+</node>
+<node action="modify" id="-250" lat="28.328313061" lon="-16.3770979863" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-66" lat="28.3348817971" lon="-16.3936681968" visible="true">
+  <tag k="addr:housenumber" v="22A"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-78" lat="28.3391938038" lon="-16.4258076259" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-156" lat="28.3391453038" lon="-16.3664335733" visible="true">
+  <tag k="addr:housenumber" v="14B"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Calle la Magarza"/>
+</node>
+<node action="modify" id="-67" lat="28.3348387272" lon="-16.3937053771" visible="true">
+  <tag k="addr:housenumber" v="22B"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-159" lat="28.3393363035" lon="-16.416931799" visible="true">
+  <tag k="addr:housenumber" v="4A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Obispo P&#233;rez C&#225;ceres"/>
+</node>
+<node action="modify" id="-278" lat="28.3370329327" lon="-16.4232354091" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-157" lat="28.3578515899" lon="-16.4204921063" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino los Charcos"/>
+</node>
+<node action="modify" id="-263" lat="28.3416269378" lon="-16.4232409509" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-5" lat="28.3410766657" lon="-16.4196036275" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-89" lat="28.3392513806" lon="-16.4192138554" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-246" lat="28.3386840795" lon="-16.425105727" visible="true">
+  <tag k="addr:housenumber" v="26C"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-158" lat="28.3356243726" lon="-16.4251438441" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:street" v="Calle Perdomo"/>
+</node>
+<node action="modify" id="-102" lat="28.3375075853" lon="-16.4215812439" visible="true">
+  <tag k="addr:housenumber" v="69A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-261" lat="28.3413252725" lon="-16.4231063539" visible="true">
+  <tag k="addr:housenumber" v="13A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-6" lat="28.3410001236" lon="-16.4195417893" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-109" lat="28.3401031214" lon="-16.4200647296" visible="true">
+  <tag k="addr:housenumber" v="16A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Libertad"/>
+</node>
+<node action="modify" id="-1" lat="28.340917334" lon="-16.4195134849" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-229" lat="28.3363650414" lon="-16.4206137947" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida de los Reyes de Espa&#241;a"/>
+</node>
+<node action="modify" id="-70" lat="28.3312780088" lon="-16.3986923353" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-86" lat="28.3358488355" lon="-16.42369151" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-7" lat="28.3408579476" lon="-16.419408502" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-2" lat="28.3408612027" lon="-16.4192612866" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-8" lat="28.3410452176" lon="-16.4195664568" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-179" lat="28.3429661817" lon="-16.4208712799" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-276" lat="28.3368825591" lon="-16.4233143989" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-161" lat="28.3396799093" lon="-16.4177031652" visible="true">
+  <tag k="addr:housenumber" v="16A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle On&#233;simo Redondo"/>
+</node>
+<node action="modify" id="-72" lat="28.3352499623" lon="-16.3940460408" visible="true">
+  <tag k="addr:housenumber" v="11A"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Calle Hidalga Primera"/>
+</node>
+<node action="modify" id="-79" lat="28.3378852905" lon="-16.426414241" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-244" lat="28.3386042973" lon="-16.4249414472" visible="true">
+  <tag k="addr:housenumber" v="26A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-162" lat="28.3394317537" lon="-16.4176384599" visible="true">
+  <tag k="addr:housenumber" v="20A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle On&#233;simo Redondo"/>
+</node>
+<node action="modify" id="-100" lat="28.3373400616" lon="-16.4212279114" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-169" lat="28.3388402825" lon="-16.4201758508" visible="true">
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle San Pedro"/>
+</node>
+<node action="modify" id="-259" lat="28.3284682968" lon="-16.3777417766" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-73" lat="28.3396390469" lon="-16.4373192983" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Casta&#241;o"/>
+</node>
+<node action="modify" id="-160" lat="28.3389937509" lon="-16.4169955721" visible="true">
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Obispo P&#233;rez C&#225;ceres"/>
+</node>
+<node action="modify" id="-233" lat="28.3410529767" lon="-16.4250514537" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-163" lat="28.3414672695" lon="-16.4173832207" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Rafael Clavijo Garc&#237;a"/>
+</node>
+<node action="modify" id="-168" lat="28.3387886008" lon="-16.4200798369" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle San Pedro"/>
+</node>
+<node action="modify" id="-74" lat="28.3387860881" lon="-16.4215834746" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Flora"/>
+</node>
+<node action="modify" id="-200" lat="28.3425984972" lon="-16.419335894" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-211" lat="28.337371214" lon="-16.4138469671" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Belisario Garc&#237;a Siliuto"/>
+</node>
+<node action="modify" id="-164" lat="28.3412448443" lon="-16.4160056551" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Rafael Clavijo Garc&#237;a"/>
+</node>
+<node action="modify" id="-12" lat="28.3407192373" lon="-16.4197101693" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-272" lat="28.3408602619" lon="-16.4215931578" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n Le&#243;n"/>
+</node>
+<node action="modify" id="-110" lat="28.3401121262" lon="-16.4201786962" visible="true">
+  <tag k="addr:housenumber" v="18A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Libertad"/>
+</node>
+<node action="modify" id="-75" lat="28.3380950497" lon="-16.4215848472" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Flora"/>
+</node>
+<node action="modify" id="-190" lat="28.3405860735" lon="-16.4201186572" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-13" lat="28.3409760261" lon="-16.4197690785" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-294" lat="28.3385994076" lon="-16.4168482407" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Gu&#237;a de Isora"/>
+</node>
+<node action="modify" id="-71" lat="28.3330170246" lon="-16.3960023125" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-98" lat="28.3371659192" lon="-16.4204184367" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-266" lat="28.3411272295" lon="-16.4227407031" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-196" lat="28.3415980279" lon="-16.4192076116" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-173" lat="28.3422115388" lon="-16.4217899639" visible="true">
+  <tag k="addr:housenumber" v="17B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-150" lat="28.3401663766" lon="-16.4185102072" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-14" lat="28.3425890735" lon="-16.4172831458" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera de Arafo a la Cumbre"/>
+</node>
+<node action="modify" id="-289" lat="28.3348818084" lon="-16.4225202392" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-197" lat="28.3419792431" lon="-16.4195011854" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-297" lat="28.3399745864" lon="-16.4180903228" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Beato P&#225;rroco Don Vicente Jorge Dorta"/>
+</node>
+<node action="modify" id="-50" lat="28.3416625982" lon="-16.4190578198" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-15" lat="28.3552019898" lon="-16.4196818453" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera de Arafo a la Cumbre"/>
+</node>
+<node action="modify" id="-232" lat="28.3413955174" lon="-16.4249289767" visible="true">
+  <tag k="addr:housenumber" v="30A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-257" lat="28.3281874973" lon="-16.3778508654" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-198" lat="28.3427338354" lon="-16.4190108293" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-191" lat="28.3406183564" lon="-16.4201601806" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-16" lat="28.334720825" lon="-16.4194911158" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Maestro Calamita"/>
+</node>
+<node action="modify" id="-199" lat="28.3427096476" lon="-16.4189784038" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-300" lat="28.3409764688" lon="-16.422585781" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Manuel Herrera"/>
+</node>
+<node action="modify" id="-61" lat="28.3331246195" lon="-16.3969571417" visible="true">
+  <tag k="addr:housenumber" v="13A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Carretera General del Sur"/>
+</node>
+<node action="modify" id="-17" lat="28.3398613089" lon="-16.4228981253" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Cruz"/>
+</node>
+<node action="modify" id="-242" lat="28.3382668053" lon="-16.4241498415" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-171" lat="28.3412903392" lon="-16.422284896" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-111" lat="28.3402466006" lon="-16.4209563756" visible="true">
+  <tag k="addr:housenumber" v="32A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Libertad"/>
+</node>
+<node action="modify" id="-209" lat="28.3402933549" lon="-16.4145221359" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Belisario Garc&#237;a Siliuto"/>
+</node>
+<node action="modify" id="-18" lat="28.3395244499" lon="-16.4232709668" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Cruz"/>
+</node>
+<node action="modify" id="-287" lat="28.3361670133" lon="-16.4228857695" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-201" lat="28.342634701" lon="-16.4192571999" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-9" lat="28.3408769313" lon="-16.4195520061" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-281" lat="28.3366594952" lon="-16.4228605523" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-19" lat="28.3389620125" lon="-16.42350258" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Cruz"/>
+</node>
+<node action="modify" id="-255" lat="28.3281060697" lon="-16.3791925487" visible="true">
+  <tag k="addr:housenumber" v="35A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-202" lat="28.3427458658" lon="-16.4188218232" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-270" lat="28.3352218679" lon="-16.393226967" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-181" lat="28.3429404686" lon="-16.420782043" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-303" lat="28.3360896362" lon="-16.4200284866" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Mar&#237;a Auxiliadora"/>
+</node>
+<node action="modify" id="-20" lat="28.3389008953" lon="-16.4235732739" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Cruz"/>
+</node>
+<node action="modify" id="-239" lat="28.3406381634" lon="-16.4166313038" visible="true">
+  <tag k="addr:housenumber" v="30B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Mario Marrero Fari&#241;a"/>
+</node>
+<node action="modify" id="-203" lat="28.3427423945" lon="-16.4186305349" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-238" lat="28.3406259444" lon="-16.4162689454" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Mario Marrero Fari&#241;a"/>
+</node>
+<node action="modify" id="-81" lat="28.339575855" lon="-16.4259361604" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-21" lat="28.3402217992" lon="-16.422608317" visible="true">
+  <tag k="addr:housenumber" v="3B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Cruz"/>
+</node>
+<node action="modify" id="-204" lat="28.3364765773" lon="-16.4168625821" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Puerto de la Cruz"/>
+</node>
+<node action="modify" id="-192" lat="28.339853172" lon="-16.4225700173" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Valent&#237;n Fari&#241;a Fari&#241;a"/>
+</node>
+<node action="modify" id="-22" lat="28.3381984562" lon="-16.4237634379" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Cruz"/>
+</node>
+<node action="modify" id="-285" lat="28.33643403" lon="-16.4227406476" visible="true">
+  <tag k="addr:housenumber" v="29A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-271" lat="28.3412301788" lon="-16.4217185404" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n Le&#243;n"/>
+</node>
+<node action="modify" id="-248" lat="28.3383310254" lon="-16.424127746" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-205" lat="28.336588403" lon="-16.417090756" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Puerto de la Cruz"/>
+</node>
+<node action="modify" id="-91" lat="28.3421993964" lon="-16.4205155565" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle La Orotava"/>
+</node>
+<node action="modify" id="-23" lat="28.3417581367" lon="-16.4213233372" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Chogo (Arafo)"/>
+</node>
+<node action="modify" id="-253" lat="28.3278815266" lon="-16.3825979845" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-135" lat="28.3402221756" lon="-16.4204765989" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Pablo II"/>
+</node>
+<node action="modify" id="-206" lat="28.3419947769" lon="-16.4243282933" visible="true">
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Presb&#237;tero Jes&#250;s Amaro"/>
+</node>
+<node action="modify" id="-268" lat="28.3412230207" lon="-16.4227425426" visible="true">
+  <tag k="addr:housenumber" v="1F"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-112" lat="28.3401535115" lon="-16.421733706" visible="true">
+  <tag k="addr:housenumber" v="47A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Libertad"/>
+</node>
+<node action="modify" id="-24" lat="28.341081016" lon="-16.4211878269" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Chogo (Arafo)"/>
+</node>
+<node action="modify" id="-226" lat="28.3386830776" lon="-16.4195390951" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida de los Reyes de Espa&#241;a"/>
+</node>
+<node action="modify" id="-116" lat="28.3387802568" lon="-16.4201631503" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Jes&#250;s Santiago Guanche"/>
+</node>
+<node action="modify" id="-236" lat="28.3411589815" lon="-16.4255909808" visible="true">
+  <tag k="addr:housenumber" v="53A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-10" lat="28.3409365284" lon="-16.419644507" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-25" lat="28.3416589698" lon="-16.4213481328" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Chogo (Arafo)"/>
+</node>
+<node action="modify" id="-117" lat="28.3369813456" lon="-16.4158168077" visible="true">
+  <tag k="addr:housenumber" v="34B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida Alcalde Domingo Calzadilla"/>
+</node>
+<node action="modify" id="-182" lat="28.3429556625" lon="-16.420789427" visible="true">
+  <tag k="addr:housenumber" v="48A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-26" lat="28.3424302658" lon="-16.4199765882" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Tercera transversal Juan Pablo II"/>
+</node>
+<node action="modify" id="-283" lat="28.3365467587" lon="-16.4231556876" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-264" lat="28.341104647" lon="-16.4226869559" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-118" lat="28.3367242123" lon="-16.4158865378" visible="true">
+  <tag k="addr:housenumber" v="44B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida Alcalde Domingo Calzadilla"/>
+</node>
+<node action="modify" id="-82" lat="28.3395664254" lon="-16.4263632533" visible="true">
+  <tag k="addr:housenumber" v="45A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-27" lat="28.3424296001" lon="-16.4199318132" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Tercera transversal Juan Pablo II"/>
+</node>
+<node action="modify" id="-251" lat="28.3291793967" lon="-16.3839672194" visible="true">
+  <tag k="addr:housenumber" v="21A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-119" lat="28.3353692438" lon="-16.415842662" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida Alcalde Domingo Calzadilla"/>
+</node>
+<node action="modify" id="-193" lat="28.3400418863" lon="-16.4215732646" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Valent&#237;n Fari&#241;a Fari&#241;a"/>
+</node>
+<node action="modify" id="-28" lat="28.3424735461" lon="-16.4198779498" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Tercera transversal Juan Pablo II"/>
+</node>
+<node action="modify" id="-224" lat="28.3378545466" lon="-16.4242000394" visible="true">
+  <tag k="addr:housenumber" v="11A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Nuestra Se&#241;ora de Candelaria"/>
+</node>
+<node action="modify" id="-120" lat="28.3395877848" lon="-16.3917435676" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino El Portugues"/>
+</node>
+<node action="modify" id="-92" lat="28.3422165351" lon="-16.4204471299" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle La Orotava"/>
+</node>
+<node action="modify" id="-29" lat="28.3367129362" lon="-16.4181787408" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Cruz del Valle"/>
+</node>
+<node action="modify" id="-213" lat="28.3368734027" lon="-16.4208597663" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Segunda Galv&#225;n"/>
+</node>
+<node action="modify" id="-121" lat="28.3416883489" lon="-16.4012195964" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Camino El Portugues"/>
+</node>
+<node action="modify" id="-207" lat="28.3425577859" lon="-16.4100531433" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Lu&#237;s Otazo Marrero"/>
+</node>
+<node action="modify" id="-113" lat="28.3397471011" lon="-16.41977273" visible="true">
+  <tag k="addr:housenumber" v="6A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Libertad"/>
+</node>
+<node action="modify" id="-231" lat="28.3404673641" lon="-16.4242873264" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-30" lat="28.3415938278" lon="-16.4234818704" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Andr&#233;s Orozco Batista Primera"/>
+</node>
+<node action="modify" id="-122" lat="28.3377293591" lon="-16.4044594707" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino la Choza"/>
+</node>
+<node action="modify" id="-11" lat="28.3409681794" lon="-16.4197425531" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eufemiano Ferrera Coello"/>
+</node>
+<node action="modify" id="-31" lat="28.3415410493" lon="-16.4234627025" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Andr&#233;s Orozco Batista Primera"/>
+</node>
+<node action="modify" id="-214" lat="28.3368521706" lon="-16.4209918899" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Segunda Galv&#225;n"/>
+</node>
+<node action="modify" id="-123" lat="28.3359389706" lon="-16.4028572569" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Camino la Choza"/>
+</node>
+<node action="modify" id="-180" lat="28.3429332474" lon="-16.4208042318" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-32" lat="28.3418671877" lon="-16.423344982" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Andr&#233;s Orozco Batista Segunda"/>
+</node>
+<node action="modify" id="-222" lat="28.3385034089" lon="-16.4186193994" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle C&#225;ndido Mesa Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-292" lat="28.3348861005" lon="-16.422740425" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-215" lat="28.3386117069" lon="-16.4368988601" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino de Galv&#225;n"/>
+</node>
+<node action="modify" id="-53" lat="28.3418313341" lon="-16.4189933129" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Primera Rafael Clavijo Garcia"/>
+</node>
+<node action="modify" id="-33" lat="28.3418728276" lon="-16.4235334713" visible="true">
+  <tag k="addr:housenumber" v="3A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Andr&#233;s Orozco Batista Segunda"/>
+</node>
+<node action="modify" id="-124" lat="28.3367808141" lon="-16.4025365864" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Camino la Choza"/>
+</node>
+<node action="modify" id="-194" lat="28.3411813872" lon="-16.4194275193" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-34" lat="28.338113014" lon="-16.4207533312" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Segunda transversal la Herrer&#237;a"/>
+</node>
+<node action="modify" id="-195" lat="28.3409045835" lon="-16.418768006" visible="true">
+  <tag k="addr:housenumber" v="18A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Lu&#237;s Coello"/>
+</node>
+<node action="modify" id="-217" lat="28.3397533574" lon="-16.4188418998" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Plaza de San Juan"/>
+</node>
+<node action="modify" id="-295" lat="28.3382896022" lon="-16.4179032027" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Gu&#237;a de Isora"/>
+</node>
+<node action="modify" id="-93" lat="28.3424400114" lon="-16.4203883473" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle La Orotava"/>
+</node>
+<node action="modify" id="-35" lat="28.3381730058" lon="-16.4220324491" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Segunda Galv&#225;n"/>
+</node>
+<node action="modify" id="-103" lat="28.3373807853" lon="-16.4219323099" visible="true">
+  <tag k="addr:housenumber" v="73A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-262" lat="28.3412901692" lon="-16.4230539619" visible="true">
+  <tag k="addr:housenumber" v="13B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Andr&#233;s Orozco Batista"/>
+</node>
+<node action="modify" id="-218" lat="28.3405484855" lon="-16.4157588344" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Modesto Fraile Poujade"/>
+</node>
+<node action="modify" id="-279" lat="28.3371651375" lon="-16.423055291" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-114" lat="28.3313849897" lon="-16.39571771" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="38509"/>
+  <tag k="addr:street" v="Calle Fray Anselmo N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-36" lat="28.3380966015" lon="-16.4220378232" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Segunda Galv&#225;n"/>
+</node>
+<node action="modify" id="-220" lat="28.3393424022" lon="-16.418471921" visible="true">
+  <tag k="addr:housenumber" v="10A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle M&#250;sicos de Arafo"/>
+</node>
+<node action="modify" id="-230" lat="28.3409635981" lon="-16.4237837866" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-126" lat="28.3320519486" lon="-16.3869141061" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino de los Majanitos"/>
+</node>
+<node action="modify" id="-104" lat="28.3378739041" lon="-16.4227559192" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-37" lat="28.3365917053" lon="-16.4202374443" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal primera-primera Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-240" lat="28.3405273859" lon="-16.4181546997" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Mario Marrero Fari&#241;a"/>
+</node>
+<node action="modify" id="-298" lat="28.3398856371" lon="-16.4178863008" visible="true">
+  <tag k="addr:housenumber" v="9A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Beato P&#225;rroco Don Vicente Jorge Dorta"/>
+</node>
+<node action="modify" id="-127" lat="28.338073731" lon="-16.4197367073" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Herrer&#237;a"/>
+</node>
+<node action="modify" id="-184" lat="28.3415771928" lon="-16.4222820868" visible="true">
+  <tag k="addr:housenumber" v="7B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-277" lat="28.3372084008" lon="-16.4232770476" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-38" lat="28.3351581136" lon="-16.4180079458" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Callej&#243;n C"/>
+</node>
+<node action="modify" id="-128" lat="28.3383462278" lon="-16.4202664059" visible="true">
+  <tag k="addr:housenumber" v="28A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Herrer&#237;a"/>
+</node>
+<node action="modify" id="-84" lat="28.339528603" lon="-16.4262516589" visible="true">
+  <tag k="addr:housenumber" v="45C"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-245" lat="28.3386370406" lon="-16.4250395014" visible="true">
+  <tag k="addr:housenumber" v="26B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-39" lat="28.338452006" lon="-16.4159053689" visible="true">
+  <tag k="addr:housenumber" v="17A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Transversal Modesto Fraile Poujade"/>
+</node>
+<node action="modify" id="-101" lat="28.3376999335" lon="-16.422159541" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-260" lat="28.3287463755" lon="-16.3861968562" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-129" lat="28.3382343366" lon="-16.4204258741" visible="true">
+  <tag k="addr:housenumber" v="30A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Herrer&#237;a"/>
+</node>
+<node action="modify" id="-165" lat="28.3412388538" lon="-16.4159045837" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Rafael Clavijo Garc&#237;a"/>
+</node>
+<node action="modify" id="-210" lat="28.3373653646" lon="-16.4141476495" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Belisario Garc&#237;a Siliuto"/>
+</node>
+<node action="modify" id="-40" lat="28.3385352568" lon="-16.4158669952" visible="true">
+  <tag k="addr:housenumber" v="17A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Transversal Modesto Fraile Poujade"/>
+</node>
+<node action="modify" id="-234" lat="28.3414489891" lon="-16.4255368085" visible="true">
+  <tag k="addr:housenumber" v="42A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Eduardo Curbelo Fari&#241;a"/>
+</node>
+<node action="modify" id="-228" lat="28.33657602" lon="-16.4200152796" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Avenida de los Reyes de Espa&#241;a"/>
+</node>
+<node action="modify" id="-130" lat="28.3379379923" lon="-16.4204535691" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Herrer&#237;a"/>
+</node>
+<node action="modify" id="-94" lat="28.336621968" lon="-16.4195411351" visible="true">
+  <tag k="addr:housenumber" v="21B"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-282" lat="28.3368316864" lon="-16.4228876347" visible="true">
+  <tag k="addr:housenumber" v="27A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-41" lat="28.337182732" lon="-16.4175604516" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Transversal Cruz del Valle Primera"/>
+</node>
+<node action="modify" id="-131" lat="28.3383482008" lon="-16.4205072621" visible="true">
+  <tag k="addr:housenumber" v="32A"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle la Herrer&#237;a"/>
+</node>
+<node action="modify" id="-115" lat="28.337868841" lon="-16.4065576945" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino la Choza"/>
+</node>
+<node action="modify" id="-275" lat="28.3371006009" lon="-16.4233412772" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-42" lat="28.3370061949" lon="-16.4175866701" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Transversal Cruz del Valle Primera"/>
+</node>
+<node action="modify" id="-132" lat="28.3402801814" lon="-16.4212279829" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Pablo II"/>
+</node>
+<node action="modify" id="-105" lat="28.3378306144" lon="-16.4231008348" visible="true">
+  <tag k="addr:housenumber" v="90"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-243" lat="28.3385934263" lon="-16.4254635898" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Agust&#237;n &#193;ngel Garc&#237;a D&#237;az"/>
+</node>
+<node action="modify" id="-43" lat="28.3384631249" lon="-16.4173461952" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Transversal Gu&#237;a de Isora Primera"/>
+</node>
+<node action="modify" id="-99" lat="28.3376618199" lon="-16.4213655091" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Galv&#225;n"/>
+</node>
+<node action="modify" id="-186" lat="28.3405473164" lon="-16.4203765673" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-133" lat="28.3407870873" lon="-16.4206395806" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Pablo II"/>
+</node>
+<node action="modify" id="-174" lat="28.3422934805" lon="-16.4217913509" visible="true">
+  <tag k="addr:housenumber" v="19A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle V&#237;ctor Servilio P&#233;rez Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-185" lat="28.340801724" lon="-16.4202360792" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle de Sosa"/>
+</node>
+<node action="modify" id="-44" lat="28.3394811085" lon="-16.4169901002" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Victoria P&#233;rez Batista"/>
+</node>
+<node action="modify" id="-290" lat="28.3354150525" lon="-16.4226040514" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Capit&#225;n N&#250;&#241;ez"/>
+</node>
+<node action="modify" id="-249" lat="28.329047558" lon="-16.3853255949" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Camino del Carret&#243;n"/>
+</node>
+<node action="modify" id="-134" lat="28.3415891693" lon="-16.4203100429" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Calle Juan Pablo II"/>
+</node>
+<node action="modify" id="-55" lat="28.3415842471" lon="-16.4186757401" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="38550"/>
+  <tag k="addr:street" v="Transversal Rafael Clavijo Garc&#237;a Segunda"/>
+</node>
+</osm>
