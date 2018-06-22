@@ -1,10 +1,9 @@
 # catastro-import
 
-Se recomienda clonar el repositorio con la opción -n para no descargar los 
-archivos generados por otros usuarios.
+Clonar el repositorio.
 
 ```
-git clone -n https://github.com/OSM-es/catastro-import.git
+git clone https://github.com/OSM-es/catastro-import.git
 cd catastro-import
 ```
 
@@ -13,17 +12,22 @@ Colocar los archivos a publicar para el Gestor de Tareas siguiendo esta estructu
 ```
 MMMMM (código de municipio)  
   |  
-  |- *.gz            ... Archivos de tareas  
-  |- address.geojson ... Archivo de enlaces a imágenes
+  |- *.gz         ... Archivos de tareas  
+  |- address.osm  ... Archivo de enlaces a imágenes
 ```
 
-Añadir los archivos y subir al servidor. Es importante indicar los archivos en 
-el commit para no eliminar los que hayan subido otros usuarios.
+Añadir los archivos y subir al servidor.
 
 ```
 git add <MMMMM>
-git commit -m "MMMMM Nombre del municipio" MMMMM/*
-git push -f
+git commit -m "MMMMM Nombre del municipio"
+git push origin master
 ```
 
 Es necesario recibir previamente permisos para poder subir archivos.
+
+Si tienes que hacer algún cambio o subir nuevos municipios, primero actualiza el repositorio.
+
+```
+git pull
+```
