@@ -1,0 +1,884 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.1.6'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2018-04-21"/>
+</changeset>
+<node action="modify" id="-6" lat="41.0645566971" lon="-5.52466624078" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992123TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-102" lat="41.0639597023" lon="-5.52597819798" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891903TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-103" lat="41.0639595554" lon="-5.52601759642" visible="true">
+  <tag k="addr:housenumber" v="9Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891902TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-104" lat="41.0637484891" lon="-5.52560026489" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991016TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-105" lat="41.0634361351" lon="-5.52574412405" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890409TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-75" lat="41.0642312204" lon="-5.52407736392" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091403TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-106" lat="41.0632551806" lon="-5.52523056284" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991011TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-107" lat="41.0634165617" lon="-5.52567930845" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890408TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-101" lat="41.0640607767" lon="-5.525866411" visible="true">
+  <tag k="addr:housenumber" v="8Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891904TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-108" lat="41.0632174204" lon="-5.52529314041" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991010TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-109" lat="41.0632218275" lon="-5.52517430744" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991009TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-37" lat="41.0645163027" lon="-5.52652540253" visible="true">
+  <tag k="addr:housenumber" v="9D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891320TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-110" lat="41.0632254999" lon="-5.52568044309" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890410TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-5" lat="41.0654508174" lon="-5.52534471721" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992901TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-19" lat="41.064195813" lon="-5.52669889288" visible="true">
+  <tag k="addr:housenumber" v="6D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891321TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-112" lat="41.0631360941" lon="-5.52526636401" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991007TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-113" lat="41.0635346892" lon="-5.52580169234" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890405TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-114" lat="41.0632674499" lon="-5.52550681336" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890412TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-115" lat="41.0629910569" lon="-5.52534742751" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7990101TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-116" lat="41.0630520994" lon="-5.52517602212" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991004TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-117" lat="41.0629309844" lon="-5.52550744561" visible="true">
+  <tag k="addr:housenumber" v="26D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7990108TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-118" lat="41.0627603798" lon="-5.52537251297" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7990104TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-119" lat="41.062811163" lon="-5.5252007155" visible="true">
+  <tag k="addr:housenumber" v="28Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7990105TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-120" lat="41.063670105" lon="-5.52549456501" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991015TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-121" lat="41.0626887555" lon="-5.52527480878" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7990106TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-38" lat="41.0642579354" lon="-5.5247862674" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991503TL8479S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-122" lat="41.0629300305" lon="-5.52494157741" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991001TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-123" lat="41.0635068737" lon="-5.52488656061" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991801TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-76" lat="41.0644721609" lon="-5.52488300502" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992122TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-124" lat="41.0636576951" lon="-5.52475425171" visible="true">
+  <tag k="addr:housenumber" v="33D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991802TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-125" lat="41.0634408888" lon="-5.52468895263" visible="true">
+  <tag k="addr:housenumber" v="33T"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991804TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-126" lat="41.0624124829" lon="-5.52508311583" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7990103TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-127" lat="41.0635863986" lon="-5.52530297998" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991014TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-84" lat="41.0635441786" lon="-5.52635941872" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890403TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-128" lat="41.0634172263" lon="-5.52581983443" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890407TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-129" lat="41.0633535917" lon="-5.52521160032" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991012TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-20" lat="41.0637220989" lon="-5.52694015536" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791702TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-130" lat="41.0650184563" lon="-5.52615326816" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892401TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-131" lat="41.0648635177" lon="-5.52582950056" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892703TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-132" lat="41.0647607528" lon="-5.52564080916" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992105TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-133" lat="41.064539673" lon="-5.5256036593" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892713TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-16" lat="41.0636516241" lon="-5.52776561376" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791101TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-134" lat="41.0649261793" lon="-5.52568081489" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992101TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-135" lat="41.0652267547" lon="-5.52604564935" visible="true">
+  <tag k="addr:housenumber" v="6C"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892403TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-7" lat="41.0652695649" lon="-5.52565837912" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892501TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-136" lat="41.0645847229" lon="-5.52574259573" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892705TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-137" lat="41.06507386" lon="-5.52602370141" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892402TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-138" lat="41.064790441" lon="-5.52576156652" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892704TL8479S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-9" lat="41.0645569995" lon="-5.52474773129" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992121TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-28" lat="41.064749059" lon="-5.52698439129" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7792601TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-4" lat="41.0643899408" lon="-5.52420034663" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091402TL8489S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-88" lat="41.0638722418" lon="-5.52556751661" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991018TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-21" lat="41.0638382307" lon="-5.52676758569" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891307TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-89" lat="41.0641325291" lon="-5.52534485665" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991021TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-3" lat="41.0650906997" lon="-5.52525119823" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992109TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-90" lat="41.0641149104" lon="-5.52520441639" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991022TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-42" lat="41.0642618836" lon="-5.52371483422" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091406TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-35" lat="41.0643182095" lon="-5.52621066766" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891314TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-43" lat="41.0640739181" lon="-5.52347149856" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091602TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-45" lat="41.0644256956" lon="-5.52361276462" visible="true">
+  <tag k="addr:housenumber" v="17Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091408TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-111" lat="41.0631526091" lon="-5.52553782579" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890411TL8479S"/>
+  <tag k="addr:street" v="Calle Sordos"/>
+</node>
+<node action="modify" id="-40" lat="41.0640408643" lon="-5.5240756033" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091201TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-41" lat="41.0642037455" lon="-5.52369750106" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091204TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-91" lat="41.0640736841" lon="-5.52515871716" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991023TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-44" lat="41.0642694729" lon="-5.52359987348" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091409TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-39" lat="41.0637980463" lon="-5.52404643968" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091202TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-50" lat="41.0642304221" lon="-5.52327362366" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091604TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-58" lat="41.0644854955" lon="-5.52281962964" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091415TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-62" lat="41.0638007643" lon="-5.52028260579" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291701TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-59" lat="41.0642156203" lon="-5.52133616497" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291201TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-96" lat="41.0641085304" lon="-5.52485904477" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991028TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-60" lat="41.064495572" lon="-5.52277491247" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091416TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-92" lat="41.0641799883" lon="-5.52497940784" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991025TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-61" lat="41.0629463635" lon="-5.52370064453" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8090101TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-71" lat="41.0643624789" lon="-5.5211736254" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291307TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-51" lat="41.064317997" lon="-5.52315867534" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091411TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-72" lat="41.0639558775" lon="-5.52433273028" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991031TL8479S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-73" lat="41.0643569108" lon="-5.52111117364" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291309TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-1" lat="41.0644154244" lon="-5.52447520637" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991506TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-55" lat="41.0643647151" lon="-5.52237517949" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091608TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-93" lat="41.0639595911" lon="-5.52500559634" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991026TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-64" lat="41.0644446377" lon="-5.52248206976" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8191402TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-65" lat="41.0641258402" lon="-5.52461615441" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991030TL8479S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-46" lat="41.0642799331" lon="-5.52346704281" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091410TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-56" lat="41.063834046" lon="-5.52190981276" visible="true">
+  <tag k="addr:housenumber" v="30D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8191801TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-66" lat="41.0644604013" lon="-5.52222948821" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8191404TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-18" lat="41.0638585982" lon="-5.5266932299" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891308TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-63" lat="41.064607904" lon="-5.52270018937" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8191401TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-22" lat="41.0640712206" lon="-5.5228944255" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091609TL8489S"/>
+  <tag k="addr:street" v="Ronda Sur"/>
+</node>
+<node action="modify" id="-24" lat="41.0645938079" lon="-5.52628929153" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891318TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-52" lat="41.0642258273" lon="-5.52279077804" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091606TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-77" lat="41.0638233503" lon="-5.52630596097" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791707TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-78" lat="41.0637820603" lon="-5.52639803493" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791706TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-79" lat="41.0629019093" lon="-5.52675905691" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7790601TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-47" lat="41.0642437254" lon="-5.52486747899" visible="true">
+  <tag k="addr:housenumber" v="1Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991502TL8479S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-95" lat="41.0639199357" lon="-5.52490995792" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991032TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-70" lat="41.0644466824" lon="-5.52118648269" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291306TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-53" lat="41.0643474647" lon="-5.52254500664" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091607TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-68" lat="41.0645350709" lon="-5.52172811607" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291303TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-49" lat="41.0642829957" lon="-5.52336381004" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091407TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-34" lat="41.0643598603" lon="-5.52543683441" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892711TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-57" lat="41.064294228" lon="-5.5215876968" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8191601TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-13" lat="41.0637766414" lon="-5.52725666949" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891301TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-17" lat="41.0637625352" lon="-5.5268209966" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791703TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-10" lat="41.0646595551" lon="-5.52478554221" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992120TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-33" lat="41.0642526234" lon="-5.52611283437" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891906TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-12" lat="41.0639919359" lon="-5.52705011656" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891304TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-54" lat="41.0642429597" lon="-5.52473287192" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991504TL8479S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-29" lat="41.0642024604" lon="-5.52612079086" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891905TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-30" lat="41.0641798531" lon="-5.52646979513" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891322TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-69" lat="41.0645200195" lon="-5.52165863739" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291304TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-23" lat="41.0646067084" lon="-5.52590647317" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892706TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-74" lat="41.0642605303" lon="-5.52076583111" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291601TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-80" lat="41.0640587196" lon="-5.52609160523" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891901TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-48" lat="41.0640958892" lon="-5.5246101291" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991029TL8479S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-81" lat="41.0631402329" lon="-5.52668062922" visible="true">
+  <tag k="addr:housenumber" v="16B"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7790602TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-82" lat="41.063269628" lon="-5.52656728714" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890401TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-83" lat="41.0633735564" lon="-5.52648419028" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7890402TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-32" lat="41.0642707093" lon="-5.52621430658" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891313TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-98" lat="41.0646053342" lon="-5.52542290666" visible="true">
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992124TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-85" lat="41.0642942753" lon="-5.52483775869" visible="true">
+  <tag k="addr:housenumber" v="1Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991501TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-86" lat="41.0644141599" lon="-5.52511952684" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992117TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-87" lat="41.0638129563" lon="-5.52565878316" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991017TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-25" lat="41.0645183799" lon="-5.5260848479" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891319TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-27" lat="41.0645639819" lon="-5.52681129125" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7792701TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-14" lat="41.0636551532" lon="-5.52752274605" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791801TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-99" lat="41.0643639976" lon="-5.52561371331" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892710TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-8" lat="41.0644227102" lon="-5.52438867724" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8091401TL8489S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-15" lat="41.0640218816" lon="-5.52643649368" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891310TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-67" lat="41.0644543559" lon="-5.52198065998" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8291301TL8489S"/>
+  <tag k="addr:street" v="Calle de Arriba"/>
+</node>
+<node action="modify" id="-11" lat="41.0637435183" lon="-5.52652496276" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7791705TL8479S"/>
+  <tag k="addr:street" v="Calle Pedrosillo"/>
+</node>
+<node action="modify" id="-94" lat="41.0639256712" lon="-5.52472868729" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7991027TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-26" lat="41.0656225199" lon="-5.52648494129" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7893101TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-2" lat="41.0651050954" lon="-5.52486986203" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992907TL8479S"/>
+  <tag k="addr:street" v="Calle de la Amargura"/>
+</node>
+<node action="modify" id="-97" lat="41.0644825508" lon="-5.52534573298" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7992115TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-31" lat="41.0643843612" lon="-5.52585154839" visible="true">
+  <tag k="addr:housenumber" v="4Z"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892709TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-36" lat="41.0645622737" lon="-5.52602246084" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7892707TL8479S"/>
+  <tag k="addr:street" v="Calle Beneficios"/>
+</node>
+<node action="modify" id="-100" lat="41.0641763913" lon="-5.52590082643" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37428"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7891907TL8479S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+</osm>
