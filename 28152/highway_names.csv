@@ -1,0 +1,354 @@
+DS FRACCIONADOS	
+DS DISEMINADOS	
+DS FINCA MONTEPANARRAS	
+DS FINCA CANTOS NEGROS	
+DS FRACCIONADOS BERZOSILLA	
+DS FINCA LA ESPUMA	
+AV CANTO DEL MIRADOR	Avenida Canto del Mirador
+AV CASTILLO OLIVARES	Avenida Castillo de Olivares
+CL FONDO DEL TOMILLAR	Avenida Fondo del Tomillar
+AV TRANSVERSAL	Avenida Transversal
+AV CIRILO TORNOS	Avenida de Cirilo Tornos
+CL ENRIQUE RUIZ GOMEZ	Avenida de Enrique Ruiz Gómez
+CL GABRIEL E. DE LA ORDEN	Avenida de Gabriel Enríquez de la Orden
+AV JUAN PABLO II DE	Avenida de Juan Pablo II
+AV JUAN DE VARGAS	Avenida de Juan de Vargas
+AV ROZAS DE LAS	Avenida de Las Rozas
+AV PRADOGRANDE	Avenida de Pradogrande
+AV ROSARIO MANZANEQUE	Avenida de Rosario Manzaneque
+AV TORRELODONES	Avenida de Torrelodones
+AV BERZOSILLA DE LA	Avenida de la Berzosilla
+AV COMUNIDAD DE MADRID	Avenida de la Comunidad de Madrid
+AV DEHESA LA	Avenida de la Dehesa
+AV FONTANILLA DE LA	Avenida de la Fontanilla
+AV LOMA DE LA	Avenida de la Loma
+AV ROZUELAS DE LAS	Avenida de las Rozuelas
+AV PEÑASCALES DE LOS	Avenida de los Peñascales
+AV PINARES	Avenida de los Pinares
+AV ROBLES DE LOS	Avenida de los Robles
+AV ARROYO DE TROFAS	Avenida del Arroyo de Trofas
+AV CONDE DE LAS ALMENAS	Avenida del Conde de las Almenas
+AV DOCTOR BEDOYA	Avenida del Doctor Bedoya
+AV ESCONDITE	Avenida del Escondite
+AV HITO DEL	Avenida del Hito
+AV LAGO	Avenida del Lago
+AV MONTE	Avenida del Monte
+AV PARDO DEL	Avenida del Pardo
+AV PEÑALAR DEL	Avenida del Peñalar
+AV PEÑASCO	Avenida del Peñasco
+AV RODEO DEL	Avenida del Rodeo
+AV TOMILLAR	Avenida del Tomillar
+CL ABEJARUCO	Calle Abejaruco
+CL ALAMO	Calle Álamo
+CL ABETO	Calle Abeto
+CL ADELFAS	Calle Adelfa
+CL ALBAHACA	Calle Albahaca
+CL AMPARO CANTERO	Calle Amparo Cantero
+CL ANGEL ESCOLANO DIEZ	Calle Ángel Escolano Díez
+CL ANGEL QUIROGA BRAVO	
+CL ANGEL YAGUE	Calle de Ángel Yagüe
+CL ANGEL DE ANTONIO MARTIN	
+CL ANTONIO MAURA	Calle Antonio Maura
+CL ANTONIO MUÑOZ MANZANEQUE	Calle Antonio Muñoz Manzaneque
+CL ANTONIO SANCHEZ	Calle Antonio Sánchez
+CL ARQUITECTO A. SAN ROMAN	Calle Arquitecto A. San Román
+CL ARROYO DEL CORONEL	Calle Arroyo del Coronel
+CL ARROYO DEL PIOJO	Calle Arroyo del Piojo
+CL ARTURO PACIOS	Calle Arturo Pacios
+CL ASPERILLAS	Calle Asperillas
+CL BAJA	Calle Baja
+CL CAÑADA	Calle Barrio de la Cañada
+CL BOTICARIOS	Calle Boticarios
+CL BREZO	Calle Brezo
+CL BUENAVISTA	Calle Buenavista
+CL CAMINO DE VALLADOLID	Calle Camino de Valladolid
+CL CAMINO DE LOS BONETES	Calle Camino de los Bonetes
+CL CANTO DE LA CUEVA	Calle Canto de la Cueva
+CL CANTO DEL PICO	Calle Canto del Pico
+CL CARLOS PICABEA	Calle Carlos Picabea
+CL CARMEN QUINTANO	Calle Carmen Quintano
+CL CARNICERIA	Calle Carnicería
+CL CELINDAS	Calle Celindas
+CL CIENCIAS DE LAS	Calle de las Ciencias
+CL CINCO	Calle Cinco
+CL CLAVEL	Calle Clavel
+CL CONSTANTINO BENITO	Calle Constantino Benito
+CL CORDEL NTRA SRA DE CARMEN	
+CM CORDEL DE HOYO MANZANARES	Calle Cordel de Hoyo de Manzanares
+CL DANIEL JIMENEZ	Calle Daniel Jiménez
+CL DARRO	Calle Darro
+CL DR MINGO ALSINA	Calle Doctor Mingo Alsina
+CL DR PALACIOS CARVAJAL	Calle Doctor Palacios Carvajal
+CL EBRO	Calle Ebro
+CL ALMEZ EL	Calle El Almez
+CL CERRILLO	Calle El Cerrillo
+CL MADROÑO EL	Calle El Madroño
+CL MUSGO EL	Calle El Musgo
+CL PARQUE EL	Calle El Parque
+CL PRUNO EL	Calle El Pruno
+CL EMILIO LLORENTE NAVACERRA	Calle Emilio Llorente Navacerrada
+CL ENCINA	Calle Encina
+CL ENEBRO	Calle Enebro
+CL ENRIQUE CASADO	Calle Enrique Casado
+CL ESTANQUE	Calle Estanque
+CL EULALIA HERRANZ	Calle Eulalia Herranz
+CL F UR JARALES	Finca Los Jarales
+CL FAUSTINO CID AMOR Y EULOG	
+CL FEDERICO DEL CERRO	Calle Federico del Cerro
+CL FELICIANO CASTILLO	Calle Feliciano Castillo
+CL FELIPE SEGUNDO SORIA	Calle Felipe Segundo Soria
+CL FERNANDO ARBEX	Calle Fernando Arbex
+CL FLOR DE LIS	Calle Flor de Lis
+CL FLORENTIN SANCHEZ	Calle Florentín Sánchez
+CL FONDO LOMA	Calle Fondo de la Loma
+CL FONDO DEL HITO	Calle Fondo del Hito
+CL FRANCISCO GARCIA MUÑOZ	
+CL FRANCISCO RIVAS	Calle Francisco Rivas
+CL FRANCISCO SICILIA	Calle Francisco Sicilia
+CL FUENTE DEL CERRO	Calle Fuente del Cerro
+CL GENIL	Calle Genil
+CL GUADALHORCE	Calle Guadalhorce
+CL GUADARRAMA	Calle Guadarrama
+CL GUADIX	Calle Guadix
+CL HNOS VELASCO LOPEZ	Calle Hermanos Velasco López
+CL HERREN DEL MELONAR	Calle Herrén del Melonar
+CL JALON	Calle Jalón
+CL JARDINES	Calle Jardines
+CL JAVIER GCIA LEANIZ	Calle Javier García de Leániz
+CL JAVIER TUSELL	Calle Javier Tusell
+CL JAZMINES	Calle Jazmines
+CL JOAQUIN RODRIGO	Calle Joaquín Rodrigo
+CL JOSE LUIS HEVIA GARCIA	
+CL JOSE MANUEL LENCINA	Calle José Manuel Lencina
+CL JOSE MARIA MORENO	Calle José María Moreno
+CL JUAN MUÑOZ	Calle Juan Muñoz
+CL JUAN VAN-HALEN	Calle Juan Van-Halen
+CL JULIO DIAZ BAÑOS	Calle Julio Díaz Baños
+CL JULIO HERRERO	Calle Julio Herrero
+CL JUCAR	Calle Júcar
+CL ROSA LA	Calle La Rosa
+CL CERCAS LAS	Calle Las Cercas
+CL LLANES	Calle Llanes
+CL LORENZO FDZ SANTOJA	Calle Lorenzo Fernández Santonja
+CL VASCOS LOS	Calle Los Vascos
+CL M. DOLORES VILA-CORO	
+CL MAESTRO CUBILES	Calle del Maestro Cubiles
+CL MAJADAHONDA	Calle Majadahonda
+CL MANUEL LOPEZ VILLASEÑOR	Calle Manuel López Villaseñor
+CL MANUEL MTNEZ CHUMILLAS	Calle Manuel Martínez Chumillas
+CL MANUEL TRAVESEDO SILVELA	Calle Manuel Travesedo Silvela
+CL MANZANILLA	Calle Manzanilla
+CL MARIANO GARCIA GOMEZ	Calle Mariano García Gómez
+CL MARIANO JIMENEZ MARTIN	
+CL MARIA DIAZ CISNEROS	Calle María Díaz Cisneros
+CL MEDIA LADERA	Calle Media Ladera
+CL MIERES	Calle Mieres
+CL MIGUELA VICENTE	Calle Miguela Vicente
+CL MIRALPARDO	Calle Miralpardo
+CL MIRALPRADO	Calle Miralprado
+CL MIRAMADRID	Calle Miramadrid
+CL MIRARROYO	Calle Mirarroyo
+CL MIÑO	Calle Miño
+CL MONTE ALTO	Calle Monte Alto
+CL MONTE DE LA ALEGRIA	Calle Monte de la Alegría
+CL MONTEALEGRE	Calle Montealegre
+CL MURCIA	Calle Murcia
+CL MUSICA DE LA (VIV JOVENES	Calle de la Música
+CL NARDO	Calle Nardo
+CL NATIVIDAD JIMENEZ ARENAS	Calle Natividad Jiménez Arenas
+CL NTRA SRA ALMUDENA	Calle Nuestra Señora de la Almudena
+CL NTRA SRA CARMEN	Calle Nuestra Señora del Carmen
+CL NUEVA	Calle Nueva
+CL OLMO	Calle Olmo
+CL PABLO HDEZ CORONADO	Calle Pablo Hernández Coronado
+CL PADRE MUNDINA	Calle Padre Mundina
+CL PARQUE MANZANARES	Calle Parque Manzanares
+CL PARTICULAR DEL PEÑASCO	Calle Particular del Peñasco
+CL PATRICIO RUEDAS YOUNGER	Calle Patricio Ruedas Younger
+CL PERDICES	Calle Perdices
+CL PEÑA ENEBRO	Calle Peña Enebro
+CL PEÑALARA	Calle Peñalara
+CL PICO DEL PAÑUELO	Calle Pico del Pañuelo
+CL PINTOR BOTI	Calle Pintor Boti
+CL PRADO MINAS	Calle Prado Minas
+CL PRADO DE LA VIRGEN	Calle Prado de la Virgen
+CL PRADO DEL ESTUDIANTE	Calle Prado del Estudiante
+CL PROFESOR ALONSO PARRA	Calle Profesor Alonso Parra
+CL PROFESOR CALDERIN	Calle Profesor Calderín
+CL PUEBLA	Calle Puebla
+CL PARROCO FERNANDEZ BALDOR	Calle Párroco Fernández Baldor
+CL PARROCO FCO. OYAMBURU	Calle Párroco Francisco Oyamburu
+CL PARROCO JOSE SERRANO	Calle Párroco José Serrano
+CL RAFAEL MARTINEZ	Calle Rafael Martínez
+CL RAFAELA LLORENTE	Calle Rafaela Llorente
+CL REAL	Calle Real
+CL HERREROS	Calle Herreros
+CL RELOJEROS	Calle Relojeros
+CL RIBADEO	Calle Ribadeo
+CL RIBADESELLA	Calle Ribadesella
+CL ROCIO DURCAL	Calle Rocío Dúrcal
+CL RODOLFO BARON	Calle Rodolfo Barón, historiador
+CL ROMERO	Calle Romero
+CL RUFINO TORRES MANUEL	Calle Rufino Torres
+CL SAMA DE LANGREO	Calle Sama de Langreo
+CL SAN VALENTIN	Calle San Valentín
+CL SEGRE	Calle Segre
+CL SELLA	Calle Sella
+CL SITIO DEL MARILLEJO	Calle Sitio del Marillejo
+CL TABASCO	Calle Tabasco
+CL TER	Calle Ter
+CL TINEO	Calle Tineo
+CL TOMILLO UR MONTEALEGRE	Calle Tomillo
+CL TORMES	Calle Tormes
+CL TORRENCINA	Calle Torrencina
+CL TORREPEREGRINOS	Calle Torreperegrinos
+CL TORREON	Calle Torreón
+CL VERACRUZ	Calle Veracruz
+CL VEREDA DEL FERROCARRIL	Calle Vereda del Ferrocarril
+CL VICENTE PEREZ GALA	Calle Vicente Pérez Gala
+CL VICENTE TELLEZ	Calle Vicente Téllez
+CL ZOILO GONZALEZ	Calle Zoilo González
+CL ABRAHAM MATESANZ	Calle de Abraham Matesanz
+CL ACAPULCO	Calle de Acapulco
+CL AGAPITO MARTINEZ	Calle de Agapito Martínez
+CL ANTONIO LASSO	Calle de Antonio Lasso
+CL ARROYO DE LOS VIALES	Calle de Arroyo de los Viales
+CL CARAVACA	Calle de Caravaca
+CL CARLOS LOPEZ QUESADA	Calle de Carlos López Quesada
+CL CARTAGENA	Calle de Cartagena
+CL CAYETANO GARCIA	Calle de Cayetano García
+CL CIEZA	Calle de Cieza
+CL COLMENAR	Calle de Colmenar
+CL COLONIA VARELA	Calle de Colonia Varela
+CL CUDILLERO	Calle de Cudillero
+CL CUERNAVACAS	Calle de Cuernavaca
+CL EDUARDO COSTA	Calle de Eduardo Costa
+CL FRANCISCO LENCINA	Calle de Francisco Lencina
+CL FUENTE ALBALADEJO	Calle de Fuente Albadalejo
+CL HERREN LARGA	Calle de Herrén Larga
+CL HERREN DE MADRID	Calle de Herrén de Madrid
+CL ISID.VICENTE MAZARIEGO	Calle de Isidoro Vicente Mazariegos
+CL JALISCO	Calle de Jalisco
+CL JESUSA LARA	Calle de Jesusa Lara
+CL JOSEFA MANZANEQUE	Calle de Josefa Manzaneque
+CL JOSE LUIS MARTINEZ	Calle de José Luis Martínez
+CL JOSE LUIS VELASCO	Calle de José Luis Velasco
+CL JOSE SCHEZ RUBIO	Calle de José Sánchez Rubio
+CL JOSE VICENTE MUÑOZ	Calle de José Vicente Muñoz
+CL JUAN CARLOS URETA SAORIN	Calle de Juan Carlos Ureta Saorín
+CL LUZ LA	Calle de La Luz
+CL LORCA	Calle de Lorca
+CL LUARCA	Calle de Luarca
+CL LUIS MUÑOZ MANZANEQUE	Calle de Luis Muñoz Manzaneque
+CL MAGDALENA MEJIAS	Calle de Magdalena Mejías
+CL MANUEL PARDO	Calle de Manuel Pardo
+CL MANUELA LOPEZ PUENTE	Calle de Manuela López Puente
+CL MARCELINO CAPELO	Calle de Marcelino Capelo
+CL MARIANO CUESTA	Calle de Mariano Cuesta
+CL MARIA PILAR APARICI	Calle de María Pilar Aparici
+CL MARIA VICTORIA	Calle de María Victoria
+CL MICHOACAN	Calle de Michoacán
+CL MONTERREY	Calle de Monterrey
+CL NTRA SRA PALOMA	Calle de Nuestra Señora de la Paloma
+CL NTRA SRA PILAR	Calle de Nuestra Señora del Pilar
+CL PRADO DE LA MARGARA	Calle de Prado de la Margara
+CL RICARDO LEON	Calle de Ricardo León
+CL SAN GENARO	Calle de San Genaro
+CL SAN LUIS DE POTOSI	Calle de San Luis de Potosí
+CL SAN RAMON	Calle de San Ramón
+CL TAMPICO	Calle de Tampico
+CL TEODORO DOMINGO	Calle de Teodoro Domingo
+CL TIJUANA	Calle de Tijuana
+CL TRINI MUÑOZ (POETISA)	Calle de Trini Muñoz
+CL VALDEHURONES	Calle de Valdehurones
+CL VEREDA DE LA PEÑA	Calle de Vereda de la Peña
+CL JAVIER LAFFITE	Calle de Xavier Laffitte
+CL COLINA LA	Calle de la Colina
+CL CUMBRE LA	Calle de la Cumbre
+CL HAYA LA	Calle de la Haya
+CL HIGUERA LA	Calle de la Higuera
+CL JARA LA	Calle de la Jara
+CL NAVALLERA	Calle de la Navallera
+CL PEDRIZA LA	Calle de la Pedriza
+CL RETAMA	Calle de la Retama
+CL SEÑORA BIENVENIDA	Calle de la Señora Bienvenida
+CL SEÑORA SERGIA	Calle de la Señora Sergia
+CL VICTORIA	Calle de la Victoria
+CL ACACIAS LAS	Calle de las Acacias
+CL CANTERAS LAS	Calle de las Canteras
+CL ARTES DE LAS	Calle de las Artes
+CL MARGARITAS LAS	Calle de las Margaritas
+CL MORERAS	Calle de las Moreras
+CL NIEVES LAS	Calle de las Nieves
+CL VIOLETAS	Calle de las Violetas
+CL ZARZA	Calle de las Zarzas
+CL BRAVO LOS	Calle de los Bravo
+CL ANGELES LOS	Calle de Los Ángeles
+CL GERANIOS	Calle de los Geranios
+CL OLALLA LOS	Calle de los Olalla
+CL PEREZ LOS	Calle de los Pérez
+CL ROSALES	Calle de los Rosales
+CL UROSA LOS	Calle de los Urosa
+CL VELASCO LOS	Calle de los Velasco
+CL ACEBO	Calle del Acebo
+CL CEDRO	Calle del Cedro
+CL CHAPARRO	Calle del Chaparro
+CL CONVENTO	Calle del Convento
+CL DEPOSITO DEL	Calle del Depósito
+CL DOCTOR HUERTAS	Calle del Doctor Huertas
+CL ENEBRAL EL	Calle del Enebral
+CL ESPINO	Calle del Espino
+CL ESPLIEGO	Calle del Espliego
+CL HERRADOR	Calle del Herrador
+CL INSTITUTO DEL	Calle del Instituto
+CL LODON EL	Calle del Lodón
+CL MAR CANTABRICO	Calle del Mar Cantábrico
+CL MAR MEDITERRANEO	Calle del Mar Mediterráneo
+CL MAR MENOR	Calle del Mar Menor
+CL MAR ROJO	Calle del Mar Rojo
+CL MIRLO	Calle del Mirlo
+CL OLIVO DEL	Calle del Olivo
+CL PETIRROJO	Calle del Petirrojo
+CL POZO DEL	Calle del Pozo
+CL ROMERAL	Calle del Romeral
+CL RUISEÑOR	Calle del Ruiseñor
+CL SANTO CRISTO DEL CONSUELO	Calle del Santo Cristo del Consuelo
+CL TRIUNFO	Calle del Triunfo
+CL NOGAL	Calle el Nogal
+CL HIEDRA	Calle la Hiedra
+CL ERAS	Calle las Eras
+CL LAS MARIAS	Calle Las Marías
+CL ALTOS DEL CLUB DE CAMPO L	Calle los Altos del Club de Campo
+CL ANGEL ALBERQUILLA POLIN	Calle Ángel Alberquilla Polín
+CL ANGEL SOMALO	Calle Ángel Somalo
+CJ TORRENCINA	Callejón de Torrencina
+CM PRESA DE LA	Camino de la Presa
+CM JARAS LAS	Camino de las Jaras
+CL CAMINO DE LOS PINOS	Camino de los Pinos
+CL VIA DE SERVICIO (CASINO)	Carretera Vía de servicio A-6
+CR GALAPAGAR	Carretera de Galapagar
+CR MADRID COR AUT	Carretera Vía de servicio A-6
+PS ANDRES VERGARA	Paseo de Andrés Vergara
+PS EMILIA ALARCOS	Paseo de Emilia Alarcos
+CL JOAQUIN RUIZ JIMENEZ	Paseo de Joaquín Ruiz Jiménez
+PS PASCUAL SAORIN	Paseo de Pascual Saorín
+PZ EPIFANIO VELASCO	Plaza de Epifanio Velasco
+PZ JOSE MARIA UNCETA	Plaza de José María Unceta
+PZ SALVADOR SCHEZ FRASCUELO	Plaza de Salvador Sánchez Frascuelo
+PZ CONSTITUCION	Plaza de la Constitución
+PZ IGLESIA DE LA	Plaza de la Iglesia
+PZ CAÑO	Plaza del Caño
+PL POLIGONO 1	
+PL PRESA LOS PEÑASCALES	
+PL ROZUELAS ALTAS	
+PL S-10	
+PL S-6 DESARROLLADO	
+PL SECTOR 11	Polígono Sector 11
+PL UE-15	
+PL UE-16	
+PL UE-2	
+TR GASCO	Travesía al Gasco
+TR ACEBO DEL	Travesía del Acebo
+TR JUAN CARLOS URETA SAORIN	
+UR ROZUELAS ALTAS	
+VR CORTIJO	Vereda del Cortijo
