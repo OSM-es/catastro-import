@@ -1,0 +1,1346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.1.6'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2018-04-21"/>
+</changeset>
+<node action="modify" id="-29" lat="41.043622079" lon="-5.48918199107" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867611TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-30" lat="41.0437216337" lon="-5.48888604216" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968801TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-31" lat="41.0436776374" lon="-5.48870676864" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967903TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-134" lat="41.0449985455" lon="-5.48927622085" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0869808TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-185" lat="41.0437114629" lon="-5.48813986487" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967915TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-32" lat="41.043602161" lon="-5.48968570549" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867603TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-33" lat="41.0438027123" lon="-5.48836853283" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968808TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-170" lat="41.0429120786" lon="-5.48961097448" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866501TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-5" lat="41.0429027439" lon="-5.48888947377" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966301TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-163" lat="41.0426952595" lon="-5.48958717842" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866306TL8406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-34" lat="41.0438536289" lon="-5.48829011773" visible="true">
+  <tag k="addr:housenumber" v="25A"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968837TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-158" lat="41.0427795661" lon="-5.48962606603" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866302TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-35" lat="41.0437681828" lon="-5.48827571243" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967913TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-92" lat="41.0425834055" lon="-5.48828864086" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966207TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-36" lat="41.0438348285" lon="-5.48784347053" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967503TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-37" lat="41.0438550493" lon="-5.48814098644" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968811TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-72" lat="41.0446055089" lon="-5.48767935612" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068306TL9416N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-38" lat="41.0436450712" lon="-5.48953875335" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867401TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-39" lat="41.0438446334" lon="-5.48807767559" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968814TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-114" lat="41.0451386706" lon="-5.48784328257" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1069201TL9416N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-152" lat="41.0425785404" lon="-5.48912240109" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866602TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-40" lat="41.0438512977" lon="-5.48802213949" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968815TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-41" lat="41.0438576767" lon="-5.48797062386" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968816TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-154" lat="41.0427625583" lon="-5.4888263431" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966202TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-93" lat="41.0426784178" lon="-5.48816826015" visible="true">
+  <tag k="addr:housenumber" v="44A"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966217TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-42" lat="41.0439123455" lon="-5.48786107443" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968817TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-43" lat="41.043604061" lon="-5.48954982949" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867604TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-136" lat="41.0448612683" lon="-5.48870570412" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969803TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-44" lat="41.0436423257" lon="-5.48947066982" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867402TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-45" lat="41.0436291035" lon="-5.48934174427" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867403TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-115" lat="41.0444757762" lon="-5.48905603165" visible="true">
+  <tag k="addr:housenumber" v="3E"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0868502TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-46" lat="41.0436009126" lon="-5.48931236498" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867605TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-122" lat="41.0442204749" lon="-5.48928257348" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867321TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-47" lat="41.0436705067" lon="-5.49012434628" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867301TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-94" lat="41.0426952184" lon="-5.48824110511" visible="true">
+  <tag k="addr:housenumber" v="44B"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966218TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-48" lat="41.0439746256" lon="-5.48883400618" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968803TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-49" lat="41.0437615232" lon="-5.4896479169" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867307TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-113" lat="41.0449265926" lon="-5.48819184084" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969810TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-74" lat="41.0436624824" lon="-5.48984443626" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867305TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-50" lat="41.0439885664" lon="-5.48873707289" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968804TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-51" lat="41.0440032217" lon="-5.48864475163" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968805TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-116" lat="41.0451588274" lon="-5.48776492744" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1069202TL9416N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-52" lat="41.0440192219" lon="-5.48856342703" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968807TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-53" lat="41.0438861645" lon="-5.48939000378" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867309TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-95" lat="41.0432090858" lon="-5.48781715843" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1067104TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-54" lat="41.0439224189" lon="-5.48929471053" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867310TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-143" lat="41.043454674" lon="-5.49065028755" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0767901TL9406N"/>
+  <tag k="addr:street" v="Carretera Gomecello"/>
+</node>
+<node action="modify" id="-197" lat="41.0432827486" lon="-5.48961220489" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867803TL9406N"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-55" lat="41.0440040554" lon="-5.48894552631" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968901TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-75" lat="41.0436706204" lon="-5.48978348688" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867306TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-56" lat="41.0440132679" lon="-5.48888493161" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968902TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-57" lat="41.0440278761" lon="-5.48879562369" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968904TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-117" lat="41.0450588175" lon="-5.48778981388" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1069102TL9416N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-58" lat="41.0441473982" lon="-5.48829675973" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968813TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-3" lat="41.0430026137" lon="-5.48887119245" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966302TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-59" lat="41.0440405993" lon="-5.48871667777" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968906TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-96" lat="41.0431558633" lon="-5.48783343317" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1067103TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-60" lat="41.043688904" lon="-5.49008161729" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867303TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-61" lat="41.0441932582" lon="-5.48821619096" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968822TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-13" lat="41.043846818" lon="-5.48896175768" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968802TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-181" lat="41.0436261579" lon="-5.48820275272" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967912TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-62" lat="41.0440502665" lon="-5.48865373086" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968907TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-139" lat="41.043646681" lon="-5.49039314527" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0767502TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-63" lat="41.0443353219" lon="-5.48803811434" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968836TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-175" lat="41.0434162679" lon="-5.48886272252" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967901TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-118" lat="41.0449582289" lon="-5.48768443626" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1069101TL9416N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-2" lat="41.0433296072" lon="-5.48898717242" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867813TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-159" lat="41.0427403968" lon="-5.4898345313" visible="true">
+  <tag k="addr:housenumber" v="14D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866308TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-65" lat="41.0442216742" lon="-5.48829008725" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968917TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-97" lat="41.04246702" lon="-5.48830136916" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966205TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-66" lat="41.0442806351" lon="-5.48821615722" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968918TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-67" lat="41.0443386267" lon="-5.4881621858" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968919TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-77" lat="41.0440818151" lon="-5.48781297352" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968829TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-68" lat="41.0443687567" lon="-5.48808342056" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968920TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-162" lat="41.0426086388" lon="-5.48941926472" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866508TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-69" lat="41.0444141951" lon="-5.48802267282" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968921TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-6" lat="41.04295025" lon="-5.48894896732" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866516TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-168" lat="41.0423323939" lon="-5.48905099184" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866704TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-70" lat="41.0436739012" lon="-5.49000179551" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867304TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-71" lat="41.0445499626" lon="-5.48774831856" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068305TL9416N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-98" lat="41.0447493313" lon="-5.48758369642" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068210TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-8" lat="41.0425772979" lon="-5.48888053161" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966216TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-73" lat="41.0438273359" lon="-5.4893328335" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867404TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-15" lat="41.0415254595" lon="-5.48853392397" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0965306TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-11" lat="41.042564771" lon="-5.48901039325" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866603TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-12" lat="41.0419560657" lon="-5.48885118452" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0965301TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-4" lat="41.0430171197" lon="-5.48892703452" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866518TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-76" lat="41.0445140866" lon="-5.48754405674" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068208TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-148" lat="41.0428139364" lon="-5.48836581887" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966206TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-14" lat="41.042220768" lon="-5.48897871777" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866701TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-99" lat="41.0441595633" lon="-5.4876995529" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968832TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-78" lat="41.0440437233" lon="-5.48785760775" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968825TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-16" lat="41.0411190659" lon="-5.48843378686" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0964301TL9406S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-79" lat="41.0444181231" lon="-5.48755139088" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068207TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-17" lat="41.0413131845" lon="-5.48820365365" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0965305TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-81" lat="41.0442958918" lon="-5.48756286662" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068206TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-9" lat="41.0424772044" lon="-5.48878095893" visible="true">
+  <tag k="addr:housenumber" v="23D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966201TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-82" lat="41.0441107597" lon="-5.48759384912" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068204TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-83" lat="41.0439669327" lon="-5.48796092264" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968819TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-100" lat="41.044078276" lon="-5.48770160548" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968831TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-21" lat="41.0431618356" lon="-5.48903248868" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867810TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-144" lat="41.0433606662" lon="-5.490980132" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0767902TL9406N"/>
+  <tag k="addr:street" v="Carretera Gomecello"/>
+</node>
+<node action="modify" id="-22" lat="41.0431117227" lon="-5.4890371337" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866519TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-80" lat="41.0443553615" lon="-5.48767110595" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968833TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-127" lat="41.044847333" lon="-5.48950723762" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0869803TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-23" lat="41.0430947521" lon="-5.48898804025" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866520TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-24" lat="41.0431369575" lon="-5.48934819444" visible="true">
+  <tag k="addr:housenumber" v="4Y"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867805TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-7" lat="41.0428980875" lon="-5.48897649072" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866515TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-25" lat="41.0430940287" lon="-5.48959334066" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867804TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-1" lat="41.0434344087" lon="-5.48899413878" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867612TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-26" lat="41.0431031114" lon="-5.48943903981" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867814TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-101" lat="41.0446443754" lon="-5.48754465056" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068209TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-27" lat="41.0436120639" lon="-5.48924735959" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867610TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-28" lat="41.0436917987" lon="-5.48911657015" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867502TL9406N"/>
+  <tag k="addr:street" v="Calle Oro"/>
+</node>
+<node action="modify" id="-18" lat="41.0430653701" lon="-5.49007237576" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867101TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-166" lat="41.0423477358" lon="-5.4891874222" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866702TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-140" lat="41.0444024742" lon="-5.48860780728" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968910TL9406N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-123" lat="41.0441846294" lon="-5.48950333468" visible="true">
+  <tag k="addr:housenumber" v="11D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867320TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-160" lat="41.0427430217" lon="-5.48957767776" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866301TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-102" lat="41.0444350716" lon="-5.48879478708" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968909TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-19" lat="41.0431481506" lon="-5.48919188741" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867809TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-124" lat="41.0449355638" lon="-5.49018562514" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0769601TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-184" lat="41.0434976704" lon="-5.48821889248" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967814TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-179" lat="41.043231657" lon="-5.48888434462" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966303TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-103" lat="41.0447967099" lon="-5.48837138361" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969806TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-156" lat="41.0429907375" lon="-5.48961462786" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866502TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-20" lat="41.04309842" lon="-5.48914490141" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866517TL9406N"/>
+  <tag k="addr:street" v="Calle de la Luna"/>
+</node>
+<node action="modify" id="-125" lat="41.0447748506" lon="-5.49043689253" visible="true">
+  <tag k="addr:housenumber" v="17D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0769602TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-149" lat="41.0427830663" lon="-5.4882772503" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966208TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-173" lat="41.0428592605" lon="-5.48992154436" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866310TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-104" lat="41.0449248944" lon="-5.4882454319" visible="true">
+  <tag k="addr:housenumber" v="13X"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969809TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-119" lat="41.0446806971" lon="-5.48858538746" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969805TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-171" lat="41.0430018847" lon="-5.48979383376" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866305TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-84" lat="41.0438982415" lon="-5.48761332901" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068202TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-126" lat="41.0449579016" lon="-5.48880980168" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969801TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-105" lat="41.0446023098" lon="-5.48857032072" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968501TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-145" lat="41.0426398456" lon="-5.48936145261" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866509TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-85" lat="41.0439403647" lon="-5.48772666181" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968818TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-180" lat="41.0434466973" lon="-5.48833060203" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967805TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-64" lat="41.0441400691" lon="-5.48840028135" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968916TL9406N"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-135" lat="41.0450320369" lon="-5.48913519645" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0869807TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-200" lat="41.0433396291" lon="-5.48987179991" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867201TL9406N"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-190" lat="41.0435270873" lon="-5.48802369165" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967809TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-106" lat="41.0447890246" lon="-5.48824964056" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969807TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-194" lat="41.0434298197" lon="-5.48866381696" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967906TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-86" lat="41.0437963676" lon="-5.48762417975" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068201TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-164" lat="41.0432022648" lon="-5.48994088846" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867103TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-141" lat="41.0446832229" lon="-5.48788470174" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068307TL9416N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-167" lat="41.0423403094" lon="-5.48912131617" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866703TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-128" lat="41.0451908095" lon="-5.48881104237" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969816TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-199" lat="41.0433431354" lon="-5.48917465603" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867811TL9406N"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-147" lat="41.0426701939" lon="-5.48901137288" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866513TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-153" lat="41.0426420384" lon="-5.48918724687" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866511TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-107" lat="41.0448523453" lon="-5.48818487856" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969808TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-191" lat="41.0435775115" lon="-5.48799906058" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967601TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-151" lat="41.0426104201" lon="-5.48931809275" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866510TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-192" lat="41.0435289344" lon="-5.48796103566" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967811TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-87" lat="41.0437025374" lon="-5.48780325018" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967502TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-193" lat="41.0432348714" lon="-5.48883041304" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966304TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-174" lat="41.0429124919" lon="-5.48940290165" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866504TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-129" lat="41.0448949165" lon="-5.48941016278" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0869804TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-186" lat="41.0435103936" lon="-5.48815711495" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967815TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-137" lat="41.0458256258" lon="-5.48902342471" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969820TL9407S"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-120" lat="41.0447163549" lon="-5.48845767885" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969804TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-198" lat="41.0433598345" lon="-5.48928863862" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867607TL9406N"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-172" lat="41.0428467929" lon="-5.48945883641" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866503TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-10" lat="41.0428600421" lon="-5.48891433193" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866514TL9406N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-201" lat="41.043334748" lon="-5.48965096764" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867601TL9406N"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-182" lat="41.0434652262" lon="-5.48827235016" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967806TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-155" lat="41.0427852378" lon="-5.48869945511" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966203TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-88" lat="41.0437714531" lon="-5.48753082457" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1068212TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-130" lat="41.0452503497" lon="-5.48814384467" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969817TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-189" lat="41.0434200949" lon="-5.48874890941" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967902TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-150" lat="41.0427277913" lon="-5.48813002963" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966209TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-109" lat="41.0448479584" lon="-5.48807819674" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969811TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-161" lat="41.0426908778" lon="-5.48976321826" visible="true">
+  <tag k="addr:housenumber" v="16D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866309TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-176" lat="41.0433101404" lon="-5.48872191358" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967804TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-89" lat="41.0433884524" lon="-5.48786331429" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967808TL9406N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-178" lat="41.0435947812" lon="-5.48819966138" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967911TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-131" lat="41.0450303883" lon="-5.48939068027" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0869805TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-110" lat="41.0448715457" lon="-5.48801662058" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969813TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-165" lat="41.0426539337" lon="-5.48953626852" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866307TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-146" lat="41.0428103797" lon="-5.48857534193" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0966204TL9406N"/>
+  <tag k="addr:street" v="Calle Canteras"/>
+</node>
+<node action="modify" id="-138" lat="41.0437392258" lon="-5.49016203344" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867302TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-90" lat="41.0433452713" lon="-5.4877848811" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1067106TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-169" lat="41.0430805162" lon="-5.48995088816" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867102TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-183" lat="41.0437125859" lon="-5.48819638992" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967914TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-132" lat="41.0454009791" lon="-5.48879267338" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969818TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-196" lat="41.042899654" lon="-5.48850898725" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967801TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-177" lat="41.0435175916" lon="-5.48830643059" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967910TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-111" lat="41.0449004078" lon="-5.48793909254" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0969812TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-195" lat="41.0434208553" lon="-5.48862161081" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967907TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-91" lat="41.0432795188" lon="-5.48779913362" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1067105TL9416N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-187" lat="41.0437543786" lon="-5.48796774532" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967501TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-142" lat="41.0437716532" lon="-5.49045769983" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0768701TL9406N"/>
+  <tag k="addr:street" v="Carretera Gomecello"/>
+</node>
+<node action="modify" id="-121" lat="41.043584011" lon="-5.49020944025" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0767501TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-133" lat="41.0449929823" lon="-5.48920495031" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0869806TL9406N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-202" lat="41.0433543739" lon="-5.48936417853" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867606TL9406N"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-188" lat="41.0434143269" lon="-5.48807893166" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0967810TL9406N"/>
+  <tag k="addr:street" v="Calle Hornillos"/>
+</node>
+<node action="modify" id="-157" lat="41.042835012" lon="-5.4896430085" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0866303TL9406N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-108" lat="41.0441347611" lon="-5.48896847913" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0968903TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-112" lat="41.0441424456" lon="-5.48913344561" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0867313TL9406N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+</osm>
