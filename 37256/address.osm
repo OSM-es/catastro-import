@@ -1,0 +1,1994 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.1.8'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2018-10-30"/>
+</changeset>
+<node action="modify" id="-192" lat="41.0631682152" lon="-5.4654261408" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987624TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-299" lat="41.0625176275" lon="-5.46538847029" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086211TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-221" lat="41.0614990329" lon="-5.46776840397" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885419TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-95" lat="41.0630508665" lon="-5.46622906586" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987103TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-175" lat="41.0621225995" lon="-5.46519869082" visible="true">
+  <tag k="addr:housenumber" v="10D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086905TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-184" lat="41.0613967487" lon="-5.46549117515" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085306TL9428N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-96" lat="41.0631677775" lon="-5.46617857604" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987101TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-97" lat="41.0631632394" lon="-5.46630216879" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987102TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-200" lat="41.061543687" lon="-5.46566158412" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985905TL9428N"/>
+  <tag k="addr:street" v="Calle Gemelas"/>
+</node>
+<node action="modify" id="-98" lat="41.0634940761" lon="-5.4658813658" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987608TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-268" lat="41.0623544273" lon="-5.46501409548" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086901TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-99" lat="41.0633155424" lon="-5.466251931" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987127TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-12" lat="41.0618182916" lon="-5.46555455439" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986706TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-100" lat="41.0635455952" lon="-5.46583714502" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987607TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-205" lat="41.0615319014" lon="-5.46653737795" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985304TL9428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-202" lat="41.0614869199" lon="-5.46694279286" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885410TL9428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-101" lat="41.0634131887" lon="-5.46618834462" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987126TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-158" lat="41.0633681449" lon="-5.46864667768" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787306TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-102" lat="41.0629712961" lon="-5.46609555579" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987612TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-187" lat="41.0613658675" lon="-5.46566796462" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985911TL9428N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-103" lat="41.0637863589" lon="-5.46568724727" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988701TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-264" lat="41.0614526989" lon="-5.46609562017" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985909TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-14" lat="41.0617877609" lon="-5.46527302553" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085401TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-293" lat="41.0628094746" lon="-5.46562534159" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087107TL9438N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-104" lat="41.0627759505" lon="-5.46634790609" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987116TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-265" lat="41.0626550664" lon="-5.46441711174" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086501TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-281" lat="41.0618990668" lon="-5.4647489199" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086802TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-249" lat="41.0610147527" lon="-5.46953896237" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684404TL9428S"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-105" lat="41.0628052121" lon="-5.46619153698" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987115TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-16" lat="41.0618097708" lon="-5.46520034782" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085406TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-106" lat="41.0630720713" lon="-5.46605202503" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987611TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-234" lat="41.0624420627" lon="-5.46699968824" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886512TL9428N"/>
+  <tag k="addr:street" v="Calle Vel&#225;zquez"/>
+</node>
+<node action="modify" id="-290" lat="41.0630926015" lon="-5.46508377767" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087902TL9438N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-107" lat="41.0628331776" lon="-5.46628328542" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987114TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-159" lat="41.063441265" lon="-5.46873295958" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787305TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-108" lat="41.0613991671" lon="-5.46722986963" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885908TL9428N"/>
+  <tag k="addr:street" v="Calle Sol"/>
+</node>
+<node action="modify" id="-109" lat="41.0614135442" lon="-5.46746269353" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885424TL9428N"/>
+  <tag k="addr:street" v="Calle Sol"/>
+</node>
+<node action="modify" id="-76" lat="41.0617595642" lon="-5.46796688536" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785406TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-110" lat="41.0613446701" lon="-5.46700304267" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885904TL9428N"/>
+  <tag k="addr:street" v="Calle Sol"/>
+</node>
+<node action="modify" id="-111" lat="41.0614418472" lon="-5.46698240033" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885411TL9428N"/>
+  <tag k="addr:street" v="Calle Sol"/>
+</node>
+<node action="modify" id="-181" lat="41.0624268406" lon="-5.46531299438" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086219TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-112" lat="41.0612120736" lon="-5.46695322234" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885906TL9428N"/>
+  <tag k="addr:street" v="Calle Sol"/>
+</node>
+<node action="modify" id="-277" lat="41.0610106313" lon="-5.46350913526" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185806TL9428N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-113" lat="41.0611771412" lon="-5.46675068944" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885604TL9428N"/>
+  <tag k="addr:street" v="Calle Sol"/>
+</node>
+<node action="modify" id="-303" lat="41.0626960201" lon="-5.46525619561" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086213TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-160" lat="41.0633771014" lon="-5.4687582803" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787304TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-114" lat="41.0620539143" lon="-5.46591214927" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986614TL9428N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-286" lat="41.063002807" lon="-5.4654298487" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987627TL9428N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-115" lat="41.0620561018" lon="-5.46578894672" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986613TL9428N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-243" lat="41.0614392164" lon="-5.46847630049" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785402TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-77" lat="41.0631284752" lon="-5.46670769517" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987106TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-116" lat="41.0619569703" lon="-5.4658177469" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986702TL9428N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-226" lat="41.0620766389" lon="-5.46676214812" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886702TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-117" lat="41.0619614013" lon="-5.46572480689" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986703TL9405N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-180" lat="41.06258408" lon="-5.46480452321" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086503TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-182" lat="41.0626546931" lon="-5.46478649053" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086502TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-118" lat="41.0620057711" lon="-5.46567035644" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986616TL9428N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-201" lat="41.0615220132" lon="-5.46666683656" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985303TL9428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-119" lat="41.0622810327" lon="-5.46614947614" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986902TL9428N"/>
+  <tag k="addr:street" v="Calle Apeadero"/>
+</node>
+<node action="modify" id="-161" lat="41.0626333844" lon="-5.46662901289" visible="true">
+  <tag k="addr:housenumber" v="3E"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886516TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-120" lat="41.0623544479" lon="-5.4662037768" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986901TL9428N"/>
+  <tag k="addr:street" v="Plaza del Ayuntamiento"/>
+</node>
+<node action="modify" id="-273" lat="41.0611854777" lon="-5.4637060615" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185803TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-121" lat="41.0622668023" lon="-5.46623651088" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986203TL9428N"/>
+  <tag k="addr:street" v="Plaza del Ayuntamiento"/>
+</node>
+<node action="modify" id="-263" lat="41.0615385305" lon="-5.46595440991" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985908TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-26" lat="41.0617849016" lon="-5.46619697661" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986105TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-256" lat="41.0612722764" lon="-5.46622011921" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885609TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-122" lat="41.0621161611" lon="-5.46607414518" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987701TL9428N"/>
+  <tag k="addr:street" v="Plaza del Ayuntamiento"/>
+</node>
+<node action="modify" id="-210" lat="41.0625461798" lon="-5.46581675882" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987614TL9428N"/>
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+</node>
+<node action="modify" id="-248" lat="41.0613308619" lon="-5.46986195233" visible="true">
+  <tag k="addr:housenumber" v="14D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2685203TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-123" lat="41.060823428" lon="-5.46891659797" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785105TL9428N"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-239" lat="41.0628413492" lon="-5.46656917119" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987120TL9428N"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-71" lat="41.0623968626" lon="-5.46718399654" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886901TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-193" lat="41.0633350708" lon="-5.46549592229" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987628TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-124" lat="41.0605928241" lon="-5.46894774568" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684603TL9428S"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-233" lat="41.0623720275" lon="-5.46709036618" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886902TL9428N"/>
+  <tag k="addr:street" v="Calle Vel&#225;zquez"/>
+</node>
+<node action="modify" id="-222" lat="41.0616844825" lon="-5.46752692102" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886918TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-125" lat="41.0608514092" lon="-5.46957685421" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684401TL9428S"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-176" lat="41.0620539802" lon="-5.46540842348" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986618TL9428N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-162" lat="41.0627454155" lon="-5.46665497861" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987119TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-294" lat="41.0626403765" lon="-5.46564076852" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087108TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-126" lat="41.0602141557" lon="-5.46919922518" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684602TL9428S"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-127" lat="41.0605889125" lon="-5.46925641955" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684402TL9428S"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-79" lat="41.0632009594" lon="-5.46663569912" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987104TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-128" lat="41.0611743428" lon="-5.46825512884" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785104TL9428N"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-269" lat="41.0622380823" lon="-5.46495602161" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086902TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-250" lat="41.0610565247" lon="-5.46937818814" visible="true">
+  <tag k="addr:housenumber" v="15D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2685801TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-129" lat="41.0612338973" lon="-5.46788948784" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684607TL9428N"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-72" lat="41.0637285907" lon="-5.46562570561" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988703TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-252" lat="41.0615656138" lon="-5.46819261082" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785405TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-130" lat="41.0610782286" lon="-5.46842311357" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785103TL9428N"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-131" lat="41.0608503264" lon="-5.4682786636" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684604TL9428S"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-163" lat="41.0634163995" lon="-5.46905417728" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787303TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-189" lat="41.0619020438" lon="-5.4654289261" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986707TL9428N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-132" lat="41.0609415199" lon="-5.46867014516" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785101TL9428N"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-133" lat="41.0607552155" lon="-5.46838779664" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2684601TL9428S"/>
+  <tag k="addr:street" v="Calle Cabezabellosa"/>
+</node>
+<node action="modify" id="-206" lat="41.0613896446" lon="-5.466391879" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885607TL9428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-134" lat="41.0620785418" lon="-5.46633400137" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986108TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-282" lat="41.0628980848" lon="-5.46558857651" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987616TL9428N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-135" lat="41.0622916805" lon="-5.46673585006" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886515TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-185" lat="41.0625404097" lon="-5.46517455561" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086218TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-136" lat="41.0620047065" lon="-5.46651635995" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986101TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-219" lat="41.0615631416" lon="-5.46747150107" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885426TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-137" lat="41.0619235844" lon="-5.46637899448" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986112TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-164" lat="41.0634227692" lon="-5.46915670614" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787302TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-138" lat="41.0620448911" lon="-5.46642078417" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986107TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-139" lat="41.0621442012" lon="-5.46617837788" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986204TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-262" lat="41.061351344" lon="-5.46618954957" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885608TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-207" lat="41.0614964003" lon="-5.46634026906" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985307TL8428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-140" lat="41.0623432431" lon="-5.46649098037" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886507TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-247" lat="41.0611825784" lon="-5.46959757909" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2685204TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-141" lat="41.0624007202" lon="-5.46655418843" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886504TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-186" lat="41.0625170065" lon="-5.46507711842" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086215TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-142" lat="41.0624182622" lon="-5.46660417333" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886503TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-232" lat="41.0617675539" lon="-5.46729540407" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885412TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-278" lat="41.0609739383" lon="-5.46347706368" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185807TL9428N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-143" lat="41.0625450676" lon="-5.46699711371" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886508TL9428N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-304" lat="41.0627098058" lon="-5.46519861218" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086214TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-165" lat="41.0634750555" lon="-5.46924486511" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787301TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-144" lat="41.0626432802" lon="-5.46655507716" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886505TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-215" lat="41.0616415564" lon="-5.46731342724" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885414TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-287" lat="41.0629741337" lon="-5.46483613562" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087801TL9438N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-145" lat="41.0628195332" lon="-5.46688966604" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987122TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-3" lat="41.0618909698" lon="-5.4660765863" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986110TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-146" lat="41.0628816421" lon="-5.46686332674" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987123TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-227" lat="41.0620700874" lon="-5.46690044004" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886923TL9405N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-147" lat="41.0630160385" lon="-5.46702674355" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988813TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-64" lat="41.0620516609" lon="-5.46758270312" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886912TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-295" lat="41.0625833294" lon="-5.46566544456" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086206TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-148" lat="41.0630555288" lon="-5.46712580192" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988814TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-149" lat="41.0630078819" lon="-5.46836164095" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2789702TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-166" lat="41.0627058527" lon="-5.46669669473" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886502TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-150" lat="41.0632096359" lon="-5.46840352651" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2789715TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-274" lat="41.0611294104" lon="-5.463611268" visible="true">
+  <tag k="addr:housenumber" v="21A"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185804TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-151" lat="41.0626113813" lon="-5.4663530655" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987118TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-300" lat="41.0628835588" lon="-5.46503648289" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087102TL9408N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-17" lat="41.0618036654" lon="-5.46514287579" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085405TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-257" lat="41.0610883473" lon="-5.46629208595" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885612TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-152" lat="41.0632270779" lon="-5.4684868412" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2789701TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-211" lat="41.0620961319" lon="-5.46672009284" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886701TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-153" lat="41.0630679732" lon="-5.46862967145" visible="true">
+  <tag k="addr:housenumber" v="21D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787201TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-240" lat="41.0629453748" lon="-5.46654964069" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987110TL9428N"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-20" lat="41.06174889" lon="-5.4648961533" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085410TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-194" lat="41.0632126727" lon="-5.46538579428" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987623TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-154" lat="41.0630759857" lon="-5.4688989844" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787203TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-223" lat="41.0616745407" lon="-5.46773294426" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886919TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-155" lat="41.0632213937" lon="-5.46915361673" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2789101TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-177" lat="41.0621986058" lon="-5.46518960091" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086904TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-167" lat="41.0627633086" lon="-5.46671476398" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987121TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-156" lat="41.0633056905" lon="-5.46840635316" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787402TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-157" lat="41.0633335128" lon="-5.46844855752" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2787401TL9428N"/>
+  <tag k="addr:street" v="Calle Villaverde"/>
+</node>
+<node action="modify" id="-261" lat="41.0616115206" lon="-5.4659780818" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985904TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-27" lat="41.0616624914" lon="-5.46640772547" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985311TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-270" lat="41.0613156599" lon="-5.46386038525" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185801TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-246" lat="41.0610919401" lon="-5.4691715167" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785106TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-47" lat="41.0611698115" lon="-5.46752592982" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885103TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-43" lat="41.0613194291" lon="-5.46717643238" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885903TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-253" lat="41.0616762478" lon="-5.46813665471" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785412TL9408N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-41" lat="41.0612166415" lon="-5.46704692616" visible="true">
+  <tag k="addr:housenumber" v="18D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885905TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-231" lat="41.0619979612" lon="-5.46711588694" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886908TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-35" lat="41.0616216998" lon="-5.46678532592" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885406TL9428N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-236" lat="41.0625085073" lon="-5.4671186748" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886510TL9428N"/>
+  <tag k="addr:street" v="Calle Vel&#225;zquez"/>
+</node>
+<node action="modify" id="-168" lat="41.0620371153" lon="-5.46510648459" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086909TL9438N"/>
+  <tag k="addr:street" v="Calle las Bellas"/>
+</node>
+<node action="modify" id="-190" lat="41.0634335575" lon="-5.46526115029" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987602TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-36" lat="41.0610596655" lon="-5.46651674204" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885611TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-50" lat="41.0611454983" lon="-5.46601052699" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985914TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-85" lat="41.0636031694" lon="-5.46525329874" visible="true">
+  <tag k="addr:housenumber" v="61T"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087905TL9438N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-38" lat="41.0610258257" lon="-5.46691460511" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885803TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-283" lat="41.0629321486" lon="-5.46553489552" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987617TL9428N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-37" lat="41.0609978736" lon="-5.46669244617" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885804TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-33" lat="41.0617439341" lon="-5.4671088872" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885404TL9428N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-52" lat="41.0623546445" lon="-5.46600109659" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086203TL9438N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-56" lat="41.0622759825" lon="-5.46560006392" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986609TL9428N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-169" lat="41.0620178613" lon="-5.46499188199" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086908TL9438N"/>
+  <tag k="addr:street" v="Calle las Bellas"/>
+</node>
+<node action="modify" id="-53" lat="41.0621951702" lon="-5.46569216064" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986607TL9428N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-54" lat="41.0623590231" lon="-5.46549788666" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086208TL9438N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-22" lat="41.0617134313" lon="-5.46474750698" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085412TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-296" lat="41.0627764151" lon="-5.46514299654" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087104TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-55" lat="41.0624299034" lon="-5.46551493449" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086209TL9438N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-65" lat="41.0616585511" lon="-5.46798118477" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785407TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-42" lat="41.0611817317" lon="-5.46585203009" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985912TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-66" lat="41.0630732325" lon="-5.46687215977" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988812TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-279" lat="41.0620305477" lon="-5.46481575957" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086801TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-67" lat="41.0631401652" lon="-5.46681454532" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988811TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-305" lat="41.0625207718" lon="-5.46592231524" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086202TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-170" lat="41.0619906494" lon="-5.46517097897" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085402TL9438N"/>
+  <tag k="addr:street" v="Calle las Bellas"/>
+</node>
+<node action="modify" id="-51" lat="41.060774829" lon="-5.46649629614" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885805TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-216" lat="41.0618554325" lon="-5.46722025387" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886911TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-288" lat="41.0630546493" lon="-5.46534695049" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987621TL9428N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-23" lat="41.0616138861" lon="-5.46657423868" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985302TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-260" lat="41.0615010989" lon="-5.46626027517" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985312TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-87" lat="41.0618261889" lon="-5.46767126227" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886916TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-6" lat="41.0617359247" lon="-5.46586230384" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985901TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-245" lat="41.0614628147" lon="-5.46890835339" visible="true">
+  <tag k="addr:housenumber" v="12A"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785410TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-59" lat="41.0623765959" lon="-5.46588029816" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086204TL9438N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-267" lat="41.0618203241" lon="-5.46467085001" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086803TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-34" lat="41.06170172" lon="-5.46703186294" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885403TL9428N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-49" lat="41.0612042666" lon="-5.46762455935" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885101TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-230" lat="41.0619232511" lon="-5.46694125725" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886704TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-60" lat="41.0623556785" lon="-5.4657968871" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086205TL9438N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-171" lat="41.0618754034" lon="-5.46653503733" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986102TL9428N"/>
+  <tag k="addr:street" v="Calle Miguel Delibes"/>
+</node>
+<node action="modify" id="-69" lat="41.0632088529" lon="-5.46675762349" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988810TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-275" lat="41.0610514585" lon="-5.46355004812" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185805TL9428N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-307" lat="41.0627509447" lon="-5.46524308315" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087105TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-57" lat="41.062156543" lon="-5.46553589745" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986619TL9428N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-301" lat="41.0624811402" lon="-5.46603993478" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086201TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-214" lat="41.061886134" lon="-5.46716517903" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886910TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-258" lat="41.0612831707" lon="-5.46614405008" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985913TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-24" lat="41.061780444" lon="-5.46628736884" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986104TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-212" lat="41.0621223462" lon="-5.46738924096" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886909TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-284" lat="41.063012396" lon="-5.46519876066" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087101TL9438N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-70" lat="41.063731322" lon="-5.46614597122" visible="true">
+  <tag k="addr:housenumber" v="30D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988804TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-241" lat="41.062855962" lon="-5.46660395099" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987124TL9428N"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-188" lat="41.0620533647" lon="-5.46519312893" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086907TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-25" lat="41.0615924212" lon="-5.46649144562" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985305TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-224" lat="41.061605086" lon="-5.46778389629" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886920TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-30" lat="41.0618784417" lon="-5.46700074186" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886705TL9405N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-178" lat="41.0621415112" lon="-5.46527662323" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086222TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-172" lat="41.061737388" lon="-5.46644342429" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986111TL9428N"/>
+  <tag k="addr:street" v="Calle Miguel Delibes"/>
+</node>
+<node action="modify" id="-73" lat="41.0637281965" lon="-5.46553893746" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2988704TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-297" lat="41.0625997254" lon="-5.46560850898" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086210TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-39" lat="41.0611286423" lon="-5.46696312272" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885907TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-89" lat="41.061941261" lon="-5.46769853913" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886915TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-291" lat="41.0632103964" lon="-5.46496194169" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087903TL9438N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-1" lat="41.0617435924" lon="-5.46659454086" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886707TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-271" lat="41.0621906332" lon="-5.4649550945" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086903TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-46" lat="41.0612957559" lon="-5.46752000126" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885425TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-62" lat="41.0622815042" lon="-5.46568869923" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986606TL9428N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-254" lat="41.0614776327" lon="-5.46826684363" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785404TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-10" lat="41.0616129348" lon="-5.46668594364" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985301TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-208" lat="41.062748789" lon="-5.46603353586" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986401TL9428N"/>
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+</node>
+<node action="modify" id="-197" lat="41.0632298942" lon="-5.465239159" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987622TL9428N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-2" lat="41.0616692998" lon="-5.46634632486" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985308TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-237" lat="41.0628486691" lon="-5.46652786267" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987125TL9428N"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-173" lat="41.0619410918" lon="-5.46669513428" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886706TL9428N"/>
+  <tag k="addr:street" v="Calle Miguel Delibes"/>
+</node>
+<node action="modify" id="-191" lat="41.0631386628" lon="-5.46548548961" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987620TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-21" lat="41.0617467443" lon="-5.46479861234" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085411TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-204" lat="41.0614368371" lon="-5.46677842242" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885602TL9428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-11" lat="41.0616542958" lon="-5.46509349981" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085302TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-174" lat="41.0620813411" lon="-5.4651821552" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086906TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-90" lat="41.0623094828" lon="-5.46636899632" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986201TL9428N"/>
+  <tag k="addr:street" v="Calle Libertad"/>
+</node>
+<node action="modify" id="-45" lat="41.06114201" lon="-5.46746146384" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885104TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-244" lat="41.0614178511" lon="-5.46859263211" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2785401TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-31" lat="41.0613702517" lon="-5.46652776498" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885613TL9428N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-266" lat="41.062358043" lon="-5.46478900018" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086806TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-195" lat="41.0634025256" lon="-5.46538460785" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987606TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-44" lat="41.0612200938" lon="-5.46741614347" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885901TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-229" lat="41.0618237111" lon="-5.46716555292" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885405TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-251" lat="41.0610461162" lon="-5.47001057709" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2685201TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-40" lat="41.0611028778" lon="-5.46706521777" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885801TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-48" lat="41.0613758233" lon="-5.46767203018" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885421TL9428N"/>
+  <tag k="addr:street" v="Calle Palomares"/>
+</node>
+<node action="modify" id="-63" lat="41.062137244" lon="-5.46792982202" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2789712TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-61" lat="41.0622177318" lon="-5.46586257964" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986605TL9428N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-91" lat="41.0623440795" lon="-5.46629889512" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986202TL9428N"/>
+  <tag k="addr:street" v="Calle Libertad"/>
+</node>
+<node action="modify" id="-68" lat="41.0623067397" lon="-5.46734117572" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886906TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-74" lat="41.0627729275" lon="-5.46695808629" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886501TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-196" lat="41.0634105918" lon="-5.46531125381" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987603TL9428N"/>
+  <tag k="addr:street" v="Calle Lucero"/>
+</node>
+<node action="modify" id="-75" lat="41.0630395159" lon="-5.46678700259" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987107TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-280" lat="41.0625240389" lon="-5.46481714863" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086504TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-13" lat="41.0616406075" lon="-5.46494876814" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085303TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-306" lat="41.0627099112" lon="-5.46544253522" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087106TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-58" lat="41.062108867" lon="-5.46553304485" visible="true">
+  <tag k="addr:housenumber" v="14D"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986621TL9428N"/>
+  <tag k="addr:street" v="Calle Pe&#241;aranda"/>
+</node>
+<node action="modify" id="-28" lat="41.0617932991" lon="-5.46608128678" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986106TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-217" lat="41.0616727964" lon="-5.46745428699" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885415TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-289" lat="41.062658693" lon="-5.46580403235" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087109TL9438N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-78" lat="41.0631630456" lon="-5.46667448661" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987105TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-218" lat="41.0618793667" lon="-5.46741311727" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886913TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-19" lat="41.0616837608" lon="-5.46637180265" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986103TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-80" lat="41.0632239838" lon="-5.46648127711" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987128TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-183" lat="41.0624821503" lon="-5.46515148042" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086223TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-81" lat="41.0635530904" lon="-5.46566984204" visible="true">
+  <tag k="addr:housenumber" v="53D"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987625TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-82" lat="41.0635457347" lon="-5.46555484825" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987605TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-9" lat="41.0617505355" lon="-5.46569066847" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986705TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-292" lat="41.0627708457" lon="-5.46576457414" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987615TL9428N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-83" lat="41.0636085141" lon="-5.4655958347" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987604TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-276" lat="41.0618375927" lon="-5.46483377918" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085409TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-203" lat="41.0613944318" lon="-5.4668454445" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885601TL9428N"/>
+  <tag k="addr:street" v="Calle Coral"/>
+</node>
+<node action="modify" id="-84" lat="41.0636217771" lon="-5.46547638071" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987601TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-302" lat="41.0626730855" lon="-5.46534724113" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086212TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-93" lat="41.063015093" lon="-5.46632233523" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987112TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-259" lat="41.0615718063" lon="-5.46618389447" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985310TL9428N"/>
+  <tag k="addr:street" v="Calle Eras Chicas"/>
+</node>
+<node action="modify" id="-29" lat="41.0615814674" lon="-5.46681364359" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885407TL9428N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-213" lat="41.0617249289" lon="-5.46736137969" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2885413TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-285" lat="41.0629659005" lon="-5.46548464828" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987618TL9428N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-86" lat="41.0636482323" lon="-5.46504577131" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087904TL9438N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-242" lat="41.0629521291" lon="-5.46659594694" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987109TL9428N"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-198" lat="41.0628275725" lon="-5.46599402079" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987613TL9428N"/>
+  <tag k="addr:street" v="Calle Corta"/>
+</node>
+<node action="modify" id="-298" lat="41.0628122512" lon="-5.46507016651" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3087103TL9438N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-32" lat="41.0617406651" lon="-5.46688158856" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886708TL9428N"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+</node>
+<node action="modify" id="-228" lat="41.0620118104" lon="-5.46688602655" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886703TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-225" lat="41.0615622876" lon="-5.46781823334" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886921TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-88" lat="41.062369234" lon="-5.46807832573" visible="true">
+  <tag k="addr:housenumber" v="8A"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2789713TL9428N"/>
+  <tag k="addr:street" v="Calle Ronda"/>
+</node>
+<node action="modify" id="-179" lat="41.062351605" lon="-5.46519074059" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3086220TL9438N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-18" lat="41.0617339154" lon="-5.46508581817" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085408TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-4" lat="41.0617211339" lon="-5.46613162337" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985309TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-235" lat="41.0624714896" lon="-5.46714238789" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886511TL9428N"/>
+  <tag k="addr:street" v="Calle Vel&#225;zquez"/>
+</node>
+<node action="modify" id="-7" lat="41.0617566357" lon="-5.46574078728" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986704TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-220" lat="41.0621405557" lon="-5.46679604066" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2886904TL9428N"/>
+  <tag k="addr:street" v="Calle Unamuno"/>
+</node>
+<node action="modify" id="-5" lat="41.0617837539" lon="-5.46590469545" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986708TL9428N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-272" lat="41.0612286972" lon="-5.46379513945" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3185802TL9438N"/>
+  <tag k="addr:street" v="Calle la Fragua"/>
+</node>
+<node action="modify" id="-92" lat="41.0627080277" lon="-5.46636940529" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987117TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-199" lat="41.0615861721" lon="-5.46559800981" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2985501TL9428N"/>
+  <tag k="addr:street" v="Calle Gemelas"/>
+</node>
+<node action="modify" id="-255" lat="41.0629716274" lon="-5.46664439569" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987108TL9428N"/>
+  <tag k="addr:street" v="Calle Calzada de Salamanca"/>
+</node>
+<node action="modify" id="-8" lat="41.0616633918" lon="-5.46522265721" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085301TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+<node action="modify" id="-209" lat="41.0623978345" lon="-5.46613419489" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2986903TL9428N"/>
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+</node>
+<node action="modify" id="-94" lat="41.0633867821" lon="-5.46594510565" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987609TL9428N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-238" lat="41.0628768423" lon="-5.46656050197" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2987111TL9428N"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-15" lat="41.0616275932" lon="-5.4648518167" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37490"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3085304TL9438N"/>
+  <tag k="addr:street" v="Calle del &#193;ngel"/>
+</node>
+</osm>
