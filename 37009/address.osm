@@ -1,0 +1,1387 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2dev'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-04-27"/>
+</changeset>
+<node action="modify" id="-178" lat="40.6702825008" lon="-6.31732503049" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6958805QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-97" lat="40.6709767097" lon="-6.31621778327" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959003QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-180" lat="40.6726064039" lon="-6.31721370181" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961025QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-99" lat="40.6707934602" lon="-6.31642489652" visible="true">
+  <tag k="addr:housenumber" v="44D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959031QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-35" lat="40.6727407308" lon="-6.31805683883" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861406QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-38" lat="40.6728986342" lon="-6.31505027216" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062521QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-101" lat="40.670687168" lon="-6.31651582989" visible="true">
+  <tag k="addr:housenumber" v="45D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059011QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-194" lat="40.6722005621" lon="-6.31709662036" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961023QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-40" lat="40.6734109775" lon="-6.31523461016" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062516QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-103" lat="40.6709407399" lon="-6.31669279957" visible="true">
+  <tag k="addr:housenumber" v="46D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959005QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-206" lat="40.6726434273" lon="-6.31469210709" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7161002QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-42" lat="40.6728422578" lon="-6.31786588768" visible="true">
+  <tag k="addr:housenumber" v="8D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861403QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-105" lat="40.6705911693" lon="-6.31663028433" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059012QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-138" lat="40.6720061822" lon="-6.31592516656" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060002QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-44" lat="40.6718383613" lon="-6.31704495963" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960518QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-107" lat="40.670547057" lon="-6.31673689388" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059015QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-76" lat="40.6735251566" lon="-6.31669408222" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962408QF2066S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-46" lat="40.6717406618" lon="-6.31748937993" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960708QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-109" lat="40.6702377125" lon="-6.31703957159" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059016QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-183" lat="40.6708197634" lon="-6.31562501409" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7159010QF2075N"/>
+  <tag k="addr:street" v="Calle de la Alameda"/>
+</node>
+<node action="modify" id="-48" lat="40.6716171859" lon="-6.3176564047" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960710QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-111" lat="40.6704547655" lon="-6.31696328662" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959011QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-80" lat="40.6741708657" lon="-6.31675999394" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062801QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-197" lat="40.6724778136" lon="-6.3180820207" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861407QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-50" lat="40.6720469704" lon="-6.31687208789" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960705QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-113" lat="40.6737631058" lon="-6.31677305882" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962409QF2066S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-82" lat="40.6719992518" lon="-6.31632417731" visible="true">
+  <tag k="addr:housenumber" v="22B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060704QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-52" lat="40.6710482914" lon="-6.31812389965" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6859001QF2065N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-10" lat="40.6729938497" lon="-6.31739863473" visible="true">
+  <tag k="addr:housenumber" v="12D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961017QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-115" lat="40.6700394726" lon="-6.31721892966" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6958809QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-84" lat="40.6719257675" lon="-6.31628767591" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060705QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-4" lat="40.6719048586" lon="-6.3168198662" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960501QF2066S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-54" lat="40.6705511801" lon="-6.31814724676" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6859502QF2065N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-117" lat="40.6698322517" lon="-6.31786535118" visible="true">
+  <tag k="addr:housenumber" v="74"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6858501QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-86" lat="40.6718282662" lon="-6.31612532806" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060005QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-56" lat="40.6718821729" lon="-6.31716514562" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960702QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-172" lat="40.6711654061" lon="-6.3175196893" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959018QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-119" lat="40.6711862847" lon="-6.31628396494" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959002QF2065N"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-88" lat="40.6717082242" lon="-6.31607740701" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060502QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-167" lat="40.6716514398" lon="-6.31784065977" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860403QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-185" lat="40.6721987422" lon="-6.31762347212" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960706QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-78" lat="40.6727754232" lon="-6.3164032253" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061019QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-58" lat="40.6718311073" lon="-6.31724542057" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960711QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-153" lat="40.6717946159" lon="-6.31624249908" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960401QF2066S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-121" lat="40.6713603836" lon="-6.3168010718" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960414QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-198" lat="40.6723481752" lon="-6.31520929174" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060306QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-146" lat="40.6719976787" lon="-6.31553235619" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060303QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-122" lat="40.6714297869" lon="-6.3167918339" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960413QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-60" lat="40.6722607083" lon="-6.31830255978" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860114QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-126" lat="40.6712439449" lon="-6.31639820531" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960408QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-205" lat="40.6724419025" lon="-6.31796613697" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861410QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-124" lat="40.6712171696" lon="-6.31621057479" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960407QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-62" lat="40.6721906376" lon="-6.31841519283" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860104QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-207" lat="40.6721284697" lon="-6.31458775174" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160401QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-71" lat="40.6713090417" lon="-6.31501339027" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160510QF2076S"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-64" lat="40.6719682289" lon="-6.31828258177" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860112QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-1" lat="40.671778726" lon="-6.31649997592" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960409QF2066S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-147" lat="40.6719355016" lon="-6.31498773472" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160705QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-150" lat="40.6722648761" lon="-6.31497983464" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060307QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-128" lat="40.6710279031" lon="-6.31667227402" visible="true">
+  <tag k="addr:housenumber" v="7D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959034QF2065N"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-174" lat="40.6727471164" lon="-6.31762227065" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961015QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-2" lat="40.6719105562" lon="-6.31649867389" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060706QF2076S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-187" lat="40.6725072508" lon="-6.31738874127" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961012QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-130" lat="40.6711812722" lon="-6.31680554193" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959010QF2065N"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-186" lat="40.6724314202" lon="-6.31742258638" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961011QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-68" lat="40.6711134446" lon="-6.31494429476" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7159005QF2075N"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-200" lat="40.6716591168" lon="-6.31430684549" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160502QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-155" lat="40.6718825821" lon="-6.31536262489" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060401QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-36" lat="40.6729319074" lon="-6.31528692372" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062518QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-70" lat="40.6711919609" lon="-6.31551564585" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7159007QF2075N"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-154" lat="40.6718870107" lon="-6.31591310791" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060003QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-133" lat="40.6717745587" lon="-6.31479445717" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160506QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-9" lat="40.6729784549" lon="-6.31748399731" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961018QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-142" lat="40.6716010871" lon="-6.31568814137" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060404QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-11" lat="40.6729632737" lon="-6.31794178734" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861107QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-176" lat="40.6707739254" lon="-6.31735021604" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959021QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-13" lat="40.672902483" lon="-6.31778018269" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861106QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-157" lat="40.6721580513" lon="-6.31532710685" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060305QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-158" lat="40.6713667132" lon="-6.31748505603" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960514QF2066S"/>
+  <tag k="addr:street" v="Calle Betania"/>
+</node>
+<node action="modify" id="-189" lat="40.6723320268" lon="-6.31745139722" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961010QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-137" lat="40.6716084243" lon="-6.31530064707" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160512QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-15" lat="40.672997922" lon="-6.3169235744" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961002QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-202" lat="40.6727215396" lon="-6.31569799559" visible="true">
+  <tag k="addr:housenumber" v="43D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061004QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-160" lat="40.671584165" lon="-6.31726026807" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960510QF2066S"/>
+  <tag k="addr:street" v="Calle Betania"/>
+</node>
+<node action="modify" id="-17" lat="40.6731160135" lon="-6.31764671104" visible="true">
+  <tag k="addr:housenumber" v="19B"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861115QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-162" lat="40.6721875393" lon="-6.31772332178" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860111QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-19" lat="40.6729338114" lon="-6.316092412" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061010QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-164" lat="40.67201874" lon="-6.31777838667" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860107QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-141" lat="40.67168467" lon="-6.31571382567" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060403QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-21" lat="40.6730095846" lon="-6.31593365788" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061007QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-5" lat="40.6717100407" lon="-6.31662976943" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960410QF2066S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-23" lat="40.672986433" lon="-6.31570019309" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061003QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-168" lat="40.6713074704" lon="-6.31756326116" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959016QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-191" lat="40.6722529621" lon="-6.31738523489" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961009QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-25" lat="40.6730484898" lon="-6.31679425358" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962402QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-170" lat="40.6712319577" lon="-6.31754181455" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959017QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-7" lat="40.672922617" lon="-6.31765689806" visible="true">
+  <tag k="addr:housenumber" v="10D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961019QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-145" lat="40.671247539" lon="-6.31563876549" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060409QF2076S"/>
+  <tag k="addr:street" v="Plaza del Parque"/>
+</node>
+<node action="modify" id="-27" lat="40.6730521273" lon="-6.31620205643" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062510QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-90" lat="40.671542298" lon="-6.31600206898" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060503QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-136" lat="40.6718243298" lon="-6.31487334202" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160703QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-29" lat="40.6727226713" lon="-6.31831337672" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861111QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-92" lat="40.6710998564" lon="-6.3161144376" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959001QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-31" lat="40.6732914567" lon="-6.31579257516" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062505QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-94" lat="40.6709508315" lon="-6.31614120895" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059004QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-166" lat="40.6714324389" lon="-6.31761250717" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960517QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-33" lat="40.6734534329" lon="-6.31560105547" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062501QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-69" lat="40.6712998702" lon="-6.3151183334" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160513QF2076S"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-96" lat="40.6739516512" lon="-6.31678839417" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962410QF2066S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-193" lat="40.6721018657" lon="-6.31644144573" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060701QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-116" lat="40.6735339335" lon="-6.31655346863" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062515QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-151" lat="40.6719571052" lon="-6.31479950743" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160701QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-98" lat="40.6709645806" lon="-6.31660341055" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959032QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-181" lat="40.6724195053" lon="-6.31771496205" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861409QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-37" lat="40.6729083048" lon="-6.31521657617" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062517QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-39" lat="40.6727600594" lon="-6.31814990118" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861110QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-102" lat="40.6707581725" lon="-6.31648768256" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959030QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-195" lat="40.672197274" lon="-6.31655161966" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961005QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-41" lat="40.6727804424" lon="-6.31787444211" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861404QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-104" lat="40.6706169855" lon="-6.31655579212" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059013QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-182" lat="40.6711855856" lon="-6.31573310883" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7159009QF2075N"/>
+  <tag k="addr:street" v="Calle de la Alameda"/>
+</node>
+<node action="modify" id="-43" lat="40.6728297078" lon="-6.31804419739" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861109QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-169" lat="40.6714548344" lon="-6.31772139405" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960601QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-106" lat="40.6706766621" lon="-6.31664734381" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959024QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-75" lat="40.6739261345" lon="-6.3166205947" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062101QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-45" lat="40.6718500089" lon="-6.31732140142" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960707QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-108" lat="40.6705892718" lon="-6.31677994001" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959026QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-77" lat="40.6729306069" lon="-6.31643130301" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061020QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-47" lat="40.6715265014" lon="-6.31769743401" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960516QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-110" lat="40.6701124433" lon="-6.31711698325" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059008QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-79" lat="40.6726051429" lon="-6.31637322648" visible="true">
+  <tag k="addr:housenumber" v="15T"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061012QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-49" lat="40.6718126657" lon="-6.31711824013" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960502QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-112" lat="40.6704102791" lon="-6.31700513895" visible="true">
+  <tag k="addr:housenumber" v="58D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959028QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-81" lat="40.6720535366" lon="-6.31634555562" visible="true">
+  <tag k="addr:housenumber" v="22A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060703QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-51" lat="40.6712752102" lon="-6.31800668203" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860404QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-114" lat="40.6701468901" lon="-6.3171962992" visible="true">
+  <tag k="addr:housenumber" v="64"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6958808QF2065N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-83" lat="40.6720333683" lon="-6.31623501515" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060001QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-184" lat="40.6725762751" lon="-6.31831412813" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861408QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-53" lat="40.6718060314" lon="-6.31716250339" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960503QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-65" lat="40.6719240198" lon="-6.31820036164" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860113QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-85" lat="40.6719179396" lon="-6.3161817746" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060004QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-55" lat="40.6717800278" lon="-6.31721433222" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960504QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-118" lat="40.6733001067" lon="-6.31666274039" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062512QF2076S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-209" lat="40.6722968812" lon="-6.31762375464" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961022QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-87" lat="40.6716019226" lon="-6.31610052858" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960402QF2066S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-57" lat="40.6717513667" lon="-6.31728787717" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960508QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-120" lat="40.6712497022" lon="-6.31679950805" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960404QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-3" lat="40.6719082685" lon="-6.31664825598" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060702QF2076S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-89" lat="40.6715315502" lon="-6.31606979749" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960403QF2066S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-140" lat="40.6717749465" lon="-6.31582635479" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060501QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-59" lat="40.6716842551" lon="-6.31742607386" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960509QF2066S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-204" lat="40.6725393823" lon="-6.3154015678" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061002QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-123" lat="40.6714877689" lon="-6.31683787505" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960412QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-173" lat="40.6712906752" lon="-6.31760227258" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6859301QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-61" lat="40.6718945725" lon="-6.31808205992" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860109QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-148" lat="40.6722139387" lon="-6.31514429554" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060308QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-125" lat="40.6711886379" lon="-6.31667151617" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959008QF2065N"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-63" lat="40.6718125208" lon="-6.31784200831" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860402QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-199" lat="40.6721798144" lon="-6.31614545807" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061017QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-208" lat="40.6721905732" lon="-6.31441793992" visible="true">
+  <tag k="addr:housenumber" v="61D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160403QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-127" lat="40.6711788316" lon="-6.31675337934" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959009QF2065N"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-210" lat="40.6725118339" lon="-6.31744087869" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961014QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-129" lat="40.6712302664" lon="-6.31665206181" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960415QF2066S"/>
+  <tag k="addr:street" v="Calle de la Alondra"/>
+</node>
+<node action="modify" id="-67" lat="40.6712457352" lon="-6.31539608587" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060408QF2076S"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-152" lat="40.6721063157" lon="-6.31495513102" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060301QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-72" lat="40.6711967663" lon="-6.31535532058" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7159006QF2075N"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-34" lat="40.6727578039" lon="-6.31820892804" visible="true">
+  <tag k="addr:housenumber" v="5D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861116QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-175" lat="40.670350977" lon="-6.31721063716" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6958804QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-8" lat="40.6729140988" lon="-6.31797667061" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861108QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-132" lat="40.6717599147" lon="-6.31503572037" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160508QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-188" lat="40.6721223633" lon="-6.31736904275" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960704QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-73" lat="40.671100639" lon="-6.31511007101" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7159014QF2075N"/>
+  <tag k="addr:street" v="Calle de la Dehesa"/>
+</node>
+<node action="modify" id="-201" lat="40.6722592217" lon="-6.31585793188" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061009QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-156" lat="40.6719127932" lon="-6.31514392033" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160704QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-135" lat="40.6713328768" lon="-6.3152574135" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160514QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-12" lat="40.6729895322" lon="-6.31729991392" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961016QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-203" lat="40.6724127571" lon="-6.31559921724" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061005QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-134" lat="40.6716317884" lon="-6.31456788096" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160504QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-14" lat="40.6729720877" lon="-6.31762641533" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861105QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-159" lat="40.6712716595" lon="-6.31731199054" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959014QF2065N"/>
+  <tag k="addr:street" v="Calle Betania"/>
+</node>
+<node action="modify" id="-74" lat="40.673133156" lon="-6.3499124068" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001500300QE20E"/>
+  <tag k="addr:place" v="Finca Mejorito"/>
+</node>
+<node action="modify" id="-16" lat="40.6730453484" lon="-6.31765238422" visible="true">
+  <tag k="addr:housenumber" v="19A"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861114QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-149" lat="40.6719640409" lon="-6.31490196935" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160702QF2076S"/>
+  <tag k="addr:street" v="Avenida Central"/>
+</node>
+<node action="modify" id="-161" lat="40.6713842118" lon="-6.3171601923" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6959013QF2065N"/>
+  <tag k="addr:street" v="Calle Betania"/>
+</node>
+<node action="modify" id="-139" lat="40.6717792042" lon="-6.31572361771" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060402QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-177" lat="40.6727064367" lon="-6.31775602377" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861405QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-18" lat="40.6731773685" lon="-6.31761378697" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861103QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-196" lat="40.6721629121" lon="-6.31631024394" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7061018QF2076S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-163" lat="40.6725443817" lon="-6.3174419483" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6961021QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-190" lat="40.6721358962" lon="-6.31718649778" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960712QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-20" lat="40.6732045055" lon="-6.31758318319" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861101QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-165" lat="40.6714667745" lon="-6.31767779151" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960515QF2066S"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-66" lat="40.6718915325" lon="-6.31814890266" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6860110QF2066S"/>
+  <tag k="addr:street" v="Calle de la Huerta"/>
+</node>
+<node action="modify" id="-131" lat="40.6717168801" lon="-6.31525477558" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7160511QF2076S"/>
+  <tag k="addr:street" v="Calle Albatros"/>
+</node>
+<node action="modify" id="-143" lat="40.6714979985" lon="-6.31581253246" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060505QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-24" lat="40.67302726" lon="-6.3168878062" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962401QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-144" lat="40.6715597234" lon="-6.31537347692" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7060405QF2076S"/>
+  <tag k="addr:street" v="Calle del Pino"/>
+</node>
+<node action="modify" id="-100" lat="40.6707144339" lon="-6.31645216753" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059010QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-26" lat="40.6730939944" lon="-6.31638875544" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062511QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-22" lat="40.6734313036" lon="-6.31717564594" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962413QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-6" lat="40.6728489036" lon="-6.31778904248" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861402QF2066S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-171" lat="40.6713274839" lon="-6.31766532329" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6859303QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-179" lat="40.6702568412" lon="-6.31722877674" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6958807QF2065N"/>
+  <tag k="addr:street" v="Calle de la Ribera"/>
+</node>
+<node action="modify" id="-28" lat="40.6730759953" lon="-6.31601896425" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062509QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-91" lat="40.6712280399" lon="-6.31597561988" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059001QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-192" lat="40.6725071408" lon="-6.31858723303" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6861601QF2066S"/>
+  <tag k="addr:street" v="Avenida de Yeltes"/>
+</node>
+<node action="modify" id="-30" lat="40.6731083455" lon="-6.31573120249" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062507QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-93" lat="40.6712676843" lon="-6.31604352931" visible="true">
+  <tag k="addr:housenumber" v="36D"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6960406QF2066S"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+<node action="modify" id="-32" lat="40.6733659926" lon="-6.31578645843" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7062503QF2076S"/>
+  <tag k="addr:street" v="Calle de la Rosa"/>
+</node>
+<node action="modify" id="-95" lat="40.6708783578" lon="-6.31619294775" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37478"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7059006QF2075N"/>
+  <tag k="addr:street" v="Calle de las Amapolas"/>
+</node>
+</osm>
