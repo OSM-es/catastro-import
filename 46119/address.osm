@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2dev'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-04-26"/>
+</changeset>
+<node action="modify" id="-22" lat="39.5543174831" lon="-0.339134957047" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718211YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-46" lat="39.553406307" lon="-0.339439110132" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717808YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+<node action="modify" id="-19" lat="39.554237484" lon="-0.339131139819" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718614YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-36" lat="39.554249822" lon="-0.339236301747" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718613YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-23" lat="39.5541802422" lon="-0.338988069729" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718616YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-47" lat="39.5535384941" lon="-0.339801505691" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717811YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+<node action="modify" id="-32" lat="39.5540842782" lon="-0.338552338344" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719505YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-24" lat="39.5542882285" lon="-0.33906198277" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718210YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-34" lat="39.5544583525" lon="-0.339490116034" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719807YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-18" lat="39.5546000839" lon="-0.338925923097" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718203YJ2881N"/>
+  <tag k="addr:street" v="Carrer de les Barraques"/>
+</node>
+<node action="modify" id="-25" lat="39.5541403427" lon="-0.338892109871" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718623YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-50" lat="39.5536611396" lon="-0.339729302988" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718621YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+<node action="modify" id="-26" lat="39.5542470099" lon="-0.33897672026" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718209YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-52" lat="39.5531410338" lon="-0.339466804288" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717814YJ2881N"/>
+  <tag k="addr:street" v="Carrer del 18 de Mar&#231;"/>
+</node>
+<node action="modify" id="-27" lat="39.5542277469" lon="-0.338910961688" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718208YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-53" lat="39.5533533509" lon="-0.339900032115" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717811YJ2881N"/>
+  <tag k="addr:street" v="Carrer de Val&#232;ncia"/>
+</node>
+<node action="modify" id="-54" lat="39.5534355099" lon="-0.339628653025" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de Val&#232;ncia"/>
+</node>
+<node action="modify" id="-1" lat="39.5533969696" lon="-0.340282042965" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717802YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-55" lat="39.5534355099" lon="-0.339628653025" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de Val&#232;ncia"/>
+</node>
+<node action="modify" id="-29" lat="39.5541940825" lon="-0.338826890676" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718207YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-3" lat="39.5535137911" lon="-0.340224663947" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717804YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-4" lat="39.5535760124" lon="-0.340180059153" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717805YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-42" lat="39.5545640476" lon="-0.339179443388" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719804YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Pilota"/>
+</node>
+<node action="modify" id="-5" lat="39.5547437953" lon="-0.339513468884" visible="true">
+  <tag k="addr:housenumber" v="38A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719801YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-31" lat="39.5541064854" lon="-0.338608255907" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719506YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-6" lat="39.554690504" lon="-0.339128232256" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719802YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-7" lat="39.5548785699" lon="-0.339437324211" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719803YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-49" lat="39.5534807894" lon="-0.339643465111" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+<node action="modify" id="-38" lat="39.5543954029" lon="-0.339338795512" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719805YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-33" lat="39.554338863" lon="-0.339353665018" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718611YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-9" lat="39.5538994033" lon="-0.3392360352" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718627YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Conserva"/>
+</node>
+<node action="modify" id="-10" lat="39.5539193866" lon="-0.339293812209" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718628YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Conserva"/>
+</node>
+<node action="modify" id="-56" lat="39.5534355099" lon="-0.339628653025" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de Val&#232;ncia"/>
+</node>
+<node action="modify" id="-11" lat="39.553839959" lon="-0.339064166822" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718632YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Conserva"/>
+</node>
+<node action="modify" id="-35" lat="39.5543042829" lon="-0.339298157488" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718612YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-30" lat="39.5541571736" lon="-0.338734761531" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718206YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-8" lat="39.5533338063" lon="-0.340317916518" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717801YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-13" lat="39.5538815739" lon="-0.339184429844" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718630YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Conserva"/>
+</node>
+<node action="modify" id="-14" lat="39.5544598605" lon="-0.338693283038" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718301YJ2881N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Ajuntament"/>
+</node>
+<node action="modify" id="-37" lat="39.5544297623" lon="-0.339421363564" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719806YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-15" lat="39.5543884898" lon="-0.338864979695" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718213YJ2881N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Ajuntament"/>
+</node>
+<node action="modify" id="-57" lat="39.5534355099" lon="-0.339628653025" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de Val&#232;ncia"/>
+</node>
+<node action="modify" id="-16" lat="39.5543374171" lon="-0.338856249761" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718205YJ2881N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Ajuntament"/>
+</node>
+<node action="modify" id="-2" lat="39.5534511" lon="-0.340251358082" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717803YJ2881N"/>
+  <tag k="addr:street" v="Avinguda de Barcelona"/>
+</node>
+<node action="modify" id="-17" lat="39.5544631172" lon="-0.338818491753" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718214YJ2881N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Ajuntament"/>
+</node>
+<node action="modify" id="-51" lat="39.5532046039" lon="-0.339428415739" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717813YJ2881N"/>
+  <tag k="addr:street" v="Carrer del 18 de Mar&#231;"/>
+</node>
+<node action="modify" id="-48" lat="39.5534946651" lon="-0.339681635467" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+<node action="modify" id="-39" lat="39.5544922181" lon="-0.339227930379" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46136"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719805YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Pilota"/>
+</node>
+<node action="modify" id="-40" lat="39.5547813927" lon="-0.338948130675" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719504YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Pilota"/>
+</node>
+<node action="modify" id="-45" lat="39.5534489482" lon="-0.339555874702" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+<node action="modify" id="-12" lat="39.5538606959" lon="-0.339124098269" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718631YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Conserva"/>
+</node>
+<node action="modify" id="-41" lat="39.5545055579" lon="-0.339135361923" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718201YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Pilota"/>
+</node>
+<node action="modify" id="-20" lat="39.5543406995" lon="-0.339210468594" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718212YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-28" lat="39.5543525033" lon="-0.339419870769" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718610YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-43" lat="39.5545601383" lon="-0.339098455425" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718202YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Pilota"/>
+</node>
+<node action="modify" id="-21" lat="39.5542162395" lon="-0.3390780001" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718615YJ2881N"/>
+  <tag k="addr:street" v="Carrer del Mar"/>
+</node>
+<node action="modify" id="-44" lat="39.5534672143" lon="-0.339606122138" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="46135"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717807YJ2881N"/>
+  <tag k="addr:street" v="Carrer de la Torreta"/>
+</node>
+</osm>
