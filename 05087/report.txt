@@ -1,0 +1,83 @@
+Municipio: Gotarrendura
+Nombre en Catastro: GOTARRENDURA
+Código: 05087
+Fecha: 29/09/19
+Opciones: -td
+Superficie: 10,7 km²
+Población: 174 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Gotarrendura
+Wikidata: https://www.wikidata.org/wiki/Q842702
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.1.8
+Plataforma: Linux 4.19.0-6-amd64 #1 SMP Debian 4.19.67-2 (2019-08-28) x86_64 
+Versión de QGIS: 2.18.28
+Versión de GDAL: 2.4.0
+Número de CPUs: 4
+Frecuencia de CPU: 0,0 Mhz
+Tiempo de ejecución: 16,4 segundos
+Memoria total: 3.923,52 MB
+Memoria física usada: 186,28 MB
+Memoria virtual usada: 528,19 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2019-04-26
+Número de características: 264
+  Tipo entrada: 207
+  Tipo parcela: 57
+Códigos postales: 1
+Nombres de viales: 35
+
+==Procesado==
+Direcciones eliminadas por nombre de vía: 20
+Direcciones sin número de portal eliminadas: 1
+Direcciones sin edificio asociado eliminadas: 32
+Direcciones correspondientes a edificios múltiples eliminadas: 50
+
+==Combinación==
+Direcciones OSM: 11
+
+==Datos de salida==
+Direcciones: 161
+  En nodos de entrada: 125
+  En edificios: 36
+  Tipo addr:street: 161
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2019-04-27
+Número de características: 815
+  Edificios: 236
+  Building parts: 577
+  Piscinas: 2
+
+==Procesado==
+Partes bajo rasante eliminadas: 1
+Edificios con geometrías multiparte: 55
+Edificios resultantes de dividir multipartes: 140
+Partes fusionadas al contorno: 444
+Partes adyacentes fusionadas: 32
+Vértices próximos fusionados: 4
+Puntos topológicos creados: 99
+Vértices simplificados: 376
+
+==Combinación==
+Edificios/piscinas en OSM: 2
+  With conflict: 2
+
+==Datos de salida==
+Nodos: 2.420
+Vías: 436
+Relaciones: 13
+Número de características: 423
+  Edificios: 321
+  Partes de edificios: 100
+  Piscinas: 2
+Recuento de tipos de edificios: industrial: 9, residential: 255, yes: 11, retail: 3, ruins: 3, public: 14, barn: 26
+Plantas sobre rasante (nivel: nº de edificios): 1: 174, 2: 60, 3: 2
+Plantas bajo rasante (nivel: nº de edificios): 1: 7
+Archivos de tareas de rústica: 3
+Archivos de tareas de urbana: 43
