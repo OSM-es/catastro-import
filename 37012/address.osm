@@ -1,0 +1,1191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2dev'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-04-27"/>
+</changeset>
+<node action="modify" id="-87" lat="40.9046253273" lon="-5.38907135457" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912006TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-89" lat="40.9037917661" lon="-5.38873813866" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8910201TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-130" lat="40.9119411343" lon="-5.36228676952" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219606UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-62" lat="40.9108348848" lon="-5.3641833769" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017104UL0311N"/>
+  <tag k="addr:street" v="Calle R&#237;o"/>
+</node>
+<node action="modify" id="-65" lat="40.9107779822" lon="-5.36430957661" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017103UL0311N"/>
+  <tag k="addr:street" v="Calle R&#237;o"/>
+</node>
+<node action="modify" id="-13" lat="40.9120645906" lon="-5.36289479801" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119504UL0311N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-93" lat="40.9047013856" lon="-5.38928683619" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912005TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-95" lat="40.905160899" lon="-5.38824120511" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912303TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-68" lat="40.9114377822" lon="-5.36237926726" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217801UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-169" lat="40.9100898365" lon="-5.36263661116" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116301UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-97" lat="40.9059951742" lon="-5.38921363927" visible="true">
+  <tag k="addr:housenumber" v="31D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8913004TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-17" lat="40.9123181822" lon="-5.36263068585" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219701UL0311N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-99" lat="40.9058141584" lon="-5.38903402667" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8913501TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-101" lat="40.9057315168" lon="-5.38910572576" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912803TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-72" lat="40.9115798787" lon="-5.36243051032" visible="true">
+  <tag k="addr:housenumber" v="4B"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218707UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-151" lat="40.9110081989" lon="-5.36178824395" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217826UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-103" lat="40.9053081465" lon="-5.38959812405" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912001TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-147" lat="40.9110176903" lon="-5.3621645992" visible="true">
+  <tag k="addr:housenumber" v="21D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217815UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-105" lat="40.9105423001" lon="-5.36325363112" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117001UL0311N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-160" lat="40.9112584725" lon="-5.36415339746" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018505UL0311N"/>
+  <tag k="addr:street" v="Calle de la Fuente"/>
+</node>
+<node action="modify" id="-24" lat="40.9113594576" lon="-5.36381940477" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018202UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-10" lat="40.9092728942" lon="-5.36296418863" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1015905UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-76" lat="40.9051081611" lon="-5.38955150666" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912008TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-165" lat="40.910682177" lon="-5.36255228528" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117007UL0311N"/>
+  <tag k="addr:street" v="Calle Congreso"/>
+</node>
+<node action="modify" id="-78" lat="40.9056199569" lon="-5.3889125879" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912101TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-121" lat="40.9117094453" lon="-5.3621975202" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218802UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-110" lat="40.9113237119" lon="-5.36394612228" visible="true">
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018304UL0311N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-36" lat="40.9113739328" lon="-5.36352641897" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118504UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-80" lat="40.9054194546" lon="-5.38872574604" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912202TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-28" lat="40.9115783457" lon="-5.36359484873" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018206UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-107" lat="40.9106230605" lon="-5.36304006512" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117004UL0311N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-29" lat="40.911699765" lon="-5.3634991323" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018208UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-142" lat="40.9109952719" lon="-5.3622388381" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217813UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-113" lat="40.9105572928" lon="-5.36506525681" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0917201UL0301N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-175" lat="40.9100056049" lon="-5.36296571121" visible="true">
+  <tag k="addr:housenumber" v="1Z"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117503UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-190" lat="40.9119028557" lon="-5.36316105032" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119502UL0311N"/>
+  <tag k="addr:street" v="Calle Empedrada"/>
+</node>
+<node action="modify" id="-115" lat="40.910680335" lon="-5.36390158598" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017209UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-180" lat="40.9100432907" lon="-5.36229277914" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116309UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-117" lat="40.9106470976" lon="-5.36398944839" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017207UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-33" lat="40.9103186935" lon="-5.36335691372" visible="true">
+  <tag k="addr:housenumber" v="24B"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017505UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-146" lat="40.9107687397" lon="-5.36107387219" visible="true">
+  <tag k="addr:housenumber" v="21C"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217821UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-119" lat="40.9105972254" lon="-5.36413299545" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017205UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-141" lat="40.9111366711" lon="-5.36231428035" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217805UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-34" lat="40.9101329652" lon="-5.3631547515" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116802UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-49" lat="40.9118254604" lon="-5.36377712029" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1019405UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-176" lat="40.9102732768" lon="-5.3622418601" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217603UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-123" lat="40.9117675503" lon="-5.36208088196" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218804UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-14" lat="40.9125338491" lon="-5.36322443248" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119008UL0311N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-187" lat="40.9098164476" lon="-5.36429679641" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017508UL0311N"/>
+  <tag k="addr:street" v="Calle Desenga&#241;o"/>
+</node>
+<node action="modify" id="-37" lat="40.9098148053" lon="-5.36302502602" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0914701UL0301S"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-150" lat="40.9108576918" lon="-5.3621704185" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217808UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-125" lat="40.9119378983" lon="-5.36219635307" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219605UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-127" lat="40.9119584211" lon="-5.36184760368" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218805UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-137" lat="40.9109383261" lon="-5.36430009416" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018610UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-40" lat="40.9104222676" lon="-5.36189711598" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217401UL0311N"/>
+  <tag k="addr:street" v="Calle Prior"/>
+</node>
+<node action="modify" id="-172" lat="40.9096191493" lon="-5.36337200278" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1016303UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-129" lat="40.9123688958" lon="-5.36156562608" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219401UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-18" lat="40.9115242937" lon="-5.36424962224" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018803UL0311N"/>
+  <tag k="addr:street" v="Calle Nueva Primera"/>
+</node>
+<node action="modify" id="-42" lat="40.9105405386" lon="-5.36155978113" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217406UL0311N"/>
+  <tag k="addr:street" v="Calle Prior"/>
+</node>
+<node action="modify" id="-154" lat="40.9114679005" lon="-5.36323104091" visible="true">
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118503UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-131" lat="40.9108409258" lon="-5.36436311115" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017102UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-20" lat="40.9112049679" lon="-5.36432075844" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018608UL0311N"/>
+  <tag k="addr:street" v="Calle Nueva Primera"/>
+</node>
+<node action="modify" id="-44" lat="40.9116348252" lon="-5.36404914131" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1019401UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-181" lat="40.9101817096" lon="-5.36245100436" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217602UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-73" lat="40.9115114796" lon="-5.3626650608" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118112UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-184" lat="40.9100476926" lon="-5.36260865164" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116303UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-22" lat="40.9115406027" lon="-5.3620164335" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218709UL0311N"/>
+  <tag k="addr:street" v="Calle Nueva Primera"/>
+</node>
+<node action="modify" id="-46" lat="40.9112627895" lon="-5.36448785435" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018605UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-168" lat="40.9100354179" lon="-5.36265819898" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116302UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-135" lat="40.911051629" lon="-5.36415999446" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018612UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-157" lat="40.9110549188" lon="-5.36291024246" visible="true">
+  <tag k="addr:housenumber" v="6D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118507UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-158" lat="40.9114087241" lon="-5.3628926879" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118111UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-48" lat="40.9112313345" lon="-5.36460691775" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018603UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-25" lat="40.9109984765" lon="-5.36372568635" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018401UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-50" lat="40.9117083503" lon="-5.3639016488" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1019403UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-52" lat="40.9103532285" lon="-5.36280154438" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117303UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-12" lat="40.9094920519" lon="-5.36310425691" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116701UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-140" lat="40.9109530253" lon="-5.36233564186" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217814UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-11" lat="40.909545939" lon="-5.36297130242" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116702UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-54" lat="40.9104665163" lon="-5.3624643529" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117307UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-2" lat="40.9121917805" lon="-5.36308336323" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119005UL0311N"/>
+  <tag k="addr:street" v="Calle Atocha"/>
+</node>
+<node action="modify" id="-171" lat="40.9096720698" lon="-5.36351801682" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116805UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-82" lat="40.9053967577" lon="-5.38889517251" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912004TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-56" lat="40.9103753513" lon="-5.36245172664" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217605UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-4" lat="40.9121089692" lon="-5.36327833892" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119001UL0311N"/>
+  <tag k="addr:street" v="Calle Atocha"/>
+</node>
+<node action="modify" id="-30" lat="40.910662549" lon="-5.36357420954" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017211UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-84" lat="40.9048550776" lon="-5.38808156144" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9011802TL9391S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-159" lat="40.9113427829" lon="-5.36284474654" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118113UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-58" lat="40.9102137787" lon="-5.3628638964" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117502UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-6" lat="40.9093587419" lon="-5.36342945002" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1016401UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-86" lat="40.9046394138" lon="-5.38853074491" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8911201TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-60" lat="40.9109469302" lon="-5.36387079962" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017106UL0311N"/>
+  <tag k="addr:street" v="Calle R&#237;o"/>
+</node>
+<node action="modify" id="-8" lat="40.9092559471" lon="-5.36323908258" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1015903UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-167" lat="40.9105560632" lon="-5.36286350312" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117005UL0311N"/>
+  <tag k="addr:street" v="Calle Congreso"/>
+</node>
+<node action="modify" id="-88" lat="40.9046040308" lon="-5.38928617959" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912007TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-145" lat="40.911105157" lon="-5.36187421338" visible="true">
+  <tag k="addr:housenumber" v="21C"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217820UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-189" lat="40.9100578903" lon="-5.36350943671" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017503UL0311N"/>
+  <tag k="addr:street" v="Calle Desenga&#241;o"/>
+</node>
+<node action="modify" id="-90" lat="40.9037734378" lon="-5.38943553181" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8810201TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-64" lat="40.9107430051" lon="-5.36413534138" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017204UL0311N"/>
+  <tag k="addr:street" v="Calle R&#237;o"/>
+</node>
+<node action="modify" id="-92" lat="40.9047747671" lon="-5.38939680006" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912002TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-66" lat="40.9112636211" lon="-5.362766338" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118115UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-94" lat="40.9057904161" lon="-5.38954497413" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912801TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-15" lat="40.9124514433" lon="-5.36331262485" visible="true">
+  <tag k="addr:housenumber" v="13D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119010UL0311N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-38" lat="40.9116703836" lon="-5.36369667492" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018204UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-96" lat="40.9060194889" lon="-5.38963098645" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8913003TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-91" lat="40.9036144437" lon="-5.38874101469" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001400100UL93B"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-191" lat="40.9118023738" lon="-5.36311520228" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118105UL0311N"/>
+  <tag k="addr:street" v="Calle Empedrada"/>
+</node>
+<node action="modify" id="-98" lat="40.9055989034" lon="-5.38949806804" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912802TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-70" lat="40.9114772056" lon="-5.36250913402" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218701UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-155" lat="40.9114474977" lon="-5.36291698406" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118110UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-100" lat="40.905724741" lon="-5.38896764785" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8913502TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-177" lat="40.9094863324" lon="-5.36366432613" visible="true">
+  <tag k="addr:housenumber" v="21T"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1016301UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-188" lat="40.9102450799" lon="-5.36330765252" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017507UL0311N"/>
+  <tag k="addr:street" v="Calle Desenga&#241;o"/>
+</node>
+<node action="modify" id="-102" lat="40.905594543" lon="-5.38919381085" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912804TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-164" lat="40.9107740699" lon="-5.36240062526" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117009UL0311N"/>
+  <tag k="addr:street" v="Calle Congreso"/>
+</node>
+<node action="modify" id="-104" lat="40.910725024" lon="-5.36314984128" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118513UL0311N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-136" lat="40.9110017695" lon="-5.36422387503" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018611UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-74" lat="40.9115703299" lon="-5.36272497881" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118109UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-133" lat="40.9110567416" lon="-5.36395917558" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018501UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-106" lat="40.9106005103" lon="-5.36317781863" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117002UL0311N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-139" lat="40.9109926509" lon="-5.3624256076" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217804UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-83" lat="40.9060022492" lon="-5.38892445349" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8913002TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-35" lat="40.9114211574" lon="-5.36347681003" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118502UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-108" lat="40.9112546328" lon="-5.36372973208" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018303UL0311N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-77" lat="40.9050113631" lon="-5.38970211733" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8812401TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-26" lat="40.9097120925" lon="-5.36255098923" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116307UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-79" lat="40.9054769748" lon="-5.3886970686" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912201TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-185" lat="40.9101923964" lon="-5.36328787834" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116801UL0311N"/>
+  <tag k="addr:street" v="Calle Desenga&#241;o"/>
+</node>
+<node action="modify" id="-63" lat="40.9105131056" lon="-5.36461559864" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017201UL0311N"/>
+  <tag k="addr:street" v="Calle R&#237;o"/>
+</node>
+<node action="modify" id="-1" lat="40.9120670477" lon="-5.36337242435" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119002UL0311N"/>
+  <tag k="addr:street" v="Calle Atocha"/>
+</node>
+<node action="modify" id="-163" lat="40.9104790444" lon="-5.36301760054" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117003UL0311N"/>
+  <tag k="addr:street" v="Calle Congreso"/>
+</node>
+<node action="modify" id="-112" lat="40.9105386702" lon="-5.36436611062" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017202UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-161" lat="40.9113997929" lon="-5.36420875691" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018607UL0311N"/>
+  <tag k="addr:street" v="Calle de la Fuente"/>
+</node>
+<node action="modify" id="-182" lat="40.9100308463" lon="-5.36253847702" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116305UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-114" lat="40.9106146387" lon="-5.36495260909" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018601UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-31" lat="40.9105852227" lon="-5.36375643418" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017210UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-144" lat="40.9112711677" lon="-5.36197938278" visible="true">
+  <tag k="addr:housenumber" v="21C"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217816UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-116" lat="40.9104348235" lon="-5.36442284223" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017511UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-149" lat="40.9110645025" lon="-5.36205157309" visible="true">
+  <tag k="addr:housenumber" v="21T"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217806UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-183" lat="40.9102792462" lon="-5.36253509457" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217601UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-118" lat="40.9105901962" lon="-5.36408090785" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017206UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-178" lat="40.9098428721" lon="-5.36216895068" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116308UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-120" lat="40.9115050285" lon="-5.36230745168" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218702UL0311N"/>
+  <tag k="addr:street" v="Calle Nueva Segunda"/>
+</node>
+<node action="modify" id="-61" lat="40.9108912101" lon="-5.36399308993" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017105UL0311N"/>
+  <tag k="addr:street" v="Calle R&#237;o"/>
+</node>
+<node action="modify" id="-111" lat="40.9105226108" lon="-5.36385744576" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017512UL0311N"/>
+  <tag k="addr:street" v="Calle Alegr&#237;a"/>
+</node>
+<node action="modify" id="-148" lat="40.9112225463" lon="-5.36193015944" visible="true">
+  <tag k="addr:housenumber" v="21D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217817UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-122" lat="40.9117400312" lon="-5.36221501803" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218803UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-124" lat="40.9118271555" lon="-5.36261968163" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219608UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-67" lat="40.9117421217" lon="-5.36273264136" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118107UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-174" lat="40.9097963992" lon="-5.36216432767" visible="true">
+  <tag k="addr:housenumber" v="1T"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116310UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-126" lat="40.9123146986" lon="-5.36188961626" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219402UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-16" lat="40.912219734" lon="-5.36258245804" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219601UL0311N"/>
+  <tag k="addr:street" v="Plaza de Espa&#241;a"/>
+</node>
+<node action="modify" id="-39" lat="40.9106209319" lon="-5.36193547469" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217827UL0311N"/>
+  <tag k="addr:street" v="Calle Prior"/>
+</node>
+<node action="modify" id="-152" lat="40.9097533337" lon="-5.36213564035" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116311UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-128" lat="40.9118863736" lon="-5.36245320093" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1219603UL0311N"/>
+  <tag k="addr:street" v="Calle Santa B&#225;rbara"/>
+</node>
+<node action="modify" id="-173" lat="40.9101714277" lon="-5.36256592336" visible="true">
+  <tag k="addr:housenumber" v="1C"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117504UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-41" lat="40.9107875023" lon="-5.36184188816" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217824UL0311N"/>
+  <tag k="addr:street" v="Calle Prior"/>
+</node>
+<node action="modify" id="-192" lat="40.9118144663" lon="-5.36331617011" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119501UL0311N"/>
+  <tag k="addr:street" v="Calle Empedrada"/>
+</node>
+<node action="modify" id="-71" lat="40.9115584066" lon="-5.36253327885" visible="true">
+  <tag k="addr:housenumber" v="4A"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218708UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-19" lat="40.9114994852" lon="-5.36239772704" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218706UL0311N"/>
+  <tag k="addr:street" v="Calle Nueva Primera"/>
+</node>
+<node action="modify" id="-43" lat="40.9105955699" lon="-5.36143683727" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217402UL0311N"/>
+  <tag k="addr:street" v="Calle Prior"/>
+</node>
+<node action="modify" id="-170" lat="40.9098518329" lon="-5.36355611629" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116804UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-132" lat="40.9107133067" lon="-5.36449854427" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017101UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-21" lat="40.9115897666" lon="-5.3617719221" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1218705UL0311N"/>
+  <tag k="addr:street" v="Calle Nueva Primera"/>
+</node>
+<node action="modify" id="-45" lat="40.9111853783" lon="-5.36429896188" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018606UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-156" lat="40.9111721274" lon="-5.36291346771" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118506UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-134" lat="40.9111356036" lon="-5.36409721088" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018503UL0311N"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-23" lat="40.9114527008" lon="-5.36360770644" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018205UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-47" lat="40.9113605217" lon="-5.36455794578" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018801UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-143" lat="40.9109446198" lon="-5.36198544615" visible="true">
+  <tag k="addr:housenumber" v="21C"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217812UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-75" lat="40.9116770392" lon="-5.36269992805" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118108UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-9" lat="40.9092205153" lon="-5.36309387197" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1015904UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-166" lat="40.9106224953" lon="-5.36274690285" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117006UL0311N"/>
+  <tag k="addr:street" v="Calle Congreso"/>
+</node>
+<node action="modify" id="-138" lat="40.9109961765" lon="-5.36251990368" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217803UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-51" lat="40.9116836803" lon="-5.36395113818" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1019402UL0311N"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-109" lat="40.9112127268" lon="-5.36378784352" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018302UL0311N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-27" lat="40.9107090781" lon="-5.36346188732" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017212UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+<node action="modify" id="-53" lat="40.9102531681" lon="-5.36308051849" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117501UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-69" lat="40.9114278681" lon="-5.36269259649" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118114UL0311N"/>
+  <tag k="addr:street" v="Calle San Pablo"/>
+</node>
+<node action="modify" id="-162" lat="40.9113553399" lon="-5.36407725918" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1018201UL0311N"/>
+  <tag k="addr:street" v="Calle de la Fuente"/>
+</node>
+<node action="modify" id="-81" lat="40.9054717825" lon="-5.38893455818" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8912003TL9381S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-55" lat="40.9104381391" lon="-5.36237227733" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1217604UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-3" lat="40.9121945415" lon="-5.36315517567" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1119003UL0311N"/>
+  <tag k="addr:street" v="Calle Atocha"/>
+</node>
+<node action="modify" id="-57" lat="40.9104381621" lon="-5.3625293563" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117306UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-5" lat="40.9097024865" lon="-5.36203964417" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1216701UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-153" lat="40.9116381183" lon="-5.36306945712" visible="true">
+  <tag k="addr:housenumber" v="3C"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1118106UL0311N"/>
+  <tag k="addr:street" v="Calle Salamanca"/>
+</node>
+<node action="modify" id="-85" lat="40.904782988" lon="-5.38831782798" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9011801TL9391S"/>
+  <tag k="addr:street" v="San Vicente"/>
+</node>
+<node action="modify" id="-179" lat="40.9100070835" lon="-5.36240584266" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1116306UL0311N"/>
+  <tag k="addr:street" v="Calle Consuelo"/>
+</node>
+<node action="modify" id="-59" lat="40.9105681026" lon="-5.36277842927" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117304UL0311N"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-7" lat="40.9100638666" lon="-5.36221505039" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1216801UL0311N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-186" lat="40.909991744" lon="-5.36352312015" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1017506UL0311N"/>
+  <tag k="addr:street" v="Calle Desenga&#241;o"/>
+</node>
+<node action="modify" id="-32" lat="40.9105066791" lon="-5.36342261932" visible="true">
+  <tag k="addr:housenumber" v="22B"/>
+  <tag k="addr:postcode" v="37329"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1117701UL0311N"/>
+  <tag k="addr:street" v="Calle Plater&#237;as"/>
+</node>
+</osm>
