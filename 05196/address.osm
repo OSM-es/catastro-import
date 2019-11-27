@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 1.2dev'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-10-26"/>
+</changeset>
+<node id="-13" action="modify" visible="true" lon="-4.986859005371841" lat="40.902236498796775">
+  <tag k="addr:street" v="Calle de las Corralizas"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798410UL3229N"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-4.98842642431445" lat="40.901730862121816">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698303UL3229N"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-4.988810512043066" lat="40.90167118757227">
+  <tag k="addr:street" v="Calle de Castronuevo"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599707UL3229N"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-4.987955388015198" lat="40.90300942804575">
+  <tag k="addr:street" v="Plaza del Uno de Mayo"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600903UL3320S"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-4.987284509685604" lat="40.90072003699174">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798103UL3229N"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-4.987661516600742" lat="40.901327685547585">
+  <tag k="addr:street" v="Plazueleta de Santa Mar&#237;a Magdalena"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698601UL3229N"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-4.9885632904819195" lat="40.90141100298732">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698201UL3229N"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-4.988166323108033" lat="40.90247736977601">
+  <tag k="addr:street" v="Paseo Castronuevo"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699309UL3229N"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-4.988997025483688" lat="40.90209753239579">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599701UL3229N"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-4.988997321507091" lat="40.9029145057286">
+  <tag k="addr:street" v="Calle de Almaje"/>
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2500603UL3320S"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-4.98691416292173" lat="40.9006346199512">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2797402UL3229N"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-4.988489598078642" lat="40.902748469021304">
+  <tag k="addr:street" v="Plaza del Uno de Mayo"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699302UL3229N"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-4.987454360350294" lat="40.900833654162554">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798105UL3229N"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-4.986359563963644" lat="40.90231132779066">
+  <tag k="addr:street" v="Calle de Farfaro"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798412UL3229N"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-4.9885437577776015" lat="40.902965084496465">
+  <tag k="addr:street" v="Calle del Lagar"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600205UL3320S"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-4.986994097135345" lat="40.9018362862743">
+  <tag k="addr:street" v="Calle de las Corralizas"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798408UL3229N"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-4.988860840129821" lat="40.90201239071804">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599702UL3229N"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-4.988538248669933" lat="40.90183089734824">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698301UL3229N"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-4.987160693386722" lat="40.901883881328075">
+  <tag k="addr:street" v="Calle de Cardilleja"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798304UL3229N"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-4.987427655940584" lat="40.90150869580947">
+  <tag k="addr:street" v="Plazueleta de Santa Mar&#237;a Magdalena"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798305UL3229N"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-4.987057306782971" lat="40.90078852355491">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2797401UL3229N"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-4.986115680584414" lat="40.90233510022374">
+  <tag k="addr:street" v="Calle de Farfaro"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798411UL3229N"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-4.988473796350971" lat="40.90146448308403">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698202UL3229N"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-4.986940629907852" lat="40.90107455367631">
+  <tag k="addr:street" v="Calle de la Fuensanta"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798405UL3229N"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-4.987834632027935" lat="40.90167790364619">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798309UL3229N"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-4.988750822410874" lat="40.901749958841876">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599706UL3229N"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-4.9888268255007615" lat="40.9015370108535">
+  <tag k="addr:street" v="Calle de Castronuevo"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698309UL3229N"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-4.987867944170343" lat="40.90137164449408">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698503UL3229N"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-4.988762656076123" lat="40.90322158871634">
+  <tag k="addr:street" v="Calle del Lagar"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600207UL3320S"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-4.988418465230348" lat="40.9020853722387">
+  <tag k="addr:street" v="Calle de las Paneras"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699801UL3229N"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-4.987328048650114" lat="40.90195566132853">
+  <tag k="addr:street" v="Calle de Cardilleja"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799201UL3229N"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-4.9874613960315495" lat="40.90297155978293">
+  <tag k="addr:street" v="Calle de la Pajarosa"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699504UL3229N"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-4.987216973130608" lat="40.902378851513475">
+  <tag k="addr:street" v="Calle del Jard&#237;n"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799404UL3229N"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-4.9877600410560445" lat="40.90199432679869">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699607UL3229N"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-4.989225363800198" lat="40.90210440367368">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599711UL3229N"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-4.9885700036386735" lat="40.90287892324503">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699301UL3229N"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-4.986813230428944" lat="40.901225290093954">
+  <tag k="addr:street" v="Calle de la Fuensanta"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798403UL3229N"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-4.987962789845091" lat="40.90143225313126">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698504UL3229N"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-4.988376941915111" lat="40.90223091991976">
+  <tag k="addr:street" v="Calle de Mu&#241;osancho"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699306UL3229N"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-4.987759563298603" lat="40.90298004312683">
+  <tag k="addr:street" v="Calle de la Pajarosa"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699501UL3229N"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-4.988282195392056" lat="40.903149687471824">
+  <tag k="addr:street" v="Calle del Lagar"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600203UL3320S"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-4.988091748627114" lat="40.90234304033135">
+  <tag k="addr:street" v="Paseo Castronuevo"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699601UL3229N"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-4.987336411545684" lat="40.902162329350624">
+  <tag k="addr:street" v="Calle del Jard&#237;n"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799202UL3229N"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-4.988926618557235" lat="40.90166226823136">
+  <tag k="addr:street" v="Calle de Castronuevo"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599708UL3229N"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-4.987891916524524" lat="40.90308421982095">
+  <tag k="addr:street" v="Plaza del Uno de Mayo"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600902UL3320S"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-4.987853800394657" lat="40.90203684937623">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699608UL3229N"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-4.987680308396013" lat="40.902280221232246">
+  <tag k="addr:street" v="Calle de Farfaro"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699603UL3229N"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-4.98965992448432" lat="40.90229682831815">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599201UL3229N"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-4.98721284396396" lat="40.90068182365471">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2797405UL3229N"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-4.987749887582534" lat="40.90150823406737">
+  <tag k="addr:street" v="Plazueleta de Santa Mar&#237;a Magdalena"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698502UL3229N"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-4.988150947700987" lat="40.90221545006074">
+  <tag k="addr:street" v="Paseo Castronuevo"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699610UL3229N"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-4.988544518424983" lat="40.90230432075264">
+  <tag k="addr:street" v="Calle de Mu&#241;osancho"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699307UL3229N"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-4.98864116192959" lat="40.901486646900075">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698308UL3229N"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-4.987714931112382" lat="40.90321609636985">
+  <tag k="addr:street" v="Calle de la Pajarosa"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600901UL3320S"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-4.987016992828842" lat="40.900685592689484">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="8D"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2797406UL3229N"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-4.986982571384727" lat="40.90198689336616">
+  <tag k="addr:street" v="Calle de las Corralizas"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2799203UL3229N"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-4.986881880902098" lat="40.90213797755591">
+  <tag k="addr:street" v="Calle de las Corralizas"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798409UL3229N"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-4.9887888666164955" lat="40.90196841635515">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599703UL3229N"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-4.988491001718059" lat="40.901789505558675">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698302UL3229N"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-4.987366017676544" lat="40.900772193784256">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798104UL3229N"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-4.988680568081941" lat="40.901867407020994">
+  <tag k="addr:street" v="Calle de Castronuevo"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599704UL3229N"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-4.987525590670524" lat="40.9008822640775">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798106UL3229N"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-4.988906262764651" lat="40.90155122592749">
+  <tag k="addr:street" v="Calle de Castronuevo"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2598501UL3229N"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-4.98734561962672" lat="40.90128569047164">
+  <tag k="addr:street" v="Plazueleta de Santa Mar&#237;a Magdalena"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798407UL3229N"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-4.98807799285354" lat="40.902893175504744">
+  <tag k="addr:street" v="Plaza del Uno de Mayo"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600904UL3320S"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-4.989065426891682" lat="40.902003619971346">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599710UL3229N"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-4.988554549153027" lat="40.90152112575939">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698307UL3229N"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-4.988887242012161" lat="40.902971857531426">
+  <tag k="addr:street" v="Calle de Almaje"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2500601UL3320S"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-4.987200778629838" lat="40.90081690848744">
+  <tag k="addr:street" v="Calle del Front&#243;n"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798102UL3229N"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-4.987670384199783" lat="40.901137349432204">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698602UL3229N"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-4.988619799740691" lat="40.90301391501978">
+  <tag k="addr:street" v="Calle del Lagar"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600206UL3320S"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-4.989284754286458" lat="40.90243073106549">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599403UL3229N"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-4.987617448528495" lat="40.90189516810121">
+  <tag k="addr:street" v="Calle de Cardilleja"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798301UL3229N"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-4.988114006532456" lat="40.901547003221125">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698501UL3229N"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-4.987693331393113" lat="40.90158673559584">
+  <tag k="addr:street" v="Plazueleta de Santa Mar&#237;a Magdalena"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798307UL3229N"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-4.9876743242692125" lat="40.90184985228426">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798311UL3229N"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-4.989249398688527" lat="40.90230794103936">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599604UL3229N"/>
+</node>
+<node id="-53" action="modify" visible="true" lon="-4.988433278599288" lat="40.90157420649783">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698306UL3229N"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-4.986893524266695" lat="40.901129733573974">
+  <tag k="addr:street" v="Calle de la Fuensanta"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798404UL3229N"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-4.9870787909129435" lat="40.90057344252505">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2797404UL3229N"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-4.987896029566243" lat="40.90233413218216">
+  <tag k="addr:street" v="Calle de Farfaro"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699602UL3229N"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-4.989075621180697" lat="40.90245270387445">
+  <tag k="addr:street" v="Calle de Mu&#241;osancho"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599601UL3229N"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-4.988040901004002" lat="40.9034143162339">
+  <tag k="addr:street" v="Calle del Lagar"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600201UL3320S"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-4.988612819831055" lat="40.90216464012068">
+  <tag k="addr:street" v="Calle de las Paneras"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599602UL3229N"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-4.987505864455309" lat="40.90305229212433">
+  <tag k="addr:street" v="Calle de la Pajarosa"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2700203UL3320S"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-4.987387589325251" lat="40.90215979745979">
+  <tag k="addr:street" v="Calle del Jard&#237;n"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699604UL3229N"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-4.9883743238101985" lat="40.901604580113485">
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2698305UL3229N"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-4.988487686650944" lat="40.90267617959746">
+  <tag k="addr:street" v="Plaza del Uno de Mayo"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699303UL3229N"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-4.988200059440256" lat="40.90212724792042">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699802UL3229N"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-4.989350871168067" lat="40.90234285270734">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599404UL3229N"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-4.987054773529029" lat="40.9009067600914">
+  <tag k="addr:street" v="Calle de la Cilla"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798108UL3229N"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-4.9882868791054475" lat="40.90282108162043">
+  <tag k="addr:street" v="Plaza del Uno de Mayo"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2600905UL3320S"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-4.987755869187441" lat="40.90161285775816">
+  <tag k="addr:street" v="Plazueleta de Santa Mar&#237;a Magdalena"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2798308UL3229N"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-4.987658039557243" lat="40.90315180616884">
+  <tag k="addr:street" v="Calle de la Pajarosa"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2700201UL3320S"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-4.98811849321248" lat="40.90228454205476">
+  <tag k="addr:street" v="Paseo Castronuevo"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699611UL3229N"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-4.9891551392232545" lat="40.90252216741499">
+  <tag k="addr:street" v="Calle de Mu&#241;osancho"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2599401UL3229N"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-4.987428699635453" lat="40.901984697533706">
+  <tag k="addr:street" v="Calle del Jard&#237;n"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2699605UL3229N"/>
+</node>
+</osm>
