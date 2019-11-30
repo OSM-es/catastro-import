@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Overpass API 0.7.55.1009 5e627b63'>
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-11-27T23:17:02Z" areas="2019-11-27T22:34:03Z"/>
+<node action="modify" changeset="62648850" id="5910586661" lat="41.3842441" lon="1.9325981" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373270" lat="41.388205" lon="1.8830119" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373266" lat="41.3881326" lon="1.8834009" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586655" lat="41.3877532" lon="1.9329265" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586664" lat="41.3847803" lon="1.9323251" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586662" lat="41.3841569" lon="1.9323965" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586665" lat="41.3847273" lon="1.9323605" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586657" lat="41.3875948" lon="1.9330946" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373271" lat="41.3882032" lon="1.8830756" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373265" lat="41.3882915" lon="1.8832802" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586663" lat="41.3847531" lon="1.9322526" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586656" lat="41.3877586" lon="1.9330846" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586660" lat="41.3846597" lon="1.932279" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373267" lat="41.3883117" lon="1.883433" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586659" lat="41.3845725" lon="1.9320773" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373276" lat="41.3881829" lon="1.8830602" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373272" lat="41.3883539" lon="1.8833284" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586658" lat="41.3875894" lon="1.9329364" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373264" lat="41.3882835" lon="1.8830656" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<node action="modify" changeset="62648850" id="5910586666" lat="41.3847001" lon="1.932288" timestamp="2018-09-16T23:47:30Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true"/>
+<node action="modify" changeset="22132394" id="2836373268" lat="41.3881165" lon="1.8832909" timestamp="2014-05-04T18:46:24Z" uid="754640" user="Carlos_S&#225;nchez" version="1" visible="true"/>
+<way action="modify" changeset="62648850" id="626052394" timestamp="2018-09-16T23:47:31Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true">
+  <nd ref="5910586659"/>
+  <nd ref="5910586660"/>
+  <nd ref="5910586661"/>
+  <nd ref="5910586662"/>
+  <nd ref="5910586659"/>
+  <tag k="leisure" v="swimming_pool"/>
+</way>
+<way action="modify" changeset="50995864" id="279433057" timestamp="2017-08-10T09:46:06Z" uid="469238" user="pitort" version="2" visible="true">
+  <nd ref="2836373268"/>
+  <nd ref="2836373266"/>
+  <nd ref="2836373267"/>
+  <nd ref="2836373272"/>
+  <nd ref="2836373265"/>
+  <nd ref="2836373264"/>
+  <nd ref="2836373270"/>
+  <nd ref="2836373276"/>
+  <nd ref="2836373271"/>
+  <nd ref="2836373268"/>
+  <tag k="covered" v="no"/>
+  <tag k="sport" v="swimming"/>
+  <tag k="leisure" v="swimming_pool"/>
+</way>
+<way action="modify" changeset="62648850" id="626052393" timestamp="2018-09-16T23:47:31Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true">
+  <nd ref="5910586655"/>
+  <nd ref="5910586656"/>
+  <nd ref="5910586657"/>
+  <nd ref="5910586658"/>
+  <nd ref="5910586655"/>
+  <tag k="building" v="public"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Serveis T&#232;cnics de l'ajuntament"/>
+</way>
+<way action="modify" changeset="62648850" id="626052395" timestamp="2018-09-16T23:47:31Z" uid="95752" user="Carlos L&#243;pez Quintanilla" version="1" visible="true">
+  <nd ref="5910586663"/>
+  <nd ref="5910586664"/>
+  <nd ref="5910586665"/>
+  <nd ref="5910586666"/>
+  <nd ref="5910586663"/>
+  <tag k="leisure" v="swimming_pool"/>
+</way>
+</osm>

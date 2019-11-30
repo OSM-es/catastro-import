@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1009 5e627b63">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-11-27T23:17:02Z" areas="2019-11-27T22:34:03Z"/>
+
+  <node id="2836373264" lat="41.3882835" lon="1.8830656" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373265" lat="41.3882915" lon="1.8832802" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373266" lat="41.3881326" lon="1.8834009" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373267" lat="41.3883117" lon="1.8834330" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373268" lat="41.3881165" lon="1.8832909" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373270" lat="41.3882050" lon="1.8830119" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373271" lat="41.3882032" lon="1.8830756" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373272" lat="41.3883539" lon="1.8833284" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="2836373276" lat="41.3881829" lon="1.8830602" version="1" timestamp="2014-05-04T18:46:24Z" changeset="22132394" uid="754640" user="Carlos_Sánchez"/>
+  <node id="5910586655" lat="41.3877532" lon="1.9329265" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586656" lat="41.3877586" lon="1.9330846" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586657" lat="41.3875948" lon="1.9330946" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586658" lat="41.3875894" lon="1.9329364" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586659" lat="41.3845725" lon="1.9320773" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586660" lat="41.3846597" lon="1.9322790" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586661" lat="41.3842441" lon="1.9325981" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586662" lat="41.3841569" lon="1.9323965" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586663" lat="41.3847531" lon="1.9322526" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586664" lat="41.3847803" lon="1.9323251" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586665" lat="41.3847273" lon="1.9323605" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="5910586666" lat="41.3847001" lon="1.9322880" version="1" timestamp="2018-09-16T23:47:30Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla"/>
+  <node id="6610477570" lat="41.3548384" lon="1.9028704" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610477581" lat="41.3550767" lon="1.9027692" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610487986" lat="41.3548589" lon="1.9029557" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610487994" lat="41.3554770" lon="1.9008973" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610488052" lat="41.3550546" lon="1.9028725" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610488064" lat="41.3547624" lon="1.9026672" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610488075" lat="41.3551331" lon="1.9025051" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <node id="6610488080" lat="41.3544362" lon="1.9013520" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch"/>
+  <way id="279433057" version="2" timestamp="2017-08-10T09:46:06Z" changeset="50995864" uid="469238" user="pitort">
+    <nd ref="2836373268"/>
+    <nd ref="2836373266"/>
+    <nd ref="2836373267"/>
+    <nd ref="2836373272"/>
+    <nd ref="2836373265"/>
+    <nd ref="2836373264"/>
+    <nd ref="2836373270"/>
+    <nd ref="2836373276"/>
+    <nd ref="2836373271"/>
+    <nd ref="2836373268"/>
+    <tag k="covered" v="no"/>
+    <tag k="leisure" v="swimming_pool"/>
+    <tag k="sport" v="swimming"/>
+  </way>
+  <way id="626052393" version="1" timestamp="2018-09-16T23:47:31Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla">
+    <nd ref="5910586655"/>
+    <nd ref="5910586656"/>
+    <nd ref="5910586657"/>
+    <nd ref="5910586658"/>
+    <nd ref="5910586655"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Serveis Tècnics de l'ajuntament"/>
+  </way>
+  <way id="626052394" version="1" timestamp="2018-09-16T23:47:31Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla">
+    <nd ref="5910586659"/>
+    <nd ref="5910586660"/>
+    <nd ref="5910586661"/>
+    <nd ref="5910586662"/>
+    <nd ref="5910586659"/>
+    <tag k="leisure" v="swimming_pool"/>
+  </way>
+  <way id="626052395" version="1" timestamp="2018-09-16T23:47:31Z" changeset="62648850" uid="95752" user="Carlos López Quintanilla">
+    <nd ref="5910586663"/>
+    <nd ref="5910586664"/>
+    <nd ref="5910586665"/>
+    <nd ref="5910586666"/>
+    <nd ref="5910586663"/>
+    <tag k="leisure" v="swimming_pool"/>
+  </way>
+  <way id="703993246" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch">
+    <nd ref="6610487994"/>
+    <nd ref="6610488075"/>
+    <nd ref="6610488064"/>
+    <nd ref="6610488080"/>
+    <nd ref="6610487994"/>
+    <tag k="building" v="barn"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <way id="703993261" version="1" timestamp="2019-07-12T17:06:34Z" changeset="72190777" uid="120406" user="Toni Guasch">
+    <nd ref="6610477581"/>
+    <nd ref="6610488052"/>
+    <nd ref="6610487986"/>
+    <nd ref="6610477570"/>
+    <nd ref="6610477581"/>
+    <tag k="building" v="barn"/>
+    <tag k="building:levels" v="1"/>
+  </way>
+  <area id="3600341899">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="capital" v="8"/>
+    <tag k="idee:name" v="Vallirana"/>
+    <tag k="ine:municipio" v="08295"/>
+    <tag k="name" v="Vallirana"/>
+    <tag k="name:ca" v="Vallirana"/>
+    <tag k="population" v="14200"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q15651"/>
+    <tag k="wikipedia" v="ca:Vallirana"/>
+  </area>
+
+</osm>
