@@ -1,0 +1,3225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2dev'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-04-27"/>
+</changeset>
+<node action="modify" id="-485" lat="39.9491223875" lon="4.05049612284" visible="true">
+  <tag k="addr:housenumber" v="98"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827633EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-425" lat="39.9487342498" lon="4.05028686823" visible="true">
+  <tag k="addr:housenumber" v="147"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827310EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-94" lat="39.9453881322" lon="4.04972997139" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723203EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-397" lat="39.949924218" lon="4.05045066019" visible="true">
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9829801EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de la Figuerenya"/>
+</node>
+<node action="modify" id="-433" lat="39.9496249026" lon="4.05030299032" visible="true">
+  <tag k="addr:housenumber" v="167"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827301EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-380" lat="39.9442043372" lon="4.04895046046" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723223EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-132" lat="39.9473676811" lon="4.05089595213" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826802EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-259" lat="39.9151678827" lon="4.03865331143" visible="true">
+  <tag k="addr:housenumber" v="2H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8890303EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-441" lat="39.9462571213" lon="4.04859098066" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725944EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-126" lat="39.944711018" lon="4.04843130156" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522512EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-413" lat="39.9462605581" lon="4.04796696308" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725955EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-108" lat="39.9472269429" lon="4.05010672607" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826108EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-140" lat="39.9479511348" lon="4.05040582575" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827628EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-23" lat="39.9446288197" lon="4.05008650511" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823819EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-267" lat="39.9180891015" lon="4.03751461051" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793102EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-449" lat="39.9462246419" lon="4.04798769889" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624423EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-333" lat="39.9442932955" lon="4.0479014494" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522548EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-271" lat="39.9166488764" lon="4.03926287332" visible="true">
+  <tag k="addr:housenumber" v="4G"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892704EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-390" lat="39.944098266" lon="4.04888997621" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522519EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-148" lat="39.9450737891" lon="4.04831210281" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522506EE8292S"/>
+  <tag k="addr:street" v="Carrer sa Travessera Nova"/>
+</node>
+<node action="modify" id="-306" lat="39.914620296" lon="4.04493068059" visible="true">
+  <tag k="addr:housenumber" v="8S"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392503EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-358" lat="39.9477744015" lon="4.04979783183" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827329EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carrer&#243;"/>
+</node>
+<node action="modify" id="-32" lat="39.9477743875" lon="4.05145851732" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926802EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-341" lat="39.9436655571" lon="4.04850590592" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522560EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-279" lat="39.9153449965" lon="4.04439231691" visible="true">
+  <tag k="addr:housenumber" v="5S"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392506EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-59" lat="39.944467125" lon="4.04967785671" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723212EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-156" lat="39.9465457822" lon="4.04969490428" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825122EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a Pla de s'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-314" lat="39.9460834841" lon="4.04990669707" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724601EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-465" lat="39.9473870354" lon="4.04998062528" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826107EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-223" lat="39.9158521968" lon="4.03922766338" visible="true">
+  <tag k="addr:housenumber" v="10G"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892706EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-287" lat="39.919446342" lon="4.03750583067" visible="true">
+  <tag k="addr:housenumber" v="6D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993419EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-67" lat="39.9436610356" lon="4.04930246275" visible="true">
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522524EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-164" lat="39.9456891585" lon="4.04921916921" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624441EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-322" lat="39.9460480132" lon="4.04984248717" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724613EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-253" lat="39.9170608407" lon="4.03811111769" visible="true">
+  <tag k="addr:housenumber" v="20E"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793106EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-231" lat="39.9177275721" lon="4.03602422289" visible="true">
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693411EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-295" lat="39.9197655801" lon="4.03767411333" visible="true">
+  <tag k="addr:housenumber" v="7C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894107EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-75" lat="39.9460032243" lon="4.05006909206" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724602EE8292S"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-385" lat="39.9441631768" lon="4.04869173417" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522516EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-265" lat="39.9167235059" lon="4.03888760538" visible="true">
+  <tag k="addr:housenumber" v="3G"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892703EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-172" lat="39.94580923" lon="4.04771205738" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624420EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-330" lat="39.9437367505" lon="4.04821365653" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522553EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-13" lat="39.9466491968" lon="4.05026314503" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825102EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-416" lat="39.9476379507" lon="4.05002038915" visible="true">
+  <tag k="addr:housenumber" v="105"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725904EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-174" lat="39.9459973739" lon="4.04728493793" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9524502EE8292N"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-19" lat="39.9450664122" lon="4.04691640449" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522558EE8292S"/>
+  <tag k="addr:street" v="Cam&#237; de Sa Malagarba"/>
+</node>
+<node action="modify" id="-366" lat="39.9483022071" lon="4.05092744833" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827604EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-83" lat="39.9464038018" lon="4.0496981515" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725803EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-115" lat="39.9448312402" lon="4.04843198659" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522510EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-246" lat="39.9173947172" lon="4.03735855663" visible="true">
+  <tag k="addr:housenumber" v="18E"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793108EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-242" lat="39.9172749702" lon="4.03709291931" visible="true">
+  <tag k="addr:housenumber" v="16E"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793110EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-424" lat="39.9486881408" lon="4.05028239742" visible="true">
+  <tag k="addr:housenumber" v="145"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827311EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-182" lat="39.9456833773" lon="4.04885319201" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624412EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-96" lat="39.947236916" lon="4.05022517491" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825315EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-27" lat="39.9444062626" lon="4.0499054221" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823816EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-374" lat="39.9453369099" lon="4.04716948642" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522574EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-91" lat="39.9455851284" lon="4.04991911856" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724614EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-123" lat="39.944748262" lon="4.04836296855" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522511EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-250" lat="39.9165682233" lon="4.03652250059" visible="true">
+  <tag k="addr:housenumber" v="1H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8791201EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-357" lat="39.9477631733" lon="4.04941994218" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725901EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carrer&#243;"/>
+</node>
+<node action="modify" id="-432" lat="39.9493164014" lon="4.0502931859" visible="true">
+  <tag k="addr:housenumber" v="165B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827336EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-190" lat="39.9468962002" lon="4.05037847218" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825913EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-35" lat="39.9438655788" lon="4.04971461023" visible="true">
+  <tag k="addr:housenumber" v="28B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823804EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-404" lat="39.9459339153" lon="4.04936208436" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624407EE8292S"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-74" lat="39.9460905421" lon="4.05004270268" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825115EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-99" lat="39.9474802602" lon="4.05065655761" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826809EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-131" lat="39.9477300444" lon="4.05061973998" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827622EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-258" lat="39.9157306934" lon="4.03922905021" visible="true">
+  <tag k="addr:housenumber" v="2H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8890302EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-120" lat="39.9449972879" lon="4.04840282245" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522507EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-440" lat="39.9462182853" lon="4.04790732177" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624422EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-198" lat="39.9469401238" lon="4.05030100163" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825307EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-128" lat="39.9445793562" lon="4.04887727462" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723228EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-43" lat="39.9436023842" lon="4.04949417281" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823842EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-412" lat="39.946071263" lon="4.04929540333" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725818EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-107" lat="39.9471846989" lon="4.05013328702" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825313EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-139" lat="39.9473611481" lon="4.05097648649" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926807EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-266" lat="39.9170668914" lon="4.03511248593" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8592304EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-286" lat="39.9198190657" lon="4.03787898812" visible="true">
+  <tag k="addr:housenumber" v="6C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894106EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-448" lat="39.9462565389" lon="4.04891964462" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624438EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-206" lat="39.9471618046" lon="4.05057333368" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826804EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-270" lat="39.917570528" lon="4.0397594612" visible="true">
+  <tag k="addr:housenumber" v="4F"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893704EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-407" lat="39.9462612873" lon="4.04914070177" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624401EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-50" lat="39.9463069651" lon="4.0507484878" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825904EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-77" lat="39.9464596305" lon="4.04964652196" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725802EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-147" lat="39.9450791025" lon="4.04843107094" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522506EE8292S"/>
+  <tag k="addr:street" v="Carrer sa Travessera Nova"/>
+</node>
+<node action="modify" id="-305" lat="39.9158557539" lon="4.04306877984" visible="true">
+  <tag k="addr:housenumber" v="8R"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392511EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-8" lat="39.946748001" lon="4.05016553687" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825101EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-456" lat="39.9462404959" lon="4.04814248292" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725952EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-214" lat="39.9199473114" lon="4.03977125428" visible="true">
+  <tag k="addr:housenumber" v="0C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894118EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-34" lat="39.9440077898" lon="4.04978340804" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823811EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-278" lat="39.9170610541" lon="4.03991765911" visible="true">
+  <tag k="addr:housenumber" v="5F"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893705EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-58" lat="39.9445170856" lon="4.04970233916" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723211EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-155" lat="39.946575353" lon="4.04975024386" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825123EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a Pla de s'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-313" lat="39.9157257724" lon="4.04319129156" visible="true">
+  <tag k="addr:housenumber" v="9R"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392510EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-343" lat="39.9443392757" lon="4.04769963784" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522549EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-464" lat="39.946816417" lon="4.04964789294" visible="true">
+  <tag k="addr:housenumber" v="65D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725958EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-222" lat="39.9178391165" lon="4.0355693513" visible="true">
+  <tag k="addr:housenumber" v="10B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693409EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-332" lat="39.9436063987" lon="4.04832820195" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522554EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-66" lat="39.9437492754" lon="4.04924607546" visible="true">
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522523EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-379" lat="39.9441631768" lon="4.04869173417" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522516EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-345" lat="39.9441976108" lon="4.04777673056" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522550EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-163" lat="39.9455788164" lon="4.04872550144" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723243EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-321" lat="39.9461258847" lon="4.04990504083" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725809EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-356" lat="39.9477599081" lon="4.04951839026" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725961EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carrer&#243;"/>
+</node>
+<node action="modify" id="-207" lat="39.9471709783" lon="4.05044974898" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825302EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-472" lat="39.947748406" lon="4.05015888778" visible="true">
+  <tag k="addr:housenumber" v="78"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826214EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-230" lat="39.9163461134" lon="4.03759267473" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793114EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-3" lat="39.9464399827" lon="4.05054487098" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825905EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-294" lat="39.9178441605" lon="4.03592301308" visible="true">
+  <tag k="addr:housenumber" v="7B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693405EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-11" lat="39.9466750817" lon="4.05031460974" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825909EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-73" lat="39.9461359005" lon="4.05000034543" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825116EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-171" lat="39.9455696593" lon="4.04821510738" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522538EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-329" lat="39.9445308979" lon="4.04764169919" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522546EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-197" lat="39.9466381032" lon="4.04986132754" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825125EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-173" lat="39.9455690761" lon="4.04813620299" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522537EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-372" lat="39.9480122549" lon="4.05111590576" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827613EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-18" lat="39.9446441863" lon="4.04672942199" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522541EE8292S"/>
+  <tag k="addr:street" v="Cam&#237; de Sa Malagarba"/>
+</node>
+<node action="modify" id="-365" lat="39.9482637322" lon="4.05098373064" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827605EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-82" lat="39.9459039187" lon="4.05021667093" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825111EE8292S"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-114" lat="39.9450330695" lon="4.04880922419" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723236EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-483" lat="39.9475495126" lon="4.04984756184" visible="true">
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725910EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-241" lat="39.9183009216" lon="4.03714571435" visible="true">
+  <tag k="addr:housenumber" v="15C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894114EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-423" lat="39.9486429712" lon="4.0502778252" visible="true">
+  <tag k="addr:housenumber" v="143"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827312EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-181" lat="39.9456855701" lon="4.04899307046" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624411EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-402" lat="39.9460522518" lon="4.04933087975" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725818EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-224" lat="39.9143829434" lon="4.04374502721" visible="true">
+  <tag k="addr:housenumber" v="10H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9390104EE8198N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-373" lat="39.9481093366" lon="4.05112865004" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827609EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-122" lat="39.9449171936" lon="4.04843140894" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522593EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-431" lat="39.9491386314" lon="4.05029432406" visible="true">
+  <tag k="addr:housenumber" v="163"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827334EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-189" lat="39.9472781331" lon="4.05089308375" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826803EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-403" lat="39.9459952003" lon="4.04931994177" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624406EE8292S"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-262" lat="39.9180148018" lon="4.03779313841" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793103EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-439" lat="39.9462722192" lon="4.04854449182" visible="true">
+  <tag k="addr:housenumber" v="19A"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725957EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-130" lat="39.9448234178" lon="4.04887936953" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723231EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-42" lat="39.9436812651" lon="4.04954366937" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823809EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-340" lat="39.9437161145" lon="4.04843189092" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522561EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-106" lat="39.9471577099" lon="4.0500857311" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825312EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-353" lat="39.9462980676" lon="4.04783534977" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9525903EE8292N"/>
+  <tag k="addr:street" v="Carrer es Cap de la Vila"/>
+</node>
+<node action="modify" id="-355" lat="39.9477614355" lon="4.04859852148" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=07067A00200112"/>
+  <tag k="addr:street" v="Carrer Es Carrer&#243;"/>
+</node>
+<node action="modify" id="-100" lat="39.9471052234" lon="4.05003037956" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825311EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-215" lat="39.9173048656" lon="4.03443286598" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8592301EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-331" lat="39.9444093738" lon="4.04778590884" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522547EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-269" lat="39.9190135535" lon="4.03887027273" visible="true">
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993404EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-49" lat="39.9463869471" lon="4.05079385774" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825903EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-146" lat="39.9451418065" lon="4.0484316382" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522505EE8292S"/>
+  <tag k="addr:street" v="Carrer sa Travessera Nova"/>
+</node>
+<node action="modify" id="-304" lat="39.9164989374" lon="4.04072139061" visible="true">
+  <tag k="addr:housenumber" v="8H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392517EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-455" lat="39.9464762871" lon="4.04936352309" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725933EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-213" lat="39.9474318327" lon="4.05030925029" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826207EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-277" lat="39.9188506613" lon="4.03896048254" visible="true">
+  <tag k="addr:housenumber" v="5D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993405EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-36" lat="39.9449734102" lon="4.05017493053" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823825EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-154" lat="39.94670279" lon="4.04967526998" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725602EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a Pla de s'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-312" lat="39.9161491981" lon="4.04212293339" visible="true">
+  <tag k="addr:housenumber" v="9J"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392513EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-387" lat="39.9441372023" lon="4.04878622971" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522518EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-463" lat="39.9467622194" lon="4.04964226515" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725925EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-221" lat="39.9190073795" lon="4.03745276438" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894110EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-285" lat="39.9179948616" lon="4.03567430762" visible="true">
+  <tag k="addr:housenumber" v="6B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693406EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-65" lat="39.9437976892" lon="4.04927627426" visible="true">
+  <tag k="addr:housenumber" v="93"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522522EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-162" lat="39.9455808837" lon="4.04883708204" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723244EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-320" lat="39.9458561942" lon="4.04949494871" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724606EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-471" lat="39.9476939435" lon="4.05013301988" visible="true">
+  <tag k="addr:housenumber" v="76"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826213EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-229" lat="39.9154503709" lon="4.04373924129" visible="true">
+  <tag k="addr:housenumber" v="11R"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392508EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-293" lat="39.9167204135" lon="4.04053411744" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392518EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-257" lat="39.9167350983" lon="4.03862557507" visible="true">
+  <tag k="addr:housenumber" v="2G"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892702EE8189S"/>
+</node>
+<node action="modify" id="-414" lat="39.9475608088" lon="4.04997279728" visible="true">
+  <tag k="addr:housenumber" v="101"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725906EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-170" lat="39.9458244886" lon="4.04772213122" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624420EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-328" lat="39.9438886496" lon="4.04805456585" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522552EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-247" lat="39.91721755" lon="4.03767483767" visible="true">
+  <tag k="addr:housenumber" v="19E"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793107EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-17" lat="39.9454974182" lon="4.04724891529" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522528EE8292S"/>
+  <tag k="addr:street" v="Cam&#237; de Sa Malagarba"/>
+</node>
+<node action="modify" id="-364" lat="39.9482144973" lon="4.05102999895" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827606EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-199" lat="39.9469676003" lon="4.05034940415" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825306EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-81" lat="39.9457244958" lon="4.05032765891" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724604EE8292S"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-113" lat="39.9450480969" lon="4.04886107451" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723235EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-348" lat="39.9446609759" lon="4.04758748978" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522545EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-482" lat="39.9481839251" lon="4.0503503933" visible="true">
+  <tag k="addr:housenumber" v="94"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827631EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-240" lat="39.9171693416" lon="4.03519560552" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693415EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-361" lat="39.9481531372" lon="4.05108754883" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827608EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-354" lat="39.9461800748" lon="4.04767488083" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9524503EE8292N"/>
+  <tag k="addr:street" v="Carrer es Cap de la Vila"/>
+</node>
+<node action="modify" id="-422" lat="39.9485906701" lon="4.05027251856" visible="true">
+  <tag k="addr:housenumber" v="141"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827313EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-25" lat="39.9445805406" lon="4.04999142817" visible="true">
+  <tag k="addr:housenumber" v="14D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823818EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-336" lat="39.9434440061" lon="4.04884312106" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522557EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-89" lat="39.945569448" lon="4.04960733266" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723201EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-121" lat="39.9443908491" lon="4.04887535569" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723225EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-248" lat="39.9195936055" lon="4.03761149079" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993401EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-430" lat="39.9490790727" lon="4.05029274007" visible="true">
+  <tag k="addr:housenumber" v="161"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827303EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-188" lat="39.9469195057" lon="4.05036033945" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825912EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-33" lat="39.9440434336" lon="4.04980095801" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823812EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-378" lat="39.9452880117" lon="4.04727207431" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522575EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-97" lat="39.9473051127" lon="4.05024727059" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826105EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-129" lat="39.9446424384" lon="4.048877702" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723229EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-389" lat="39.9441230927" lon="4.04882376972" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522518EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-256" lat="39.9178419804" lon="4.03819885509" visible="true">
+  <tag k="addr:housenumber" v="2E"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793104EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-438" lat="39.9494639" lon="4.05045308625" visible="true">
+  <tag k="addr:housenumber" v="179"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9828901EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-196" lat="39.9472452505" lon="4.05093950105" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825901EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-405" lat="39.9458927476" lon="4.04939035565" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624408EE8292S"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-41" lat="39.9473875561" lon="4.05154088192" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926813EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-116" lat="39.9450496889" lon="4.04873783067" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723237EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-105" lat="39.9477873974" lon="4.05120679035" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926812EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-137" lat="39.9474726526" lon="4.05086964242" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926809EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-264" lat="39.9192376342" lon="4.03871827556" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993403EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-6" lat="39.946383925" lon="4.0505172459" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825106EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-40" lat="39.9437552662" lon="4.04958964573" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823810EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-446" lat="39.9462367247" lon="4.04882552659" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624436EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-204" lat="39.9472083858" lon="4.05052753541" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826805EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-268" lat="39.9183827606" lon="4.03674429876" visible="true">
+  <tag k="addr:housenumber" v="4B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693403EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-48" lat="39.9464348987" lon="4.05082909374" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825902EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-388" lat="39.9440704489" lon="4.04931487279" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723219EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-145" lat="39.9478401979" lon="4.05051329015" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827625EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-303" lat="39.9159736846" lon="4.03858949649" visible="true">
+  <tag k="addr:housenumber" v="8G"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892708EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-454" lat="39.946391324" lon="4.04927740973" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725823EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-338" lat="39.9448440137" lon="4.04708026917" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522542EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-276" lat="39.9181096753" lon="4.03544492853" visible="true">
+  <tag k="addr:housenumber" v="5D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693407EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-56" lat="39.9446400964" lon="4.04976240747" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723209EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-22" lat="39.9446833725" lon="4.05011289267" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823820EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-153" lat="39.9469534434" lon="4.04990275281" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725601EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a de sa Pla&#231;a"/>
+</node>
+<node action="modify" id="-311" lat="39.9164427712" lon="4.04101644106" visible="true">
+  <tag k="addr:housenumber" v="9H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392516EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-205" lat="39.9475399698" lon="4.05012818009" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826101EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-462" lat="39.9467344546" lon="4.04959995199" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725926EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-220" lat="39.9165810385" lon="4.03696345398" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793116EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-284" lat="39.9159292002" lon="4.03891473465" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892707EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-64" lat="39.943861315" lon="4.04931542326" visible="true">
+  <tag k="addr:housenumber" v="91"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522592EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-161" lat="39.9456775989" lon="4.04853004106" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624414EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-319" lat="39.9458984391" lon="4.04949044043" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725816EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-309" lat="39.9192744631" lon="4.0373519482" visible="true">
+  <tag k="addr:housenumber" v="9C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894109EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-470" lat="39.9470907925" lon="4.04973365223" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725920EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-228" lat="39.9186701227" lon="4.03908950042" visible="true">
+  <tag k="addr:housenumber" v="11D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993406EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-292" lat="39.9168456389" lon="4.03879683486" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893708EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-9" lat="39.9462787976" lon="4.05061845715" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825108EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-383" lat="39.9441631768" lon="4.04869173417" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522516EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-243" lat="39.9174179929" lon="4.03720002984" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793109EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-169" lat="39.9457301475" lon="4.04788915324" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624419EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-327" lat="39.9459700397" lon="4.0497010396" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724610EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-187" lat="39.947190928" lon="4.05077207981" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826804EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-478" lat="39.9474036937" lon="4.04989823388" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725913EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-57" lat="39.9445805636" lon="4.04973333726" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723210EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-399" lat="39.9500701848" lon="4.05051903353" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9829804EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de la Figuerenya"/>
+</node>
+<node action="modify" id="-363" lat="39.9481280144" lon="4.05101213493" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827634EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-80" lat="39.9458119085" lon="4.05018698165" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724603EE8292S"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-70" lat="39.9462166612" lon="4.04992497179" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825118EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-112" lat="39.9449615788" lon="4.04888071055" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723234EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-481" lat="39.9481168277" lon="4.0503389644" visible="true">
+  <tag k="addr:housenumber" v="92"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827630EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-239" lat="39.9184423328" lon="4.03968583255" visible="true">
+  <tag k="addr:housenumber" v="14D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993409EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-1" lat="39.9467648914" lon="4.05022668419" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825910EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-421" lat="39.9462450298" lon="4.04831743004" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725948EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-179" lat="39.9457354586" lon="4.04767075118" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522530EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-24" lat="39.9444915573" lon="4.05001947005" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823817EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-371" lat="39.9480735125" lon="4.0511622342" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827610EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-86" lat="39.9453382403" lon="4.049763664" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723204EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-429" lat="39.9489724849" lon="4.05029308764" visible="true">
+  <tag k="addr:housenumber" v="157"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827305EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-401" lat="39.9460554818" lon="4.04927858232" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624405EE8292S"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-351" lat="39.9462095801" lon="4.04776512099" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9524501EE8292N"/>
+  <tag k="addr:street" v="Carrer es Cap de la Vila"/>
+</node>
+<node action="modify" id="-255" lat="39.9194432353" lon="4.03843658463" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993402EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-437" lat="39.9494557839" lon="4.05029695464" visible="true">
+  <tag k="addr:housenumber" v="171"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827341EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-195" lat="39.9472148925" lon="4.05088571709" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825920EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-409" lat="39.9461428815" lon="4.04926693916" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725820EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-118" lat="39.9450528124" lon="4.048558922" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723239EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-263" lat="39.9184574765" lon="4.03649049261" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693402EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-445" lat="39.9462263415" lon="4.04872384896" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624434EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-203" lat="39.9472886047" lon="4.05044886699" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826807EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-98" lat="39.9471856938" lon="4.05047479616" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825301EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-47" lat="39.9448408327" lon="4.05018436829" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823823EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-144" lat="39.9478685773" lon="4.05048576588" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827626EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-302" lat="39.9167488719" lon="4.03918377374" visible="true">
+  <tag k="addr:housenumber" v="8F"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893707EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-453" lat="39.9464568635" lon="4.0493203789" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725934EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-337" lat="39.9438872333" lon="4.04821999202" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522565EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-275" lat="39.9197155568" lon="4.03820972469" visible="true">
+  <tag k="addr:housenumber" v="5C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894105EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-55" lat="39.9447514532" lon="4.0498168566" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723250EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-339" lat="39.9437587111" lon="4.04837030324" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522562EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-152" lat="39.9470494004" lon="4.04994756646" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825310EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a de sa Pla&#231;a"/>
+</node>
+<node action="modify" id="-310" lat="39.9167941843" lon="4.03646622852" visible="true">
+  <tag k="addr:housenumber" v="9E"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793117EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-461" lat="39.9469456061" lon="4.04986757055" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725601EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-219" lat="39.9198226246" lon="4.03949918959" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894101EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-411" lat="39.9461060426" lon="4.04929300358" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725819EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-283" lat="39.9160832512" lon="4.03829272519" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892709EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-63" lat="39.9441206523" lon="4.04949253244" visible="true">
+  <tag k="addr:housenumber" v="85"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723217EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-377" lat="39.9446862518" lon="4.04827624961" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522512EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-160" lat="39.9454614145" lon="4.04904563185" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723246EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-318" lat="39.9459284431" lon="4.04954520405" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725815EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-136" lat="39.9475629806" lon="4.05098718994" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926810EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-469" lat="39.9470361508" lon="4.04975450479" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725921EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-227" lat="39.9177983916" lon="4.03573137268" visible="true">
+  <tag k="addr:housenumber" v="11B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693410EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-291" lat="39.9150043536" lon="4.04445342445" visible="true">
+  <tag k="addr:housenumber" v="6S"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392505EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-71" lat="39.9461709687" lon="4.04996757219" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825117EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-346" lat="39.9447692355" lon="4.04744595893" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522544EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-245" lat="39.9176792685" lon="4.03930794178" visible="true">
+  <tag k="addr:housenumber" v="18D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993411EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-168" lat="39.9455702449" lon="4.04829140141" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522539EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-326" lat="39.9460107148" lon="4.04969523075" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725812EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-477" lat="39.9479044852" lon="4.05030161122" visible="true">
+  <tag k="addr:housenumber" v="88"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826201EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-72" lat="39.9461965909" lon="4.04988958397" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725808EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-235" lat="39.9175301705" lon="4.03474889952" visible="true">
+  <tag k="addr:housenumber" v="13D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693417EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-362" lat="39.9481896464" lon="4.05105330744" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827607EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-79" lat="39.9459993641" lon="4.05012768577" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825113EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-111" lat="39.9448985199" lon="4.04888009318" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723233EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-480" lat="39.9480540323" lon="4.05032835217" visible="true">
+  <tag k="addr:housenumber" v="90"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827629EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-238" lat="39.9172621249" lon="4.0349350303" visible="true">
+  <tag k="addr:housenumber" v="14B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693416EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-420" lat="39.9481319775" lon="4.04984930248" visible="true">
+  <tag k="addr:housenumber" v="123A"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827333EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-178" lat="39.9456871876" lon="4.0490939033" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624410EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-325" lat="39.9460292346" lon="4.0497289441" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725811EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-370" lat="39.9479756561" lon="4.05115026197" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827638EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-87" lat="39.9450494499" lon="4.04965773568" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723206EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-119" lat="39.9449972879" lon="4.04840282245" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522507EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-88" lat="39.9451527974" lon="4.04988919417" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723206EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-428" lat="39.9489023052" lon="4.05029343127" visible="true">
+  <tag k="addr:housenumber" v="153"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827307EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-186" lat="39.9468905986" lon="4.05030909451" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825911EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-391" lat="39.944016215" lon="4.04910948564" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522592EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-31" lat="39.9440961904" lon="4.0498269309" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823812EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-400" lat="39.9462050358" lon="4.04922318552" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725828EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-95" lat="39.9472407019" lon="4.05029185105" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825316EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-127" lat="39.9444548989" lon="4.04887610022" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723226EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-254" lat="39.9185082775" lon="4.03627714625" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693418EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-4" lat="39.9464877447" lon="4.05041738789" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825104EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-436" lat="39.9462503692" lon="4.04843819038" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725946EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-194" lat="39.9469060509" lon="4.05024101229" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825308EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-410" lat="39.9461445889" lon="4.04921741391" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624403EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-39" lat="39.943586088" lon="4.05007770887" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823843EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-382" lat="39.94417738" lon="4.04902361738" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723222EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-103" lat="39.9475639251" lon="4.05081220634" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926811EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-135" lat="39.9475996985" lon="4.05072191232" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827619EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-183" lat="39.9455836209" lon="4.04898541252" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723246EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-444" lat="39.9462849564" lon="4.04886486225" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725940EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-202" lat="39.9473997847" lon="4.05034057371" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826206EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-211" lat="39.9474670388" lon="4.05027472948" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826208EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-143" lat="39.9477303209" lon="4.05054033037" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826203EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-301" lat="39.9171189514" lon="4.03624799922" visible="true">
+  <tag k="addr:housenumber" v="8E"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793118EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-216" lat="39.918465249" lon="4.03587280318" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693401EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-210" lat="39.9474723699" lon="4.05019355314" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826103EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-274" lat="39.9180651425" lon="4.03689948813" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793101EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-54" lat="39.9450099286" lon="4.04986326368" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723207EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-392" lat="39.9439734568" lon="4.04922386086" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522592EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-151" lat="39.9471676812" lon="4.05001412122" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826110EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a de sa Pla&#231;a"/>
+</node>
+<node action="modify" id="-26" lat="39.9444062262" lon="4.04997814409" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823816EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-212" lat="39.9474400943" lon="4.05022478786" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826104EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-457" lat="39.9464108855" lon="4.04932065208" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725824EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-460" lat="39.9469456061" lon="4.04986757055" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725601EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-218" lat="39.9165152207" lon="4.03996646032" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8891501EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-282" lat="39.9168165881" lon="4.03843917655" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892701EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-62" lat="39.9442376202" lon="4.04956536356" visible="true">
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723216EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-159" lat="39.9455822575" lon="4.04891295303" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723245EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-317" lat="39.945963379" lon="4.04960883747" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725814EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-468" lat="39.9469879026" lon="4.0497311242" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725922EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-226" lat="39.9145861391" lon="4.04344215707" visible="true">
+  <tag k="addr:housenumber" v="10Z"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9390101EE8198N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-396" lat="39.949765068" lon="4.05037763054" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9829802EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de la Figuerenya"/>
+</node>
+<node action="modify" id="-290" lat="39.9157632809" lon="4.04009072302" visible="true">
+  <tag k="addr:housenumber" v="6I"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8891503EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-7" lat="39.9463249387" lon="4.05057405352" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825107EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-68" lat="39.9435460164" lon="4.04922907003" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522525EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-167" lat="39.94569822" lon="4.04798660991" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624418EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-184" lat="39.9468655926" lon="4.05016983431" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825309EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-12" lat="39.9466156447" lon="4.05037284988" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825908EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-476" lat="39.9473655646" lon="4.0498812122" visible="true">
+  <tag k="addr:housenumber" v="87"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725914EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-234" lat="39.9186571981" lon="4.03626523077" visible="true">
+  <tag k="addr:housenumber" v="13C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894116EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-51" lat="39.9459397329" lon="4.05048104514" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825110EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-298" lat="39.9159417554" lon="4.0426785907" visible="true">
+  <tag k="addr:housenumber" v="7R"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392512EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-15" lat="39.9466027273" lon="4.0503063378" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825128EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-110" lat="39.9442830793" lon="4.04887412254" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723224EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-479" lat="39.946240725" lon="4.04822039159" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725950EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-237" lat="39.9170980963" lon="4.03768932193" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793112EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-419" lat="39.9479823094" lon="4.05021787492" visible="true">
+  <tag k="addr:housenumber" v="119"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827323EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-177" lat="39.9457039257" lon="4.04773349534" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522531EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-369" lat="39.9479746116" lon="4.05125507068" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827611EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-349" lat="39.9441854221" lon="4.04806502322" visible="true">
+  <tag k="addr:housenumber" v="C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522569EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-90" lat="39.9450494499" lon="4.04965773568" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723206EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-427" lat="39.9488612069" lon="4.05029373888" visible="true">
+  <tag k="addr:housenumber" v="151"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827308EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-185" lat="39.9470449911" lon="4.05048551582" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825303EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-376" lat="39.9441471159" lon="4.04843537806" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522514EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-16" lat="39.9465100647" lon="4.05047628652" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825906EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-452" lat="39.9463598641" lon="4.0492079734" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725829EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-435" lat="39.9494249523" lon="4.05026649391" visible="true">
+  <tag k="addr:housenumber" v="169B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827337EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-193" lat="39.9471816101" lon="4.05082683409" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825919EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-38" lat="39.9438364829" lon="4.04963774818" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823805EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-384" lat="39.944150242" lon="4.04909755981" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723221EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-102" lat="39.9477828372" lon="4.05113183869" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827617EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-134" lat="39.9476649882" lon="4.05068279757" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827620EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-261" lat="39.9176839066" lon="4.04008230888" visible="true">
+  <tag k="addr:housenumber" v="2J"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9094620EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-138" lat="39.9473965279" lon="4.05094252266" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926808EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-443" lat="39.9462133998" lon="4.04852503125" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624440EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-201" lat="39.9469939209" lon="4.05039572925" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825305EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-393" lat="39.9497673287" lon="4.05022399263" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9829101EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de s'Escorxador"/>
+</node>
+<node action="modify" id="-395" lat="39.9497477042" lon="4.05003370664" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9829102EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de s'Escorxador"/>
+</node>
+<node action="modify" id="-104" lat="39.9478170374" lon="4.05110801981" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827616EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-46" lat="39.9433388231" lon="4.04980019276" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823854EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-415" lat="39.9475944029" lon="4.04999354496" visible="true">
+  <tag k="addr:housenumber" v="103"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725905EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-142" lat="39.9477607474" lon="4.05051139353" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826202EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-300" lat="39.9187915782" lon="4.03797239907" visible="true">
+  <tag k="addr:housenumber" v="8D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993417EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-451" lat="39.9463384465" lon="4.04916045349" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725822EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-408" lat="39.9461925662" lon="4.04918448422" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624402EE8292N"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-335" lat="39.9434476229" lon="4.04856649719" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522556EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-273" lat="39.9169503088" lon="4.03542500939" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8692201EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-53" lat="39.9458271732" lon="4.05041458659" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825111EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-150" lat="39.9452020629" lon="4.04843146605" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522504EE8292S"/>
+  <tag k="addr:street" v="Carrer sa Travessera Nova"/>
+</node>
+<node action="modify" id="-308" lat="39.916711238" lon="4.03952807954" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893706EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-28" lat="39.9443208178" lon="4.04993686077" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823815EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-459" lat="39.9464264601" lon="4.04935093051" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725825EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-217" lat="39.9175623904" lon="4.0383506349" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793105EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-281" lat="39.9171041856" lon="4.03856895171" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893709EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-61" lat="39.944342666" lon="4.04961704273" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723214EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-344" lat="39.9447761124" lon="4.04722592551" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522543EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-158" lat="39.9455909791" lon="4.04938032094" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723249EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-316" lat="39.9459382596" lon="4.04964347663" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724609EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-467" lat="39.9474528315" lon="4.05001460327" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826111EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-225" lat="39.9155843112" lon="4.04348270198" visible="true">
+  <tag k="addr:housenumber" v="10R"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392509EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-359" lat="39.9477835333" lon="4.04946791274" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827331EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carrer&#243;"/>
+</node>
+<node action="modify" id="-289" lat="39.9167637846" lon="4.03993223441" visible="true">
+  <tag k="addr:housenumber" v="6H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9392519EE8199S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-69" lat="39.9462871591" lon="4.04980595692" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725806EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-381" lat="39.9441631768" lon="4.04869173417" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522516EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-78" lat="39.9459259134" lon="4.0501412143" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724615EE8292S"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-166" lat="39.9455709101" lon="4.04837373347" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522501EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-324" lat="39.9460209807" lon="4.04979349035" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9724612EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-249" lat="39.9165682233" lon="4.03652250059" visible="true">
+  <tag k="addr:housenumber" v="1H"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8791201EE8189S"/>
+</node>
+<node action="modify" id="-447" lat="39.9462449812" lon="4.04887096891" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624437EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-475" lat="39.9472786649" lon="4.049847137" visible="true">
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725916EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-233" lat="39.9185470418" lon="4.0393824967" visible="true">
+  <tag k="addr:housenumber" v="12D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993407EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-473" lat="39.9472165218" lon="4.04982484136" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725917EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-297" lat="39.9127432746" lon="4.04438228097" visible="true">
+  <tag k="addr:housenumber" v="7H"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9489901EE8198N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-14" lat="39.9465644302" lon="4.05042302744" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825907EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-180" lat="39.9455869478" lon="4.04916211066" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723247EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-236" lat="39.9170203078" lon="4.03797910749" visible="true">
+  <tag k="addr:housenumber" v="13E"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8793113EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-418" lat="39.9462423675" lon="4.04825843884" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725949EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-176" lat="39.9456106979" lon="4.04792060045" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522534EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-394" lat="39.9497199624" lon="4.05000927486" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827339EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de s'Escorxador"/>
+</node>
+<node action="modify" id="-21" lat="39.945692457" lon="4.04747571938" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522529EE8292S"/>
+  <tag k="addr:street" v="Cam&#237; de Sa Malagarba"/>
+</node>
+<node action="modify" id="-368" lat="39.9479379934" lon="4.05118564317" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827614EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-85" lat="39.9462670217" lon="4.04987799738" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825119EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-117" lat="39.9450522089" lon="4.04864239807" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723238EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-486" lat="39.9475338033" lon="4.04995626433" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725907EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-244" lat="39.9170122872" lon="4.03565189384" visible="true">
+  <tag k="addr:housenumber" v="17B"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693413EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-2" lat="39.9465458447" lon="4.0503615459" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825103EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-92" lat="39.9454900059" lon="4.04966102168" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723202EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-426" lat="39.9487812487" lon="4.05029091419" visible="true">
+  <tag k="addr:housenumber" v="149"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827309EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-29" lat="39.9449017206" lon="4.05021660044" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823824EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-398" lat="39.9500405412" lon="4.05034698669" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9829803EE8292N"/>
+  <tag k="addr:street" v="Cam&#237; de la Figuerenya"/>
+</node>
+<node action="modify" id="-93" lat="39.9454362491" lon="4.04969742333" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723203EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Menorca"/>
+</node>
+<node action="modify" id="-125" lat="39.944748262" lon="4.04836296855" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522511EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-252" lat="39.9174374411" lon="4.03903288796" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8893702EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-434" lat="39.9493512558" lon="4.050293917" visible="true">
+  <tag k="addr:housenumber" v="169"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827340EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-192" lat="39.9471426823" lon="4.05075799305" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825918EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-347" lat="39.9439668256" lon="4.04793483976" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522551EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-37" lat="39.9461462563" lon="4.05182739128" visible="true">
+  <tag k="addr:housenumber" v="2G"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9925103EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-406" lat="39.9458693219" lon="4.04940831985" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624409EE8292S"/>
+  <tag k="addr:street" v="Carrer Francesc d'Albranca"/>
+</node>
+<node action="modify" id="-101" lat="39.9475017752" lon="4.05069429156" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826801EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-133" lat="39.9476963332" lon="4.0506524585" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827621EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-352" lat="39.9464019587" lon="4.04721924097" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9525904EE8292N"/>
+  <tag k="addr:street" v="Carrer es Cap de la Vila"/>
+</node>
+<node action="modify" id="-260" lat="39.9164782434" lon="4.04028653092" visible="true">
+  <tag k="addr:housenumber" v="2I"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8891502EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-124" lat="39.944748262" lon="4.04836296855" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522511EE8292S"/>
+  <tag k="addr:street" v="Pla&#231;a Mestre Andreu Ferrer"/>
+</node>
+<node action="modify" id="-442" lat="39.9462595591" lon="4.04864611508" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725943EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-200" lat="39.9467179641" lon="4.0500026975" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825127EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-45" lat="39.943543878" lon="4.04945990645" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823807EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-386" lat="39.9441229182" lon="4.04917193957" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723220EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-44" lat="39.9471224282" lon="4.05131312525" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926804EE8292N"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-109" lat="39.9472120736" lon="4.05018149632" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825314EE8292N"/>
+  <tag k="addr:street" v="carrer Mirada del Toro"/>
+</node>
+<node action="modify" id="-141" lat="39.9472303353" lon="4.05110393111" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9926805EE8292N"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-299" lat="39.9194529017" lon="4.03737687294" visible="true">
+  <tag k="addr:housenumber" v="8C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894108EE8189N"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-450" lat="39.9464005949" lon="4.04919544433" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725935EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-208" lat="39.9475039902" lon="4.05023855517" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826209EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-272" lat="39.914916947" lon="4.04257166296" visible="true">
+  <tag k="addr:housenumber" v="4H"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9090903EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-52" lat="39.9448026467" lon="4.05016768504" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823822EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-149" lat="39.945378149" lon="4.04843330125" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522502EE8292S"/>
+  <tag k="addr:street" v="Carrer sa Travessera Nova"/>
+</node>
+<node action="modify" id="-307" lat="39.91791725" lon="4.03551317102" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8693408EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-30" lat="39.9441609459" lon="4.04985883237" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9823813EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-458" lat="39.9465077528" lon="4.0494172889" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725932EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-342" lat="39.9436298791" lon="4.04856285798" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522559EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-280" lat="39.9168750403" lon="4.03562091407" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8692202EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-60" lat="39.9444025188" lon="4.04964626733" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723213EE8292S"/>
+  <tag k="addr:street" v="Avinguda de la Mar"/>
+</node>
+<node action="modify" id="-375" lat="39.9443481057" lon="4.04843954401" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522513EE8292S"/>
+  <tag k="addr:street" v="Carrer de s'Era"/>
+</node>
+<node action="modify" id="-157" lat="39.9465206288" lon="4.04959011179" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725801EE8292N"/>
+  <tag k="addr:street" v="Pla&#231;a Pla de s'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-315" lat="39.945988867" lon="4.04965532934" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725813EE8292S"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-10" lat="39.946246133" lon="4.05064985796" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825109EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-466" lat="39.9469348045" lon="4.04970537748" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725923EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-350" lat="39.9440816888" lon="4.04804869167" visible="true">
+  <tag k="addr:housenumber" v="D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522568EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-288" lat="39.9161636566" lon="4.03802069213" visible="true">
+  <tag k="addr:housenumber" v="6G"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8892710EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-5" lat="39.9464387564" lon="4.05046451294" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825105EE8292N"/>
+  <tag k="addr:street" v="Carrer Bernat Alzina"/>
+</node>
+<node action="modify" id="-165" lat="39.945682824" lon="4.04806406977" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9624417EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-323" lat="39.9460517645" lon="4.04976995806" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725810EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-251" lat="39.917242698" lon="4.03460463252" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8592302EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-474" lat="39.9478261628" lon="4.050231512" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826216EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-232" lat="39.918609352" lon="4.03798813503" visible="true">
+  <tag k="addr:housenumber" v="12C"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8894112EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-296" lat="39.9190054556" lon="4.03764157737" visible="true">
+  <tag k="addr:housenumber" v="7D"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8993418EE8189S"/>
+  <tag k="addr:place" v="Urbanitzaci&#243; Santo Tom&#224;s"/>
+</node>
+<node action="modify" id="-334" lat="39.9435140067" lon="4.0484340291" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9522555EE8292S"/>
+  <tag k="addr:street" v="Avinguda David Russell"/>
+</node>
+<node action="modify" id="-76" lat="39.9460419389" lon="4.05008792799" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825114EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+<node action="modify" id="-484" lat="39.9476217341" lon="4.04976295576" visible="true">
+  <tag k="addr:housenumber" v="95A"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725909EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-191" lat="39.9470668833" lon="4.0506821546" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9825917EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Lloren&#231;"/>
+</node>
+<node action="modify" id="-360" lat="39.9479043678" lon="4.05121734365" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827615EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-417" lat="39.9476882884" lon="4.05005136679" visible="true">
+  <tag k="addr:housenumber" v="107"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725903EE8292N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-209" lat="39.9474766667" lon="4.05013239789" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9826102EE8292N"/>
+  <tag k="addr:street" v="Carrer Sant Jaume"/>
+</node>
+<node action="modify" id="-175" lat="39.9455887271" lon="4.04925941194" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9723248EE8292S"/>
+  <tag k="addr:street" v="Avinguda de Binicudrell"/>
+</node>
+<node action="modify" id="-20" lat="39.9452919068" lon="4.04686220093" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9424803EE8292S"/>
+  <tag k="addr:street" v="Cam&#237; de Sa Malagarba"/>
+</node>
+<node action="modify" id="-367" lat="39.9482669832" lon="4.05088303961" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9827612EE8292N"/>
+  <tag k="addr:street" v="Carrer Es Carritxaret"/>
+</node>
+<node action="modify" id="-84" lat="39.9463671243" lon="4.04973205524" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="07749"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9725804EE8292N"/>
+  <tag k="addr:street" v="Carrer Maria Auxiliadora"/>
+</node>
+</osm>
