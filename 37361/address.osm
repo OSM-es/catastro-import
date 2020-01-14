@@ -1,0 +1,1084 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 1.2dev'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-10-26"/>
+</changeset>
+<node id="-109" action="modify" visible="true" lon="-5.287898387110393" lat="40.95473668203795">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664802UL0376S"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-5.287912524508985" lat="40.95492415677968">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564101UL0376S"/>
+</node>
+<node id="-124" action="modify" visible="true" lon="-5.287961470119204" lat="40.952697327686806">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563408UL0376S"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-5.289242688231784" lat="40.953675328758">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464402UL0376S"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-5.287989786083555" lat="40.95388618387157">
+  <tag k="addr:street" v="Plaza Palacio"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564406UL0376S"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-5.285949015460529" lat="40.95414527677305">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663225UL0376S"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-5.307460133048008" lat="40.98008224596903">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600500UL03H"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-5.2885112572989055" lat="40.95409721376738">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564401UL0376S"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-5.288732847953822" lat="40.952398864367694">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562606UL0376S"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-5.2863064125737145" lat="40.95407504501826">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7764706UL0376S"/>
+</node>
+<node id="-139" action="modify" visible="true" lon="-5.287372795521043" lat="40.95238529490577">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662705UL0376S"/>
+</node>
+<node id="-157" action="modify" visible="true" lon="-5.28970109905772" lat="40.95333692996345">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463111UL0376S"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-5.287727224475583" lat="40.95473613769454">
+  <tag k="addr:street" v="Calle Lagar"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664101UL0376S"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-5.287607038051686" lat="40.954000520531714">
+  <tag k="addr:street" v="Calle Nueva"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664605UL0376S"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-5.3071287564238965" lat="40.97936262817391">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700800UL03H"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-5.290647589631338" lat="40.952478532486275">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7362206UL0376S"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-5.28721480480641" lat="40.953885262118845">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664405UL0376S"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-5.287945681325935" lat="40.95426985112201">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664806UL0376S"/>
+</node>
+<node id="-130" action="modify" visible="true" lon="-5.286613277060393" lat="40.95341738552482">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663211UL0376S"/>
+</node>
+<node id="-148" action="modify" visible="true" lon="-5.28872076127893" lat="40.95355132481035">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563101UL0376S"/>
+</node>
+<node id="-153" action="modify" visible="true" lon="-5.2899697399555725" lat="40.95325416699558">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463108UL0376S"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-5.295840087051417" lat="40.952431386118825">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6963503UL0366S"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-5.289012629731318" lat="40.95462371033065">
+  <tag k="addr:street" v="Calle Econom&#237;a"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7565602UL0376N"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-5.308146325619467" lat="40.980349347838924">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=37361A00100010"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-5.286936382571116" lat="40.95390767563705">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664408UL0376S"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-5.2884645484335335" lat="40.952149160743915">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662701UL0376S"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-5.2907239483829365" lat="40.95483700019338">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7365003UL0376N"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-5.28819486250953" lat="40.95377790244782">
+  <tag k="addr:street" v="Plaza Palacio"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564408UL0376S"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-5.287211077538461" lat="40.954173303487075">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664402UL0376S"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-5.287787741135533" lat="40.953120519645">
+  <tag k="addr:street" v="Calle Empedrada"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563410UL0376S"/>
+</node>
+<node id="-137" action="modify" visible="true" lon="-5.287634476032548" lat="40.95256583540235">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662711UL0376S"/>
+</node>
+<node id="-155" action="modify" visible="true" lon="-5.289492008141519" lat="40.952854920161116">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463506UL0376S"/>
+</node>
+<node id="-125" action="modify" visible="true" lon="-5.288106461129735" lat="40.95264947502442">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563407UL0376S"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-5.288646287385545" lat="40.952222004147316">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562607UL0376S"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-5.29366481153464" lat="40.95341731434778">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163101UL0376S"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-5.287520737019746" lat="40.953963143173134">
+  <tag k="addr:street" v="Calle Nueva"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664610UL0376S"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-5.307635037220665" lat="40.97920828394515">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="11D"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600200UL03H"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-5.290294087843928" lat="40.95253381745733">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7362204UL0376S"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-5.2874843174058705" lat="40.953844031069046">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664608UL0376S"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-5.287999116059445" lat="40.954795376044984">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="1C"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564120UL0376S"/>
+</node>
+<node id="-128" action="modify" visible="true" lon="-5.2884481578776885" lat="40.952517599132584">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563415UL0376S"/>
+</node>
+<node id="-146" action="modify" visible="true" lon="-5.289020760814083" lat="40.9537490043375">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564608UL0376S"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-5.285766067647783" lat="40.954308815163536">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7764709UL0376S"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-5.2892618047700095" lat="40.95468628303127">
+  <tag k="addr:street" v="Calle de la Alegr&#237;a"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464203UL0376S"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-5.288746615993418" lat="40.95302369924301">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563401UL0376S"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-5.2857517707729835" lat="40.954253230140026">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663226UL0376S"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-5.2877612204162805" lat="40.95408564110199">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664602UL0376S"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-5.288815352068757" lat="40.952910973787326">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563405UL0376S"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-5.288912442938942" lat="40.95459526242239">
+  <tag k="addr:street" v="Calle Econom&#237;a"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564112UL0376S"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-5.290477182025687" lat="40.95514313126219">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7365001UL0376N"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-5.289125076686162" lat="40.954537099126156">
+  <tag k="addr:street" v="Calle de la Alegr&#237;a"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464201UL0376S"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-5.3073320173872" lat="40.979830267056045">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600700UL03H"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-5.286719326771901" lat="40.95390665622881">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663220UL0376S"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-5.287645569461875" lat="40.95415296959692">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664604UL0376S"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-5.287929235171984" lat="40.95334008754482">
+  <tag k="addr:street" v="Calle Empedrada"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663205UL0376S"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-5.289592576240016" lat="40.953513611095204">
+  <tag k="addr:street" v="Plazuela Sol"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463104UL0376S"/>
+</node>
+<node id="-135" action="modify" visible="true" lon="-5.287160222127089" lat="40.95217025098476">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662709UL0376S"/>
+</node>
+<node id="-144" action="modify" visible="true" lon="-5.2887731429981635" lat="40.95388952632895">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564607UL0376S"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-5.288319164577392" lat="40.9544765181607">
+  <tag k="addr:street" v="Calle Palomar"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564110UL0376S"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-5.288398078807336" lat="40.953176410855946">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563409UL0376S"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-5.289610763166626" lat="40.95395928190735">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564604UL0376S"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-5.30704185955944" lat="40.9794951531531">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700500UL03H"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-5.295935925800175" lat="40.952341205382446">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6963504UL0366S"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-5.288785218987338" lat="40.95276229273188">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562809UL0376S"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-5.296086787678177" lat="40.95201501835058">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6962601UL0366S"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-5.289449112218814" lat="40.95367966889784">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463201UL0376S"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-5.293886327444484" lat="40.95293876181208">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7063501UL0376S"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-5.289419963733295" lat="40.95271259515384">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562803UL0376S"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-5.287802817370237" lat="40.95480494787011">
+  <tag k="addr:street" v="Calle Lagar"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664801UL0376S"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-5.289411835493144" lat="40.954837715392216">
+  <tag k="addr:street" v="Calle de la Alegr&#237;a"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464204UL0376S"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-5.306946987734329" lat="40.979893280989764">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700300UL03H"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-5.2890770691954545" lat="40.95296755607518">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563604UL0376S"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-5.287545759838613" lat="40.95289674957836">
+  <tag k="addr:street" v="Calle Empedrada"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663214UL0376S"/>
+</node>
+<node id="-133" action="modify" visible="true" lon="-5.287354083564432" lat="40.95283849587101">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663216UL0376S"/>
+</node>
+<node id="-151" action="modify" visible="true" lon="-5.290018512890181" lat="40.953238607880884">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463109UL0376S"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-5.288114454098791" lat="40.954206465055194">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564302UL0376S"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-5.289403487649103" lat="40.953634908367675">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463202UL0376S"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-5.288239094855385" lat="40.95446151972191">
+  <tag k="addr:street" v="Calle Palomar"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564301UL0376S"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-5.307205039021243" lat="40.98012563493858">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700100UL03H"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-5.286663786774631" lat="40.95396834126281">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7764702UL0376S"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-5.2883846190699195" lat="40.954160238493095">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564305UL0376S"/>
+</node>
+<node id="-122" action="modify" visible="true" lon="-5.287755273381927" lat="40.95277576522585">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563413UL0376S"/>
+</node>
+<node id="-140" action="modify" visible="true" lon="-5.286800694929713" lat="40.95209453438773">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7762704UL0376S"/>
+</node>
+<node id="-158" action="modify" visible="true" lon="-5.288920799774964" lat="40.95153992760493">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7561701UL0376S"/>
+</node>
+<node id="-145" action="modify" visible="true" lon="-5.288552261520965" lat="40.953944671520446">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564403UL0376S"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-5.3070856004711215" lat="40.979396368691404">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700600UL03H"/>
+</node>
+<node id="-150" action="modify" visible="true" lon="-5.290106993617176" lat="40.9530443056574">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463502UL0376S"/>
+</node>
+<node id="-160" action="modify" visible="true" lon="-5.290224896369049" lat="40.953137037393205">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7362202UL0376S"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-5.287037842438845" lat="40.95415878307124">
+  <tag k="addr:street" v="Calle Lagar"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664404UL0376S"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-5.288813075403828" lat="40.954120848071774">
+  <tag k="addr:street" v="Calle de la Alegr&#237;a"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564605UL0376S"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-5.307106542475337" lat="40.97938000656662">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700700UL03H"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-5.291234202517707" lat="40.95267359724308">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7362211UL0376S"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-5.28956241127031" lat="40.95354672096399">
+  <tag k="addr:street" v="Plazuela Sol"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463105UL0376S"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-5.288007686072556" lat="40.95437653325231">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664805UL0376S"/>
+</node>
+<node id="-126" action="modify" visible="true" lon="-5.2883399942861535" lat="40.95255310379266">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563403UL0376S"/>
+</node>
+<node id="-131" action="modify" visible="true" lon="-5.286938394199" lat="40.953109460444864">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663228UL0376S"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-5.287345619092212" lat="40.953469391129474">
+  <tag k="addr:street" v="Calle Acceso al R&#237;o"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663208UL0376S"/>
+</node>
+<node id="-149" action="modify" visible="true" lon="-5.288713907556964" lat="40.953507011318464">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="9D"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7361702UL0376S"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-5.290970203567958" lat="40.95473169614732">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7365004UL0376N"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-5.288088641533785" lat="40.95383271701351">
+  <tag k="addr:street" v="Plaza Palacio"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564405UL0376S"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-5.307660062286337" lat="40.98005203096742">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600800UL03H"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-5.286751648794606" lat="40.95394259344337">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7764701UL0376S"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-5.287359940558022" lat="40.95427719918167">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664807UL0376S"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-5.289258033293266" lat="40.953786617729094">
+  <tag k="addr:street" v="Calle &#193;ngulo"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464403UL0376S"/>
+</node>
+<node id="-138" action="modify" visible="true" lon="-5.287506175853311" lat="40.95242849901984">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662706UL0376S"/>
+</node>
+<node id="-156" action="modify" visible="true" lon="-5.28980145152432" lat="40.953285625531045">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463106UL0376S"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-5.307154461768406" lat="40.97934653095347">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700900UL03H"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-5.288827716005054" lat="40.953074543182744">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563001UL0376S"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-5.286990931039306" lat="40.95410611469034">
+  <tag k="addr:street" v="Calle Lagar"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664403UL0376S"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-5.287344636908519" lat="40.95412912898895">
+  <tag k="addr:street" v="Calle Nueva"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664401UL0376S"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-5.287358629095811" lat="40.953892967230885">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664611UL0376S"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-5.287860607513348" lat="40.95404295744084">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664601UL0376S"/>
+</node>
+<node id="-129" action="modify" visible="true" lon="-5.2885801358102045" lat="40.95247851183418">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563404UL0376S"/>
+</node>
+<node id="-147" action="modify" visible="true" lon="-5.288991475155195" lat="40.95380083302419">
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564606UL0376S"/>
+</node>
+<node id="-13" action="modify" visible="true" lon="-5.2888251804707656" lat="40.95282593521296">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562808UL0376S"/>
+</node>
+<node id="-161" action="modify" visible="true" lon="-5.28935636230542" lat="40.95204265719307">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562610UL0376S"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-5.290628936805338" lat="40.95500659397993">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7365002UL0376N"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-5.289348890563235" lat="40.954475201830405">
+  <tag k="addr:street" v="Calle de la Alegr&#237;a"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464202UL0376S"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-5.3076242981926205" lat="40.97976604692904">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600400UL03H"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-5.286242948586222" lat="40.954040869548386">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663223UL0376S"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-5.289023215066509" lat="40.95301348358199">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563602UL0376S"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-5.287523026602618" lat="40.95412026314315">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664609UL0376S"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-5.2878174111095175" lat="40.9530879592491">
+  <tag k="addr:street" v="Calle Empedrada"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563411UL0376S"/>
+</node>
+<node id="-136" action="modify" visible="true" lon="-5.287440846519129" lat="40.952043563192305">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662707UL0376S"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-5.288519650530613" lat="40.95413721412059">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564306UL0376S"/>
+</node>
+<node id="-154" action="modify" visible="true" lon="-5.2898194922181245" lat="40.95323499683042">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463503UL0376S"/>
+</node>
+<node id="-127" action="modify" visible="true" lon="-5.28942999930162" lat="40.95232922575875">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562601UL0376S"/>
+</node>
+<node id="-132" action="modify" visible="true" lon="-5.288337135389431" lat="40.952492864189345">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662703UL0376S"/>
+</node>
+<node id="-142" action="modify" visible="true" lon="-5.289194127480216" lat="40.953105385691764">
+  <tag k="addr:street" v="Calle Buenavista"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563603UL0376S"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-5.289646848246574" lat="40.953800801404185">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463112UL0376S"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-5.307320742045355" lat="40.97940120796848">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600600UL03H"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-5.290133893857992" lat="40.95258350202381">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7362203UL0376S"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-5.294517976799028" lat="40.95314335242175">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7063502UL0376S"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-5.2919748177919885" lat="40.95290320581244">
+  <tag k="addr:street" v="Camino Estaci&#243;n"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263401UL0376S"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-5.288402035404392" lat="40.954993839937">
+  <tag k="addr:street" v="Calle Econom&#237;a"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7565606UL0376N"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-5.289614172206651" lat="40.953749988077455">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463103UL0376S"/>
+</node>
+<node id="-53" action="modify" visible="true" lon="-5.306819745140237" lat="40.97974810982871">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000701000UL03H"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-5.289776678530066" lat="40.95271243818404">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463505UL0376S"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-5.286517914103412" lat="40.95400952315612">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7764704UL0376S"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-5.288024133714818" lat="40.95460712847072">
+  <tag k="addr:street" v="Calle Zamora"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564119UL0376S"/>
+</node>
+<node id="-162" action="modify" visible="true" lon="-5.290104751901191" lat="40.95321110193309">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463110UL0376S"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-5.2887858828311325" lat="40.9528611251397">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563402UL0376S"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-5.287565813411224" lat="40.95462510055727">
+  <tag k="addr:street" v="Calle Lagar"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664102UL0376S"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-5.288849462700562" lat="40.95417360369869">
+  <tag k="addr:street" v="Calle de la Alegr&#237;a"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564610UL0376S"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-5.307152154687708" lat="40.97985989954486">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700400UL03H"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-5.2891402830213705" lat="40.95294336173312">
+  <tag k="addr:street" v="Calle Pozo"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7563605UL0376S"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-5.287674645357951" lat="40.954114201500666">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664603UL0376S"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-5.287501197151593" lat="40.95283153030637">
+  <tag k="addr:street" v="Calle Empedrada"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663215UL0376S"/>
+</node>
+<node id="-134" action="modify" visible="true" lon="-5.2885407287284645" lat="40.95243436967235">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662702UL0376S"/>
+</node>
+<node id="-152" action="modify" visible="true" lon="-5.290100945103377" lat="40.9531701934593">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463501UL0376S"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-5.288648280581677" lat="40.954309606074105">
+  <tag k="addr:street" v="Calle Palomar"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564114UL0376S"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-5.3069803299627925" lat="40.9801576063042">
+  <tag k="addr:place" v="Finca Pedrazuela de San Bricio"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700200UL03H"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-5.288382869195239" lat="40.9549045632949">
+  <tag k="addr:street" v="Calle Econom&#237;a"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7565605UL0376N"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-5.288731977778941" lat="40.952652098187635">
+  <tag k="addr:street" v="Calle Ermita"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562810UL0376S"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-5.289373441305755" lat="40.95377962186077">
+  <tag k="addr:street" v="Calle Norte"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7464401UL0376S"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-5.287525570322752" lat="40.95375519742523">
+  <tag k="addr:street" v="Calle Salas"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7663217UL0376S"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-5.288323093568815" lat="40.954170770405334">
+  <tag k="addr:street" v="Calle Traviesa"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7564304UL0376S"/>
+</node>
+<node id="-123" action="modify" visible="true" lon="-5.288847424363626" lat="40.95239492261598">
+  <tag k="addr:street" v="Calle Pablo VI"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562605UL0376S"/>
+</node>
+<node id="-141" action="modify" visible="true" lon="-5.287280976036546" lat="40.95229416043081">
+  <tag k="addr:street" v="Calzada de Pe&#241;aranda"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7662708UL0376S"/>
+</node>
+<node id="-159" action="modify" visible="true" lon="-5.289193213100097" lat="40.95185990276267">
+  <tag k="addr:street" v="Calle Costanilla"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7562609UL0376S"/>
+</node>
+<node id="-143" action="modify" visible="true" lon="-5.2891387505154706" lat="40.953190674591625">
+  <tag k="addr:street" v="Calle Buenavista"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7463302UL0376S"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-5.287470634600116" lat="40.95453748977316">
+  <tag k="addr:street" v="Calle Lagar"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37320"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7664103UL0376S"/>
+</node>
+</osm>
