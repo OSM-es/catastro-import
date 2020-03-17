@@ -1,0 +1,91 @@
+Municipio: Massamagrell
+Nombre en Catastro: MASSAMAGRELL
+Código: 46166
+Fecha: 03/17/20
+Opciones: 46166
+Superficie: 5,9 km²
+Población: 15339 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Masamagrell
+Wikidata: https://www.wikidata.org/wiki/Q1313044
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.2.2
+Plataforma: Linux 4.14.154-boot2docker #1 SMP Thu Nov 14 19:19:08 UTC 2019 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 1
+Frecuencia de CPU: 0,0 Mhz
+Tiempo de ejecución: 975,0 segundos
+Memoria total: 989,47 MB
+Memoria física usada: 232,28 MB
+Memoria virtual usada: 1.054,15 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2019-10-25
+Número de características: 3.857
+  Tipo entrada: 2.934
+  Tipo parcela: 923
+Códigos postales: 3
+Nombres de viales: 199
+
+==Procesado==
+Direcciones eliminadas por nombre de vía: 75
+Direcciones sin número de portal eliminadas: 12
+Direcciones sin edificio asociado eliminadas: 362
+Direcciones correspondientes a edificios múltiples eliminadas: 774
+Direcciones tipo parcela no únicas para su edificio eliminadas: 555
+
+==Combinación==
+Direcciones OSM: 26
+Direcciones rechazadas por existir en OSM: 7
+
+==Datos de salida==
+Direcciones: 2.072
+  En nodos de entrada: 1.772
+  En edificios: 300
+  Tipo addr:street: 2.068
+  Tipo addr:place: 4
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2019-10-26
+Número de características: 10.654
+  Edificios: 2.557
+  Partes de edificios: 8.079
+  Piscinas: 18
+
+==Procesado==
+Partes fuera de contorno eliminadas: 39
+Partes bajo rasante eliminadas: 147
+Contornos de edificios creados: 4
+Edificios con geometrías multiparte: 493
+Edificios resultantes de dividir multipartes: 1.030
+Partes fusionadas al contorno: 3.564
+Partes adyacentes fusionadas: 73
+Geometrías no válidas eliminadas: 1
+Vértices en punta eliminados: 2
+Vértices próximos fusionados: 225
+Puntos topológicos creados: 3.061
+Vértices simplificados: 6.090
+
+==Combinación==
+Edificios/piscinas en OSM: 115
+  Con conflicto: 106
+
+==Datos de salida==
+Nodos: 33.036
+Vías: 7.821
+Relaciones: 335
+Número de características: 7.371
+  Edificios: 3.098
+  Partes de edificios: 4.255
+  Piscinas: 18
+    Sobre edificios: 2
+Recuento de tipos de edificios: industrial: 242, office: 10, residential: 2601, yes: 114, retail: 45, ruins: 2, public: 56, barn: 28
+Plantas sobre rasante (nivel: nº de edificios): 1: 524, 2: 1096, 3: 522, 4: 234, 5: 65, 6: 69, 7: 35, 8: 6, 9: 3, 10: 6
+Plantas bajo rasante (nivel: nº de edificios): 1: 132, 2: 1
+Archivos de tareas de rústica: 6
+Archivos de tareas de urbana: 200
