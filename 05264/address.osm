@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2019-10-26"/>
+</changeset>
+<node action="modify" id="-45" lat="40.8499876101" lon="-4.92136592675" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140515UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-43" lat="40.8499554045" lon="-4.92154138713" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140303UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-17" lat="40.8510166214" lon="-4.92120541234" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8142804UL3284S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-49" lat="40.8499947271" lon="-4.92122043219" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140513UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-19" lat="40.8506373018" lon="-4.92127724666" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141505UL3284S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-51" lat="40.8494097843" lon="-4.92205255355" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8040601UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-21" lat="40.8515423924" lon="-4.92115440412" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8142801UL3284S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-4" lat="40.8501920842" lon="-4.92042637964" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8240307UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-23" lat="40.8500446728" lon="-4.92170783339" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140310UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-55" lat="40.8500981679" lon="-4.92147345" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140302UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-25" lat="40.8497427477" lon="-4.92201593697" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140307UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-57" lat="40.8507411352" lon="-4.92162003195" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041603UL3284S"/>
+  <tag k="addr:street" v="Plaza Real"/>
+</node>
+<node action="modify" id="-27" lat="40.8499603576" lon="-4.92206986867" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8040403UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-59" lat="40.8508199008" lon="-4.9216024252" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8142807UL3284S"/>
+  <tag k="addr:street" v="Plaza Real"/>
+</node>
+<node action="modify" id="-29" lat="40.850386324" lon="-4.92080078236" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241101UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-61" lat="40.8505180611" lon="-4.92060695395" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241211UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-12" lat="40.8497131572" lon="-4.92155257844" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140201UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-31" lat="40.8497703901" lon="-4.9206410075" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140602UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-63" lat="40.8505145882" lon="-4.92035460249" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241209UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-53" lat="40.8503363149" lon="-4.92128008139" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141803UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-33" lat="40.849568793" lon="-4.92079542242" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140604UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-65" lat="40.8505825772" lon="-4.91991038055" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241606UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-47" lat="40.8500310274" lon="-4.92120197109" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140514UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-35" lat="40.8501914328" lon="-4.92079881256" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140506UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-6" lat="40.8508637232" lon="-4.92176613082" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041602UL3284S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-100" lat="40.8507361619" lon="-4.92065834705" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241216UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-92" lat="40.8510760106" lon="-4.92041277894" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241202UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-102" lat="40.8508493107" lon="-4.92072565429" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241217UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-95" lat="40.8506426261" lon="-4.9208033063" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241214UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-90" lat="40.8510986294" lon="-4.9205937982" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241201UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-104" lat="40.8506648294" lon="-4.9199516976" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241607UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-88" lat="40.8501899675" lon="-4.92104707106" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140504UL3284S"/>
+  <tag k="addr:street" v="Calle del Azafranal"/>
+</node>
+<node action="modify" id="-2" lat="40.8499884317" lon="-4.92054774115" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8240305UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-106" lat="40.8507065718" lon="-4.91981733645" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241601UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-86" lat="40.8501724249" lon="-4.92113691621" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140502UL3284S"/>
+  <tag k="addr:street" v="Calle del Azafranal"/>
+</node>
+<node action="modify" id="-108" lat="40.8507567519" lon="-4.91943665734" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241602UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-70" lat="40.8505217875" lon="-4.92093528357" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141502UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-84" lat="40.8510124673" lon="-4.92101330556" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141501UL3284S"/>
+  <tag k="addr:street" v="Traves&#237;a de la Iglesia 1"/>
+</node>
+<node action="modify" id="-110" lat="40.8510118933" lon="-4.91994968658" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242803UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-82" lat="40.8505558284" lon="-4.92187358272" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041607UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-97" lat="40.851128568" lon="-4.92067025699" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242209UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-80" lat="40.850567661" lon="-4.92182188721" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041606UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-78" lat="40.850484311" lon="-4.9217463725" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041605UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-1" lat="40.8501666678" lon="-4.92065579055" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241104UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-76" lat="40.8503693708" lon="-4.92214023537" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041611UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-74" lat="40.8504050664" lon="-4.92182083498" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041609UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-5" lat="40.8502020796" lon="-4.92039005654" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8240308UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-14" lat="40.849557739" lon="-4.92134529948" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140203UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-13" lat="40.8496338298" lon="-4.92144441248" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140202UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-68" lat="40.8506861093" lon="-4.921006368" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141503UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-15" lat="40.8490924887" lon="-4.9208421621" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8139501UL3283N"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-36" lat="40.8490695647" lon="-4.92062882282" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140702UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-7" lat="40.8509200123" lon="-4.92180625835" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041601UL3284S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-38" lat="40.8501203141" lon="-4.92077455525" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140507UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-40" lat="40.8500499611" lon="-4.92075319641" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140508UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-10" lat="40.8492361542" lon="-4.92113852915" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8139505UL3283N"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-44" lat="40.8501640068" lon="-4.92121844183" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140501UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-91" lat="40.8515173165" lon="-4.9203589814" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242204UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-3" lat="40.850144467" lon="-4.92055588816" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8240306UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-46" lat="40.849536696" lon="-4.92190906961" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140305UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-48" lat="40.8494849677" lon="-4.92196403195" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8040602UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-18" lat="40.8516405145" lon="-4.92099852663" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242211UL3284S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-50" lat="40.8504529398" lon="-4.92130778716" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141802UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-20" lat="40.8518379733" lon="-4.92038260402" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242201UL3284S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-52" lat="40.8498263138" lon="-4.92148457248" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140510UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-22" lat="40.850064021" lon="-4.92167662252" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140311UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-54" lat="40.8501639779" lon="-4.92137955369" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141804UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-24" lat="40.8500182232" lon="-4.92176153707" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140309UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-56" lat="40.8505375921" lon="-4.92156082957" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041604UL3284S"/>
+  <tag k="addr:street" v="Plaza Real"/>
+</node>
+<node action="modify" id="-26" lat="40.8495844631" lon="-4.92206726478" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140306UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-58" lat="40.8508108345" lon="-4.92166676796" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8142808UL3284S"/>
+  <tag k="addr:street" v="Plaza Real"/>
+</node>
+<node action="modify" id="-28" lat="40.8500771586" lon="-4.92220897167" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8040402UL3284S"/>
+  <tag k="addr:street" v="Plaza del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-60" lat="40.8504909353" lon="-4.92119060675" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141504UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-30" lat="40.8498685964" lon="-4.92069418425" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140601UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-62" lat="40.850512457" lon="-4.9204442908" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241210UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-32" lat="40.8496743213" lon="-4.92059706206" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140603UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-64" lat="40.8505275614" lon="-4.92014838129" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241208UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-34" lat="40.849257104" lon="-4.92047208044" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140701UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-72" lat="40.8505136096" lon="-4.92073823486" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241213UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-66" lat="40.8503920975" lon="-4.9212114083" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141701UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-99" lat="40.8512393636" lon="-4.92060364055" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242208UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-93" lat="40.8508482498" lon="-4.92035100948" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241205UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-101" lat="40.8513160063" lon="-4.92055617657" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242207UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-8" lat="40.8511900242" lon="-4.92186709948" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8142810UL3284S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-103" lat="40.8510662543" lon="-4.91979241353" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241501UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-89" lat="40.8501814381" lon="-4.92109416932" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140503UL3284S"/>
+  <tag k="addr:street" v="Calle del Azafranal"/>
+</node>
+<node action="modify" id="-105" lat="40.8507326208" lon="-4.91999809245" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241206UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-87" lat="40.8501965364" lon="-4.92099948038" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140505UL3284S"/>
+  <tag k="addr:street" v="Calle del Azafranal"/>
+</node>
+<node action="modify" id="-107" lat="40.850828004" lon="-4.92001432704" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241204UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-96" lat="40.8515256957" lon="-4.92008901585" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242901UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-85" lat="40.8510520496" lon="-4.92097094521" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242210UL3284S"/>
+  <tag k="addr:street" v="Traves&#237;a de la Iglesia 1"/>
+</node>
+<node action="modify" id="-42" lat="40.850049484" lon="-4.92153895181" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140312UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+<node action="modify" id="-109" lat="40.8509094883" lon="-4.91998529534" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241203UL3284S"/>
+  <tag k="addr:street" v="Calle de la Paloma"/>
+</node>
+<node action="modify" id="-83" lat="40.8505398427" lon="-4.9219297981" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041608UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-81" lat="40.8502669202" lon="-4.92166638429" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140301UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-79" lat="40.850304121" lon="-4.92154190522" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141805UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-77" lat="40.8503558002" lon="-4.92227994421" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041612UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-98" lat="40.8506941742" lon="-4.92079529103" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241215UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-75" lat="40.8503308052" lon="-4.92199137011" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8041610UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Nuevo"/>
+</node>
+<node action="modify" id="-73" lat="40.8504424913" lon="-4.92045189937" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241103UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-71" lat="40.8504479038" lon="-4.9205977958" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241102UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-69" lat="40.8504011568" lon="-4.9211125128" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141702UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-94" lat="40.8518320421" lon="-4.92012529458" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8242202UL3284S"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-11" lat="40.8492226377" lon="-4.92126982584" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8140204UL3284S"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-67" lat="40.850550754" lon="-4.91986731179" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8241605UL3284S"/>
+  <tag k="addr:street" v="Camino de Albornos"/>
+</node>
+<node action="modify" id="-16" lat="40.8517335484" lon="-4.92123971323" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8143801UL3284S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-37" lat="40.8499345677" lon="-4.92065098875" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8240304UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-39" lat="40.8497131721" lon="-4.92055240055" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8240303UL3284S"/>
+  <tag k="addr:street" v="Calle de Cantarranas"/>
+</node>
+<node action="modify" id="-9" lat="40.848961376" lon="-4.92097576431" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8139503UL3283N"/>
+  <tag k="addr:street" v="Calle del Barrio Perche"/>
+</node>
+<node action="modify" id="-41" lat="40.8502886794" lon="-4.9212196265" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="05309"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8141704UL3284S"/>
+  <tag k="addr:street" v="Calle del Cristo"/>
+</node>
+</osm>
