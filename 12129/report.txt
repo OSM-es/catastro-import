@@ -1,0 +1,93 @@
+Municipio: Vilafranca / Villafranca del Cid
+Nombre en Catastro: VILAFRANCA/VILLAFRANCA DEL CID
+Código: 12129
+Fecha: 04/01/20
+Opciones: 12129
+Superficie: 93,8 km²
+Población: 2540 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Villafranca del Cid
+Wikidata: https://www.wikidata.org/wiki/Q537017
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.2.2
+Plataforma: Linux 4.14.154-boot2docker #1 SMP Thu Nov 14 19:19:08 UTC 2019 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 1
+Frecuencia de CPU: 0,0 Mhz
+Tiempo de ejecución: 216,0 segundos
+Memoria total: 989,47 MB
+Memoria física usada: 282,27 MB
+Memoria virtual usada: 1.103,55 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2019-10-26
+Número de características: 3.235
+  Tipo entrada: 2.024
+  Tipo parcela: 1.211
+Códigos postales: 1
+Nombres de viales: 160
+
+==Procesado==
+Direcciones eliminadas por nombre de vía: 753
+Direcciones sin número de portal eliminadas: 85
+Direcciones sin edificio asociado eliminadas: 244
+Direcciones correspondientes a edificios múltiples eliminadas: 146
+Direcciones tipo parcela no únicas para su edificio eliminadas: 71
+
+==Combinación==
+Direcciones OSM: 10
+Direcciones rechazadas por existir en OSM: 7
+
+==Datos de salida==
+Direcciones: 1.929
+  En nodos de entrada: 1.493
+  En edificios: 436
+  Tipo addr:street: 1.925
+  Tipo addr:place: 4
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2019-10-26
+Número de características: 8.545
+  Edificios: 2.851
+  Partes de edificios: 5.683
+  Piscinas: 11
+
+==Procesado==
+Partes fuera de contorno eliminadas: 13
+Partes bajo rasante eliminadas: 49
+Contornos de edificios creados: 2
+Edificios con geometrías multiparte: 285
+Edificios resultantes de dividir multipartes: 658
+Partes fusionadas al contorno: 3.714
+Partes adyacentes fusionadas: 285
+Vértices en punta eliminados: 2
+Vértices próximos fusionados: 21
+Puntos topológicos creados: 432
+Vértices simplificados: 5.284
+
+==Combinación==
+Edificios/piscinas en OSM: 49
+  Con conflicto: 36
+
+==Datos de salida==
+Nodos: 17.337
+Vías: 4.871
+Relaciones: 16
+Número de características: 4.859
+  Edificios: 3.226
+  Partes de edificios: 1.622
+  Piscinas: 11
+Recuento de tipos de edificios: industrial: 623, office: 1, residential: 1718, yes: 266, retail: 19, ruins: 2, public: 30, barn: 567
+Plantas sobre rasante (nivel: nº de edificios): 1: 845, 2: 564, 3: 661, 4: 606, 5: 147, 6: 20, 7: 3
+Plantas bajo rasante (nivel: nº de edificios): 1: 174, 2: 17, 3: 3
+Archivos de tareas de rústica: 29
+Archivos de tareas de urbana: 221
+
+=Problemas=
+Correcciones (fixmes): 1
+  Comprobar, área demasiado grande: 1

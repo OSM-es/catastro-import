@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.2 b688b00f">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-04-01T09:46:03Z" areas="2020-04-01T08:23:02Z"/>
+
+  <node id="287004167" lat="40.4320280" lon="-0.2514440" version="8" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Avinguda de Castelló"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Estación de servicio Cepsa"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+    <tag k="operator" v="Cepsa"/>
+    <tag k="source" v="mityc 20100729"/>
+  </node>
+  <node id="1241169232" lat="40.4294372" lon="-0.2548834" version="1" timestamp="2011-04-11T18:19:53Z" changeset="7835867" uid="24070" user="Antonio Eugenio Burriel"/>
+  <node id="1241169522" lat="40.4295489" lon="-0.2547249" version="1" timestamp="2011-04-11T18:20:07Z" changeset="7835867" uid="24070" user="Antonio Eugenio Burriel"/>
+  <node id="1241169552" lat="40.4279004" lon="-0.2565433" version="2" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Avinguda de Castelló"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Caixabank"/>
+    <tag k="brand:wikidata" v="Q847225"/>
+    <tag k="brand:wikipedia" v="en:CaixaBank"/>
+    <tag k="name" v="Caixabank"/>
+  </node>
+  <node id="1241169569" lat="40.4297172" lon="-0.2548824" version="1" timestamp="2011-04-11T18:20:09Z" changeset="7835867" uid="24070" user="Antonio Eugenio Burriel"/>
+  <node id="1241169589" lat="40.4295995" lon="-0.2550625" version="1" timestamp="2011-04-11T18:20:11Z" changeset="7835867" uid="24070" user="Antonio Eugenio Burriel"/>
+  <node id="1241169604" lat="40.4279627" lon="-0.2564504" version="3" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Avinguda de Castelló"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="brand" v="Oficina de Correos"/>
+    <tag k="brand:wikidata" v="Q776605"/>
+    <tag k="brand:wikipedia" v="es:Correos (España)"/>
+    <tag k="name" v="Oficina de Correos"/>
+    <tag k="operator" v="Correos"/>
+  </node>
+  <node id="1244314977" lat="40.4277539" lon="-0.2582178" version="3" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Avinguda del Llosar"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="name" v="Oficinas municipales de Villafranca del Cid"/>
+  </node>
+  <node id="5451978458" lat="40.4292139" lon="-0.2572472" version="1" timestamp="2018-03-03T19:54:31Z" changeset="56855989" uid="94270" user="Ivan Garcia"/>
+  <node id="5451978459" lat="40.4293201" lon="-0.2570850" version="1" timestamp="2018-03-03T19:54:31Z" changeset="56855989" uid="94270" user="Ivan Garcia"/>
+  <node id="5451978460" lat="40.4293761" lon="-0.2574411" version="1" timestamp="2018-03-03T19:54:31Z" changeset="56855989" uid="94270" user="Ivan Garcia"/>
+  <node id="5451978461" lat="40.4294566" lon="-0.2571589" version="1" timestamp="2018-03-03T19:54:31Z" changeset="56855989" uid="94270" user="Ivan Garcia">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="5451978462" lat="40.4294690" lon="-0.2573141" version="1" timestamp="2018-03-03T19:54:31Z" changeset="56855989" uid="94270" user="Ivan Garcia"/>
+  <node id="5451978463" lat="40.4295301" lon="-0.2571987" version="1" timestamp="2018-03-03T19:54:31Z" changeset="56855989" uid="94270" user="Ivan Garcia"/>
+  <node id="6983029848" lat="40.4310177" lon="-0.2536717" version="2" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Carrer Portell"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="name" v="Centre de Salud"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6983039554" lat="40.4318909" lon="-0.2622760" version="1" timestamp="2019-11-16T17:16:35Z" changeset="77170356" uid="3072368" user="Aghus"/>
+  <node id="6983039555" lat="40.4321172" lon="-0.2617500" version="1" timestamp="2019-11-16T17:16:35Z" changeset="77170356" uid="3072368" user="Aghus"/>
+  <node id="6983039556" lat="40.4338615" lon="-0.2629879" version="1" timestamp="2019-11-16T17:16:35Z" changeset="77170356" uid="3072368" user="Aghus"/>
+  <node id="6983039557" lat="40.4335157" lon="-0.2638491" version="1" timestamp="2019-11-16T17:16:35Z" changeset="77170356" uid="3072368" user="Aghus"/>
+  <node id="6983039558" lat="40.4319399" lon="-0.2624840" version="1" timestamp="2019-11-16T17:16:35Z" changeset="77170356" uid="3072368" user="Aghus"/>
+  <node id="6983039559" lat="40.4319849" lon="-0.2623468" version="1" timestamp="2019-11-16T17:16:35Z" changeset="77170356" uid="3072368" user="Aghus"/>
+  <node id="6983299305" lat="40.4263877" lon="-0.2572497" version="2" timestamp="2019-12-11T17:42:15Z" changeset="78274123" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Cajamar"/>
+    <tag k="brand:wikidata" v="Q8254971"/>
+    <tag k="brand:wikipedia" v="es:Cajamar"/>
+    <tag k="name" v="Cajamar"/>
+  </node>
+  <node id="6983299306" lat="40.4269702" lon="-0.2579646" version="2" timestamp="2019-12-11T17:42:15Z" changeset="78274123" uid="3072368" user="Aghus">
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Plaça Blasc d'Aragó"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Santander"/>
+    <tag k="brand:wikidata" v="Q5835668"/>
+    <tag k="brand:wikipedia" v="en:Santander Bank"/>
+    <tag k="name" v="Santander"/>
+  </node>
+  <way id="108142464" version="2" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <nd ref="1241169522"/>
+    <nd ref="1241169569"/>
+    <nd ref="1241169589"/>
+    <nd ref="1241169232"/>
+    <nd ref="1241169522"/>
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Avinguda de Castelló"/>
+    <tag k="amenity" v="library"/>
+    <tag k="name" v="Casa de Cultura de Villafranca del Cid"/>
+  </way>
+  <way id="566195886" version="2" timestamp="2019-11-16T19:41:01Z" changeset="77173450" uid="3072368" user="Aghus">
+    <nd ref="5451978463"/>
+    <nd ref="5451978462"/>
+    <nd ref="5451978460"/>
+    <nd ref="5451978458"/>
+    <nd ref="5451978459"/>
+    <nd ref="5451978461"/>
+    <nd ref="5451978463"/>
+    <tag k="addr:city" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Carrer Joan Pau Climent"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Consum Charter"/>
+    <tag k="operator" v="Consum"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="746193554" version="2" timestamp="2019-11-16T21:23:42Z" changeset="77175563" uid="3072368" user="Aghus">
+    <nd ref="6983039554"/>
+    <nd ref="6983039555"/>
+    <nd ref="6983039556"/>
+    <nd ref="6983039557"/>
+    <nd ref="6983039558"/>
+    <nd ref="6983039559"/>
+    <nd ref="6983039554"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:postcode" v="12150"/>
+    <tag k="addr:street" v="Avinguda del Llosar"/>
+    <tag k="building" v="yes"/>
+    <tag k="craft" v="sawmill"/>
+    <tag k="name" v="Hijos de Rafael Herrero"/>
+  </way>
+  <area id="3600341841">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Vilafranca/Villafranca del Cid"/>
+    <tag k="ine:municipio" v="12129"/>
+    <tag k="name" v="Vilafranca / Villafranca del Cid"/>
+    <tag k="name:ca" v="Vilafranca"/>
+    <tag k="name:es" v="Villafranca del Cid"/>
+    <tag k="population" v="2540"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q537017"/>
+    <tag k="wikipedia" v="es:Villafranca del Cid"/>
+  </area>
+
+</osm>
