@@ -1,0 +1,1529 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-164" lat="41.0072717385" lon="-5.58271155572" visible="true">
+  <tag k="addr:housenumber" v="112"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930606TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-103" lat="41.0077507893" lon="-5.58946082134" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2330408TL8423S"/>
+  <tag k="addr:street" v="Calle Avila"/>
+</node>
+<node action="modify" id="-50" lat="41.0075630062" lon="-5.58215448065" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930306TL8423S"/>
+  <tag k="addr:street" v="Calle las Cortinas"/>
+</node>
+<node action="modify" id="-131" lat="41.0067400212" lon="-5.58653346175" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529013TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-105" lat="41.0085380698" lon="-5.58786703987" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2431912TL8423S"/>
+  <tag k="addr:street" v="Calle Avila"/>
+</node>
+<node action="modify" id="-2" lat="41.0068674926" lon="-5.58232951888" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929207TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-107" lat="41.007073772" lon="-5.58864238226" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430216TL8423S"/>
+  <tag k="addr:street" v="Calle Valladolid"/>
+</node>
+<node action="modify" id="-54" lat="41.0066121468" lon="-5.58298746721" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930504TL8423S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-109" lat="41.0071531593" lon="-5.588739243" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430214TL8423S"/>
+  <tag k="addr:street" v="Calle Valladolid"/>
+</node>
+<node action="modify" id="-56" lat="41.006745422" lon="-5.58308875792" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930616TL8423S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-25" lat="41.0078052291" lon="-5.5846723533" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831513TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-3" lat="41.0068815547" lon="-5.58227846022" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929208TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-111" lat="41.0072329018" lon="-5.58883641763" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430212TL8423S"/>
+  <tag k="addr:street" v="Calle Valladolid"/>
+</node>
+<node action="modify" id="-58" lat="41.0066689834" lon="-5.58323944927" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930501TL8423S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-27" lat="41.0077315896" lon="-5.58460559235" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830811TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-4" lat="41.0069043148" lon="-5.58219554421" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929209TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-113" lat="41.0072926295" lon="-5.58350297279" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830204TL8423S"/>
+  <tag k="addr:street" v="Calle de la Charca Grande"/>
+</node>
+<node action="modify" id="-154" lat="41.0078790816" lon="-5.58049006737" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3130401TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-60" lat="41.0068090666" lon="-5.58539022045" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629504TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-29" lat="41.0076753724" lon="-5.58517934737" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831516TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-62" lat="41.0067462667" lon="-5.58549952932" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629502TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-31" lat="41.0074082773" lon="-5.58544319865" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629510TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-116" lat="41.0068032606" lon="-5.5867721953" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529010TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-64" lat="41.0070252403" lon="-5.58513771841" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629509TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-33" lat="41.0073832588" lon="-5.58558649165" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629512TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-187" lat="41.0087605107" lon="-5.58055100062" visible="true">
+  <tag k="addr:housenumber" v="102"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131107TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-8" lat="41.0069617913" lon="-5.58198621754" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929212TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-185" lat="41.0078458467" lon="-5.58219978067" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030802TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-66" lat="41.0069551179" lon="-5.58526629829" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629507TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-35" lat="41.0073715545" lon="-5.58565332353" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629513TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-86" lat="41.0082992486" lon="-5.58815769284" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2431909TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-94" lat="41.0075292615" lon="-5.5888195284" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430227TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-37" lat="41.0073474442" lon="-5.58579110512" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629515TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-82" lat="41.0051174124" lon="-5.58873768445" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2327504TL8422N"/>
+  <tag k="addr:street" v="Calle Palencia"/>
+</node>
+<node action="modify" id="-120" lat="41.006939666" lon="-5.58677634479" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529008TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-125" lat="41.0075981243" lon="-5.58810237487" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430209TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-70" lat="41.0083741293" lon="-5.58130496684" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031301TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-39" lat="41.0073236002" lon="-5.58592714217" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629517TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-12" lat="41.0078865067" lon="-5.58227835873" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931407TL8423S"/>
+  <tag k="addr:street" v="Plaza Grande"/>
+</node>
+<node action="modify" id="-138" lat="41.0046181365" lon="-5.5907378043" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227617TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-72" lat="41.0081182251" lon="-5.58107756308" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131702TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-41" lat="41.0073494172" lon="-5.58611940461" visible="true">
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629519TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-23" lat="41.0078363101" lon="-5.58456810417" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831519TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-74" lat="41.0079783378" lon="-5.58097399042" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131602TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-144" lat="41.0077811317" lon="-5.58138584481" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031509TL8433S"/>
+  <tag k="addr:street" v="Calle Armu&#241;a"/>
+</node>
+<node action="modify" id="-75" lat="41.0079299233" lon="-5.58093729886" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131603TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-15" lat="41.0074141544" lon="-5.58283256297" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930104TL8423S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-208" lat="41.0087243619" lon="-5.58072211947" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131109TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-200" lat="41.0087540269" lon="-5.58157385308" visible="true">
+  <tag k="addr:housenumber" v="149"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032507TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-146" lat="41.0081573922" lon="-5.58204049636" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031705TL8433S"/>
+  <tag k="addr:street" v="Traves&#237;a Constituci&#243;n"/>
+</node>
+<node action="modify" id="-178" lat="41.0081262348" lon="-5.58178620232" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031707TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-170" lat="41.006639803" lon="-5.58268304549" visible="true">
+  <tag k="addr:housenumber" v="151"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929206TL8422N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-210" lat="41.0074958656" lon="-5.58428859357" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830805TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-88" lat="41.0077528595" lon="-5.58849999283" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430221TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-101" lat="41.007917951" lon="-5.58842050598" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430218TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-79" lat="41.0083043353" lon="-5.58195947984" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031704TL8433S"/>
+  <tag k="addr:street" v="Plaza Chica"/>
+</node>
+<node action="modify" id="-180" lat="41.0080683502" lon="-5.58190889842" visible="true">
+  <tag k="addr:housenumber" v="76"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031706TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-212" lat="41.0084363556" lon="-5.58250372115" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931303TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-135" lat="41.0047523527" lon="-5.59052096768" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227611TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-150" lat="41.0109820877" lon="-5.58226544395" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3034701TL8433S"/>
+  <tag k="addr:street" v="Camino de la Estaci&#243;n"/>
+</node>
+<node action="modify" id="-182" lat="41.0080616208" lon="-5.58183804483" visible="true">
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031501TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-214" lat="41.0084913183" lon="-5.58239035277" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931302TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-152" lat="41.0080057081" lon="-5.58052724251" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131606TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-184" lat="41.0078880666" lon="-5.58213868618" visible="true">
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030804TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-176" lat="41.0081611508" lon="-5.58171217873" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031703TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-216" lat="41.0085753226" lon="-5.58212326891" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931301TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-61" lat="41.0068306714" lon="-5.58549433711" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629503TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-20" lat="41.0079180097" lon="-5.58419231448" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831509TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-84" lat="41.0051029313" lon="-5.5893542269" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2327507TL8422N"/>
+  <tag k="addr:street" v="Calle Le&#243;n"/>
+</node>
+<node action="modify" id="-186" lat="41.007787399" lon="-5.58366007256" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830201TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-183" lat="41.0079356302" lon="-5.58205929812" visible="true">
+  <tag k="addr:housenumber" v="93"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030805TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-202" lat="41.0088594199" lon="-5.58123316695" visible="true">
+  <tag k="addr:housenumber" v="165"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032505TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-156" lat="41.0075659172" lon="-5.58096262841" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3130802TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-188" lat="41.0084968592" lon="-5.58269805535" visible="true">
+  <tag k="addr:housenumber" v="103"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2932502TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-220" lat="41.0086532187" lon="-5.58103902683" visible="true">
+  <tag k="addr:housenumber" v="86"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131801TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-173" lat="41.0085411018" lon="-5.58028336973" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131105TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-87" lat="41.0078498938" lon="-5.58851914454" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430220TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-98" lat="41.0073825626" lon="-5.58902905379" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430231TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-222" lat="41.0086919437" lon="-5.58087332103" visible="true">
+  <tag k="addr:housenumber" v="92"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131804TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-134" lat="41.0073598661" lon="-5.58781172058" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430203TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-160" lat="41.0074139493" lon="-5.58144230107" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030205TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-192" lat="41.0087406471" lon="-5.58233019152" visible="true">
+  <tag k="addr:housenumber" v="115"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032514TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-5" lat="41.0068676662" lon="-5.58264965831" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929201TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-162" lat="41.0077361699" lon="-5.582319786" visible="true">
+  <tag k="addr:housenumber" v="101"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030803TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-194" lat="41.0088583632" lon="-5.57996596304" visible="true">
+  <tag k="addr:housenumber" v="126"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131101TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-155" lat="41.0076521623" lon="-5.58078910812" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3130801TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-91" lat="41.0076986097" lon="-5.58873413768" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430224TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-196" lat="41.0086976283" lon="-5.58197734376" visible="true">
+  <tag k="addr:housenumber" v="131"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032511TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-201" lat="41.008792813" lon="-5.58142002823" visible="true">
+  <tag k="addr:housenumber" v="161"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032506TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-148" lat="41.0084054627" lon="-5.58179292938" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031105TL8433S"/>
+  <tag k="addr:street" v="Traves&#237;a Constituci&#243;n"/>
+</node>
+<node action="modify" id="-117" lat="41.0074393176" lon="-5.58790863917" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430205TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-166" lat="41.0071903774" lon="-5.58280241729" visible="true">
+  <tag k="addr:housenumber" v="120"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930608TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-198" lat="41.0087153792" lon="-5.58181166062" visible="true">
+  <tag k="addr:housenumber" v="139"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032515TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-161" lat="41.0073194212" lon="-5.58170325837" visible="true">
+  <tag k="addr:housenumber" v="88"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030204TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-9" lat="41.0068988605" lon="-5.58250325447" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929203TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-153" lat="41.0079776779" lon="-5.58060137331" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131607TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-168" lat="41.0070848528" lon="-5.58264812392" visible="true">
+  <tag k="addr:housenumber" v="137"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930402TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-129" lat="41.0076778901" lon="-5.58819960846" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430211TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-52" lat="41.008163242" lon="-5.5825361616" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931404TL8423S"/>
+  <tag k="addr:street" v="Calle del Parque"/>
+</node>
+<node action="modify" id="-95" lat="41.00755236" lon="-5.58894552221" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430228TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-142" lat="41.0050946759" lon="-5.59069453504" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227608TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-121" lat="41.0075188999" lon="-5.58800569254" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430207TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-172" lat="41.0064844111" lon="-5.58275591696" visible="true">
+  <tag k="addr:housenumber" v="155"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929204TL8422N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-204" lat="41.0089399899" lon="-5.58086356774" visible="true">
+  <tag k="addr:housenumber" v="181"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032503TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-13" lat="41.0078659015" lon="-5.58248975739" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930107TL8423S"/>
+  <tag k="addr:street" v="Plaza Grande"/>
+</node>
+<node action="modify" id="-68" lat="41.0083005729" lon="-5.58144194279" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031003TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-174" lat="41.0083893033" lon="-5.58060225496" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131112TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-206" lat="41.0089546648" lon="-5.58045701074" visible="true">
+  <tag k="addr:housenumber" v="199"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032501TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-43" lat="41.0069653557" lon="-5.58332986151" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930618TL8423S"/>
+  <tag k="addr:street" v="Calle de la Ace&#241;a"/>
+</node>
+<node action="modify" id="-92" lat="41.007603522" lon="-5.58871333078" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430225TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-45" lat="41.0083290433" lon="-5.58180437045" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031701TL8433S"/>
+  <tag k="addr:street" v="Calle del Matadero"/>
+</node>
+<node action="modify" id="-126" lat="41.0070163348" lon="-5.58701417089" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529005TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-16" lat="41.0073532304" lon="-5.58314661106" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930602TL8423S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-218" lat="41.0080280677" lon="-5.58371518284" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831508TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-47" lat="41.0073139947" lon="-5.58255118397" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930302TL8423S"/>
+  <tag k="addr:street" v="Traves&#237;a de Traviesa"/>
+</node>
+<node action="modify" id="-139" lat="41.0047114033" lon="-5.58993071256" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227603TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-102" lat="41.0080080256" lon="-5.5891897571" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2330410TL8423S"/>
+  <tag k="addr:street" v="Calle Avila"/>
+</node>
+<node action="modify" id="-104" lat="41.0072372529" lon="-5.59021935543" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2330609TL8423S"/>
+  <tag k="addr:street" v="Calle Avila"/>
+</node>
+<node action="modify" id="-106" lat="41.0069971142" lon="-5.58864352967" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430217TL8423S"/>
+  <tag k="addr:street" v="Calle Valladolid"/>
+</node>
+<node action="modify" id="-21" lat="41.0079085419" lon="-5.58426507243" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831510TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-22" lat="41.0078787021" lon="-5.58442916406" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831512TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-108" lat="41.0071133669" lon="-5.58869066745" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430215TL8423S"/>
+  <tag k="addr:street" v="Calle Valladolid"/>
+</node>
+<node action="modify" id="-207" lat="41.0072129462" lon="-5.58479807821" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830808TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-55" lat="41.00661268" lon="-5.58305668192" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930503TL8423S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-24" lat="41.007775314" lon="-5.58448059756" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830810TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-190" lat="41.0085389752" lon="-5.58258268333" visible="true">
+  <tag k="addr:housenumber" v="111"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2932503TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-110" lat="41.0071926375" lon="-5.58878730021" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430213TL8423S"/>
+  <tag k="addr:street" v="Calle Valladolid"/>
+</node>
+<node action="modify" id="-136" lat="41.0046149588" lon="-5.5901822019" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227613TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-57" lat="41.006613223" lon="-5.58312762173" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930502TL8423S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-26" lat="41.0077519844" lon="-5.58479704482" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831514TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-141" lat="41.0049582458" lon="-5.59042107862" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227606TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-112" lat="41.0083094407" lon="-5.58262587699" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931305TL8423S"/>
+  <tag k="addr:street" v="Calle de la Charca Grande"/>
+</node>
+<node action="modify" id="-59" lat="41.0068922007" lon="-5.58538143001" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629505TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-28" lat="41.0077086876" lon="-5.58502891889" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831515TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-114" lat="41.0067595399" lon="-5.58671769325" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529011TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-69" lat="41.0083446954" lon="-5.58105021288" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131806TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-30" lat="41.0076562773" lon="-5.58527250238" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831517TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-6" lat="41.0069198978" lon="-5.58213882216" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929210TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-63" lat="41.0067668172" lon="-5.5856112146" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629501TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-32" lat="41.0073954393" lon="-5.58551669596" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629511TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-167" lat="41.0068864485" lon="-5.58281149664" visible="true">
+  <tag k="addr:housenumber" v="134"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930615TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-209" lat="41.0074053439" lon="-5.58439458672" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830806TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-65" lat="41.0069387476" lon="-5.58517033492" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629508TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-34" lat="41.0076030682" lon="-5.58578178648" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2730801TL8423S"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-133" lat="41.0067796354" lon="-5.5865816064" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529012TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-118" lat="41.0068386643" lon="-5.58681602773" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529009TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-67" lat="41.0068756019" lon="-5.58527499361" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629506TL8422N"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-36" lat="41.0073594539" lon="-5.58572246224" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629514TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-10" lat="41.0069738207" lon="-5.58252655102" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930404TL8423S"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-49" lat="41.0072994064" lon="-5.58242663216" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930303TL8423S"/>
+  <tag k="addr:street" v="Traves&#237;a de Traviesa"/>
+</node>
+<node action="modify" id="-38" lat="41.0073355232" lon="-5.58585909565" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629516TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-71" lat="41.0081545136" lon="-5.58124833463" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031505TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-40" lat="41.0073116037" lon="-5.58599582302" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2629518TL8422N"/>
+  <tag k="addr:street" v="Calle de Los Villares"/>
+</node>
+<node action="modify" id="-122" lat="41.0069181993" lon="-5.58691211943" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529007TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-73" lat="41.0085337459" lon="-5.58109450361" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131805TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-77" lat="41.0086021122" lon="-5.5815614248" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031103TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-42" lat="41.0069702965" lon="-5.5834593361" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930612TL8423S"/>
+  <tag k="addr:street" v="Calle de la Ace&#241;a"/>
+</node>
+<node action="modify" id="-14" lat="41.0079459486" lon="-5.58237524449" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931406TL8423S"/>
+  <tag k="addr:street" v="Plaza Grande"/>
+</node>
+<node action="modify" id="-96" lat="41.0074589864" lon="-5.58891988585" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430229TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-130" lat="41.0066169162" lon="-5.58654315707" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529014TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-99" lat="41.0074092613" lon="-5.58914894403" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430232TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-224" lat="41.0084676729" lon="-5.5827910586" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2932501TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-76" lat="41.0077448777" lon="-5.58086504678" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030201TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-177" lat="41.0081541712" lon="-5.5815408361" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031504TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-217" lat="41.008582108" lon="-5.58199204385" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031101TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-143" lat="41.0078545395" lon="-5.58137937069" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031508TL8433S"/>
+  <tag k="addr:street" v="Calle Armu&#241;a"/>
+</node>
+<node action="modify" id="-78" lat="41.0084301975" lon="-5.58154615012" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031001TL8433S"/>
+  <tag k="addr:street" v="Calle de la Charca Chica"/>
+</node>
+<node action="modify" id="-17" lat="41.0073538107" lon="-5.583061705" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930603TL8423S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-175" lat="41.0082265135" lon="-5.58088965687" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131701TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-211" lat="41.0078151907" lon="-5.58365203279" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830201TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-80" lat="41.0046550642" lon="-5.59078990081" visible="true">
+  <tag k="addr:housenumber" v="11B"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227618TL8422N"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n los Llanos"/>
+</node>
+<node action="modify" id="-181" lat="41.0079429938" lon="-5.58214115358" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931402TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-213" lat="41.0076396739" lon="-5.58408051688" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2830809TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-128" lat="41.0070583213" lon="-5.58708572702" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529004TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-151" lat="41.0087724281" lon="-5.58249402271" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2932505TL8423S"/>
+  <tag k="addr:street" v="Camino de la Estaci&#243;n"/>
+</node>
+<node action="modify" id="-158" lat="41.0075244452" lon="-5.58117973096" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030203TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-215" lat="41.0079857445" lon="-5.5838330348" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831507TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-83" lat="41.0054569664" lon="-5.58886183816" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2327502TL8422N"/>
+  <tag k="addr:street" v="Calle Le&#243;n"/>
+</node>
+<node action="modify" id="-127" lat="41.0076375992" lon="-5.58815051382" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430210TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-81" lat="41.0052483242" lon="-5.58859944983" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2327503TL8422N"/>
+  <tag k="addr:street" v="Calle Palencia"/>
+</node>
+<node action="modify" id="-1" lat="41.0069501219" lon="-5.58264752685" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930403TL8423S"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-85" lat="41.0078274834" lon="-5.58839333061" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430219TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-140" lat="41.0049103136" lon="-5.59032562954" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227605TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-219" lat="41.0080676086" lon="-5.58360614107" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831520TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-132" lat="41.0073105079" lon="-5.58775149517" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430202TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-157" lat="41.0075812897" lon="-5.58102978395" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030202TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-189" lat="41.0087776372" lon="-5.58047407126" visible="true">
+  <tag k="addr:housenumber" v="106"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3131106TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-221" lat="41.0082710048" lon="-5.58343584944" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2831501TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-159" lat="41.007477918" lon="-5.58114678921" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3130804TL8433S"/>
+  <tag k="addr:street" v="Calle de los Hoyos"/>
+</node>
+<node action="modify" id="-191" lat="41.0085707196" lon="-5.58250331176" visible="true">
+  <tag k="addr:housenumber" v="113"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2932504TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-223" lat="41.0083620205" lon="-5.58307095313" visible="true">
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931101TL8423S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-147" lat="41.0083767014" lon="-5.58188403892" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031102TL8433S"/>
+  <tag k="addr:street" v="Traves&#237;a Constituci&#243;n"/>
+</node>
+<node action="modify" id="-89" lat="41.0077770556" lon="-5.5886221139" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430222TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-193" lat="41.00869683" lon="-5.58220306851" visible="true">
+  <tag k="addr:housenumber" v="123"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032512TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-90" lat="41.0076744425" lon="-5.58861191654" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430223TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-115" lat="41.0073997978" lon="-5.5878604155" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430204TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-124" lat="41.0069580038" lon="-5.58696052351" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2529006TL8422N"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-163" lat="41.0076063188" lon="-5.5824463655" visible="true">
+  <tag k="addr:housenumber" v="109"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930301TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-195" lat="41.0086964819" lon="-5.58211670388" visible="true">
+  <tag k="addr:housenumber" v="127"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032516TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-7" lat="41.0069437457" lon="-5.58205184159" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929211TL8422N"/>
+  <tag k="addr:street" v="Calle Pedrarias"/>
+</node>
+<node action="modify" id="-137" lat="41.0044565379" lon="-5.59080467914" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2227616TL8422N"/>
+  <tag k="addr:street" v="Calle la Ca&#241;ada"/>
+</node>
+<node action="modify" id="-165" lat="41.0072168938" lon="-5.58271121847" visible="true">
+  <tag k="addr:housenumber" v="116"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930607TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-197" lat="41.0087095233" lon="-5.58186473879" visible="true">
+  <tag k="addr:housenumber" v="135"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032510TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-93" lat="41.0076257633" lon="-5.58883746295" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430226TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-199" lat="41.0087228429" lon="-5.58176574548" visible="true">
+  <tag k="addr:housenumber" v="141"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032509TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-179" lat="41.0081316332" lon="-5.58160334623" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031503TL8433S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-119" lat="41.0074790802" lon="-5.58795712823" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430206TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-169" lat="41.006808694" lon="-5.5829150215" visible="true">
+  <tag k="addr:housenumber" v="140"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930614TL8423S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-19" lat="41.0073500207" lon="-5.58290421977" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930605TL8423S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+<node action="modify" id="-11" lat="41.0077940239" lon="-5.58243662188" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930105TL8423S"/>
+  <tag k="addr:street" v="Plaza Grande"/>
+</node>
+<node action="modify" id="-149" lat="41.0086981152" lon="-5.58250604344" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2932506TL8423S"/>
+  <tag k="addr:street" v="Camino de la Estaci&#243;n"/>
+</node>
+<node action="modify" id="-171" lat="41.0065811733" lon="-5.5826584055" visible="true">
+  <tag k="addr:housenumber" v="153"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2929205TL8422N"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-203" lat="41.0088892503" lon="-5.58108647957" visible="true">
+  <tag k="addr:housenumber" v="175"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032504TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-97" lat="41.0074809381" lon="-5.58904557362" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430230TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-205" lat="41.0089798171" lon="-5.58068902033" visible="true">
+  <tag k="addr:housenumber" v="187"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3032502TL8433S"/>
+  <tag k="addr:street" v="Calle Larga de Medina"/>
+</node>
+<node action="modify" id="-51" lat="41.0081782035" lon="-5.58252410672" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2931404TL8423S"/>
+  <tag k="addr:street" v="Calle del Parque"/>
+</node>
+<node action="modify" id="-123" lat="41.0075581131" lon="-5.58805351164" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2430208TL8423S"/>
+  <tag k="addr:street" v="Calle Zamora"/>
+</node>
+<node action="modify" id="-44" lat="41.0069128254" lon="-5.58322240354" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930613TL8423S"/>
+  <tag k="addr:street" v="Calle de la Ace&#241;a"/>
+</node>
+<node action="modify" id="-53" lat="41.0066114546" lon="-5.58290299732" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930505TL8423S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-100" lat="41.0084309119" lon="-5.58788662882" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2431911TL8423S"/>
+  <tag k="addr:street" v="Calle Burgos"/>
+</node>
+<node action="modify" id="-46" lat="41.0082774706" lon="-5.58175194986" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3031702TL8433S"/>
+  <tag k="addr:street" v="Calle del Matadero"/>
+</node>
+<node action="modify" id="-145" lat="41.0075941931" lon="-5.58162783546" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3030207TL8433S"/>
+  <tag k="addr:street" v="Calle Armu&#241;a"/>
+</node>
+<node action="modify" id="-48" lat="41.0073190651" lon="-5.58227665911" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930304TL8423S"/>
+  <tag k="addr:street" v="Traves&#237;a de Traviesa"/>
+</node>
+<node action="modify" id="-18" lat="41.0073527786" lon="-5.58299658969" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37430"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2930604TL8423S"/>
+  <tag k="addr:street" v="Calle del Pozo"/>
+</node>
+</osm>

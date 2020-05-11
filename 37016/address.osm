@@ -1,0 +1,2509 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-275" lat="40.9820172833" lon="-5.5461956" visible="true">
+  <tag k="addr:housenumber" v="87"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801310TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-306" lat="40.9825561028" lon="-5.54950501504" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602123TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-352" lat="40.9833370602" lon="-5.54917237931" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703705TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-222" lat="40.9836955624" lon="-5.55357141586" visible="true">
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403450TL8450S"/>
+  <tag k="addr:street" v="Calle Garc&#237;a Lorca"/>
+</node>
+<node action="modify" id="-282" lat="40.9828992413" lon="-5.54875844365" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702607TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-360" lat="40.9829273215" lon="-5.54929164272" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602113TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-33" lat="40.981985465" lon="-5.54968029436" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601007TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-175" lat="40.9803808294" lon="-5.55210411058" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399334TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-170" lat="40.9808231394" lon="-5.55247583015" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399347TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-28" lat="40.9815164527" lon="-5.54983398244" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600112TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-368" lat="40.9833720728" lon="-5.54925942185" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602106TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-186" lat="40.9808928201" lon="-5.55288088059" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399340TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-41" lat="40.9817546868" lon="-5.54990629318" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601012TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-71" lat="40.9816909114" lon="-5.54870047701" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701611TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-203" lat="40.9835546879" lon="-5.55401901031" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403428TL8450S"/>
+  <tag k="addr:street" v="Calle Antonio Machado"/>
+</node>
+<node action="modify" id="-93" lat="40.9835350209" lon="-5.55182979688" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403405TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-44" lat="40.9819449791" lon="-5.55043503719" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501201TL8450S"/>
+  <tag k="addr:street" v="Calle Refugio"/>
+</node>
+<node action="modify" id="-121" lat="40.9806913285" lon="-5.55518390371" visible="true">
+  <tag k="addr:housenumber" v="119"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399355TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-21" lat="40.9821795062" lon="-5.5519699472" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501602TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-124" lat="40.980675022" lon="-5.55540742971" visible="true">
+  <tag k="addr:housenumber" v="125"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399380TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-302" lat="40.982224431" lon="-5.54972272626" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601020TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-137" lat="40.9802662184" lon="-5.55267698706" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399324TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-153" lat="40.9809003535" lon="-5.55452837879" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400425TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-168" lat="40.9808122513" lon="-5.55241935667" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399348TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-129" lat="40.9803341395" lon="-5.55233938814" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399330TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-335" lat="40.982075631" lon="-5.54911391345" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601302TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-2" lat="40.9816014242" lon="-5.55021760748" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501619TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-104" lat="40.9814555007" lon="-5.55430037608" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400333TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-9" lat="40.9810946053" lon="-5.54953440817" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600109TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-157" lat="40.9808857209" lon="-5.55470490458" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400423TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-331" lat="40.9815149012" lon="-5.54903076384" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600105TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-287" lat="40.9832234337" lon="-5.54850960347" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702614TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-261" lat="40.9816663784" lon="-5.54584777642" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700507TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-78" lat="40.984385115" lon="-5.5521304954" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403402TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-164" lat="40.9807909728" lon="-5.55230427878" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399350TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-339" lat="40.9821857062" lon="-5.54915159099" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601301TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-82" lat="40.9841063399" lon="-5.55293559296" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403414TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-162" lat="40.9807805914" lon="-5.55224774677" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399351TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-343" lat="40.9823036653" lon="-5.5492393245" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601202TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-242" lat="40.9779321039" lon="-5.55293044547" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396310TL8359N"/>
+  <tag k="addr:street" v="Calle &#193;lamos"/>
+</node>
+<node action="modify" id="-190" lat="40.9809090611" lon="-5.5529952332" visible="true">
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399338TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-213" lat="40.9809366415" lon="-5.5493682553" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700705TL8450S"/>
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+</node>
+<node action="modify" id="-274" lat="40.9818427349" lon="-5.54638580486" visible="true">
+  <tag k="addr:housenumber" v="85"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801309TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-351" lat="40.9825854523" lon="-5.54926869115" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602118TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-8" lat="40.9814262127" lon="-5.55009107342" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600611TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-74" lat="40.9818152458" lon="-5.54848136218" visible="true">
+  <tag k="addr:housenumber" v="6D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701517TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-325" lat="40.9821835701" lon="-5.54975976481" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601018TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-59" lat="40.9829597005" lon="-5.54904601432" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703710TL8450S"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-221" lat="40.9835973289" lon="-5.55356176879" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403433TL8450S"/>
+  <tag k="addr:street" v="Calle Garc&#237;a Lorca"/>
+</node>
+<node action="modify" id="-236" lat="40.977888869" lon="-5.55193383392" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397815TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-54" lat="40.9814895411" lon="-5.5511501758" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400322TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-359" lat="40.9828601787" lon="-5.54928794809" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602114TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-145" lat="40.9802200548" lon="-5.55290840173" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399320TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-150" lat="40.9801626859" lon="-5.55319103645" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399315TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-81" lat="40.9842800882" lon="-5.55284602197" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403415TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-32" lat="40.9819231188" lon="-5.54976767289" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601008TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-109" lat="40.9810512912" lon="-5.55124575331" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400303TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-38" lat="40.9816590085" lon="-5.54998182622" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601014TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-367" lat="40.9833256576" lon="-5.5492502436" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602107TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-183" lat="40.9808454044" lon="-5.55573463924" visible="true">
+  <tag k="addr:housenumber" v="76"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400411TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-14" lat="40.980999212" lon="-5.54971228107" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600612TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-89" lat="40.9849888488" lon="-5.55265276082" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403429TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-187" lat="40.9808633582" lon="-5.55591599492" visible="true">
+  <tag k="addr:housenumber" v="80"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400409TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-237" lat="40.977888869" lon="-5.55193383392" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397815TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-292" lat="40.9828525217" lon="-5.54888988944" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602404TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-308" lat="40.982713665" lon="-5.54950645701" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602125TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-43" lat="40.9822861432" lon="-5.5519777672" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5401002TL8450S"/>
+  <tag k="addr:street" v="Calle Refugio"/>
+</node>
+<node action="modify" id="-173" lat="40.9808329219" lon="-5.55537177511" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400415TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-191" lat="40.9808829775" lon="-5.55607910575" visible="true">
+  <tag k="addr:housenumber" v="84"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400407TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-98" lat="40.9814230094" lon="-5.55385619421" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400327TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-271" lat="40.9815115229" lon="-5.54750699152" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801304TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-248" lat="40.9805064968" lon="-5.54953630822" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5599004TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-128" lat="40.9803465093" lon="-5.55228075614" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399331TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-281" lat="40.9828353218" lon="-5.54881056613" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702608TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-298" lat="40.9822258347" lon="-5.545426918" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5902202TL8450S"/>
+  <tag k="addr:place" v="la Fuente"/>
+</node>
+<node action="modify" id="-256" lat="40.9799507653" lon="-5.55307880481" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399311TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-218" lat="40.9809980155" lon="-5.55017170952" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600610TL8450S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-330" lat="40.9809340848" lon="-5.54892740268" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700703TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-60" lat="40.9829387187" lon="-5.54895485619" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703709TL8450S"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-231" lat="40.9782506081" lon="-5.55235264668" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397813TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-312" lat="40.9817936757" lon="-5.5501228745" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601017TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-140" lat="40.9806584222" lon="-5.55175571715" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399363TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-80" lat="40.9844780051" lon="-5.55257624149" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403417TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-318" lat="40.9818234121" lon="-5.55004580322" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601021TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-172" lat="40.9808340396" lon="-5.5525309787" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399346TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-338" lat="40.9826049048" lon="-5.54918569344" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602409TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-197" lat="40.9808289901" lon="-5.55422386577" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399303TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-224" lat="40.9783706452" lon="-5.55252733214" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396301TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-342" lat="40.9827981339" lon="-5.54917760424" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602402TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-148" lat="40.9801857319" lon="-5.55307914754" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399317TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-68" lat="40.9815342182" lon="-5.5486660293" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700801TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-319" lat="40.9819653633" lon="-5.55011348938" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601810TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-212" lat="40.9808239703" lon="-5.54922185685" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700704TL8450S"/>
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+</node>
+<node action="modify" id="-273" lat="40.9815732147" lon="-5.54727688341" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801305TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-301" lat="40.9819131695" lon="-5.55015334221" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601811TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-350" lat="40.9832289038" lon="-5.54916389052" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703706TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-45" lat="40.9820844504" lon="-5.55094273105" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403449TL8450S"/>
+  <tag k="addr:street" v="Calle Refugio"/>
+</node>
+<node action="modify" id="-375" lat="40.9814209032" lon="-5.54904331688" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600106TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-103" lat="40.9814918028" lon="-5.55422024754" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400332TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-358" lat="40.9828046008" lon="-5.5492848975" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602115TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-228" lat="40.978179091" lon="-5.55246792701" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396303TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-286" lat="40.983162956" lon="-5.54854560672" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702603TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-366" lat="40.9832150587" lon="-5.54924345742" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602109TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-176" lat="40.9808271601" lon="-5.55544880685" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400414TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-61" lat="40.9822421266" lon="-5.54951763999" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601002TL8450S"/>
+  <tag k="addr:street" v="Calle Violeta"/>
+</node>
+<node action="modify" id="-16" lat="40.9819833733" lon="-5.5514255138" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501609TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-177" lat="40.9808220696" lon="-5.55551588088" visible="true">
+  <tag k="addr:housenumber" v="70D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400427TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-147" lat="40.9801973632" lon="-5.55302456901" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399318TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-119" lat="40.9808021949" lon="-5.55505987183" visible="true">
+  <tag k="addr:housenumber" v="115"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399376TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-20" lat="40.9821431046" lon="-5.55187702468" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501603TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-181" lat="40.980835997" lon="-5.5556552388" visible="true">
+  <tag k="addr:housenumber" v="74"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400412TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-161" lat="40.9808738954" lon="-5.55487262472" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400421TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-73" lat="40.98209627" lon="-5.54878686108" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701601TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-127" lat="40.9805014159" lon="-5.55585592847" visible="true">
+  <tag k="addr:housenumber" v="129D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399357TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-25" lat="40.9823280266" lon="-5.55233235227" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5401001TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-53" lat="40.9814745197" lon="-5.55105447977" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400314TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-255" lat="40.9810163397" lon="-5.54709526726" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700504TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-135" lat="40.9802781439" lon="-5.55261670143" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399325TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-108" lat="40.9810074358" lon="-5.55104605301" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400317TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-13" lat="40.9818992031" lon="-5.55124244607" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501611TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-258" lat="40.9805860531" lon="-5.55092249187" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5599203TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-143" lat="40.9810401838" lon="-5.55313302653" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400406TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-291" lat="40.9826940854" lon="-5.54891460672" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702610TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-88" lat="40.985048886" lon="-5.55264070177" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403401TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-115" lat="40.9808184343" lon="-5.5548395458" visible="true">
+  <tag k="addr:housenumber" v="109"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399359TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-294" lat="40.9817418857" lon="-5.54956617357" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601502TL8450S"/>
+  <tag k="addr:street" v="Calle Margaritas"/>
+</node>
+<node action="modify" id="-67" lat="40.9820638231" lon="-5.54941358387" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601309TL8450S"/>
+  <tag k="addr:street" v="Plaza de San Juan Bautista"/>
+</node>
+<node action="modify" id="-211" lat="40.9815219625" lon="-5.54886937013" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700805TL8450S"/>
+  <tag k="addr:street" v="Calle Travesia Segunda"/>
+</node>
+<node action="modify" id="-62" lat="40.9822316521" lon="-5.54940670929" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601204TL8450S"/>
+  <tag k="addr:street" v="Calle Violeta"/>
+</node>
+<node action="modify" id="-234" lat="40.9777424193" lon="-5.55215562943" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397815TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-97" lat="40.981327076" lon="-5.5533084063" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400306TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-130" lat="40.980322829" lon="-5.55239440239" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399329TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-300" lat="40.9833289671" lon="-5.54364023266" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002200200TL84B"/>
+  <tag k="addr:place" v="Palomar"/>
+</node>
+<node action="modify" id="-349" lat="40.9825209601" lon="-5.54926103262" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602119TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-320" lat="40.9833684281" lon="-5.54959534442" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602130TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-310" lat="40.9829026363" lon="-5.54952511331" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602126TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-219" lat="40.9834348492" lon="-5.55378507809" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403436TL8450S"/>
+  <tag k="addr:street" v="Calle Garc&#237;a Lorca"/>
+</node>
+<node action="modify" id="-280" lat="40.9826946819" lon="-5.54897657746" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602407TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-357" lat="40.9834735246" lon="-5.54919230884" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703703TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-79" lat="40.9845167264" lon="-5.55246707741" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403421TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-329" lat="40.9824247365" lon="-5.54936908875" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602121TL8450S"/>
+  <tag k="addr:street" v="Calle Clavel"/>
+</node>
+<node action="modify" id="-30" lat="40.9815823708" lon="-5.55001322565" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601015TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-311" lat="40.9823939259" lon="-5.54973177705" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601801TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-365" lat="40.9831576352" lon="-5.54923738855" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602110TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-214" lat="40.9807467422" lon="-5.5497610767" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600608TL8450S"/>
+  <tag k="addr:street" v="Plaza de la Constituci&#243;n"/>
+</node>
+<node action="modify" id="-185" lat="40.9808568769" lon="-5.55582244512" visible="true">
+  <tag k="addr:housenumber" v="78"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400410TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-235" lat="40.977888869" lon="-5.55193383392" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397815TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-151" lat="40.9809463211" lon="-5.55445693136" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400426TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-167" lat="40.9808548035" lon="-5.55510805392" visible="true">
+  <tag k="addr:housenumber" v="62"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400418TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-118" lat="40.9808078673" lon="-5.55498563561" visible="true">
+  <tag k="addr:housenumber" v="113"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399375TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-19" lat="40.9814246328" lon="-5.54975002104" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600110TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-47" lat="40.9821253432" lon="-5.5511609543" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403447TL8450S"/>
+  <tag k="addr:street" v="Calle Refugio"/>
+</node>
+<node action="modify" id="-49" lat="40.9815666299" lon="-5.55133506334" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400324TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-158" lat="40.9806499478" lon="-5.55214206057" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399353TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-229" lat="40.9779839389" lon="-5.55240821664" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396305TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-315" lat="40.983167938" lon="-5.54954402495" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602133TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-102" lat="40.9814846294" lon="-5.55414972794" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400331TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-138" lat="40.9809947932" lon="-5.55269624599" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400404TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-206" lat="40.983750337" lon="-5.55392926017" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403445TL8450S"/>
+  <tag k="addr:street" v="Calle Antonio Machado"/>
+</node>
+<node action="modify" id="-7" lat="40.9813942655" lon="-5.55002115622" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600601TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-321" lat="40.9834438802" lon="-5.54960371409" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602131TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-254" lat="40.9809941235" lon="-5.54782361637" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700501TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-285" lat="40.9825018829" lon="-5.54898980666" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702616TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-195" lat="40.9803689332" lon="-5.55216995346" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399333TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-336" lat="40.9815939637" lon="-5.54893930022" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701605TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-22" lat="40.982215061" lon="-5.55203169866" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501601TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-200" lat="40.9809844695" lon="-5.54936750289" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700705TL8450S"/>
+  <tag k="addr:street" v="Calle Corta"/>
+</node>
+<node action="modify" id="-31" lat="40.9818804516" lon="-5.54982826972" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601010TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-154" lat="40.980673911" lon="-5.55203613649" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399313TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-84" lat="40.9827409524" lon="-5.55203748187" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403423TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-249" lat="40.980770635" lon="-5.54874913595" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700502TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-262" lat="40.9809983607" lon="-5.54872175055" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700001TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-114" lat="40.9808246051" lon="-5.55475887508" visible="true">
+  <tag k="addr:housenumber" v="107"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399373TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-52" lat="40.9814635592" lon="-5.55091162534" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400308TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-316" lat="40.9832273279" lon="-5.54958465419" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602128TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-373" lat="40.981298246" lon="-5.54916553258" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600107TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-240" lat="40.9782498381" lon="-5.55302542215" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396312TL8359N"/>
+  <tag k="addr:street" v="Calle &#193;lamos"/>
+</node>
+<node action="modify" id="-66" lat="40.9820429925" lon="-5.54933327242" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601308TL8450S"/>
+  <tag k="addr:street" v="Plaza de San Juan Bautista"/>
+</node>
+<node action="modify" id="-204" lat="40.9840938635" lon="-5.55377126175" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403426TL8450S"/>
+  <tag k="addr:street" v="Calle Antonio Machado"/>
+</node>
+<node action="modify" id="-210" lat="40.9813642828" lon="-5.54865760362" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700802TL8450S"/>
+  <tag k="addr:street" v="Calle Travesia Primera"/>
+</node>
+<node action="modify" id="-87" lat="40.9840864644" lon="-5.55201140737" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403602TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-299" lat="40.9827115631" lon="-5.54369100783" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002200300TL84B"/>
+  <tag k="addr:place" v="Palomar"/>
+</node>
+<node action="modify" id="-348" lat="40.9831272961" lon="-5.54916217275" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703707TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-72" lat="40.9819446208" lon="-5.54879738856" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701612TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-323" lat="40.9819970038" lon="-5.54997232196" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601016TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-182" lat="40.9808745195" lon="-5.55276317961" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399342TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-279" lat="40.9820302452" lon="-5.54564378786" visible="true">
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801301TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-198" lat="40.9811311867" lon="-5.54929742496" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700706TL8450S"/>
+  <tag k="addr:street" v="Calle Corta"/>
+</node>
+<node action="modify" id="-305" lat="40.98213955" lon="-5.54992842017" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601804TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-356" lat="40.9816475208" lon="-5.54894584115" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701606TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-50" lat="40.9816284953" lon="-5.55142743923" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400325TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-64" lat="40.9817944794" lon="-5.54952172813" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601501TL8450S"/>
+  <tag k="addr:street" v="Plaza de San Juan Bautista"/>
+</node>
+<node action="modify" id="-120" lat="40.9807985205" lon="-5.55512645383" visible="true">
+  <tag k="addr:housenumber" v="117"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399377TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-107" lat="40.9813776952" lon="-5.55447892519" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400335TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-133" lat="40.9802903235" lon="-5.55255848202" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399326TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-58" lat="40.9816442549" lon="-5.54958289736" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600102TL8450S"/>
+  <tag k="addr:street" v="Calle Rosas"/>
+</node>
+<node action="modify" id="-364" lat="40.9811299263" lon="-5.54898646153" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700701TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-146" lat="40.9802091278" lon="-5.55296738971" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399319TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-12" lat="40.9818205872" lon="-5.55106634083" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501612TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-86" lat="40.9831965313" lon="-5.55288693561" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403411TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-48" lat="40.981406208" lon="-5.55077225688" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400301TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-290" lat="40.9827833188" lon="-5.5489150024" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602405TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-39" lat="40.9817791821" lon="-5.54978159257" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601504TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-188" lat="40.9809007828" lon="-5.55293696177" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399339TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-372" lat="40.9839456505" lon="-5.54944230095" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602101TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-117" lat="40.9808136299" lon="-5.55490754014" visible="true">
+  <tag k="addr:housenumber" v="111"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399374TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-257" lat="40.9802360999" lon="-5.55161283563" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399305TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-96" lat="40.9809965001" lon="-5.55066603578" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400302TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-3" lat="40.9812931738" lon="-5.54989248759" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600603TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-245" lat="40.9789144101" lon="-5.55740768583" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5198108TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-125" lat="40.9807673062" lon="-5.55552586493" visible="true">
+  <tag k="addr:housenumber" v="127"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399381TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-169" lat="40.980847466" lon="-5.55519928719" visible="true">
+  <tag k="addr:housenumber" v="64"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400417TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-171" lat="40.9808406332" lon="-5.55528400304" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400416TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-253" lat="40.9798196452" lon="-5.55365683221" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399309TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-192" lat="40.9809173538" lon="-5.55305392839" visible="true">
+  <tag k="addr:housenumber" v="85"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399337TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-29" lat="40.9812311617" lon="-5.54983441832" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600604TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-165" lat="40.9809278747" lon="-5.55504170282" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400419TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-141" lat="40.9810199058" lon="-5.55291011383" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400405TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-99" lat="40.9814323123" lon="-5.55394366114" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400328TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-113" lat="40.9808309543" lon="-5.55468417169" visible="true">
+  <tag k="addr:housenumber" v="105"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399372TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-209" lat="40.9813855065" lon="-5.54881581792" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700803TL8450S"/>
+  <tag k="addr:street" v="Calle Travesia Primera"/>
+</node>
+<node action="modify" id="-17" lat="40.9820101946" lon="-5.55147810486" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501607TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-65" lat="40.9819212699" lon="-5.54933148278" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601306TL8450S"/>
+  <tag k="addr:street" v="Plaza de San Juan Bautista"/>
+</node>
+<node action="modify" id="-317" lat="40.9832991355" lon="-5.54959009658" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602129TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-18" lat="40.9820621752" lon="-5.55165140073" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501606TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-270" lat="40.9814904325" lon="-5.54759794585" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801303TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-246" lat="40.9792293553" lon="-5.55578739052" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5198104TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-24" lat="40.9822889307" lon="-5.55221592725" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5401003TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-46" lat="40.9821053491" lon="-5.55104301977" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403448TL8450S"/>
+  <tag k="addr:street" v="Calle Refugio"/>
+</node>
+<node action="modify" id="-347" lat="40.9824641266" lon="-5.54925491368" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602120TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-241" lat="40.9780370712" lon="-5.55296135474" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396311TL8359N"/>
+  <tag k="addr:street" v="Calle &#193;lamos"/>
+</node>
+<node action="modify" id="-217" lat="40.9813822651" lon="-5.55047842163" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5500801TL8450S"/>
+  <tag k="addr:street" v="Calle Horno"/>
+</node>
+<node action="modify" id="-278" lat="40.9819909631" lon="-5.54578774546" visible="true">
+  <tag k="addr:housenumber" v="93"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801313TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-265" lat="40.9812956137" lon="-5.54824418839" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701510TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-101" lat="40.9814795521" lon="-5.55407810074" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400330TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-355" lat="40.9827143722" lon="-5.54928007092" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602116TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-6" lat="40.9816158478" lon="-5.55041212277" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501618TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-77" lat="40.9838228888" lon="-5.55185421252" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403404TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-196" lat="40.9809534118" lon="-5.55390668099" visible="true">
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399354TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-225" lat="40.9784315763" lon="-5.55301020938" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397806TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-284" lat="40.9831216752" lon="-5.54857090389" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702604TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-155" lat="40.9808933764" lon="-5.55461962611" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400424TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-57" lat="40.9816226988" lon="-5.54932810097" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601403TL8450S"/>
+  <tag k="addr:street" v="Calle Rosas"/>
+</node>
+<node action="modify" id="-363" lat="40.9831069891" lon="-5.549235703" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602111TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-85" lat="40.983458042" lon="-5.55297059934" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403412TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-36" lat="40.9816223005" lon="-5.54984969987" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600101TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-201" lat="40.9818193932" lon="-5.54919666614" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601401TL8450S"/>
+  <tag k="addr:street" v="Calle Amapolas"/>
+</node>
+<node action="modify" id="-313" lat="40.9829983015" lon="-5.54953314972" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602127TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-63" lat="40.9823026189" lon="-5.54958183131" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601001TL8450S"/>
+  <tag k="addr:street" v="Calle Violeta"/>
+</node>
+<node action="modify" id="-371" lat="40.9834641273" lon="-5.54926988539" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602104TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-156" lat="40.9806499478" lon="-5.55214206057" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399353TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-56" lat="40.9815732899" lon="-5.54915645409" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600104TL8450S"/>
+  <tag k="addr:street" v="Calle Rosas"/>
+</node>
+<node action="modify" id="-116" lat="40.9803584501" lon="-5.55222435188" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399332TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-227" lat="40.9792851146" lon="-5.55385659746" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5198601TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-136" lat="40.9808933217" lon="-5.55254646157" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400402TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-179" lat="40.9808288421" lon="-5.55557580652" visible="true">
+  <tag k="addr:housenumber" v="72"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400413TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-324" lat="40.9820158457" lon="-5.55007011578" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601809TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-322" lat="40.9835642621" lon="-5.54962039061" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602132TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-23" lat="40.9810579079" lon="-5.54973709797" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600606TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-163" lat="40.9808680237" lon="-5.55495869107" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400420TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-304" lat="40.9824561293" lon="-5.5495053597" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602122TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-233" lat="40.9779753692" lon="-5.55225824266" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397821TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-252" lat="40.9797694247" lon="-5.55387857724" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399301TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-132" lat="40.9803000936" lon="-5.55251025005" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399327TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-247" lat="40.9805912348" lon="-5.54959414186" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5599003TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-106" lat="40.9809810535" lon="-5.55091144498" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400310TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-11" lat="40.9817601427" lon="-5.55091086771" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501613TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-260" lat="40.9790323134" lon="-5.55659756285" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5198106TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-334" lat="40.9819810878" lon="-5.54910693311" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601304TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-289" lat="40.9827282997" lon="-5.54897260222" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602406TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-264" lat="40.9812437282" lon="-5.54833967477" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701511TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-112" lat="40.9808372228" lon="-5.55461290003" visible="true">
+  <tag k="addr:housenumber" v="103"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399361TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-144" lat="40.9802318787" lon="-5.55285000971" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399321TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-152" lat="40.9801535808" lon="-5.55323546964" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399314TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-208" lat="40.9840002079" lon="-5.55382367402" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403427TL8450S"/>
+  <tag k="addr:street" v="Calle Antonio Machado"/>
+</node>
+<node action="modify" id="-269" lat="40.9814670868" lon="-5.54771549498" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801302TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-51" lat="40.9814703674" lon="-5.55156184652" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400326TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-95" lat="40.9813133258" lon="-5.55308500647" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400309TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-297" lat="40.9796892865" lon="-5.54883417667" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5798701TL8359N"/>
+  <tag k="addr:street" v="Calle Los Romp&#237;os"/>
+</node>
+<node action="modify" id="-346" lat="40.9830504673" lon="-5.54916250581" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703711TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-178" lat="40.9808549998" lon="-5.55264687344" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399344TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-244" lat="40.977585346" lon="-5.55272608655" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396308TL8359N"/>
+  <tag k="addr:street" v="Calle &#193;lamos"/>
+</node>
+<node action="modify" id="-216" lat="40.9839809935" lon="-5.53952345573" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002200400TL84B"/>
+  <tag k="addr:street" v="Camino de Aldearrubia"/>
+</node>
+<node action="modify" id="-277" lat="40.9819561714" lon="-5.5459242553" visible="true">
+  <tag k="addr:housenumber" v="91"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801312TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-193" lat="40.9809256877" lon="-5.55311011131" visible="true">
+  <tag k="addr:housenumber" v="87"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399336TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-354" lat="40.9834297078" lon="-5.54919884804" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703704TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-327" lat="40.9822014462" lon="-5.54973746927" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601019TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-26" lat="40.9824315788" lon="-5.55248437032" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403420TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-37" lat="40.9820920079" lon="-5.54956501651" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601004TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-362" lat="40.9829565742" lon="-5.54926240191" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602112TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-232" lat="40.9776969544" lon="-5.55223015253" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396307TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-205" lat="40.9836879958" lon="-5.55395928992" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403444TL8450S"/>
+  <tag k="addr:street" v="Calle Antonio Machado"/>
+</node>
+<node action="modify" id="-35" lat="40.9820507556" lon="-5.54958013798" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601005TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-220" lat="40.9836583063" lon="-5.55363942055" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403435TL8450S"/>
+  <tag k="addr:street" v="Calle Garc&#237;a Lorca"/>
+</node>
+<node action="modify" id="-370" lat="40.9834153597" lon="-5.54926109432" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602105TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-199" lat="40.9811320569" lon="-5.54937472401" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600108TL8450S"/>
+  <tag k="addr:street" v="Calle Corta"/>
+</node>
+<node action="modify" id="-92" lat="40.9832129015" lon="-5.55209134388" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403419TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-180" lat="40.9808654751" lon="-5.55270615625" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399343TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-123" lat="40.9806804584" lon="-5.55533288147" visible="true">
+  <tag k="addr:housenumber" v="123"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399379TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-159" lat="40.9808797753" lon="-5.55479024905" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400422TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-100" lat="40.981435097" lon="-5.55401497515" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400329TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-5" lat="40.9813380584" lon="-5.54994290944" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600602TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-251" lat="40.979974962" lon="-5.55518975546" visible="true">
+  <tag k="addr:housenumber" v="21D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399369TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-307" lat="40.9821858351" lon="-5.54986332084" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601803TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-131" lat="40.980311596" lon="-5.5524486194" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399328TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-230" lat="40.9778776898" lon="-5.55233915121" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396306TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-283" lat="40.9830682447" lon="-5.54862130137" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702605TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-126" lat="40.980771806" lon="-5.55573108327" visible="true">
+  <tag k="addr:housenumber" v="129"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399358TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-139" lat="40.9802544838" lon="-5.55273338539" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399323TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-259" lat="40.9806555901" lon="-5.5507053395" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5599205TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-333" lat="40.9818992418" lon="-5.54910499301" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601305TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-337" lat="40.9825122581" lon="-5.5491810498" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602403TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-90" lat="40.9825997871" lon="-5.5516645281" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403408TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-111" lat="40.9807907638" lon="-5.55449441768" visible="true">
+  <tag k="addr:housenumber" v="101"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399360TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-314" lat="40.9830921988" lon="-5.54953774579" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602124TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-267" lat="40.9814280554" lon="-5.54794463132" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701508TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-76" lat="40.9827735726" lon="-5.55278872318" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403410TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-341" lat="40.9822516961" lon="-5.54925698511" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601203TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-263" lat="40.980586844" lon="-5.55014166883" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5599002TL8359N"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-296" lat="40.980182981" lon="-5.54875903265" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5799701TL8359N"/>
+  <tag k="addr:street" v="Calle Los Romp&#237;os"/>
+</node>
+<node action="modify" id="-345" lat="40.9810067502" lon="-5.54895292873" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700702TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-374" lat="40.9817797914" lon="-5.54895767865" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701604TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-70" lat="40.9825707616" lon="-5.54865632242" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701515TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-184" lat="40.9808842722" lon="-5.55282332613" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399341TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-215" lat="40.9822035341" lon="-5.54900468543" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702613TL8450S"/>
+  <tag k="addr:street" v="Calle Traves&#237;a Tercera"/>
+</node>
+<node action="modify" id="-276" lat="40.981921376" lon="-5.54605802974" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801311TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-194" lat="40.9809335353" lon="-5.55316626" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399335TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-303" lat="40.9821093389" lon="-5.5499644658" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601806TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-353" lat="40.9826389582" lon="-5.54927517375" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602117TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-149" lat="40.9801733848" lon="-5.55314169806" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399316TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-202" lat="40.9818643795" lon="-5.54937492881" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601402TL8450S"/>
+  <tag k="addr:street" v="Calle Amapolas"/>
+</node>
+<node action="modify" id="-223" lat="40.9838068348" lon="-5.55352570121" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403425TL8405S"/>
+  <tag k="addr:street" v="Calle Garc&#237;a Lorca"/>
+</node>
+<node action="modify" id="-105" lat="40.9813716501" lon="-5.55439022897" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400334TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-361" lat="40.9837571799" lon="-5.54928297384" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5703701TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-10" lat="40.9819130901" lon="-5.55065755817" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501614TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-83" lat="40.9838313156" lon="-5.5529575473" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403413TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-34" lat="40.9820265109" lon="-5.54963016531" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601006TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-288" lat="40.9832459777" lon="-5.54805926199" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702602TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-238" lat="40.9776792697" lon="-5.55212783685" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397815TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-340" lat="40.9826824957" lon="-5.54918687936" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5602408TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-134" lat="40.980945657" lon="-5.55242948515" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400402TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-369" lat="40.981714121" lon="-5.54895120619" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701607TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-91" lat="40.982653635" lon="-5.55164889533" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403407TL8450S"/>
+  <tag k="addr:place" v="Urbanizaci&#243;n El Alcor"/>
+</node>
+<node action="modify" id="-69" lat="40.9820026045" lon="-5.5486770598" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701503TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-207" lat="40.9838256553" lon="-5.55389687874" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5403446TL8450S"/>
+  <tag k="addr:street" v="Calle Antonio Machado"/>
+</node>
+<node action="modify" id="-42" lat="40.981794441" lon="-5.54986828225" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601011TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-94" lat="40.981201108" lon="-5.55188668149" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400315TL8450S"/>
+  <tag k="addr:street" v="Calle Huertillo"/>
+</node>
+<node action="modify" id="-40" lat="40.9817296205" lon="-5.54999013007" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601013TL8450S"/>
+  <tag k="addr:street" v="Calle Santiago Ap&#243;stol"/>
+</node>
+<node action="modify" id="-243" lat="40.9777972033" lon="-5.55277838743" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396309TL8359N"/>
+  <tag k="addr:street" v="Calle &#193;lamos"/>
+</node>
+<node action="modify" id="-122" lat="40.9806858948" lon="-5.55525833322" visible="true">
+  <tag k="addr:housenumber" v="121"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399378TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-166" lat="40.9808012069" lon="-5.55236123533" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399349TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-268" lat="40.9816227309" lon="-5.54797392704" visible="true">
+  <tag k="addr:housenumber" v="67D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701512TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-4" lat="40.9816153189" lon="-5.55031205908" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501620TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-250" lat="40.9808037633" lon="-5.54843230011" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5700509TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-75" lat="40.9818152458" lon="-5.54848136218" visible="true">
+  <tag k="addr:housenumber" v="8D"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701517TL8450S"/>
+  <tag k="addr:street" v="Calle Vereda"/>
+</node>
+<node action="modify" id="-326" lat="40.9820472413" lon="-5.55003463782" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601808TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-27" lat="40.9811387022" lon="-5.54975084661" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600605TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-160" lat="40.9807700781" lon="-5.55219082341" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399352TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-55" lat="40.9815500366" lon="-5.55124074565" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400323TL8450S"/>
+  <tag k="addr:street" v="Calle Regato"/>
+</node>
+<node action="modify" id="-174" lat="40.9808439389" lon="-5.55258417225" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399345TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-332" lat="40.9819292086" lon="-5.54897335351" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701609TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-1" lat="40.9808980079" lon="-5.54967761876" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5600607TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-110" lat="40.980423403" lon="-5.55114238653" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399364TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-239" lat="40.9793006549" lon="-5.55355298484" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5397802TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-15" lat="40.9819489186" lon="-5.55134892001" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5501610TL8450S"/>
+  <tag k="addr:street" v="Calle Pedrar&#237;as"/>
+</node>
+<node action="modify" id="-266" lat="40.9813663" lon="-5.54811166208" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5701509TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-309" lat="40.9823266944" lon="-5.54973410055" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601802TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+<node action="modify" id="-189" lat="40.9808749598" lon="-5.5559979761" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5400408TL8450S"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-226" lat="40.9782826131" lon="-5.55250109825" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5396302TL8359N"/>
+  <tag k="addr:street" v="Calle Los Bald&#237;os"/>
+</node>
+<node action="modify" id="-293" lat="40.9827766424" lon="-5.54885108645" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5702609TL8450S"/>
+  <tag k="addr:street" v="Calle Cabuerco"/>
+</node>
+<node action="modify" id="-295" lat="40.981694678" lon="-5.54953415117" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601503TL8450S"/>
+  <tag k="addr:street" v="Calle Margaritas"/>
+</node>
+<node action="modify" id="-344" lat="40.982363716" lon="-5.54923359043" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601201TL8450S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-142" lat="40.980242749" lon="-5.55279439128" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5399322TL8359N"/>
+  <tag k="addr:street" v="Calle Camino Santiaguillo"/>
+</node>
+<node action="modify" id="-272" lat="40.9815374519" lon="-5.54740341123" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5801314TL8450S"/>
+  <tag k="addr:street" v="Avenida de Salamanca"/>
+</node>
+<node action="modify" id="-328" lat="40.9820830768" lon="-5.54999414283" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37350"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5601807TL8450S"/>
+  <tag k="addr:street" v="Calle La Cruz"/>
+</node>
+</osm>
