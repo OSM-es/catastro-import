@@ -1,0 +1,38 @@
+Municipio: Xodos / Chodos
+Nombre en Catastro: CHODOS / XODOS
+Código: 12055
+Fecha: 07/06/20
+Opciones: 12055
+Superficie: 44,6 km²
+Población: 126 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/ca:Xodos
+Wikidata: https://www.wikidata.org/wiki/Q1768688
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.2.2
+Plataforma: Linux 4.14.154-boot2docker #1 SMP Thu Nov 14 19:19:08 UTC 2019 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 1
+Frecuencia de CPU: 0,0 Mhz
+Tiempo de ejecución: 7,7 segundos
+Memoria total: 989,47 MB
+Memoria física usada: 147,55 MB
+Memoria virtual usada: 976,33 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2020-04-18
+Número de características: 447
+  Tipo entrada: 239
+  Tipo parcela: 208
+Códigos postales: 1
+Nombres de viales: 65
+
+==Datos de salida==
+Direcciones: 447
+  En nodos de entrada: 239
+  En edificios: 208
+  Tipo addr:street: 263
+  Tipo addr:place: 184

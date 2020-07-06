@@ -1,0 +1,1689 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-211" lat="40.2456989276" lon="-0.288448761588" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787702YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-108" lat="40.2453973647" lon="-0.287369642948" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886102YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-134" lat="40.2281091205" lon="-0.240929909814" visible="true">
+  <tag k="addr:housenumber" v="104"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001020100YK35E"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-127" lat="40.2449833788" lon="-0.287444537274" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886806YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-194" lat="40.2452173061" lon="-0.286401279349" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987701YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-88" lat="40.2447841336" lon="-0.286792550952" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886210YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-140" lat="40.2482023448" lon="-0.283201387636" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000730100YK35G"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-30" lat="40.2439410913" lon="-0.286520706057" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985113YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-229" lat="40.2462018034" lon="-0.289233830769" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A50000000"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-2" lat="40.246022414" lon="-0.288828125315" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787809YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-169" lat="40.2443698347" lon="-0.286896719712" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985106YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-32" lat="40.2444193688" lon="-0.286485810821" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886414YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-112" lat="40.2453201396" lon="-0.287302093218" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886223YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-34" lat="40.2443960816" lon="-0.286521360517" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886415YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-198" lat="40.2449044819" lon="-0.286346618709" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987607YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-92" lat="40.2449001938" lon="-0.286922903196" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886212YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-173" lat="40.2448978953" lon="-0.28717643326" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886421YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-201" lat="40.2452504016" lon="-0.286544810811" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986002YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-36" lat="40.244285677" lon="-0.286428554263" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985203YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-5" lat="40.2457143071" lon="-0.288286615266" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787805YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-213" lat="40.2457656242" lon="-0.288617688773" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787703YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-175" lat="40.2448931285" lon="-0.287207120707" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886906YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-38" lat="40.2444940309" lon="-0.286349061284" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986611YK3508N"/>
+  <tag k="addr:street" v="Carrer del Portal"/>
+</node>
+<node action="modify" id="-129" lat="40.2450349933" lon="-0.287480872267" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886805YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-7" lat="40.2457239792" lon="-0.288347626926" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787812YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-116" lat="40.2446684008" lon="-0.286546202477" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886206YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-40" lat="40.2444666428" lon="-0.286408809257" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986610YK3508N"/>
+  <tag k="addr:street" v="Carrer del Portal"/>
+</node>
+<node action="modify" id="-9" lat="40.24599254" lon="-0.288732602836" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787808YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-96" lat="40.24496797" lon="-0.28702810343" visible="true">
+  <tag k="addr:housenumber" v="20A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886228YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-179" lat="40.2449841831" lon="-0.287251286666" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886904YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-42" lat="40.2444192664" lon="-0.286358742278" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986609YK3508N"/>
+  <tag k="addr:street" v="Carrer del Portal"/>
+</node>
+<node action="modify" id="-11" lat="40.246403249" lon="-0.288383398081" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=12055A00200112"/>
+  <tag k="addr:street" v="Carrer del Calvari"/>
+</node>
+<node action="modify" id="-61" lat="40.2449604212" lon="-0.287956579744" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786406YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-100" lat="40.2450721259" lon="-0.287094783803" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886216YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-44" lat="40.2439708652" lon="-0.286364287642" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985403YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Om"/>
+</node>
+<node action="modify" id="-13" lat="40.2455155534" lon="-0.287185399501" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887702YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Punta de la Carretera"/>
+</node>
+<node action="modify" id="-171" lat="40.244366654" lon="-0.2865307769" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985202YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-120" lat="40.244940353" lon="-0.28741420495" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886807YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-152" lat="40.2449761205" lon="-0.28671322872" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986108YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-15" lat="40.2456479547" lon="-0.28714100197" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887101YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Punta de la Carretera"/>
+</node>
+<node action="modify" id="-247" lat="40.246520072" lon="-0.290773645126" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A20000000"/>
+  <tag k="addr:place" v="Partida de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-29" lat="40.2440687773" lon="-0.286409811333" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985206YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-122" lat="40.2451944601" lon="-0.287667336618" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886801YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-154" lat="40.2450582981" lon="-0.286779976086" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986110YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-131" lat="40.2450786387" lon="-0.287518396905" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886804YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-17" lat="40.2452387176" lon="-0.286750752637" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986001YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Hospital"/>
+</node>
+<node action="modify" id="-124" lat="40.2449827964" lon="-0.287408987132" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886907YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-144" lat="40.2455694513" lon="-0.287570153039" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887001YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-156" lat="40.2454408966" lon="-0.287274666238" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887704YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-19" lat="40.2449114112" lon="-0.286772202723" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886226YK3508N"/>
+  <tag k="addr:street" v="Carrer del Forat"/>
+</node>
+<node action="modify" id="-49" lat="40.2444219566" lon="-0.286223738383" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986601YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-126" lat="40.2452466495" lon="-0.287652909088" visible="true">
+  <tag k="addr:housenumber" v="27F"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786302YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-158" lat="40.2448260643" lon="-0.286520400383" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986105YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-162" lat="40.2449381221" lon="-0.28668234942" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986107YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-214" lat="40.2458945366" lon="-0.289041091907" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00854A10000000"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-52" lat="40.2442471656" lon="-0.286165368683" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986603YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-195" lat="40.2448759895" lon="-0.286375638391" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986103YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-105" lat="40.2451990185" lon="-0.287254500936" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886401YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-216" lat="40.2460104842" lon="-0.289129848329" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121100YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-204" lat="40.245108023" lon="-0.286712247742" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986005YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-54" lat="40.2454660842" lon="-0.288002242941" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786201YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Basses"/>
+</node>
+<node action="modify" id="-244" lat="40.2395624717" lon="-0.284443263627" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001230200YK35G"/>
+  <tag k="addr:place" v="Partida Vega"/>
+</node>
+<node action="modify" id="-85" lat="40.2446006848" lon="-0.286779667221" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886424YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-218" lat="40.2458730198" lon="-0.288861813292" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0685502YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-56" lat="40.2454568128" lon="-0.288197128797" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787006YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Basses"/>
+</node>
+<node action="modify" id="-222" lat="40.2459721779" lon="-0.288997499827" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=008520900YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-220" lat="40.2459187878" lon="-0.288932675788" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001141000YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-146" lat="40.2456910947" lon="-0.287598095605" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787403YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-109" lat="40.2451929846" lon="-0.287207273268" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886220YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-139" lat="40.2270412903" lon="-0.237437016096" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600500YK35F"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-60" lat="40.2449888966" lon="-0.287926935542" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786405YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-89" lat="40.2448087212" lon="-0.286985704627" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886422YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-48" lat="40.2442316508" lon="-0.286307952715" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986605YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-224" lat="40.2460293346" lon="-0.289050456708" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A80000000"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-187" lat="40.2448038366" lon="-0.286320342745" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986104YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-62" lat="40.2450293382" lon="-0.287650969372" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886701YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-177" lat="40.2449379663" lon="-0.287229741875" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886905YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-226" lat="40.246089941" lon="-0.289102788911" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A70000000"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-3" lat="40.2461610313" lon="-0.288951224697" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121300YK35G"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-192" lat="40.2451832732" lon="-0.286534195291" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987705YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-113" lat="40.2446575515" lon="-0.286515590932" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886205YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-228" lat="40.2461645116" lon="-0.289165206654" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001141100YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-4" lat="40.2462136005" lon="-0.289011596648" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A40000000"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-93" lat="40.2449196027" lon="-0.287049918963" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886406YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-243" lat="40.240906156" lon="-0.282602526744" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001730100YK35G"/>
+  <tag k="addr:place" v="Partida Vega"/>
+</node>
+<node action="modify" id="-230" lat="40.2464087975" lon="-0.289641633687" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121600YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-148" lat="40.2456771694" lon="-0.287383179341" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787401YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-68" lat="40.2448961973" lon="-0.287701622595" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=12055A01300196"/>
+  <tag k="addr:street" v="Carrer de la Costera"/>
+</node>
+<node action="modify" id="-206" lat="40.2455626729" lon="-0.287815449735" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787602YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-232" lat="40.2464698266" lon="-0.289737607015" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121600YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-70" lat="40.2454757877" lon="-0.287094351442" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887701YK3508N"/>
+  <tag k="addr:street" v="Era de la Carta de Poblament"/>
+</node>
+<node action="modify" id="-241" lat="40.2456656184" lon="-0.288510725301" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787002YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-142" lat="40.2382471757" lon="-0.295749846963" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002110200YK35G"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-117" lat="40.244630518" lon="-0.286691262523" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886410YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-189" lat="40.2450883527" lon="-0.286307453161" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987702YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-234" lat="40.2465454151" lon="-0.289856476557" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121600YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-72" lat="40.2453317618" lon="-0.287007695126" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887602YK3508N"/>
+  <tag k="addr:street" v="Era de la Carta de Poblament"/>
+</node>
+<node action="modify" id="-97" lat="40.2449990071" lon="-0.287104902367" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886405YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-184" lat="40.2444939745" lon="-0.286791623852" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886419YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-236" lat="40.2463878533" lon="-0.289490049216" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121500YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-74" lat="40.2452335189" lon="-0.287489235592" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886106YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a del Sastre"/>
+</node>
+<node action="modify" id="-45" lat="40.2439308575" lon="-0.286315384986" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985402YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Om"/>
+</node>
+<node action="modify" id="-76" lat="40.2452851298" lon="-0.287453897072" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886104YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a del Sastre"/>
+</node>
+<node action="modify" id="-137" lat="40.2270726651" lon="-0.23748721368" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000610300YK35F"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-1" lat="40.246419186" lon="-0.289424399286" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121500YK35G"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-240" lat="40.2456476103" lon="-0.288083906961" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787804YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-150" lat="40.2455371708" lon="-0.287382909762" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887801YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-78" lat="40.2451919337" lon="-0.287414345932" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886901YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a del Sastre"/>
+</node>
+<node action="modify" id="-101" lat="40.2450970517" lon="-0.287175862394" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886403YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-242" lat="40.23905083" lon="-0.284508384901" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001700600YK35G"/>
+  <tag k="addr:place" v="Partida Vega"/>
+</node>
+<node action="modify" id="-80" lat="40.2445375841" lon="-0.286254053964" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986901YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-168" lat="40.2442137982" lon="-0.286657951252" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985108YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-58" lat="40.2450366563" lon="-0.28821766604" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786901YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Escoles"/>
+</node>
+<node action="modify" id="-82" lat="40.2447211718" lon="-0.286207817902" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986201YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-181" lat="40.244381441" lon="-0.286593235961" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985201YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-199" lat="40.2452273768" lon="-0.286628326759" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986003YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-21" lat="40.2459512753" lon="-0.288138623355" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787901YK3508N"/>
+  <tag k="addr:street" v="Carrer del Fossar"/>
+</node>
+<node action="modify" id="-210" lat="40.2457537594" lon="-0.288864012843" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787001YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-160" lat="40.2449700697" lon="-0.286847331564" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886229YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-23" lat="40.2448361754" lon="-0.286026056439" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987501YK3508N"/>
+  <tag k="addr:street" v="Mirador del Castell"/>
+</node>
+<node action="modify" id="-106" lat="40.244567759" lon="-0.286612017575" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886412YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-25" lat="40.2449395019" lon="-0.286241562327" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987602YK3508N"/>
+  <tag k="addr:street" v="Mirador del Castell"/>
+</node>
+<node action="modify" id="-153" lat="40.2450180873" lon="-0.286747327071" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986109YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-86" lat="40.2447652677" lon="-0.286742220332" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886209YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-164" lat="40.2440467377" lon="-0.286509694425" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985111YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-133" lat="40.2270942481" lon="-0.237534753911" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000610200YK35F"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-183" lat="40.2443693794" lon="-0.286725080415" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985105YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-166" lat="40.244084779" lon="-0.286496986599" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985207YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-135" lat="40.2271908912" lon="-0.237696526468" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=50651010000000"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-110" lat="40.2452235463" lon="-0.287235751423" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886221YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-31" lat="40.2439405007" lon="-0.286612834829" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00854A20000000"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-196" lat="40.2448517028" lon="-0.286302580621" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987606YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-245" lat="40.2394408673" lon="-0.284481624706" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001230400YK35G"/>
+  <tag k="addr:place" v="Partida Vega"/>
+</node>
+<node action="modify" id="-90" lat="40.2447883779" lon="-0.286884577264" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886211YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-170" lat="40.2442868312" lon="-0.286699426899" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985107YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-33" lat="40.2440427107" lon="-0.286261234649" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985302YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-128" lat="40.2453783212" lon="-0.287552530236" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886107YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-141" lat="40.2382712663" lon="-0.295643690406" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=002110100YK35G"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-35" lat="40.243993099" lon="-0.286165923812" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985301YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-212" lat="40.2458568919" lon="-0.288997074333" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A10000000"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-114" lat="40.2453541022" lon="-0.287318783412" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886224YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-37" lat="40.244136413" lon="-0.286348735294" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985204YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-200" lat="40.2449335372" lon="-0.286370929981" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987608YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-159" lat="40.2448650399" lon="-0.286604041222" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986106YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-94" lat="40.2446072964" lon="-0.286478783638" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886204YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-176" lat="40.2450911711" lon="-0.287322821472" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886902YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-186" lat="40.2445877575" lon="-0.286993808019" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985103YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-39" lat="40.2445367852" lon="-0.286389066826" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886203YK3508N"/>
+  <tag k="addr:street" v="Carrer del Portal"/>
+</node>
+<node action="modify" id="-193" lat="40.2448106192" lon="-0.2862685498" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987605YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-8" lat="40.2459441953" lon="-0.288670254843" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787807YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-178" lat="40.2450911711" lon="-0.287322821472" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886902YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-41" lat="40.244400522" lon="-0.286422204416" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986608YK3508N"/>
+  <tag k="addr:street" v="Carrer del Portal"/>
+</node>
+<node action="modify" id="-10" lat="40.245874097" lon="-0.288499700105" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787806YK3508N"/>
+  <tag k="addr:street" v="Carrer del Calvari"/>
+</node>
+<node action="modify" id="-118" lat="40.2446122408" lon="-0.28656484384" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886207YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-43" lat="40.244387062" lon="-0.286349105881" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986607YK3508N"/>
+  <tag k="addr:street" v="Carrer del Portal"/>
+</node>
+<node action="modify" id="-130" lat="40.245418974" lon="-0.287604881187" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886108YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-12" lat="40.2457949081" lon="-0.287275051217" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887103YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Punta de la Carretera"/>
+</node>
+<node action="modify" id="-219" lat="40.2461087406" lon="-0.289205186261" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001141200YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-98" lat="40.2450371579" lon="-0.287068475025" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886215YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-182" lat="40.2444558343" lon="-0.286685945859" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886417YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-143" lat="40.2520135591" lon="-0.282819983486" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000700200YK35G"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-151" lat="40.2447740552" lon="-0.286550075596" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886201YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-14" lat="40.2455342746" lon="-0.287146315796" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887701YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Punta de la Carretera"/>
+</node>
+<node action="modify" id="-121" lat="40.2451481764" lon="-0.287607837781" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886802YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-27" lat="40.2443077383" lon="-0.286387603315" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986606YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-16" lat="40.2452022519" lon="-0.286732157709" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986006YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Hospital"/>
+</node>
+<node action="modify" id="-123" lat="40.2454483373" lon="-0.287780117961" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787501YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-155" lat="40.2451129023" lon="-0.286893715958" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886301YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-174" lat="40.2450115062" lon="-0.287328942605" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886903YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-18" lat="40.2452077311" lon="-0.286822237203" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887501YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Hospital"/>
+</node>
+<node action="modify" id="-102" lat="40.2451023153" lon="-0.287122833931" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886217YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-125" lat="40.2453508788" lon="-0.28773821724" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786301YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-203" lat="40.2449451526" lon="-0.286545726195" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986101YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-157" lat="40.24485949" lon="-0.286669964641" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886227YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-6" lat="40.246419186" lon="-0.289424399286" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121500YK35G"/>
+  <tag k="addr:street" v="Carrer de l'Argivello"/>
+</node>
+<node action="modify" id="-20" lat="40.2448734931" lon="-0.28674443273" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886225YK3508N"/>
+  <tag k="addr:street" v="Carrer del Forat"/>
+</node>
+<node action="modify" id="-51" lat="40.2443692425" lon="-0.286142828148" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986602YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-132" lat="40.2451144447" lon="-0.287564482187" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886803YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Creus"/>
+</node>
+<node action="modify" id="-83" lat="40.2445221292" lon="-0.28655451141" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886413YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-215" lat="40.2458462772" lon="-0.288820447696" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0685501YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-145" lat="40.2456528086" lon="-0.287661813909" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787404YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-53" lat="40.244230749" lon="-0.286244754136" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986604YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-138" lat="40.2269388803" lon="-0.237343051839" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000600400YK35F"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-217" lat="40.2455973085" lon="-0.287801833058" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787801YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-55" lat="40.2455484243" lon="-0.288146622457" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787005YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Basses"/>
+</node>
+<node action="modify" id="-107" lat="40.2451612429" lon="-0.287177680787" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886219YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-64" lat="40.2448386052" lon="-0.287384504314" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985101YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-57" lat="40.245408269" lon="-0.288298539101" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787007YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Basses"/>
+</node>
+<node action="modify" id="-87" lat="40.2447392583" lon="-0.286906090817" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886407YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-202" lat="40.2452495109" lon="-0.286451089702" visible="true">
+  <tag k="addr:housenumber" v="9D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986007YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-77" lat="40.2452940179" lon="-0.287390564306" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886103YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a del Sastre"/>
+</node>
+<node action="modify" id="-221" lat="40.2461777631" lon="-0.289284155682" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=008520300YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-205" lat="40.2451257574" lon="-0.286648815001" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986004YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de Sant Crist&#242;fol"/>
+</node>
+<node action="modify" id="-59" lat="40.2452585695" lon="-0.287950322142" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786101YK3508N"/>
+  <tag k="addr:street" v="Carrer de les Escoles"/>
+</node>
+<node action="modify" id="-209" lat="40.2456555496" lon="-0.288340081238" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787701YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-223" lat="40.2462340533" lon="-0.289364415441" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121400YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-50" lat="40.2441786109" lon="-0.286135759566" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986501YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-208" lat="40.2456903302" lon="-0.288701895986" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787009YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-111" lat="40.2452587133" lon="-0.287268495033" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886222YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-225" lat="40.2462753618" lon="-0.289430005116" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121700YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-147" lat="40.2454648717" lon="-0.287491156621" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886101YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-63" lat="40.2451107199" lon="-0.287841379833" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786401YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-91" lat="40.2448469966" lon="-0.287017030364" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886423YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-227" lat="40.2455830644" lon="-0.28788034632" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787601YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-65" lat="40.2450947708" lon="-0.287880973769" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786402YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-165" lat="40.2441680308" lon="-0.28653000875" visible="true">
+  <tag k="addr:housenumber" v="11E"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985209YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-207" lat="40.2456807679" lon="-0.28817762421" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787810YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-66" lat="40.2450688356" lon="-0.287915028262" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786403YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-67" lat="40.2450455561" lon="-0.287945224183" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0786404YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Albarder"/>
+</node>
+<node action="modify" id="-188" lat="40.2449922653" lon="-0.286420116509" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987609YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-197" lat="40.2449440318" lon="-0.286424420185" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986102YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-115" lat="40.2445991378" lon="-0.286651611381" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886411YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-172" lat="40.2448567913" lon="-0.287138811364" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886420YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-231" lat="40.2462388454" lon="-0.289293491219" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=00852A60000000"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-69" lat="40.2454396839" lon="-0.287170937259" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887703YK3508N"/>
+  <tag k="addr:street" v="Era de la Carta de Poblament"/>
+</node>
+<node action="modify" id="-246" lat="40.2394863159" lon="-0.284499084345" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001230300YK35G"/>
+  <tag k="addr:place" v="Partida Vega"/>
+</node>
+<node action="modify" id="-95" lat="40.2450017792" lon="-0.287047763121" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886214YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-233" lat="40.2462903168" lon="-0.289336361794" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=001121200YK35G"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-71" lat="40.2454748374" lon="-0.28698727859" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887901YK3508N"/>
+  <tag k="addr:street" v="Era de la Carta de Poblament"/>
+</node>
+<node action="modify" id="-136" lat="40.2271050524" lon="-0.237659002033" visible="true">
+  <tag k="addr:housenumber" v="272"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=000610100YK35F"/>
+  <tag k="addr:street" v="Pista de l'Estepar"/>
+</node>
+<node action="modify" id="-235" lat="40.2456339981" lon="-0.287906686502" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787802YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-149" lat="40.2455778789" lon="-0.287421131808" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887802YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de la Font"/>
+</node>
+<node action="modify" id="-73" lat="40.2452425383" lon="-0.287001855693" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0887601YK3508N"/>
+  <tag k="addr:street" v="Era de la Carta de Poblament"/>
+</node>
+<node action="modify" id="-238" lat="40.2456209847" lon="-0.287977464872" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787803YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-119" lat="40.2446711044" lon="-0.286754746319" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886409YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-237" lat="40.2456070743" lon="-0.28819578954" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787004YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-75" lat="40.2452787076" lon="-0.287499666563" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886105YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a del Sastre"/>
+</node>
+<node action="modify" id="-99" lat="40.2450452924" lon="-0.287135969403" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886404YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-185" lat="40.2445292907" lon="-0.286834497235" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886418YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-167" lat="40.244159092" lon="-0.286605171962" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985208YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Ferreria"/>
+</node>
+<node action="modify" id="-239" lat="40.2456203738" lon="-0.288377136903" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0787003YK3508N"/>
+  <tag k="addr:street" v="Carrer de Sant Joan de Penyagolosa"/>
+</node>
+<node action="modify" id="-28" lat="40.244103811" lon="-0.286384652919" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985205YK3508N"/>
+  <tag k="addr:street" v="Cam&#237; dels Pelegrins"/>
+</node>
+<node action="modify" id="-180" lat="40.2444474703" lon="-0.286616573903" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886416YK3508N"/>
+  <tag k="addr:street" v="Carrer de Pelaire"/>
+</node>
+<node action="modify" id="-46" lat="40.2438944721" lon="-0.286204085683" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0985401YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Om"/>
+</node>
+<node action="modify" id="-47" lat="40.2443510077" lon="-0.286083201117" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0986401YK3508N"/>
+  <tag k="addr:street" v="Carrer de la Roca"/>
+</node>
+<node action="modify" id="-79" lat="40.2451505962" lon="-0.287398509728" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886908YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a del Sastre"/>
+</node>
+<node action="modify" id="-81" lat="40.2446094667" lon="-0.286343877607" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886202YK3508N"/>
+  <tag k="addr:street" v="Pla&#231;a de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-84" lat="40.244712395" lon="-0.286693499571" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886208YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-103" lat="40.2451529708" lon="-0.287218982802" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886402YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-104" lat="40.2451293005" lon="-0.287147923676" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886218YK3508N"/>
+  <tag k="addr:street" v="Carrer d'Enmig"/>
+</node>
+<node action="modify" id="-22" lat="40.244812953" lon="-0.286182791058" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987604YK3508N"/>
+  <tag k="addr:street" v="Mirador del Castell"/>
+</node>
+<node action="modify" id="-190" lat="40.2451016113" lon="-0.286396586159" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987703YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-161" lat="40.2449903575" lon="-0.286903549137" visible="true">
+  <tag k="addr:housenumber" v="7D"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886213YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-24" lat="40.2449175415" lon="-0.286138700988" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987603YK3508N"/>
+  <tag k="addr:street" v="Mirador del Castell"/>
+</node>
+<node action="modify" id="-191" lat="40.2451035472" lon="-0.286494536055" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987704YK3508N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-163" lat="40.2449001938" lon="-0.286922903196" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0886212YK3508N"/>
+  <tag k="addr:street" v="Carrer de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-26" lat="40.244993229" lon="-0.28622876783" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="12134"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=0987601YK3508N"/>
+  <tag k="addr:street" v="Mirador del Castell"/>
+</node>
+</osm>
