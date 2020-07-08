@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-64" lat="41.7487628065" lon="-4.30033837842" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028922UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-107" lat="41.7484617677" lon="-4.30155256164" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929804UM9212N"/>
+  <tag k="addr:street" v="Calle Cotarrilla"/>
+</node>
+<node action="modify" id="-63" lat="41.7492696852" lon="-4.3003770558" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030102UM9223S"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-66" lat="41.7489885384" lon="-4.30037153338" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028924UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-105" lat="41.7484996114" lon="-4.30144207106" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929805UM9212N"/>
+  <tag k="addr:street" v="Calle Cotarrilla"/>
+</node>
+<node action="modify" id="-41" lat="41.748091218" lon="-4.30146564983" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929706UM9212N"/>
+  <tag k="addr:street" v="Calle Rollo"/>
+</node>
+<node action="modify" id="-70" lat="41.7480425849" lon="-4.30061702183" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028304UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-43" lat="41.7493092663" lon="-4.30208493708" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1830701UM9213S"/>
+  <tag k="addr:street" v="Calle Afueras del Moral"/>
+</node>
+<node action="modify" id="-72" lat="41.7481809549" lon="-4.30032094812" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028916UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-94" lat="41.7479258055" lon="-4.29995291317" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028909UM9222N"/>
+  <tag k="addr:street" v="Calle Carretera Alba"/>
+</node>
+<node action="modify" id="-99" lat="41.7488296563" lon="-4.3023042255" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829506UM9212N"/>
+  <tag k="addr:street" v="Calle el Concejo"/>
+</node>
+<node action="modify" id="-16" lat="41.7490556162" lon="-4.301325171" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929602UM9212N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-46" lat="41.7490339268" lon="-4.30055258414" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030104UM9223S"/>
+  <tag k="addr:street" v="Calle Salegar"/>
+</node>
+<node action="modify" id="-76" lat="41.7493512008" lon="-4.30091380544" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030108UM9223S"/>
+  <tag k="addr:street" v="Traves&#237;a el Salegar"/>
+</node>
+<node action="modify" id="-25" lat="41.7490557961" lon="-4.30210778053" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829501UM9212N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-7" lat="41.7482475575" lon="-4.30267387058" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828401UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-78" lat="41.7485325905" lon="-4.30264850582" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829901UM9212N"/>
+  <tag k="addr:street" v="Plaza Agustin Duque"/>
+</node>
+<node action="modify" id="-15" lat="41.7484064713" lon="-4.30226135906" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829702UM9212N"/>
+  <tag k="addr:street" v="Calle Escalon"/>
+</node>
+<node action="modify" id="-80" lat="41.7485345177" lon="-4.30221338622" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929103UM9212N"/>
+  <tag k="addr:street" v="Plaza Agustin Duque"/>
+</node>
+<node action="modify" id="-49" lat="41.7491043713" lon="-4.30065237853" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030106UM9223S"/>
+  <tag k="addr:street" v="Calle Salegar"/>
+</node>
+<node action="modify" id="-12" lat="41.7485787442" lon="-4.30415285824" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1729909UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-37" lat="41.7483216662" lon="-4.30141024693" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929802UM9212N"/>
+  <tag k="addr:street" v="Calle la Liebre"/>
+</node>
+<node action="modify" id="-82" lat="41.7484388968" lon="-4.30277296263" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829801UM9212N"/>
+  <tag k="addr:street" v="Plaza Agustin Duque"/>
+</node>
+<node action="modify" id="-52" lat="41.7482615885" lon="-4.30212668224" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829705UM9212N"/>
+  <tag k="addr:street" v="Calle Solana Baja"/>
+</node>
+<node action="modify" id="-4" lat="41.7480532723" lon="-4.3017930026" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1928301UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-21" lat="41.7492598024" lon="-4.30105205338" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930802UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-54" lat="41.7488768954" lon="-4.30253295957" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829401UM9212N"/>
+  <tag k="addr:street" v="Calle Arrabal"/>
+</node>
+<node action="modify" id="-6" lat="41.748221216" lon="-4.30306056901" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828905UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-2" lat="41.7478194509" lon="-4.30073146223" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028914UM9222N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-85" lat="41.7489691763" lon="-4.30355853807" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1729901UM9212N"/>
+  <tag k="addr:street" v="Camino Bodegas"/>
+</node>
+<node action="modify" id="-30" lat="41.7490925975" lon="-4.30107930566" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2029301UM9222N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-32" lat="41.7485141874" lon="-4.30130865822" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929801UM9212N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-103" lat="41.7488369297" lon="-4.3021425542" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829505UM9212N"/>
+  <tag k="addr:street" v="Calle el Concejo"/>
+</node>
+<node action="modify" id="-34" lat="41.7486253656" lon="-4.30194090117" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929101UM9212N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-90" lat="41.748050047" lon="-4.30085646246" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028306UM9222N"/>
+  <tag k="addr:street" v="Calle Ancha"/>
+</node>
+<node action="modify" id="-68" lat="41.7492115203" lon="-4.30028167714" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028927UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-1" lat="41.7477285343" lon="-4.30108820798" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1928702UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-101" lat="41.7487398997" lon="-4.30219468733" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929205UM9212N"/>
+  <tag k="addr:street" v="Calle el Concejo"/>
+</node>
+<node action="modify" id="-88" lat="41.7481246914" lon="-4.30096398294" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929703UM9212N"/>
+  <tag k="addr:street" v="Calle Ancha"/>
+</node>
+<node action="modify" id="-11" lat="41.7485143245" lon="-4.30386807403" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1729908UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-47" lat="41.7493111194" lon="-4.30111654618" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930801UM9213S"/>
+  <tag k="addr:street" v="Calle Salegar"/>
+</node>
+<node action="modify" id="-3" lat="41.748088102" lon="-4.30246190915" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828907UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-84" lat="41.7487396364" lon="-4.30333284644" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829404UM9212N"/>
+  <tag k="addr:street" v="Camino Bodegas"/>
+</node>
+<node action="modify" id="-20" lat="41.7490279067" lon="-4.30118326159" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929616UM9212N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-39" lat="41.7483155317" lon="-4.30155011169" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929803UM9212N"/>
+  <tag k="addr:street" v="Calle la Liebre"/>
+</node>
+<node action="modify" id="-55" lat="41.7488856848" lon="-4.3015363071" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929613UM9212N"/>
+  <tag k="addr:street" v="Traves&#237;a del Corrillo"/>
+</node>
+<node action="modify" id="-93" lat="41.748383863" lon="-4.30064455426" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028309UM9222N"/>
+  <tag k="addr:street" v="Calle Barrionuevo"/>
+</node>
+<node action="modify" id="-50" lat="41.7482677431" lon="-4.30192251994" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829703UM9212N"/>
+  <tag k="addr:street" v="Calle Solana Baja"/>
+</node>
+<node action="modify" id="-57" lat="41.7488589474" lon="-4.30140566226" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929615UM9212N"/>
+  <tag k="addr:street" v="Traves&#237;a del Corrillo"/>
+</node>
+<node action="modify" id="-97" lat="41.7479049284" lon="-4.29968835538" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028602UM9222N"/>
+  <tag k="addr:street" v="Calle Carretera Alba"/>
+</node>
+<node action="modify" id="-28" lat="41.7487383841" lon="-4.30102950297" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929605UM9212N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-59" lat="41.7483741862" lon="-4.3002994311" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028919UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-61" lat="41.7491839103" lon="-4.30045345642" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030103UM9223S"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-24" lat="41.7491175507" lon="-4.30126586787" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930803UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-65" lat="41.7479252284" lon="-4.30067261851" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028915UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-38" lat="41.7483644545" lon="-4.3012562591" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929709UM9212N"/>
+  <tag k="addr:street" v="Calle la Liebre"/>
+</node>
+<node action="modify" id="-106" lat="41.7485728156" lon="-4.301485894" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929901UM9212N"/>
+  <tag k="addr:street" v="Calle Cotarrilla"/>
+</node>
+<node action="modify" id="-67" lat="41.7490504601" lon="-4.300368668" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028925UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-95" lat="41.7488418613" lon="-4.29931882595" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028903UM9222N"/>
+  <tag k="addr:street" v="Calle Carretera Alba"/>
+</node>
+<node action="modify" id="-40" lat="41.7485391521" lon="-4.30081496147" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2029203UM9222N"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-69" lat="41.7492945125" lon="-4.30025378654" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028928UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-42" lat="41.7481230826" lon="-4.30159208704" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929707UM9212N"/>
+  <tag k="addr:street" v="Calle Rollo"/>
+</node>
+<node action="modify" id="-71" lat="41.749401004" lon="-4.30016691848" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028901UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-17" lat="41.749068904" lon="-4.30157364149" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930806UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-73" lat="41.7481475899" lon="-4.3004770539" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028303UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-98" lat="41.7487759757" lon="-4.30218349319" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929201UM9212N"/>
+  <tag k="addr:street" v="Calle el Concejo"/>
+</node>
+<node action="modify" id="-44" lat="41.7494435808" lon="-4.30162718339" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930203UM9213S"/>
+  <tag k="addr:street" v="Calle Salegar"/>
+</node>
+<node action="modify" id="-75" lat="41.748444885" lon="-4.30039160026" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028301UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-96" lat="41.7491859533" lon="-4.2991244172" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028902UM9222N"/>
+  <tag k="addr:street" v="Calle Carretera Alba"/>
+</node>
+<node action="modify" id="-77" lat="41.7494697486" lon="-4.30079465292" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030101UM9223S"/>
+  <tag k="addr:street" v="Traves&#237;a el Salegar"/>
+</node>
+<node action="modify" id="-48" lat="41.7490670536" lon="-4.30059967671" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2030105UM9223S"/>
+  <tag k="addr:street" v="Calle Salegar"/>
+</node>
+<node action="modify" id="-79" lat="41.7484986594" lon="-4.30240056568" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829701UM9212N"/>
+  <tag k="addr:street" v="Plaza Agustin Duque"/>
+</node>
+<node action="modify" id="-23" lat="41.7490261454" lon="-4.3015222887" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929601UM9212N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-92" lat="41.7485642215" lon="-4.30045047818" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2029202UM9222N"/>
+  <tag k="addr:street" v="Calle Barrionuevo"/>
+</node>
+<node action="modify" id="-81" lat="41.7484177532" lon="-4.30241850719" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829707UM9212N"/>
+  <tag k="addr:street" v="Plaza Agustin Duque"/>
+</node>
+<node action="modify" id="-29" lat="41.7490191136" lon="-4.30100218816" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2029302UM9222N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-51" lat="41.7482112703" lon="-4.30197117293" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829704UM9212N"/>
+  <tag k="addr:street" v="Calle Solana Baja"/>
+</node>
+<node action="modify" id="-83" lat="41.7489052631" lon="-4.30352369503" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1729910UM9212N"/>
+  <tag k="addr:street" v="Camino Bodegas"/>
+</node>
+<node action="modify" id="-53" lat="41.7482643605" lon="-4.30224356705" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829706UM9212N"/>
+  <tag k="addr:street" v="Calle Solana Baja"/>
+</node>
+<node action="modify" id="-9" lat="41.7483749285" lon="-4.30373174403" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828902UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-74" lat="41.7482948197" lon="-4.30040946071" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028302UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-86" lat="41.7483218144" lon="-4.3007349246" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028308UM9222N"/>
+  <tag k="addr:street" v="Calle Ancha"/>
+</node>
+<node action="modify" id="-104" lat="41.7487132102" lon="-4.30174331612" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929611UM9212N"/>
+  <tag k="addr:street" v="Calle el Corrillo"/>
+</node>
+<node action="modify" id="-18" lat="41.7493135216" lon="-4.30169386104" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930807UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-91" lat="41.7480719401" lon="-4.30136194694" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929705UM9212N"/>
+  <tag k="addr:street" v="Calle Ancha"/>
+</node>
+<node action="modify" id="-33" lat="41.7486219218" lon="-4.30148175446" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929609UM9212N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-35" lat="41.7486900592" lon="-4.30187234502" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929202UM9212N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-102" lat="41.7488483454" lon="-4.30202037592" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829504UM9212N"/>
+  <tag k="addr:street" v="Calle el Concejo"/>
+</node>
+<node action="modify" id="-62" lat="41.7486654476" lon="-4.30032315263" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028921UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-89" lat="41.7481224289" lon="-4.30081478232" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028307UM9222N"/>
+  <tag k="addr:street" v="Calle Ancha"/>
+</node>
+<node action="modify" id="-22" lat="41.7490958083" lon="-4.30199719361" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930811UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-14" lat="41.7477320886" lon="-4.30034431955" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028911UM9222N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-45" lat="41.7494575718" lon="-4.30196078154" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930202UM9213S"/>
+  <tag k="addr:street" v="Calle Salegar"/>
+</node>
+<node action="modify" id="-8" lat="41.748336357" lon="-4.30355909637" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828903UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-100" lat="41.7486920073" lon="-4.30230070429" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1829603UM9212N"/>
+  <tag k="addr:street" v="Calle el Concejo"/>
+</node>
+<node action="modify" id="-87" lat="41.7482601797" lon="-4.30075964888" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028310UM9222N"/>
+  <tag k="addr:street" v="Calle Ancha"/>
+</node>
+<node action="modify" id="-27" lat="41.7489727354" lon="-4.30095396841" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2029303UM9222N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-26" lat="41.7491023425" lon="-4.30133500706" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930804UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-36" lat="41.7492012466" lon="-4.30261405871" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1830803UM9213S"/>
+  <tag k="addr:street" v="Calle Detras de la Iglesia"/>
+</node>
+<node action="modify" id="-5" lat="41.7482242871" lon="-4.30256478443" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828402UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-13" lat="41.747884234" lon="-4.30152441914" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1828912UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-19" lat="41.7490664553" lon="-4.30181286889" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1930809UM9213S"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-10" lat="41.7478151532" lon="-4.30122540376" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1928701UM9212N"/>
+  <tag k="addr:street" v="Calle Dr M G Canal"/>
+</node>
+<node action="modify" id="-56" lat="41.7488681472" lon="-4.30146019964" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929614UM9212N"/>
+  <tag k="addr:street" v="Traves&#237;a del Corrillo"/>
+</node>
+<node action="modify" id="-31" lat="41.7489910015" lon="-4.30106847341" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=1929603UM9212N"/>
+  <tag k="addr:street" v="Calle Hospicio"/>
+</node>
+<node action="modify" id="-58" lat="41.7479712886" lon="-4.30092833746" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028305UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+<node action="modify" id="-60" lat="41.7484983692" lon="-4.30030494074" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47177"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=2028920UM9222N"/>
+  <tag k="addr:street" v="Calle la Gardu&#241;a"/>
+</node>
+</osm>
