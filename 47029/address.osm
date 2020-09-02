@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-20" lat="42.1672385943" lon="-5.15917905896" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9708301UM1790N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-2" lat="42.1669085896" lon="-5.15812035325" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908802UM1790N"/>
+  <tag k="addr:street" v="Calle Almireces"/>
+</node>
+<node action="modify" id="-9" lat="42.1677667395" lon="-5.15698356929" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47029A00300018"/>
+  <tag k="addr:street" v="Munic&#237;pio Municipio"/>
+</node>
+<node action="modify" id="-4" lat="42.1676055725" lon="-5.15748275239" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908808UM1790N"/>
+  <tag k="addr:street" v="Calle Almireces"/>
+</node>
+<node action="modify" id="-10" lat="42.1669295461" lon="-5.15600277163" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47029A00320120"/>
+  <tag k="addr:street" v="Munic&#237;pio Municipio"/>
+</node>
+<node action="modify" id="-16" lat="42.1677093821" lon="-5.15906008695" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9809001UM1790N"/>
+  <tag k="addr:street" v="Calle Derecha"/>
+</node>
+<node action="modify" id="-17" lat="42.1674923548" lon="-5.15892718267" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9809502UM1790N"/>
+  <tag k="addr:street" v="Calle Derecha"/>
+</node>
+<node action="modify" id="-11" lat="42.1674878181" lon="-5.15785125158" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908806UM1790N"/>
+  <tag k="addr:street" v="Calle Brujas"/>
+</node>
+<node action="modify" id="-5" lat="42.1675076234" lon="-5.1575396498" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908807UM1790N"/>
+  <tag k="addr:street" v="Calle Almireces"/>
+</node>
+<node action="modify" id="-14" lat="42.1671174284" lon="-5.15875678592" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9808202UM1790N"/>
+  <tag k="addr:street" v="Calle Derecha"/>
+</node>
+<node action="modify" id="-1" lat="42.1677969818" lon="-5.15740018257" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908809UM1790N"/>
+  <tag k="addr:street" v="Calle Almireces"/>
+</node>
+<node action="modify" id="-6" lat="42.1673518505" lon="-5.15762685891" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908805UM1790N"/>
+  <tag k="addr:street" v="Calle Almireces"/>
+</node>
+<node action="modify" id="-18" lat="42.1683416941" lon="-5.1587378677" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9809101UM1790N"/>
+  <tag k="addr:street" v="Calle Escuelas"/>
+</node>
+<node action="modify" id="-13" lat="42.1673293164" lon="-5.15825746808" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9808205UM1790N"/>
+  <tag k="addr:street" v="Calle Brujas"/>
+</node>
+<node action="modify" id="-21" lat="42.1683307545" lon="-5.15797899489" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9909104UM1790N"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-7" lat="42.1680575667" lon="-5.15853931842" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9809503UM1790N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-19" lat="42.1685371324" lon="-5.1590601253" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9810601UM1791S"/>
+  <tag k="addr:street" v="Calle Escuelas"/>
+</node>
+<node action="modify" id="-8" lat="42.1681598359" lon="-5.15957984029" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9709101UM1790N"/>
+  <tag k="addr:street" v="Calle Pajares"/>
+</node>
+<node action="modify" id="-12" lat="42.167466489" lon="-5.15791428292" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9808204UM1790N"/>
+  <tag k="addr:street" v="Calle Brujas"/>
+</node>
+<node action="modify" id="-3" lat="42.1667844059" lon="-5.15839849809" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9908801UM1790N"/>
+  <tag k="addr:street" v="Calle Almireces"/>
+</node>
+<node action="modify" id="-15" lat="42.1667358824" lon="-5.1586678703" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47689"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9807101UM1790N"/>
+  <tag k="addr:street" v="Calle Derecha"/>
+</node>
+</osm>
