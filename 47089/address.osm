@@ -1,0 +1,1019 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-126" lat="42.2441860048" lon="-5.14288933335" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393001UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-128" lat="42.2449686022" lon="-5.14294021792" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394601UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-145" lat="42.2421979033" lon="-5.1415411878" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591712UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-143" lat="42.242109681" lon="-5.14168684363" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591713UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-80" lat="42.2438564857" lon="-5.14327213454" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392801UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-23" lat="42.242904917" lon="-5.14003279297" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592303UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-132" lat="42.2437289799" lon="-5.14192456119" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492001UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-25" lat="42.2426169646" lon="-5.14025837298" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592305UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-134" lat="42.2443920207" lon="-5.14258613826" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393201UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-136" lat="42.2447031135" lon="-5.14280710365" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393102UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-28" lat="42.2436307516" lon="-5.14094006481" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593717UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-118" lat="42.244409418" lon="-5.14276281619" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393104UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-138" lat="42.2421821278" lon="-5.14188628058" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591715UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-84" lat="42.2425374901" lon="-5.14288673991" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3391104UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-32" lat="42.243410655" lon="-5.14100674872" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492010UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-7" lat="42.2426331852" lon="-5.14140669004" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592607UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-45" lat="42.2452842992" lon="-5.14245793512" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494802UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-115" lat="42.2446655111" lon="-5.14219357248" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494703UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-83" lat="42.2426098764" lon="-5.14291186104" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3391103UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-88" lat="42.2431299037" lon="-5.14395956987" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392814UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-36" lat="42.2439907891" lon="-5.14151095697" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493004UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-11" lat="42.2425760191" lon="-5.14069782946" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591703UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-2" lat="42.2428139921" lon="-5.1408188933" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592603UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-91" lat="42.2447176327" lon="-5.1409950044" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593705UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-122" lat="42.2421803752" lon="-5.14266242356" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491609UM2739S"/>
+  <tag k="addr:street" v="Calle Corrillo"/>
+</node>
+<node action="modify" id="-79" lat="42.2431094352" lon="-5.14302852144" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392316UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-47" lat="42.2440691677" lon="-5.13998570218" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3693701UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-40" lat="42.2451416721" lon="-5.14148992515" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494203UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-60" lat="42.2445047304" lon="-5.14172654835" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493803UM2739S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-109" lat="42.2444088467" lon="-5.14165313122" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493001UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-95" lat="42.2440973276" lon="-5.14184070289" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493009UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-42" lat="42.2436503231" lon="-5.13923374984" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3693401UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-97" lat="42.2435731109" lon="-5.14211543871" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492027UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-44" lat="42.2453921678" lon="-5.14239798993" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494801UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-99" lat="42.242876591" lon="-5.14224582586" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392311UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-46" lat="42.2452495889" lon="-5.14249517158" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494803UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-3" lat="42.242543633" lon="-5.14134596432" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591719UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-101" lat="42.2426748249" lon="-5.14217602768" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392313UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-77" lat="42.24322178" lon="-5.14302398811" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392318UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-103" lat="42.244663363" lon="-5.14115326469" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593704UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-50" lat="42.2450486678" lon="-5.14272611275" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394203UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-105" lat="42.2421088268" lon="-5.14199508905" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491501UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-52" lat="42.2448594092" lon="-5.14294949328" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394602UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-146" lat="42.2419722422" lon="-5.14150257684" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491401UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-107" lat="42.2441617002" lon="-5.14188276035" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493804UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-81" lat="42.243019317" lon="-5.1429940949" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392315UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-29" lat="42.2436751142" lon="-5.14147141865" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492004UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-56" lat="42.2442601319" lon="-5.14353050486" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394611UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-139" lat="42.2420210389" lon="-5.14147432031" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591710UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-111" lat="42.2443152459" lon="-5.14291430296" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393106UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-58" lat="42.2442545179" lon="-5.14037823982" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593711UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-113" lat="42.2447532317" lon="-5.142021553" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494001UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-85" lat="42.2424622461" lon="-5.14286477474" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3391105UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-33" lat="42.2443577932" lon="-5.14147020567" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593723UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-62" lat="42.2448071119" lon="-5.14178019523" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494501UM2739S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-8" lat="42.242356087" lon="-5.14184451495" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591716UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-21" lat="42.2419102078" lon="-5.14127920767" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591709UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-117" lat="42.2441399544" lon="-5.1430466685" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393012UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-64" lat="42.2430239876" lon="-5.1413155766" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492014UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-119" lat="42.2435269809" lon="-5.14305357976" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392322UM2739S"/>
+  <tag k="addr:street" v="Calle Escuelas"/>
+</node>
+<node action="modify" id="-66" lat="42.2428954385" lon="-5.14148871898" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492017UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-48" lat="42.2451677194" lon="-5.14258541004" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394201UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-37" lat="42.2439237058" lon="-5.14154904787" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493005UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-68" lat="42.2431850068" lon="-5.1410411941" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592601UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-12" lat="42.2429811934" lon="-5.14346696131" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392811UM2739S"/>
+  <tag k="addr:street" v="Calle Primo Rivera"/>
+</node>
+<node action="modify" id="-69" lat="42.2436563562" lon="-5.14025164493" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593714UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-14" lat="42.2424056543" lon="-5.14054114549" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591704UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-71" lat="42.2432026549" lon="-5.13929534202" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3692703UM2739S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun"/>
+</node>
+<node action="modify" id="-123" lat="42.2447610188" lon="-5.14278150072" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494708UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-142" lat="42.2419482655" lon="-5.14171570601" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491503UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-16" lat="42.2420804295" lon="-5.14103369811" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591706UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-125" lat="42.2438520522" lon="-5.14220797913" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493807UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-127" lat="42.2441545643" lon="-5.14283466559" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393002UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-129" lat="42.2440518629" lon="-5.14272496214" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393005UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-147" lat="42.2421733723" lon="-5.14148686655" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591711UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-76" lat="42.2432568385" lon="-5.14308448203" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392319UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-131" lat="42.2440818393" lon="-5.14256448734" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393203UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-130" lat="42.2439232806" lon="-5.14271510366" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393006UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-24" lat="42.2427160812" lon="-5.14016652248" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592304UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-78" lat="42.2432130925" lon="-5.14313761874" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392809UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-133" lat="42.2436867105" lon="-5.14171118751" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492002UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-26" lat="42.2448864754" lon="-5.14167714341" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494301UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-135" lat="42.2447783822" lon="-5.14286483903" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393101UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-137" lat="42.2445365988" lon="-5.1426119394" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494704UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-73" lat="42.2449627554" lon="-5.14237484294" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494701UM2739S"/>
+  <tag k="addr:street" v="Calle Carretera"/>
+</node>
+<node action="modify" id="-34" lat="42.2440681566" lon="-5.14150691483" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493003UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-82" lat="42.2428979592" lon="-5.14323149473" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3391111UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-38" lat="42.2438624089" lon="-5.1414921672" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593720UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-4" lat="42.2427780342" lon="-5.14090324443" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592604UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-93" lat="42.2435462937" lon="-5.14219004762" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392305UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-30" lat="42.2442013891" lon="-5.14150516845" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493002UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-140" lat="42.2420515485" lon="-5.14164781396" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491502UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-106" lat="42.2418463113" lon="-5.14192973879" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491504UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-18" lat="42.2430159607" lon="-5.14005806268" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592308UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-9" lat="42.2425628307" lon="-5.1415278236" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592608UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-89" lat="42.2437443716" lon="-5.14323360965" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392815UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-120" lat="42.2421882135" lon="-5.14302715297" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3391107UM2739S"/>
+  <tag k="addr:street" v="Calle Corrillo"/>
+</node>
+<node action="modify" id="-86" lat="42.2428998696" lon="-5.14353782924" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392601UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-90" lat="42.2436624233" lon="-5.1433001375" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392804UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-144" lat="42.241797914" lon="-5.1417048545" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491404UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-92" lat="42.2443180116" lon="-5.14170510777" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493011UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-39" lat="42.2443314188" lon="-5.14047570578" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593710UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-94" lat="42.2441903608" lon="-5.14178102317" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493010UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-41" lat="42.2453734395" lon="-5.14213535019" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494206UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-96" lat="42.2433548317" lon="-5.14225640584" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392307UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-43" lat="42.2443333475" lon="-5.14331480801" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393109UM2729S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-98" lat="42.2430165832" lon="-5.14226105571" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392310UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-75" lat="42.2433122373" lon="-5.14310345705" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392320UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-100" lat="42.2432015922" lon="-5.14223139544" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492022UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-74" lat="42.2440191096" lon="-5.14320660986" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393011UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-141" lat="42.2421467784" lon="-5.14177796323" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591714UM2739S"/>
+  <tag k="addr:street" v="Calle Pradillo"/>
+</node>
+<node action="modify" id="-102" lat="42.2431065997" lon="-5.14213808325" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492021UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-49" lat="42.2451105012" lon="-5.14265061593" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394202UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-104" lat="42.2429828776" lon="-5.14216247775" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492020UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-51" lat="42.2449933039" lon="-5.14279796546" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394204UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-1" lat="42.2434655286" lon="-5.14025554007" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592301UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-27" lat="42.2437841941" lon="-5.14165941109" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493007UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-53" lat="42.2448503108" lon="-5.14333425079" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394605UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-22" lat="42.2418065735" lon="-5.14143315747" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491402UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-108" lat="42.2446181712" lon="-5.14135367261" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593702UM2739S"/>
+  <tag k="addr:street" v="Calle Mayor Divisoria"/>
+</node>
+<node action="modify" id="-55" lat="42.2441127367" lon="-5.1402825862" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593713UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-63" lat="42.2431065966" lon="-5.14125208343" visible="true">
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492012UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-112" lat="42.2441819296" lon="-5.14326991241" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393108UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-110" lat="42.2443679262" lon="-5.14282261556" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3393105UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-57" lat="42.2451399418" lon="-5.14313287729" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47089A00505262"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+<node action="modify" id="-5" lat="42.2426542786" lon="-5.14131191714" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592605UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-31" lat="42.2436311925" lon="-5.14131488795" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492006UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-59" lat="42.2447244775" lon="-5.14147230296" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3594701UM2739S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-6" lat="42.2424658559" lon="-5.1415937205" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591717UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-114" lat="42.2445193621" lon="-5.14237768567" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493813UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-61" lat="42.2446310834" lon="-5.14183084256" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493801UM2739S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-116" lat="42.2444762265" lon="-5.14252537894" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493812UM2739S"/>
+  <tag k="addr:street" v="Calle Cuatro Esquinas"/>
+</node>
+<node action="modify" id="-19" lat="42.243099653" lon="-5.14029749319" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592309UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-87" lat="42.2431056154" lon="-5.14391959913" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3392813UM2739S"/>
+  <tag k="addr:street" v="Calle Cebollera"/>
+</node>
+<node action="modify" id="-35" lat="42.2442715499" lon="-5.14143927017" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3593722UM2739S"/>
+  <tag k="addr:street" v="Calle San Juan"/>
+</node>
+<node action="modify" id="-65" lat="42.2430066294" lon="-5.14136190713" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492015UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-10" lat="42.2427174149" lon="-5.14065768507" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591101UM2739S"/>
+  <tag k="addr:street" v="Calle Cabildo"/>
+</node>
+<node action="modify" id="-67" lat="42.2434828222" lon="-5.14062596941" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592109UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-20" lat="42.2419592798" lon="-5.14120939358" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591708UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-121" lat="42.2422933823" lon="-5.14258805903" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3491601UM2739S"/>
+  <tag k="addr:street" v="Calle Corrillo"/>
+</node>
+<node action="modify" id="-13" lat="42.2434623798" lon="-5.13983570203" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3692701UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-70" lat="42.2431675745" lon="-5.14117665117" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3492011UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-15" lat="42.242214193" lon="-5.1408292392" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3591705UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-72" lat="42.2448625964" lon="-5.14225521728" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3494702UM2739S"/>
+  <tag k="addr:street" v="Calle Carretera"/>
+</node>
+<node action="modify" id="-124" lat="42.2438357043" lon="-5.1421459669" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3493806UM2739S"/>
+  <tag k="addr:street" v="Calle Don Rodrigo"/>
+</node>
+<node action="modify" id="-17" lat="42.2431067807" lon="-5.14007969283" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3592307UM2739S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-54" lat="42.2447724405" lon="-5.14330289745" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47687"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3394606UM2739S"/>
+  <tag k="addr:street" v="Calle Corredera de la Fragua"/>
+</node>
+</osm>
