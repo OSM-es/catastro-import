@@ -1,0 +1,2053 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-04-18"/>
+</changeset>
+<node action="modify" id="-13" lat="41.7554163399" lon="-4.10265443074" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134209VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-291" lat="41.7572253044" lon="-4.10169076535" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432359VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-149" lat="41.7567445822" lon="-4.10483528776" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335301VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-201" lat="41.7556936156" lon="-4.09967214231" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8533506VM0283S"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-185" lat="41.7558427983" lon="-4.1036107075" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234309VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-233" lat="41.756604025" lon="-4.10418465437" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235702VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-239" lat="41.7576764205" lon="-4.1055294485" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436802VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-292" lat="41.7572042802" lon="-4.10161796553" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432358VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-104" lat="41.7576325249" lon="-4.10014326003" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231514VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-46" lat="41.7579437719" lon="-4.10538109286" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435402VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-49" lat="41.7572481626" lon="-4.10441668942" visible="true">
+  <tag k="addr:housenumber" v="7C"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335803VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-130" lat="41.7557882358" lon="-4.10193455853" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132504VM0283S"/>
+  <tag k="addr:street" v="Calle Soto"/>
+</node>
+<node action="modify" id="-194" lat="41.7551142099" lon="-4.10426844753" visible="true">
+  <tag k="addr:housenumber" v="28B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8135908VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-135" lat="41.7556796299" lon="-4.10502102473" visible="true">
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005290"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-19" lat="41.7558064249" lon="-4.10252950598" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8133501VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-253" lat="41.7549337308" lon="-4.10287313125" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035805VM0283N"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-51" lat="41.757260485" lon="-4.1044627926" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335802VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-144" lat="41.7569884135" lon="-4.10546198697" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336806VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-255" lat="41.7548518702" lon="-4.10273455016" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8034601VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-224" lat="41.7572877036" lon="-4.10506880001" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335504VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-21" lat="41.7568636002" lon="-4.10159970919" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132516VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-53" lat="41.756446247" lon="-4.10273800429" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234729VM0283S"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-169" lat="41.7571422" lon="-4.10615896797" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336602VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-108" lat="41.7573363629" lon="-4.10128714449" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432355VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-269" lat="41.7566374421" lon="-4.09910343596" visible="true">
+  <tag k="addr:housenumber" v="107C"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00405111"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-23" lat="41.7552631068" lon="-4.1031011996" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134202VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-192" lat="41.7553958593" lon="-4.10388427357" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8135905VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-55" lat="41.7573005345" lon="-4.10391242557" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334607VM0283S"/>
+  <tag k="addr:street" v="Plaza Hontanilla"/>
+</node>
+<node action="modify" id="-182" lat="41.7568474476" lon="-4.10500980053" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335405VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-198" lat="41.757056411" lon="-4.10388180878" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334303VM0283S"/>
+  <tag k="addr:street" v="Calle Subida a Iglesia"/>
+</node>
+<node action="modify" id="-25" lat="41.7569608723" lon="-4.1016060718" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233314VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-57" lat="41.7572510892" lon="-4.103681281" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334903VM0283S"/>
+  <tag k="addr:street" v="Plaza Hontanilla"/>
+</node>
+<node action="modify" id="-157" lat="41.7570046371" lon="-4.10511800969" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335403VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-200" lat="41.7568742424" lon="-4.1040832088" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334302VM0283S"/>
+  <tag k="addr:street" v="Calle Subida a Iglesia"/>
+</node>
+<node action="modify" id="-122" lat="41.7555022004" lon="-4.10198937279" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132537VM0283S"/>
+  <tag k="addr:street" v="Calle Subida al Palacio"/>
+</node>
+<node action="modify" id="-27" lat="41.7566024957" lon="-4.10184044701" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233316VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-247" lat="41.7551101488" lon="-4.10305466697" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134220VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-112" lat="41.7573663741" lon="-4.10106405827" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231505VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-237" lat="41.7579384691" lon="-4.1077136119" visible="true">
+  <tag k="addr:housenumber" v="5166"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205166"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-202" lat="41.7560068847" lon="-4.09907712957" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8533502VM0283S"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-29" lat="41.7569849238" lon="-4.10339337114" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334804VM0283S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-204" lat="41.7552213914" lon="-4.10016592695" visible="true">
+  <tag k="addr:housenumber" v="5230"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005396"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-139" lat="41.7580788884" lon="-4.10649833" visible="true">
+  <tag k="addr:housenumber" v="5159"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205159"/>
+  <tag k="addr:street" v="Calle Salida Carretera Valladolid"/>
+</node>
+<node action="modify" id="-166" lat="41.7575035211" lon="-4.10650865431" visible="true">
+  <tag k="addr:housenumber" v="5367"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005367"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-265" lat="41.7554373884" lon="-4.10314759379" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134902VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-115" lat="41.7575783479" lon="-4.10398299728" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435111VM0283N"/>
+  <tag k="addr:street" v="Calle Hontanilla"/>
+</node>
+<node action="modify" id="-271" lat="41.7578074149" lon="-4.10440047678" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435105VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-206" lat="41.7557747246" lon="-4.099126485" visible="true">
+  <tag k="addr:housenumber" v="5384"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005384"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-31" lat="41.7569257591" lon="-4.10370389411" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334304VM0283S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-179" lat="41.7568369594" lon="-4.10761720326" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01000082"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-3" lat="41.7563242093" lon="-4.10196052582" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233318VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-274" lat="41.7577321877" lon="-4.10419394207" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435108VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-117" lat="41.7574970813" lon="-4.10405195321" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334502VM0283S"/>
+  <tag k="addr:street" v="Calle Hontanilla"/>
+</node>
+<node action="modify" id="-208" lat="41.7558241551" lon="-4.09932127593" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8533505VM0283S"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-35" lat="41.7572353859" lon="-4.10457510417" visible="true">
+  <tag k="addr:housenumber" v="11B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335706VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-4" lat="41.7562963151" lon="-4.10189502139" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132510VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-119" lat="41.755187331" lon="-4.101498443" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132532VM0283S"/>
+  <tag k="addr:street" v="Calle Subida al Palacio"/>
+</node>
+<node action="modify" id="-241" lat="41.7550223213" lon="-4.10347133304" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035804VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-210" lat="41.7560210649" lon="-4.09948718698" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132526VM0283S"/>
+  <tag k="addr:street" v="Calle Candido Moyano"/>
+</node>
+<node action="modify" id="-37" lat="41.7573145927" lon="-4.10449568718" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335704VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-48" lat="41.7571143965" lon="-4.10378912361" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334908VM0283S"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-249" lat="41.7549120806" lon="-4.10272527408" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134217VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-121" lat="41.7555618216" lon="-4.1020747874" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132538VM0283S"/>
+  <tag k="addr:street" v="Calle Subida al Palacio"/>
+</node>
+<node action="modify" id="-280" lat="41.7570130267" lon="-4.10125772062" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132518VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-245" lat="41.7551747044" lon="-4.10334750198" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134301VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-163" lat="41.7574873981" lon="-4.10688271675" visible="true">
+  <tag k="addr:housenumber" v="5273"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005273"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-71" lat="41.7580374617" lon="-4.10528810672" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435101VM0283N"/>
+  <tag k="addr:street" v="Plaza Serranos"/>
+</node>
+<node action="modify" id="-6" lat="41.7561210774" lon="-4.10188551408" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132508VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-146" lat="41.7569850948" lon="-4.10560719844" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336804VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-231" lat="41.7568665095" lon="-4.10447473414" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335904VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-284" lat="41.7568023222" lon="-4.10057134995" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132539VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-223" lat="41.7566720946" lon="-4.10409518354" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334310VM0283S"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-176" lat="41.7575021009" lon="-4.10599631654" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436102VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-236" lat="41.7576684467" lon="-4.10787208042" visible="true">
+  <tag k="addr:housenumber" v="5165"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205165"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-101" lat="41.757346475" lon="-4.10072018715" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231509VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-288" lat="41.7583820195" lon="-4.10584109681" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434401VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-270" lat="41.757823125" lon="-4.10445994389" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435104VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-74" lat="41.7592457014" lon="-4.10545306698" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434420VM0283S"/>
+  <tag k="addr:street" v="Camino Arroyo Eras"/>
+</node>
+<node action="modify" id="-246" lat="41.7552114967" lon="-4.10342064017" visible="true">
+  <tag k="addr:housenumber" v="14B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134401VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-281" lat="41.7569039318" lon="-4.1008395885" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132521VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-191" lat="41.7555850239" lon="-4.10387743904" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8135903VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-76" lat="41.759013984" lon="-4.10559981558" visible="true">
+  <tag k="addr:housenumber" v="5281"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205281"/>
+  <tag k="addr:street" v="Camino Arroyo Eras"/>
+</node>
+<node action="modify" id="-230" lat="41.7570957826" lon="-4.10475655832" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335902VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-97" lat="41.7574315242" lon="-4.1008171943" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231508VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-150" lat="41.7569777206" lon="-4.1059258652" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336801VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-64" lat="41.757225243" lon="-4.1026471556" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234728VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-216" lat="41.7572275117" lon="-4.1047259706" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335707VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-78" lat="41.7574031942" lon="-4.10347185818" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334605VM0283S"/>
+  <tag k="addr:street" v="Calle Carniceria"/>
+</node>
+<node action="modify" id="-73" lat="41.7590677927" lon="-4.10527763502" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434421VM0283S"/>
+  <tag k="addr:street" v="Camino Arroyo Eras"/>
+</node>
+<node action="modify" id="-227" lat="41.7571748629" lon="-4.1048752861" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335506VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-105" lat="41.7576811769" lon="-4.09998689096" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231515VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-252" lat="41.7548347837" lon="-4.10258159289" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134216VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-259" lat="41.7547401153" lon="-4.10233820788" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8034603VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-80" lat="41.7574571209" lon="-4.10343357421" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334604VM0283S"/>
+  <tag k="addr:street" v="Calle Carniceria"/>
+</node>
+<node action="modify" id="-165" lat="41.7571983074" lon="-4.10605102525" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336604VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-173" lat="41.7572343132" lon="-4.10525230077" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335502VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-286" lat="41.757543" lon="-4.10316216297" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8433318VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-82" lat="41.7574507818" lon="-4.1033476901" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334809VM0283S"/>
+  <tag k="addr:street" v="Calle Carniceria"/>
+</node>
+<node action="modify" id="-154" lat="41.7569036589" lon="-4.10625388906" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336502VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-299" lat="41.7570404919" lon="-4.10051963098" visible="true">
+  <tag k="addr:housenumber" v="87"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231528VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-186" lat="41.7558157859" lon="-4.10352292083" visible="true">
+  <tag k="addr:housenumber" v="11B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234310VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-260" lat="41.7543617944" lon="-4.10376541674" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035801VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-84" lat="41.7565955235" lon="-4.10364467573" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234702VM0283S"/>
+  <tag k="addr:street" v="Calle Do&#241;a Damiana Siguenza"/>
+</node>
+<node action="modify" id="-33" lat="41.7573736094" lon="-4.10428924478" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435113VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-275" lat="41.7577098874" lon="-4.10413607016" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435109VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-109" lat="41.7582588262" lon="-4.0990501482" visible="true">
+  <tag k="addr:housenumber" v="5130"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00405130"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-282" lat="41.756855099" lon="-4.10069288836" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132522VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-136" lat="41.7562770815" lon="-4.10473729325" visible="true">
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235106VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-88" lat="41.7558523071" lon="-4.10269892081" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233324VM0283S"/>
+  <tag k="addr:street" v="Calle Juan Jose Franco"/>
+</node>
+<node action="modify" id="-214" lat="41.7572547973" lon="-4.10477631336" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335701VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-158" lat="41.7570234377" lon="-4.10515507754" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335402VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-256" lat="41.7547678312" lon="-4.10231221368" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134213VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-219" lat="41.7578353338" lon="-4.10690132645" visible="true">
+  <tag k="addr:housenumber" v="16C"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205161"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-261" lat="41.755551782" lon="-4.10299331896" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134904VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-90" lat="41.7561769806" lon="-4.10329369788" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234724VM0283S"/>
+  <tag k="addr:street" v="Calle Juan Jose Franco"/>
+</node>
+<node action="modify" id="-60" lat="41.756762733" lon="-4.10302126397" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234709VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-170" lat="41.7570876386" lon="-4.10615405004" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336601VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-113" lat="41.757456572" lon="-4.10098625504" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432353VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-116" lat="41.7574935726" lon="-4.10417538744" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435112VM0283N"/>
+  <tag k="addr:street" v="Calle Hontanilla"/>
+</node>
+<node action="modify" id="-92" lat="41.7555289748" lon="-4.10234169989" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8133302VM0283S"/>
+  <tag k="addr:street" v="Calle Paralela a Juderia"/>
+</node>
+<node action="modify" id="-62" lat="41.7568184964" lon="-4.10295235199" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234710VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-240" lat="41.7556820473" lon="-4.10276232868" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134907VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-183" lat="41.7570343582" lon="-4.1073027964" visible="true">
+  <tag k="addr:housenumber" v="91C"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005145"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-301" lat="41.7571221179" lon="-4.10050590863" visible="true">
+  <tag k="addr:housenumber" v="91"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231527VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-94" lat="41.757261346" lon="-4.10147189997" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432357VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-63" lat="41.75725248" lon="-4.10271998145" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334812VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-262" lat="41.7545327973" lon="-4.10373358381" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035802VM0283N"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-162" lat="41.757166304" lon="-4.10572715706" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336701VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-215" lat="41.7574860759" lon="-4.10530248131" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435301VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-66" lat="41.7565505059" lon="-4.1032255812" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234706VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-133" lat="41.7560297423" lon="-4.10399822219" visible="true">
+  <tag k="addr:housenumber" v="10D"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235104VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-251" lat="41.7550510439" lon="-4.10304970087" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134304VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-143" lat="41.7569445934" lon="-4.10527014023" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335401VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-68" lat="41.7566069923" lon="-4.10306658838" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234730VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-16" lat="41.7555248451" lon="-4.10274773573" visible="true">
+  <tag k="addr:housenumber" v="23B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134207VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-128" lat="41.7586361523" lon="-4.10396951935" visible="true">
+  <tag k="addr:housenumber" v="5302"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205302"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-212" lat="41.7559812694" lon="-4.09938776221" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8533507VM0283S"/>
+  <tag k="addr:street" v="Calle Candido Moyano"/>
+</node>
+<node action="modify" id="-167" lat="41.7575792184" lon="-4.10603685736" visible="true">
+  <tag k="addr:housenumber" v="5370"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005370"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-98" lat="41.7578245294" lon="-4.09989571166" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00405288"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-266" lat="41.7578336399" lon="-4.10449969203" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435103VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-8" lat="41.7558872251" lon="-4.10206735457" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132505VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-40" lat="41.7574713315" lon="-4.10453462003" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335702VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-180" lat="41.7575326538" lon="-4.10559858454" visible="true">
+  <tag k="addr:housenumber" v="87"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436105VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-267" lat="41.7573019761" lon="-4.09977083005" visible="true">
+  <tag k="addr:housenumber" v="103B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00405114"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-188" lat="41.7558398961" lon="-4.1034169093" visible="true">
+  <tag k="addr:housenumber" v="13B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234312VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-72" lat="41.7579555201" lon="-4.10569535259" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436705VM0283N"/>
+  <tag k="addr:street" v="Plaza Serranos"/>
+</node>
+<node action="modify" id="-42" lat="41.7578008093" lon="-4.10513224128" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435903VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-147" lat="41.7569644002" lon="-4.10574317802" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336803VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-153" lat="41.756921983" lon="-4.10621678972" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336503VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-12" lat="41.7560579431" lon="-4.10209042967" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233322VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-125" lat="41.7582806268" lon="-4.10357837566" visible="true">
+  <tag k="addr:housenumber" v="1C"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205313"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-44" lat="41.7578627708" lon="-4.10525585207" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435403VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-102" lat="41.7572281201" lon="-4.10143370369" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231502VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-127" lat="41.7580417604" lon="-4.1033725565" visible="true">
+  <tag k="addr:housenumber" v="1F"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205548"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-220" lat="41.7578183617" lon="-4.10668102504" visible="true">
+  <tag k="addr:housenumber" v="16D"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205560"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-2" lat="41.756430843" lon="-4.10194589327" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233317VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-142" lat="41.7568198197" lon="-4.10525890325" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336809VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-263" lat="41.7555061852" lon="-4.10305812514" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134903VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-86" lat="41.7565268162" lon="-4.10369128447" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234701VM0283S"/>
+  <tag k="addr:street" v="Calle Do&#241;a Damiana Siguenza"/>
+</node>
+<node action="modify" id="-268" lat="41.7567602027" lon="-4.09935789427" visible="true">
+  <tag k="addr:housenumber" v="107B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00405112"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-226" lat="41.7566179599" lon="-4.10375159454" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334307VM0283S"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-18" lat="41.7558407445" lon="-4.10244538031" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8133502VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-177" lat="41.7574801762" lon="-4.10614670635" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436101VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-50" lat="41.7571843274" lon="-4.10383799695" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334901VM0283S"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-106" lat="41.7573071758" lon="-4.10136632935" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432356VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-193" lat="41.7551943102" lon="-4.10428413456" visible="true">
+  <tag k="addr:housenumber" v="28A"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8135910VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-276" lat="41.7576838355" lon="-4.10407148444" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435110VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-20" lat="41.7554369836" lon="-4.10289063737" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134204VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-52" lat="41.7565099206" lon="-4.10268355013" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234720VM0283S"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-235" lat="41.7575276385" lon="-4.10523461142" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435206VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-294" lat="41.7583316797" lon="-4.10574156694" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434402VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-95" lat="41.7575065429" lon="-4.10085649929" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432352VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-22" lat="41.7555646553" lon="-4.10279037518" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134906VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-54" lat="41.7571510716" lon="-4.10226308402" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233309VM0283S"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-131" lat="41.7558183554" lon="-4.10209608355" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132502VM0283S"/>
+  <tag k="addr:street" v="Calle Soto"/>
+</node>
+<node action="modify" id="-297" lat="41.7578630273" lon="-4.10461052106" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435102VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-222" lat="41.7574156568" lon="-4.10517614565" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435302VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-24" lat="41.7552955882" lon="-4.1029857789" visible="true">
+  <tag k="addr:housenumber" v="33B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134221VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-56" lat="41.7573080967" lon="-4.10361789988" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334904VM0283S"/>
+  <tag k="addr:street" v="Plaza Hontanilla"/>
+</node>
+<node action="modify" id="-110" lat="41.7573327627" lon="-4.10116183895" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231504VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-199" lat="41.7570587712" lon="-4.10395126266" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335808VM0283N"/>
+  <tag k="addr:street" v="Calle Subida a Iglesia"/>
+</node>
+<node action="modify" id="-26" lat="41.7566175551" lon="-4.10175584295" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132514VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-58" lat="41.7549768925" lon="-4.10184102891" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8133304VM0283S"/>
+  <tag k="addr:street" v="Ronda Palacio"/>
+</node>
+<node action="modify" id="-300" lat="41.7582876818" lon="-4.10564613843" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434403VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-243" lat="41.7549924104" lon="-4.10317198832" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035808VM0283N"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-174" lat="41.757432226" lon="-4.10579119655" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436104VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-28" lat="41.7570192818" lon="-4.10344281029" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334805VM0283S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-159" lat="41.7571119824" lon="-4.10531841528" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335501VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-203" lat="41.755938116" lon="-4.09919721335" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8533503VM0283S"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-244" lat="41.7552049387" lon="-4.10312705428" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134201VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-30" lat="41.7569478448" lon="-4.10337034504" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334803VM0283S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-195" lat="41.755959743" lon="-4.10374256909" visible="true">
+  <tag k="addr:housenumber" v="3B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234304VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-279" lat="41.7572176256" lon="-4.10200738752" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233311VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-114" lat="41.7575890886" lon="-4.10391377571" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334601VM0283S"/>
+  <tag k="addr:street" v="Calle Hontanilla"/>
+</node>
+<node action="modify" id="-295" lat="41.7570814919" lon="-4.10130340509" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231534VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-205" lat="41.7554902532" lon="-4.09968540826" visible="true">
+  <tag k="addr:housenumber" v="5380"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005380"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-123" lat="41.7554332302" lon="-4.1018907411" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132536VM0283S"/>
+  <tag k="addr:street" v="Calle Subida al Palacio"/>
+</node>
+<node action="modify" id="-32" lat="41.757202748" lon="-4.10398890615" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335807VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-17" lat="41.755474961" lon="-4.10277103596" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134206VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-207" lat="41.755647963" lon="-4.09918662997" visible="true">
+  <tag k="addr:housenumber" v="5395"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005395"/>
+  <tag k="addr:street" v="Camino las Tenadas"/>
+</node>
+<node action="modify" id="-137" lat="41.7560559769" lon="-4.10392605341" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235105VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-34" lat="41.7572718992" lon="-4.10453846046" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335705VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-161" lat="41.7567977832" lon="-4.10492966003" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335407VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-118" lat="41.7553213234" lon="-4.10173073314" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132534VM0283S"/>
+  <tag k="addr:street" v="Calle Subida al Palacio"/>
+</node>
+<node action="modify" id="-257" lat="41.7547791053" lon="-4.10252588952" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8034602VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-209" lat="41.7574993745" lon="-4.10584157829" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336103VM0283N"/>
+  <tag k="addr:place" v="las Tenadas"/>
+</node>
+<node action="modify" id="-36" lat="41.7574137382" lon="-4.10435984046" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435114VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-5" lat="41.7562344279" lon="-4.10196303205" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233319VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-120" lat="41.7556659721" lon="-4.10216935735" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132501VM0283S"/>
+  <tag k="addr:street" v="Calle Subida al Palacio"/>
+</node>
+<node action="modify" id="-47" lat="41.7570691114" lon="-4.10374059149" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334907VM0283S"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-211" lat="41.7557081325" lon="-4.10010360998" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132528VM0283S"/>
+  <tag k="addr:street" v="Calle Candido Moyano"/>
+</node>
+<node action="modify" id="-38" lat="41.7573677668" lon="-4.10444237475" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335703VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-273" lat="41.7577806723" lon="-4.10430659097" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435106VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-184" lat="41.7560179718" lon="-4.10378516467" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234305VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-70" lat="41.7570163146" lon="-4.1028652601" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334815VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-234" lat="41.7578646132" lon="-4.10615087374" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8537906VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-99" lat="41.7576106114" lon="-4.10051655372" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8331508VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-293" lat="41.7571330291" lon="-4.10149311246" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231501VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-254" lat="41.7548333758" lon="-4.10250783658" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134215VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-124" lat="41.7581628331" lon="-4.103784733" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434419VM0283S"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-290" lat="41.7582307118" lon="-4.10574775456" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436702VM0283N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-129" lat="41.7584042338" lon="-4.10372496273" visible="true">
+  <tag k="addr:housenumber" v="5302"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205302"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-217" lat="41.757132033" lon="-4.10456551822" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335810VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-189" lat="41.7558383702" lon="-4.10388147255" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8135702VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-134" lat="41.755727782" lon="-4.10408708175" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235101VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-228" lat="41.757645101" lon="-4.10535273135" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435201VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-148" lat="41.7569783298" lon="-4.10588065721" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336802VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-229" lat="41.7570778789" lon="-4.10484548663" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335901VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-75" lat="41.7590297981" lon="-4.10602483774" visible="true">
+  <tag k="addr:housenumber" v="5277"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205277"/>
+  <tag k="addr:street" v="Camino Arroyo Eras"/>
+</node>
+<node action="modify" id="-238" lat="41.7573820647" lon="-4.10502775586" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435205VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-168" lat="41.7571789572" lon="-4.10616220014" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336603VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-103" lat="41.7575332317" lon="-4.10052891927" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231511VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-77" lat="41.7592265321" lon="-4.10510509331" visible="true">
+  <tag k="addr:housenumber" v="5285"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205285"/>
+  <tag k="addr:street" v="Camino Arroyo Eras"/>
+</node>
+<node action="modify" id="-272" lat="41.7581495041" lon="-4.1053215467" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8434406VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-196" lat="41.7557001672" lon="-4.10381313279" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234301VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-218" lat="41.7578612597" lon="-4.1065007261" visible="true">
+  <tag k="addr:housenumber" v="16B"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205160"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-181" lat="41.7576816763" lon="-4.10576770757" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8436801VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-298" lat="41.7569214929" lon="-4.10066306573" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231529VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-45" lat="41.757881355" lon="-4.10516529733" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435123VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-79" lat="41.7571708132" lon="-4.10345238314" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334806VM0283S"/>
+  <tag k="addr:street" v="Calle Carniceria"/>
+</node>
+<node action="modify" id="-152" lat="41.756941917" lon="-4.10617631709" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336504VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-225" lat="41.7565933106" lon="-4.1038347835" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334308VM0283S"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-81" lat="41.7573399899" lon="-4.10342885111" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334808VM0283S"/>
+  <tag k="addr:street" v="Calle Carniceria"/>
+</node>
+<node action="modify" id="-126" lat="41.75836307" lon="-4.10335953604" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00205312"/>
+  <tag k="addr:street" v="Calle Calleja"/>
+</node>
+<node action="modify" id="-242" lat="41.7553137691" lon="-4.10325540252" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134901VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-107" lat="41.7572878731" lon="-4.10128879411" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231503VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-283" lat="41.7575824778" lon="-4.1034418089" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8433320VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-296" lat="41.757056391" lon="-4.10119130314" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231533VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-83" lat="41.7561607628" lon="-4.10387001197" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235801VM0283N"/>
+  <tag k="addr:street" v="Calle Do&#241;a Damiana Siguenza"/>
+</node>
+<node action="modify" id="-277" lat="41.7573903009" lon="-4.10291403855" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334811VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-140" lat="41.7567037423" lon="-4.10480414849" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335302VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-197" lat="41.7556753618" lon="-4.10374005793" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234311VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-85" lat="41.7564419191" lon="-4.10384183805" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235703VM0283N"/>
+  <tag k="addr:street" v="Calle Do&#241;a Damiana Siguenza"/>
+</node>
+<node action="modify" id="-264" lat="41.7549403166" lon="-4.10353175584" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035807VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-156" lat="41.7571124271" lon="-4.10627185427" visible="true">
+  <tag k="addr:housenumber" v="41D"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336506VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-221" lat="41.7577270725" lon="-4.10539297868" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435401VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-287" lat="41.7575079682" lon="-4.10302013253" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8433317VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-87" lat="41.7562980217" lon="-4.10392265518" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235704VM0283N"/>
+  <tag k="addr:street" v="Calle Do&#241;a Damiana Siguenza"/>
+</node>
+<node action="modify" id="-178" lat="41.7573647406" lon="-4.10670877396" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8437101VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-171" lat="41.7571584239" lon="-4.10500729997" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335505VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-111" lat="41.7574084757" lon="-4.1011114398" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432354VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-155" lat="41.7569350329" lon="-4.10629700219" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336501VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-89" lat="41.7564269722" lon="-4.10357943389" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234727VM0283S"/>
+  <tag k="addr:street" v="Calle Juan Jose Franco"/>
+</node>
+<node action="modify" id="-248" lat="41.7549949508" lon="-4.10290693108" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134218VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-59" lat="41.7567275821" lon="-4.10304404735" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234708VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-151" lat="41.7569619074" lon="-4.10613579887" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336505VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-91" lat="41.7561161259" lon="-4.10322580855" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234723VM0283S"/>
+  <tag k="addr:street" v="Calle Juan Jose Franco"/>
+</node>
+<node action="modify" id="-61" lat="41.7571153311" lon="-4.10280115134" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334813VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-160" lat="41.7571615195" lon="-4.10561592274" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336702VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-1" lat="41.7570021343" lon="-4.10150567713" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132517VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-93" lat="41.755338912" lon="-4.10248531533" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8133301VM0283S"/>
+  <tag k="addr:street" v="Calle Paralela a Juderia"/>
+</node>
+<node action="modify" id="-250" lat="41.7541665195" lon="-4.10363437524" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8035806VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-14" lat="41.7559732571" lon="-4.10219840352" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233323VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-141" lat="41.756876124" lon="-4.10505611774" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335404VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-65" lat="41.7569003687" lon="-4.10295935371" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334818VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-132" lat="41.7558205641" lon="-4.10404028047" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235102VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-190" lat="41.7557442966" lon="-4.10390648688" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8135701VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-175" lat="41.7568215168" lon="-4.10496794759" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335406VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-10" lat="41.7555526942" lon="-4.10261477961" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134210VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-96" lat="41.7575586413" lon="-4.10068941503" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8331501VM0283S"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-67" lat="41.7570501596" lon="-4.10312893865" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334817VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-164" lat="41.7576205461" lon="-4.10657141078" visible="true">
+  <tag k="addr:housenumber" v="5288"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A01005288"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-289" lat="41.7574211435" lon="-4.10268534206" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8432301VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-213" lat="41.7576249324" lon="-4.10504415247" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435202VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-15" lat="41.7553567011" lon="-4.10275728875" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134208VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-278" lat="41.7572576794" lon="-4.102438914" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234715VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-69" lat="41.7566817627" lon="-4.10307393284" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234707VM0283S"/>
+  <tag k="addr:street" v="Calle Pilon"/>
+</node>
+<node action="modify" id="-7" lat="41.7560900957" lon="-4.1019894183" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233320VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-39" lat="41.7575136768" lon="-4.10451679934" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435116VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-145" lat="41.7569770164" lon="-4.10553910566" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8336805VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-302" lat="41.7568925842" lon="-4.10050752939" visible="true">
+  <tag k="addr:housenumber" v="93"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8231526VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-232" lat="41.7568329989" lon="-4.10450283225" visible="true">
+  <tag k="addr:housenumber" v="36B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335905VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+<node action="modify" id="-9" lat="41.7560753396" lon="-4.10203583986" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233321VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-138" lat="41.7559123457" lon="-4.10400368785" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8235103VM0283N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-41" lat="41.7570246354" lon="-4.10369038362" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8334906VM0283S"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-100" lat="41.7578096381" lon="-4.09975772572" visible="true">
+  <tag k="addr:housenumber" v="15E"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47061A00405289"/>
+  <tag k="addr:street" v="Calle Concejo"/>
+</node>
+<node action="modify" id="-258" lat="41.755592067" lon="-4.10292185692" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8134905VM0283S"/>
+  <tag k="addr:street" v="Calle Juderia"/>
+</node>
+<node action="modify" id="-11" lat="41.757061154" lon="-4.10156636065" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8233313VM0283S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-43" lat="41.7577814926" lon="-4.10503087878" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8435122VM0283N"/>
+  <tag k="addr:street" v="Calle Medio"/>
+</node>
+<node action="modify" id="-285" lat="41.7567389505" lon="-4.10048373014" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8132524VM0283S"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-187" lat="41.7558852845" lon="-4.10337871052" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8234308VM0283S"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-172" lat="41.7571814562" lon="-4.10517483129" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47186"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8335503VM0283N"/>
+  <tag k="addr:street" v="Calle Heruela"/>
+</node>
+</osm>
