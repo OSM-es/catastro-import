@@ -1,0 +1,1618 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.2.2'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2020-10-24"/>
+</changeset>
+<node action="modify" id="-87" lat="42.3697820384" lon="2.83001794269" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110647DG8961S"/>
+  <tag k="addr:street" v="Carrer del Tur&#243;"/>
+</node>
+<node action="modify" id="-159" lat="42.3671176671" lon="2.8335148038" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309405DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-148" lat="42.368456939" lon="2.83178608903" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209408DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-239" lat="42.3687137978" lon="2.83624469883" visible="true">
+  <tag k="addr:housenumber" v="41F"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609222DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-136" lat="42.3658422549" lon="2.83687820125" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6808602DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-243" lat="42.367141163" lon="2.83418215448" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409603DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-78" lat="42.3689024524" lon="2.83126002131" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209102DG8960N"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-196" lat="42.3656997656" lon="2.8347813357" visible="true">
+  <tag k="addr:housenumber" v="78"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6606505DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-62" lat="42.3698101665" lon="2.83082032567" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110613DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-153" lat="42.3672851996" lon="2.8332589202" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309409DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-91" lat="42.3676669946" lon="2.83299551602" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409618DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-210" lat="42.3664162298" lon="2.83539240961" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608043DG8960N"/>
+  <tag k="addr:street" v="Carrer de Mont-Roig"/>
+</node>
+<node action="modify" id="-64" lat="42.3701494091" lon="2.83051312658" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110619DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-189" lat="42.3658550639" lon="2.83480626888" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607008DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-116" lat="42.3678709608" lon="2.82821100603" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6008608DG8960N"/>
+  <tag k="addr:street" v="Calle Esplanes"/>
+</node>
+<node action="modify" id="-66" lat="42.3705396529" lon="2.83027658351" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110616DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-4" lat="42.3665602117" lon="2.83206247354" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407710DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-162" lat="42.3672777486" lon="2.83310556617" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408607DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-68" lat="42.3703620708" lon="2.83033723277" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110618DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-95" lat="42.3691015573" lon="2.83210552019" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310601DG8961S"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-237" lat="42.3672739965" lon="2.83649809311" visible="true">
+  <tag k="addr:housenumber" v="41B"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609225DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-139" lat="42.3675763233" lon="2.83275945338" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309416DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-204" lat="42.3675397361" lon="2.83137855878" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6308601DG8960N"/>
+  <tag k="addr:street" v="Passeig d'en Josep Soler i Batlle"/>
+</node>
+<node action="modify" id="-70" lat="42.3705163694" lon="2.83018671038" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110653DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-217" lat="42.3671696949" lon="2.8366914079" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608004DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-144" lat="42.3680717049" lon="2.83218115514" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209415DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-152" lat="42.3677799453" lon="2.83233459407" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209419DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-72" lat="42.3694364811" lon="2.83104143643" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110606DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-191" lat="42.3660955808" lon="2.83462601045" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407216DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-195" lat="42.3655484118" lon="2.83498354277" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607005DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-74" lat="42.3689891529" lon="2.83114870832" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210507DG8961S"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-164" lat="42.3684073407" lon="2.831833519" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209409DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-213" lat="42.3663753715" lon="2.83530414657" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608802DG8960N"/>
+  <tag k="addr:street" v="Carrer de Mont-Roig"/>
+</node>
+<node action="modify" id="-99" lat="42.3691014672" lon="2.83220994287" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409628DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-199" lat="42.3653414891" lon="2.8351902605" visible="true">
+  <tag k="addr:housenumber" v="79B"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607004DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-76" lat="42.3689403024" lon="2.83115425739" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209101DG8960N"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-27" lat="42.3688256542" lon="2.8318945868" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209108DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-127" lat="42.3661336202" lon="2.83572413064" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607003DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-193" lat="42.3656778997" lon="2.83489641428" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607010DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-169" lat="42.3670459132" lon="2.83346039882" visible="true">
+  <tag k="addr:housenumber" v="44A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407203DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-80" lat="42.3688268747" lon="2.83149365253" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209104DG8960N"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-174" lat="42.3666988978" lon="2.8342970752" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608029DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-58" lat="42.3697513527" lon="2.83079956036" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110624DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-100" lat="42.367184422" lon="2.83372389674" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409609DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-219" lat="42.3673349751" lon="2.83516459166" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609228DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-82" lat="42.3690607856" lon="2.83154430708" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210504DG8961S"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-104" lat="42.3686654667" lon="2.8324132563" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409623DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-20" lat="42.3690564883" lon="2.83140413633" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210501DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-84" lat="42.3689420449" lon="2.83075267406" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6109501DG8960N"/>
+  <tag k="addr:street" v="Carrer del Tur&#243;"/>
+</node>
+<node action="modify" id="-29" lat="42.3686944798" lon="2.83210526663" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310503DG8961S"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-22" lat="42.3687099498" lon="2.83136264632" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209113DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-181" lat="42.3666043004" lon="2.83455199255" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608026DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-107" lat="42.3670491178" lon="2.83511681468" visible="true">
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608040DG8960N"/>
+  <tag k="addr:street" v="Passatge de la Neu"/>
+</node>
+<node action="modify" id="-24" lat="42.368668449" lon="2.83156045424" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209111DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-133" lat="42.3662487669" lon="2.83616426706" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608013DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-205" lat="42.3675232734" lon="2.83182031118" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209421DG8960N"/>
+  <tag k="addr:street" v="Passeig d'en Josep Soler i Batlle"/>
+</node>
+<node action="modify" id="-109" lat="42.367146921" lon="2.83673122534" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608005DG8960N"/>
+  <tag k="addr:street" v="Passatge de la Neu"/>
+</node>
+<node action="modify" id="-241" lat="42.3670098521" lon="2.83691199128" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6808005DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-180" lat="42.3667700847" lon="2.83397642742" visible="true">
+  <tag k="addr:housenumber" v="54A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407208DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-149" lat="42.3686616718" lon="2.83214762051" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310502DG8961S"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-88" lat="42.3671405247" lon="2.83231902526" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408612DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-240" lat="42.3672560968" lon="2.83688424272" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609202DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-111" lat="42.366731079" lon="2.83669377041" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608010DG8960N"/>
+  <tag k="addr:street" v="Passatge de la Neu"/>
+</node>
+<node action="modify" id="-150" lat="42.3674776508" lon="2.83323145029" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309411DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-160" lat="42.3670626723" lon="2.83360739225" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309404DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-59" lat="42.3697365621" lon="2.83086400681" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110612DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-113" lat="42.3684652796" lon="2.82886158369" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6008614DG8960N"/>
+  <tag k="addr:street" v="Calle Esplanes"/>
+</node>
+<node action="modify" id="-1" lat="42.3668508055" lon="2.83220041311" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407711DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-211" lat="42.3663421941" lon="2.83574746356" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608016DG8960N"/>
+  <tag k="addr:street" v="Carrer de Mont-Roig"/>
+</node>
+<node action="modify" id="-32" lat="42.3684578995" lon="2.83220854038" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309401DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-92" lat="42.3676024975" lon="2.83310102063" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409617DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-34" lat="42.3685464892" lon="2.83143167574" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209403DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-215" lat="42.3672264314" lon="2.83530852803" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608002DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-117" lat="42.3664303458" lon="2.83080208546" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108513DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-36" lat="42.3687232785" lon="2.83123123015" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209114DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-143" lat="42.3674839813" lon="2.83291129444" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309414DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-5" lat="42.3690981332" lon="2.83094743144" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110635DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-197" lat="42.3653326625" lon="2.83515221077" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607004DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-119" lat="42.3666208101" lon="2.83088474324" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108512DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-38" lat="42.3666039884" lon="2.83309783358" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407218DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-7" lat="42.3691332247" lon="2.83109578967" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110633DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-96" lat="42.3674255437" lon="2.83337154639" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409614DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-209" lat="42.3664276995" lon="2.83533104386" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608019DG8960N"/>
+  <tag k="addr:street" v="Carrer de Mont-Roig"/>
+</node>
+<node action="modify" id="-121" lat="42.3668380914" lon="2.83097696189" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108510DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-40" lat="42.3665528498" lon="2.83307640595" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407218DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-9" lat="42.3688574656" lon="2.83100494367" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209116DG8960N"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-221" lat="42.3673300816" lon="2.83526118466" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609215DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-123" lat="42.3671192683" lon="2.83109798673" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108509DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-42" lat="42.3665066385" lon="2.83305327967" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407218DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-11" lat="42.3690016573" lon="2.83196326553" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310605DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-223" lat="42.3673209467" lon="2.83544205133" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609214DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-125" lat="42.3672368927" lon="2.83114859954" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108508DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-44" lat="42.3668239489" lon="2.83232321913" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407701DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-13" lat="42.3689445656" lon="2.8320014406" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310603DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-232" lat="42.3672877293" lon="2.83617020352" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609207DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-28" lat="42.3688848704" lon="2.83192996267" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209106DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-140" lat="42.3676689243" lon="2.83141557701" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209413DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-183" lat="42.366490051" lon="2.83462947127" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608806DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-46" lat="42.3667854317" lon="2.83240760587" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407702DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-15" lat="42.3689204634" lon="2.83201403542" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310602DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-227" lat="42.3670618318" lon="2.83406625915" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409605DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-128" lat="42.3664094954" lon="2.83174226549" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6307001DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-48" lat="42.366756073" lon="2.83243418672" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407703DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-17" lat="42.3688219267" lon="2.83094428861" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6109503DG8960N"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-229" lat="42.3673020196" lon="2.83587541802" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609210DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-30" lat="42.3688986251" lon="2.83190396581" visible="true">
+  <tag k="addr:housenumber" v="1G"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209107DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-200" lat="42.3682789488" lon="2.83197107609" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209411DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-50" lat="42.3667195128" lon="2.83251733361" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407704DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-130" lat="42.3660628456" lon="2.83307079246" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407502DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-51" lat="42.3666397966" lon="2.83310628896" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407218DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-187" lat="42.3664649355" lon="2.83452118985" visible="true">
+  <tag k="addr:housenumber" v="66A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407214DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-170" lat="42.3667659773" lon="2.83415711307" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608031DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-105" lat="42.3686159992" lon="2.83244865215" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409622DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-53" lat="42.3696113571" lon="2.83093733381" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110609DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-184" lat="42.3683204293" lon="2.83192727268" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209410DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-85" lat="42.3701374982" lon="2.82964393352" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110649DG8961S"/>
+  <tag k="addr:street" v="Carrer del Tur&#243;"/>
+</node>
+<node action="modify" id="-234" lat="42.3670058797" lon="2.83408453664" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608034DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-137" lat="42.3682960793" lon="2.83201003794" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309421DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-202" lat="42.3644199271" lon="2.8355255433" visible="true">
+  <tag k="addr:housenumber" v="86"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6606513DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-55" lat="42.369659072" lon="2.83090976496" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110610DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-179" lat="42.3666212021" lon="2.8344931528" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608027DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-134" lat="42.3657434338" lon="2.8371177038" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6808603DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-225" lat="42.3673114316" lon="2.83562034495" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609213DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-188" lat="42.3661769757" lon="2.83460916891" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407215DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-238" lat="42.3672692184" lon="2.83661159264" visible="true">
+  <tag k="addr:housenumber" v="41D"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609226DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-161" lat="42.3670175483" lon="2.83368849088" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309422DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-89" lat="42.3671944889" lon="2.83233114798" visible="true">
+  <tag k="addr:housenumber" v="3B"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408613DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-60" lat="42.3698212568" lon="2.83075633544" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110623DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-61" lat="42.3693499647" lon="2.83108269376" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110604DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-186" lat="42.3665727781" lon="2.83444034431" visible="true">
+  <tag k="addr:housenumber" v="62"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407212DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-242" lat="42.3671039876" lon="2.8341335517" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409604DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-114" lat="42.3683393087" lon="2.82901530854" visible="true">
+  <tag k="addr:housenumber" v="15A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6008615DG8960N"/>
+  <tag k="addr:street" v="Calle Esplanes"/>
+</node>
+<node action="modify" id="-63" lat="42.370051543" lon="2.83058298927" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110621DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-244" lat="42.3671849608" lon="2.83426401663" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409602DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-236" lat="42.3678888755" lon="2.83664803688" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609219DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-222" lat="42.3669194618" lon="2.83680705165" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608007DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-65" lat="42.3700795597" lon="2.83053568002" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110620DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-3" lat="42.366446419" lon="2.83115772365" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6308604DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-93" lat="42.367533102" lon="2.83320026254" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409616DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-216" lat="42.36719821" lon="2.83659794782" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608004DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-67" lat="42.3702173744" lon="2.83079424894" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110652DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-166" lat="42.3669247469" lon="2.83385534568" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309402DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-228" lat="42.366535844" lon="2.8365832468" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608011DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-142" lat="42.3681161124" lon="2.83210607977" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209414DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-71" lat="42.369277136" lon="2.83108197588" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110631DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-182" lat="42.3666494945" lon="2.83422631827" visible="true">
+  <tag k="addr:housenumber" v="58A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407210DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-97" lat="42.3672987654" lon="2.83357640007" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409612DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-154" lat="42.3672290117" lon="2.83334667139" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309408DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-73" lat="42.3693888337" lon="2.83101595656" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110629DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-190" lat="42.3676792631" lon="2.83263461993" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309418DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-75" lat="42.3690553706" lon="2.8317316386" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210502DG8961S"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-198" lat="42.3653414891" lon="2.8351902605" visible="true">
+  <tag k="addr:housenumber" v="79A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607004DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-218" lat="42.3673498808" lon="2.83481402211" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609217DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-25" lat="42.3686645553" lon="2.83176956819" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209110DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-77" lat="42.3690349838" lon="2.83124075477" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210506DG8961S"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-101" lat="42.3671712945" lon="2.83373862655" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409608DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-79" lat="42.3690441764" lon="2.83134096322" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210505DG8961S"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-176" lat="42.3681326" lon="2.8324182831" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309423DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-129" lat="42.3656925979" lon="2.83428870647" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6606501DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-69" lat="42.3702035064" lon="2.83055125728" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110651DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-81" lat="42.3688239075" lon="2.83161948375" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209105DG8960N"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-171" lat="42.3670048348" lon="2.83351503727" visible="true">
+  <tag k="addr:housenumber" v="46A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407204DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-19" lat="42.3688784214" lon="2.83090358747" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6109502DG8960N"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-172" lat="42.3667314574" lon="2.83422917251" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608030DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-83" lat="42.3690597708" lon="2.83167822013" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210503DG8961S"/>
+  <tag k="addr:street" v="Passeig de l'Esgl&#233;sia"/>
+</node>
+<node action="modify" id="-131" lat="42.366210007" lon="2.83626990436" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608012DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-21" lat="42.3689946682" lon="2.83088886197" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110636DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-141" lat="42.3675377494" lon="2.83282170131" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309415DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-146" lat="42.3680259619" lon="2.83222022348" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209416DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-106" lat="42.3669371492" lon="2.83503828811" visible="true">
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608039DG8960N"/>
+  <tag k="addr:street" v="Passatge de la Neu"/>
+</node>
+<node action="modify" id="-220" lat="42.3669978367" lon="2.83679086022" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608006DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-23" lat="42.3687059711" lon="2.83148767796" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209112DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-157" lat="42.3671656936" lon="2.83344234023" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309406DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-86" lat="42.3695312676" lon="2.83023000068" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110640DG8961S"/>
+  <tag k="addr:street" v="Carrer del Tur&#243;"/>
+</node>
+<node action="modify" id="-108" lat="42.3673593017" lon="2.83466558109" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609218DG8960N"/>
+  <tag k="addr:street" v="Passatge de la Neu"/>
+</node>
+<node action="modify" id="-206" lat="42.367761101" lon="2.83107867389" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108505DG8960N"/>
+  <tag k="addr:street" v="Passeig d'en Josep Soler i Batlle"/>
+</node>
+<node action="modify" id="-110" lat="42.3667920803" lon="2.8367292495" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608009DG8960N"/>
+  <tag k="addr:street" v="Passatge de la Neu"/>
+</node>
+<node action="modify" id="-177" lat="42.3669366856" lon="2.83365767504" visible="true">
+  <tag k="addr:housenumber" v="50A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407206DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-208" lat="42.3682205731" lon="2.83032822454" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108501DG8960N"/>
+  <tag k="addr:street" v="Passeig d'en Josep Soler i Batlle"/>
+</node>
+<node action="modify" id="-112" lat="42.3671951503" lon="2.83219526856" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209420DG8960N"/>
+  <tag k="addr:street" v="Passeig d'en Josep Soler i Batlle"/>
+</node>
+<node action="modify" id="-57" lat="42.3697048091" lon="2.8308828314" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110611DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-90" lat="42.3666994858" lon="2.83212697607" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407712DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-138" lat="42.3682298602" lon="2.83202294818" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209412DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-203" lat="42.3676323008" lon="2.83269080104" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309417DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-2" lat="42.3669573075" lon="2.83223462075" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408611DG8960N"/>
+  <tag k="addr:street" v="Carrer Arnera"/>
+</node>
+<node action="modify" id="-212" lat="42.3664760693" lon="2.8348726269" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608801DG8960N"/>
+  <tag k="addr:street" v="Carrer de Mont-Roig"/>
+</node>
+<node action="modify" id="-115" lat="42.3683393087" lon="2.82901530854" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6008615DG8960N"/>
+  <tag k="addr:street" v="Calle Esplanes"/>
+</node>
+<node action="modify" id="-156" lat="42.3671897776" lon="2.83340595988" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309407DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-33" lat="42.368505619" lon="2.83146904405" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209404DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-185" lat="42.3666047662" lon="2.83431071993" visible="true">
+  <tag k="addr:housenumber" v="60A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407211DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-103" lat="42.3689764026" lon="2.83200298419" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310604DG8961S"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-155" lat="42.3675443247" lon="2.83271618395" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408602DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-35" lat="42.3687291465" lon="2.83117856665" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209115DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-175" lat="42.3679299731" lon="2.83237579218" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309419DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-94" lat="42.3674709186" lon="2.83329564264" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409615DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-214" lat="42.3670176142" lon="2.8339187004" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409606DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-118" lat="42.3664245764" lon="2.83088076283" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6308605DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-37" lat="42.3666878501" lon="2.83262294777" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407705DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-6" lat="42.3691114029" lon="2.83100353567" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110634DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-45" lat="42.3667866232" lon="2.83254508085" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408609DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-120" lat="42.3665300514" lon="2.83096040629" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6308606DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-39" lat="42.3666240235" lon="2.83276460275" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407706DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-8" lat="42.3691805533" lon="2.83126630702" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110603DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-231" lat="42.3672929931" lon="2.83606100159" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609208DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-135" lat="42.3662805466" lon="2.83602998647" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608014DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-122" lat="42.3666362277" lon="2.8310480845" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6308607DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-173" lat="42.3669707135" lon="2.83358520257" visible="true">
+  <tag k="addr:housenumber" v="48A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407205DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-41" lat="42.3665822803" lon="2.83285725588" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407707DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-10" lat="42.3692276831" lon="2.83162031826" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110602DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-98" lat="42.3672494332" lon="2.83365304254" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409611DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-124" lat="42.3667947815" lon="2.8310402076" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6308608DG8960N"/>
+  <tag k="addr:street" v="Carrer de Salines"/>
+</node>
+<node action="modify" id="-43" lat="42.3664813281" lon="2.83289938474" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407708DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-12" lat="42.368970046" lon="2.83198530604" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310604DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-224" lat="42.366986569" lon="2.83681537928" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608008DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-126" lat="42.3654714877" lon="2.83778270827" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6808606DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-26" lat="42.3687542791" lon="2.83184634834" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209109DG8960N"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-14" lat="42.3687474035" lon="2.83099785436" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6109504DG8960N"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-226" lat="42.3673066548" lon="2.83578750324" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609211DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-168" lat="42.3668048353" lon="2.8340758692" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6608032DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-47" lat="42.3667609426" lon="2.83272173803" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408609DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-178" lat="42.3668384292" lon="2.83389622376" visible="true">
+  <tag k="addr:housenumber" v="52A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407207DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-16" lat="42.368917348" lon="2.83097928825" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6209117DG8960N"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-102" lat="42.367087321" lon="2.83384824229" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6409631DG8960N"/>
+  <tag k="addr:street" v="Carrer Agullana"/>
+</node>
+<node action="modify" id="-167" lat="42.3671447913" lon="2.83326849298" visible="true">
+  <tag k="addr:housenumber" v="42A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407202DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-49" lat="42.3666824253" lon="2.83283506364" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408608DG8960N"/>
+  <tag k="addr:street" v="Carrer de l'Horta"/>
+</node>
+<node action="modify" id="-31" lat="42.3685657651" lon="2.83221467366" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6310501DG8961S"/>
+  <tag k="addr:street" v="Pla&#231;a Major"/>
+</node>
+<node action="modify" id="-18" lat="42.3689896329" lon="2.83101652087" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6210508DG8961S"/>
+  <tag k="addr:street" v="Ronda de la Pla&#231;a"/>
+</node>
+<node action="modify" id="-233" lat="42.3672829895" lon="2.83626749509" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609206DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-230" lat="42.3672957879" lon="2.83600330924" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609209DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-145" lat="42.3674498934" lon="2.83297146161" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309413DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-201" lat="42.365623442" lon="2.83483077615" visible="true">
+  <tag k="addr:housenumber" v="80"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6606506DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-163" lat="42.3669752396" lon="2.83376450592" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309403DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-151" lat="42.3673119165" lon="2.83321321622" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309410DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-52" lat="42.3692314256" lon="2.8311082156" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110632DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-147" lat="42.3674056147" lon="2.83304967451" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6309412DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-207" lat="42.3678363969" lon="2.8309567801" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6108504DG8960N"/>
+  <tag k="addr:street" v="Passeig d'en Josep Soler i Batlle"/>
+</node>
+<node action="modify" id="-158" lat="42.3674393059" lon="2.83287070582" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6408604DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-132" lat="42.3656103683" lon="2.83724704393" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6808604DG8960N"/>
+  <tag k="addr:street" v="Carrer Ma&#231;anet"/>
+</node>
+<node action="modify" id="-194" lat="42.3656370326" lon="2.83492392753" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607006DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-54" lat="42.3695903148" lon="2.83089843509" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110626DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+<node action="modify" id="-165" lat="42.3672210661" lon="2.83314004222" visible="true">
+  <tag k="addr:housenumber" v="40A"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6407201DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-235" lat="42.3672773618" lon="2.83638409825" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6609205DG8960N"/>
+  <tag k="addr:street" v="Carrer de la Neu"/>
+</node>
+<node action="modify" id="-192" lat="42.3657609393" lon="2.83484668092" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6607007DG8960N"/>
+  <tag k="addr:street" v="Carrer Major"/>
+</node>
+<node action="modify" id="-56" lat="42.3696730778" lon="2.83084800494" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="17722"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6110625DG8961S"/>
+  <tag k="addr:street" v="Carrer Nou"/>
+</node>
+</osm>
