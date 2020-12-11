@@ -1,0 +1,96 @@
+Municipio: Negreira
+Nombre en Catastro: NEGREIRA
+Código: 15057
+Fecha: 12/10/20
+Opciones: 15057
+Superficie: 108,9 km²
+Población: 7029 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/gl:Negreira
+Wikidata: https://www.wikidata.org/wiki/Q840787
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.2.2
+Plataforma: Linux 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 2
+Frecuencia de CPU: 1.900,0 Mhz
+Tiempo de ejecución: 490,6 segundos
+Memoria total: 3.850,99 MB
+Memoria física usada: 638,29 MB
+Memoria virtual usada: 1.590,10 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2020-10-23
+Número de características: 5.888
+  Tipo entrada: 1.476
+  Tipo parcela: 4.412
+Códigos postales: 5
+Nombres de viales: 134
+
+==Procesado==
+Direcciones eliminadas por nombre de vía: 21
+Direcciones sin número de portal eliminadas: 4.078
+Direcciones sin edificio asociado eliminadas: 42
+Direcciones correspondientes a edificios múltiples eliminadas: 541
+Direcciones tipo parcela no únicas para su edificio eliminadas: 108
+
+==Combinación==
+Direcciones OSM: 56
+  Sin número de portal: 1
+Direcciones rechazadas por existir en OSM: 27
+
+==Datos de salida==
+Direcciones: 1.071
+  En nodos de entrada: 616
+  En edificios: 455
+  Tipo addr:street: 218
+  Tipo addr:place: 853
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2020-10-24
+Número de características: 11.188
+  Edificios: 3.013
+  Partes de edificios: 8.139
+  Piscinas: 36
+
+==Procesado==
+Partes fuera de contorno eliminadas: 35
+Partes bajo rasante eliminadas: 8
+Edificios con geometrías multiparte: 748
+Edificios resultantes de dividir multipartes: 1.719
+Partes fusionadas al contorno: 4.426
+Partes adyacentes fusionadas: 736
+Anillos de geometrías no válidos eliminados: 1
+Vértices en punta eliminados: 1
+Vértices próximos fusionados: 115
+Puntos topológicos creados: 1.254
+Vértices simplificados: 5.646
+
+==Combinación==
+Edificios/piscinas en OSM: 1.582
+  Con conflicto: 1.501
+
+==Datos de salida==
+Nodos: 31.895
+Vías: 6.965
+Relaciones: 22
+Número de características: 6.954
+  Edificios: 3.984
+  Partes de edificios: 2.934
+  Piscinas: 36
+Recuento de tipos de edificios: industrial: 227, office: 1, residential: 2830, yes: 766, retail: 22, ruins: 26, public: 105, barn: 7
+Plantas sobre rasante (nivel: nº de edificios): 1: 1076, 2: 1188, 3: 374, 4: 96, 5: 82, 6: 55, 7: 9, 8: 1
+Plantas bajo rasante (nivel: nº de edificios): 1: 129, 2: 22
+Archivos de tareas de rústica: 64
+Archivos de tareas de urbana: 726
+
+=Problemas=
+Correcciones (fixmes): 164
+  Falta el contorno del edificio para esta parte: 164
+Avisos: 1
+  Existen 1 direcciones sin número de portal en OSM
