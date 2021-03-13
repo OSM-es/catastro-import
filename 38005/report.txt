@@ -1,0 +1,65 @@
+Municipio: Arico
+Nombre en Catastro: ARICO
+Código: 38005
+Fecha: 03/10/21
+Opciones: -b 38005
+Superficie: 178,8 km²
+Población: 7891 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Arico
+Wikidata: https://www.wikidata.org/wiki/Q657738
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.3.3
+Plataforma: Linux 5.8.0-44-generic #50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 6
+Frecuencia de CPU: 4.000,0 Mhz
+Tiempo de ejecución: 339,8 segundos
+Memoria total: 31.996,89 MB
+Memoria física usada: 479,37 MB
+Memoria virtual usada: 1.306,17 MB
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2021-03-03
+Número de características: 17.739
+  Edificios: 5.660
+  Partes de edificios: 11.947
+  Piscinas: 132
+
+==Procesado==
+Parts outside outline deleted: 49
+Partes bajo rasante eliminadas: 501
+Edificios con geometrías multiparte: 759
+Edificios resultantes de dividir multipartes: 2.082
+Parts merged to the outline: 5.476
+Partes adyacentes fusionadas: 810
+Geometrías no válidas eliminadas: 2
+Vértices en punta eliminados: 15
+Vértices próximos fusionados: 1.894
+Puntos topológicos creados: 1.164
+Vértices simplificados: 15.848
+
+==Combinación==
+Edificios/piscinas en OSM: 652
+  Con conflicto: 652
+
+==Datos de salida==
+Nodos: 52.237
+Vías: 12.316
+Relaciones: 188
+Número de características: 12.224
+  Edificios: 6.982
+  Partes de edificios: 5.110
+  Piscinas: 132
+Recuento de tipos de edificios: industrial: 519, office: 5, residential: 5078, yes: 501, retail: 56, ruins: 18, public: 55, barn: 750
+Plantas sobre rasante (nivel: nº de edificios): 1: 3442, 2: 1302, 3: 720, 4: 104, 5: 3
+Plantas bajo rasante (nivel: nº de edificios): 1: 549, 2: 11, 3: 3
+
+=Problemas=
+Correcciones (fixmes): 80
+  Las partes de edificio no cubren todo el contorno: 71
+  Comprobar, área demasiado pequeña: 4
+  Comprobar, área demasiado grande: 5
