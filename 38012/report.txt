@@ -1,0 +1,63 @@
+Municipio: Fasnia
+Nombre en Catastro: FASNIA
+Código: 38012
+Fecha: 03/10/21
+Opciones: -b 38012
+Superficie: 45,6 km²
+Población: 2777 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Fasnia
+Wikidata: https://www.wikidata.org/wiki/Q524431
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.3.3
+Plataforma: Linux 5.8.0-44-generic #50~20.04.1-Ubuntu SMP Wed Feb 10 21:07:30 UTC 2021 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 6
+Frecuencia de CPU: 4.000,0 Mhz
+Tiempo de ejecución: 51,1 segundos
+Memoria total: 31.996,89 MB
+Memoria física usada: 262,90 MB
+Memoria virtual usada: 1.088,90 MB
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2021-03-03
+Número de características: 6.343
+  Edificios: 2.021
+  Partes de edificios: 4.296
+  Piscinas: 26
+
+==Procesado==
+Parts outside outline deleted: 4
+Partes bajo rasante eliminadas: 119
+Building outlines created: 2
+Edificios con geometrías multiparte: 359
+Edificios resultantes de dividir multipartes: 876
+Parts merged to the outline: 2.009
+Partes adyacentes fusionadas: 251
+Geometrías no válidas eliminadas: 4
+Vértices próximos fusionados: 724
+Puntos topológicos creados: 1.494
+Vértices simplificados: 5.764
+
+==Combinación==
+Edificios/piscinas en OSM: 92
+  Con conflicto: 92
+
+==Datos de salida==
+Nodos: 19.015
+Vías: 4.495
+Relaciones: 53
+Número de características: 4.475
+  Edificios: 2.539
+  Partes de edificios: 1.910
+  Piscinas: 26
+Recuento de tipos de edificios: industrial: 162, office: 9, residential: 1509, yes: 240, retail: 16, ruins: 31, public: 33, barn: 539
+Plantas sobre rasante (nivel: nº de edificios): 1: 1275, 2: 475, 3: 196, 4: 42, 5: 8, 6: 1
+Plantas bajo rasante (nivel: nº de edificios): 1: 274, 2: 6
+
+=Problemas=
+Correcciones (fixmes): 17
+  Las partes de edificio no cubren todo el contorno: 17
