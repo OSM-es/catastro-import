@@ -1,17 +1,17 @@
 AV ESPINA-MS (MATARR0SA SIL)	Avenida Espina-Ms (Matarr0Sa Sil)
-AV POLIDEPORTIVO-MS	Avenida Polideportivo-Ms
 AV PONFERRADA (TORENO)	Avenida Ponferrada (Toreno)
 AV ASTURIAS (TORENO)	Avenida de Asturias
 AV BEMBIBRE (TORENO)	Avenida de Bembibre
 AV BERLANGA (TORENO)	Avenida de Berlanga
 AV BIERZO-MS (MATARR0SA SIL)	Avenida del Bierzo
+AV POLIDEPORTIVO-MS	Avenida del Polideportivo
 BO ABAJO-SM	Barrio Abajo-Sm
 BO ALINOS (TORENO)	Barrio Alinos (Toreno)
-BO ARRIBA-TR (MELANDRERAS-TR)	Barrio Arriba-Tr (Melandreras-Tr)
-BO ARRIBA-VA	Barrio Arriba-Va
-BO BARREIRO-TR (TOMBRIO ARRIBA)	Barrio Barreiro-Tr (Tombrio Arriba)
-BO CAMPO-TR (MELANDRERAS-TR)	Barrio Campo-Tr (Melandreras-Tr)
-BO CEMENTERIO-TR (MELANDRERAS-TR)	Barrio Cementerio-Tr (Melandreras-Tr)
+BO ARRIBA-TR (MELANDRERAS-TR)	Barrio Arriba
+BO BARREIRO-TR (TOMBRIO ARRIBA)	Barrio Barreiro
+BO CAMPO-TR (MELANDRERAS-TR)	Barrio Campo
+BO CEMENTERIO-TR (MELANDRERAS-TR)	Barrio Cementerio
+BO ARRIBA-VA	Barrio de Arriba
 CL 1-SL	Calle 1-Sl
 CL 11 (TORENO)	Calle 11 (Toreno)
 CL 2-SL	Calle 2-Sl
@@ -19,31 +19,25 @@ CL 3-MS	Calle 3-Ms
 CL 4-SL	Calle 4-Sl
 CL 5-SL	Calle 5-Sl
 CL ALCAZAR TOLEDO-MS	Calle Alcazar Toledo-Ms
-CL BALBON-SP (S PEDRO MALLO)	Calle Balbon-Sp (S Pedro Mallo)
+CL BALBON-SP (S PEDRO MALLO)	Calle Balbón
+CL BARRIO-TB	Calle Barrio
 CL BARRIO-LI (LIBRAN)	Calle Barrio-Li (Libran)
-CL BARRIO-TB	Calle Barrio-Tb
-CL BARRIOSECO-TR (MELANDRERAS-TR)	Calle Barrioseco-Tr (Melandreras-Tr)
-CL BOUBA-TB	Calle Bouba-Tb
-CL CAGALLA (TORENO)	Calle Cagalla (Toreno)
-CL CALVO SOTELO-MS (MATARR0SA SIL)	Calle Calvo Sotelo-Ms (Matarr0Sa Sil)
-CL CALZADOS-TR (MELANDRERAS-TR)	Calle Calzados-Tr (Melandreras-Tr)
-CL CAMPO-MS (MATARR0SA SIL)	Calle Campo-Ms (Matarr0Sa Sil)
-CL CAMPO-SP (S PEDRO MALLO)	Calle Campo-Sp (S Pedro Mallo)
-CL CAMPO-TB	Calle Campo-Tb
-CL CAMPO-TR (MELANDRERAS-TR)	Calle Campo-Tr (Melandreras-Tr)
-CL CAMPO-VA	Calle Campo-Va
-CL CANAL-SP (S PEDRO MALLO)	Calle Canal-Sp (S Pedro Mallo)
-CL CARREIRON-PR	Calle Carreiron-Pr
+CL BARRIOSECO-TR (MELANDRERAS-TR)	Calle Barrioseco
+CL BOUBA-TB	Calle Bouba
+CL CALZADOS-TR (MELANDRERAS-TR)	Calle Calzados
+CL CAMPO-MS (MATARR0SA SIL)	Calle Campo
+CL CAMPO-SP (S PEDRO MALLO)	Calle Campo
+CL CANAL-SP (S PEDRO MALLO)	Calle Canal
+CL CARREIRON-PR	Calle Carreirón
 CL CERVANTES (TORENO)	Calle Cervantes
-CL CID-MS	Calle Cid-Ms
 CL CIMA VILLA-VT (VILLAR TRAVIESA)	Calle Cima Vieja
 CL COLON (TORENO)	Calle Colón
-CL CONDE DQ OLI-MS (MATARR0SA SIL)	Calle Conde Dq Oli-Ms (Matarr0Sa Sil)
+CL CONDE DQ OLI-MS (MATARR0SA SIL)	Calle Conde Duque de Olivares
+CL CUESTA TORRE (TORENO)	Calle Conde de Toreno
 CL CONDE TORENO (TORENO)	Calle Conde de Toreno
-CL CORTINA-TB	Calle Cortina-Tb
-CL CORZO REAL-MS	Calle Corzo Real-Ms
-CL COTROSA-TB	Calle Cotrosa-Tb
-CL COUSO-TB	Calle Couso-Tb
+CL CORTINA-TB	Calle Cortina
+CL COTROSA-TB	Calle Cotrosa
+CL COUSO-TB	Calle Couso
 CL CRISTO-SM	Calle Cristo
 CL CRISTO (TORENO)	Calle Cristo (Toreno)
 CL DR GARCIA CASAS (TORENO)	Calle Doctor García Casas
@@ -52,120 +46,128 @@ CL MAYUELO (TORENO)	Calle Dos de Mayo
 CL BARRIO (TORENO)	Calle El Barrio
 CL RETIRO (TORENO)	Calle El Retiro
 CL RETORNO (TORENO)	Calle El Retorno
+CL TORENILLO (TORENO)	Calle El Retorno
 CL ROLLO (TORENO)	Calle El Rollo
-CL ERAS-SP (S PEDRO MALLO)	Calle Eras-Sp (S Pedro Mallo)
-CL ERMITA-SP (S PEDRO MALLO)	Calle Ermita-Sp (S Pedro Mallo)
-CL ESCUELA-TB	Calle Escuela-Tb
-CL ESCUELA-VA	Calle Escuela-Va
-CL ESCUELAS-TR (MELANDRERAS-TR)	Calle Escuelas-Tr (Melandreras-Tr)
+CL ERAS-SP (S PEDRO MALLO)	Calle Eras
+CL ERMITA-SP (S PEDRO MALLO)	Calle Ermita
+CL ESCUELA-VA	Calle Escuela
+CL ESCUELAS-TR (MELANDRERAS-TR)	Calle Escuelas
 CL GARCIA LORCA (TORENO)	Calle Federico García Lorca
-CL FUENTE-SP (S PEDRO MALLO)	Calle Fuente-Sp (S Pedro Mallo)
+CL FUENTE-SP (S PEDRO MALLO)	Calle Fuente
 CL GENERAL MOSC-MS	Calle General Mosc-Ms
 CL GENERAL MOSCARDO (TORENO)	Calle General Moscardo (Toreno)
-CL GIL Y CARRASCO-MS	Calle Gil y Carrasco-Ms
-CL GRANJA-PR	Calle Granja-Pr
-CL IGLESIA-TR (MELANDRERAS-TR)	Calle Iglesia-Tr (Melandreras-Tr)
+CL GIL Y CARRASCO-MS	Calle Gil y Carrasco
+CL GRANJA-PR	Calle Granja
+CL IGLESIA (TORENO)	Calle Iglesia
 CL IGLESIA-VT (VILLAR TRAVIESA)	Calle Iglesia-Vt (Villar Traviesa)
-CL ENCINAS-MS	Calle José Espronceda
+CL INSTITUTO (TORENO)	Calle Instituto
 CL JOSE ESPRONCEDA-MS (MATARR0SA SIL)	Calle José Espronceda
 CL JOSE ZORRILLA (TORENO)	Calle José Zorrila
+CL BRAÑA-SM	Calle La Braña
 CL REAL (TORENO)	Calle La Cepa
 CL CEPA (TORENO)	Calle La Cepa
 CL CHANA (TORENO)	Calle La Chana
-CL CORREDERA (TORENO)	Calle La Corredera
 CL FORNILLA (TORENO)	Calle La Fornilla
 CL PRESA (TORENO)	Calle La Presa
-CL LACIANA-MS (MATARR0SA SIL)	Calle Laciana-Ms (Matarr0Sa Sil)
-CL LINARES (TORENO)	Calle Las Linares
-CL LENGIO-VT (VILLAR TRAVIESA)	Calle Lengio-Vt (Villar Traviesa)
-CL LOMBA-VA	Calle Lomba-Va
+CL RESIDENCIA (TORENO)	Calle La Residencia
+CL LACIANA-MS (MATARR0SA SIL)	Calle Laciana
+CL LENGIO-VT (VILLAR TRAVIESA)	Calle Lengio
 CL HEROES (TORENO)	Calle Los Héroes
 CL TEMPLARIOS-MS (MATARR0SA SIL)	Calle Los Templarios
-CL MATA-TB	Calle Mata-Tb
+CL MATA-TB	Calle Mata
+LG MELANDRERAS-TR (MELANDRERAS-TR)	Calle Melandreras
 CL MOLINO (TORENO)	Calle Molino (Toreno)
-CL NAVAS TOLOSA-MS	Calle Navas Tolosa-Ms
+CL NAVAS TOLOSA-MS	Calle Navas de Tolosa
 CL NUEVA (TORENO)	Calle Nueva
-CL INSTITUTO (TORENO)	Calle Nueva
 CL OTERO (TORENO)	Calle Otero
-CL PAJARES (TORENO)	Calle Pajares (Toreno)
 CL PEDRO I-MS (MATARR0SA SIL)	Calle Pedro I
-CL PICO VILLA-PR	Calle Pico Villa-Pr
-CL PICOTA-PA	Calle Picota-Pa
-CL PICOTA-PR	Calle Picota-Pr
+CL PICO VILLA-PR	Calle Pico Villa
 CL PIEDRA-LI (LIBRAN)	Calle Piedra-Li (Libran)
-CL PIZARRO-MS	Calle Pizarro-Ms
-CL PONFERRADA-MS (MATARR0SA SIL)	Calle Ponferrada-Ms (Matarr0Sa Sil)
+CL PIZARRO-MS	Calle Pizarro
+CL PONFERRADA-MS (MATARR0SA SIL)	Calle Ponferrada
 CL PRIETOS-TR (MELANDRERAS-TR)	Calle Prietos
-CL PRINCIPAL-SL	Calle Principal-Sl
-CL PROHIDA-TB	Calle Prohida-Tb
-CL PUENTE (TORENO)	Calle Puente (Toreno)
+CL PRINCIPAL-SL	Calle Principal
+CL PROHIDA-TB	Calle Prohida
+CL PUENTE (TORENO)	Calle Puente
 CL RAMON Y CAJAL (TORENO)	Calle Ramón y Cajal
-CL RANEIRO (TORENO)	Calle Raneiro (Toreno)
-CL REAL-MS (MATARR0SA SIL)	Calle Real-Ms (Matarr0Sa Sil)
-CL REQUEJO-PR	Calle Requejo-Pr
-CL REYES CATOLICOS-MS (MATARR0SA SIL)	Calle Reyes Catolicos-Ms (Matarr0Sa Sil)
+CL REAL-MS (MATARR0SA SIL)	Calle Real
+CL CORZO REAL-MS	Calle Real
+CL LA MARQUESA (PRADILLA)	Calle Requejo
+CL REQUEJO-PR	Calle Requejo
 CL DR RDGUEZ FUENT (TORENO)	Calle Rodríguez de la Fuente
-CL ROSALES (TORENO)	Calle Rosales (Toreno)
 CL SAN PEDRO (TORENO)	Calle San Pedro
 CL SORELLANA-LI (LIBRAN)	Calle Sorellana
 CL TRIANA (TORENO)	Calle Triana
-CL IGLESIA (TORENO)	Calle Triana
-CL VALENCIA ALC-MS	Calle Valencia Alc-Ms
+CL VALENCIA ALC-MS	Calle Valencia de Alcántara
 CL VALLENTIN-TR (MELANDRERAS-TR)	Calle Vallentín
-CL VALLINA-SP (S PEDRO MALLO)	Calle Vallina-Sp (S Pedro Mallo)
-CL VILLA GAZTELUME (TORENO)	Calle Villa Gaztelume (Toreno)
-CL VILLA-PR	Calle Villa-Pr
-CL VIZCONDE-MS	Calle Vizconde-Ms
-CL BRAÑA-SM	Calle de Abajo
+CL VALLINA-SP (S PEDRO MALLO)	Calle Vallina
+CL VILLA GAZTELUME (TORENO)	Calle Villa Gaztelume
+CL VIZCONDE-MS	Calle Vizconde de Matarrosa
+CL CORREDERA (TORENO)	Calle de la Corredera
+CL FUENTE (TORENO)	Calle de la Fuente
 CL RIBANCOS (TORENO)	Calle de los Ribancos
+CL CID-MS	Calle del Cid
 CL CAMPILLO (TORENO)	Calle el Campillo
+CL CAMPO-TB	Calle el Campo
+CL CAMPO-VA	Calle el Campo
+CL CAMPO-TR (MELANDRERAS-TR)	Calle el Campo
 CL CASTRO-LI (LIBRAN)	Calle el Castro
 CL CAMPO-LI (LIBRAN)	Calle el Castro
 CL PEDRON-VT (VILLAR TRAVIESA)	Calle el Pedrón
+CL RANEIRO (TORENO)	Calle el Raneiro
 CL BARRERA-LI (LIBRAN)	Calle la Barrera
 CL CALEINA-VI (VILLAR TRAVIESA)	Calle la Caleina
-CL FUENTE (TORENO)	Calle la Fuente
+CL CAGALLA (TORENO)	Calle la Capilla
+CL ESCUELA-TB	Calle la Escuela
 CL GANDARA (TORENO)	Calle la Gándara
+CL IGLESIA-TR (MELANDRERAS-TR)	Calle la Iglesia
 CL IGLESIA-SM	Calle la Iglesia
-CL LA MARQUESA (PRADILLA)	Calle la Marquesa (Pradilla)
+CL LOMBA-VA	Calle la Lomba
 CL MATA-VI (VILLAR TRAVIESA)	Calle la Mata
+CL PICOTA-PR	Calle la Picota
+CL PICOTA-PA	Calle la Picota
 CL MURALLON-LI (LIBRAN)	Calle la Pruida
 CL PRUIDA-LI (LIBRAN)	Calle la Pruida
+CL VILLA-PR	Calle la Villa
+CL ENCINAS-MS	Calle las Encinas
+CL LINARES (TORENO)	Calle las Linares
+CL PAJARES (TORENO)	Calle los Pajares
 CL PEDREGALES (TORENO)	Calle los Pedregales
+CL REYES CATOLICOS-MS (MATARR0SA SIL)	Calle los Reyes Católicos
+CL ROSALES (TORENO)	Calle los Rosales
+CL CALVO SOTELO-MS (MATARR0SA SIL)	Calvo Sotelo
 CM 2-PA	Camino/Carmen 2-Pa
 CM 3-PA	Camino/Carmen 3-Pa
 CM 5 (TORENO)	Camino/Carmen 5 (Toreno)
 CM 5-PA	Camino/Carmen 5-Pa
 CM 7-PA	Camino/Carmen 7-Pa
+CR CONGOSTO-SM	Carretera de Congosto
+LG SANTA MARINA DEL SIL (S MARINA DEL SI)	Carretera de LE-463 a Santa Marina del Sil
 CR PONFERRADA (TORENO)	Carretera de Ponferrada a Villablino
-CR CONGOSTO-SM	Carretera/Carrera Congosto-Sm
+CR SAN PEDRO-MS (MATARR0SA SIL)	Carretera de San Pedro
+CR VEGA A-TR (MELANDRERAS-TR)	Carretera de Vega de Espinareda a Toreno
 CR EMBALSE (TORENO)	Carretera/Carrera Embalse (Toreno)
-CR SAN PEDRO-MS (MATARR0SA SIL)	Carretera/Carrera San Pedro-Ms (Matarr0Sa Sil)
 CR TORENO-VT (VILLAR TRAVIESA)	Carretera/Carrera Toreno-Vt (Villar Traviesa)
-CR VEGA A-TR (MELANDRERAS-TR)	Carretera/Carrera Vega A-Tr (Melandreras-Tr)
 CR VEGA-TB	Carretera/Carrera Vega-Tb
-CL CUESTA TORRE (TORENO)	Cuesta de la Torre
 GR FORNILLA (TORENO)	Grupo Fornilla (Toreno)
 GR MERINO GARCIA (TORENO)	Grupo Merino Garcia (Toreno)
-CL RESIDENCIA (TORENO)	La Residencia
 LG CAMPOS-TR (MELANDRERAS-TR)	Lugar Campos-Tr (Melandreras-Tr)
 LG DISEMINADO	Lugar Diseminado
-LG MELANDRERAS-TR (MELANDRERAS-TR)	Lugar Melandreras-Tr (Melandreras-Tr)
 LG PARDAMAZA (PARDAMAZA)	Lugar Pardamaza (Pardamaza)
 LG PRADILLA (PRADILLA)	Lugar Pradilla (Pradilla)
 LG SANTA LEOCADIA (SANTA LEOCADIA)	Lugar Santa Leocadia (Santa Leocadia)
-LG SANTA MARINA DEL SIL (S MARINA DEL SI)	Lugar Santa Marina del Sil (S Marina del Si)
+LG TOMBRIO ABAJO (TOMBRIO ABAJO)	Lugar Tombrio Abajo (Tombrio Abajo)
 LG TOMBRIO ARRIBA (TOMBRIO ARRIBA)	Lugar Tombrio Arriba (Tombrio Arriba)
 LG TORENO (TORENO)	Lugar Toreno (Toreno)
 LG VALDELALOBA (VALDELALOBA)	Lugar Valdelaloba (Valdelaloba)
+LG VILLAR TRAVIESA (VILLAR TRAVIESA)	Lugar Villar Traviesa (Villar Traviesa)
 PJ VEA (TORENO)	Pasaje/Pasadizo Vea (Toreno)
 PZ ALV QUEIPO L-MS (MATARR0SA SIL)	Plaza Alv Queipo L-Ms (Matarr0Sa Sil)
-PZ CAMPO-SP (S PEDRO MALLO)	Plaza Campo-Sp (S Pedro Mallo)
 PZ GENERALISIMO (TORENO)	Plaza Generalisimo (Toreno)
 PZ MAESTRO RAMON E (TORENO)	Plaza Maestro Ramon E (Toreno)
 PZ MAYOR (TORENO)	Plaza Mayor
-PZ SAN ROQUE (TORENO)	Plaza San Roque (Toreno)
 PZ SIL-MS (MATARR0SA SIL)	Plaza Sil-Ms (Matarr0Sa Sil)
-CL TORENILLO (TORENO)	Plaza de Torenillo
+PZ SAN ROQUE (TORENO)	Plaza de San Roque
 PZ PAZ (TORENO)	Plaza de la Paz
+PZ CAMPO-SP (S PEDRO MALLO)	Plaza del Campo
 TR ROLLO (TORENO)	Travesía El Rollo
