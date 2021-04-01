@@ -1,0 +1,2389 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.3.3'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2021-03-04"/>
+</changeset>
+<node action="modify" id="-199" lat="42.268402654" lon="-5.09842803469" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119703UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-155" lat="42.268491601" lon="-5.09585000658" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219009UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-226" lat="42.2668330501" lon="-5.0984665633" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217001UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-234" lat="42.2666531438" lon="-5.09456756864" visible="true">
+  <tag k="addr:housenumber" v="26A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217018UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-286" lat="42.2683333175" lon="-5.0954965366" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319220UM2871N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-115" lat="42.268215106" lon="-5.09469300063" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319405UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-5" lat="42.2685729175" lon="-5.0972106113" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219806UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-242" lat="42.266821547" lon="-5.0979606534" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217002UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-191" lat="42.2684366353" lon="-5.09998272451" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919702UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-10" lat="42.268498847" lon="-5.09660644346" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219810UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-272" lat="42.268148771" lon="-5.09352897564" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418110UM2871N"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-274" lat="42.2682693924" lon="-5.0934785492" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418123UM2871N"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-76" lat="42.2678887569" lon="-5.09934603332" visible="true">
+  <tag k="addr:housenumber" v="27A"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018106UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-29" lat="42.2690552097" lon="-5.09991866196" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6920301UM2862S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-104" lat="42.2675910726" lon="-5.09979190131" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018104UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-303" lat="42.2680343871" lon="-5.09592187765" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218107UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-52" lat="42.2673180317" lon="-5.09622957278" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318602UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-232" lat="42.2670020629" lon="-5.09514999321" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318608UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-150" lat="42.2688624599" lon="-5.09487392432" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319207UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-84" lat="42.2680385127" lon="-5.09778427215" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118106UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-238" lat="42.2669947768" lon="-5.10002466813" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918701UM2861N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-340" lat="42.2700526597" lon="-5.09385604565" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421304UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-311" lat="42.267324865" lon="-5.09661675689" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218706UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-204" lat="42.268102801" lon="-5.09936682163" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019010UM2871N"/>
+  <tag k="addr:street" v="Calle La Vega"/>
+</node>
+<node action="modify" id="-338" lat="42.2703238356" lon="-5.09370283525" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421201UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-17" lat="42.2689567481" lon="-5.09827560166" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7120701UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-158" lat="42.2685281029" lon="-5.0957710818" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319702UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-135" lat="42.268803043" lon="-5.09415458629" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420504UM2872S"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-319" lat="42.2679030771" lon="-5.09736233889" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118111UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-65" lat="42.2679783403" lon="-5.09811084404" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118102UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-284" lat="42.2684059107" lon="-5.09556608432" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319203UM2871N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-166" lat="42.2682878236" lon="-5.0970571568" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219003UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-97" lat="42.2671683705" lon="-5.0986798763" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018116UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-45" lat="42.2679413766" lon="-5.09457088734" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418107UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-120" lat="42.2683274324" lon="-5.09451463976" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319212UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-40" lat="42.2678388487" lon="-5.0948487777" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418103UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-327" lat="42.269681802" lon="-5.09392557556" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421502UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-215" lat="42.2670241712" lon="-5.1009383901" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47090A00900001"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-6" lat="42.2685993624" lon="-5.09731892241" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219805UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-173" lat="42.2684985112" lon="-5.09532103183" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319204UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-124" lat="42.268623794" lon="-5.09445457227" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319210UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-253" lat="42.2671568357" lon="-5.09826137022" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118603UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-254" lat="42.2672048041" lon="-5.09801043247" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118117UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-225" lat="42.2669464207" lon="-5.09733188268" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118404UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-314" lat="42.2680195085" lon="-5.09738843496" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118110UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-259" lat="42.2673137764" lon="-5.09760174907" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218702UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-34" lat="42.2678020063" lon="-5.09501437796" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319412UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-109" lat="42.2678013497" lon="-5.09677237165" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219604UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-57" lat="42.2676828992" lon="-5.0952729787" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319505UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-233" lat="42.2668597177" lon="-5.09476717389" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217012UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-185" lat="42.2681899041" lon="-5.10015250213" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919305UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-266" lat="42.2675125869" lon="-5.09825297074" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118702UM2871N"/>
+  <tag k="addr:street" v="Calle Carrapozo"/>
+</node>
+<node action="modify" id="-209" lat="42.2677984265" lon="-5.09828672954" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018113UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-241" lat="42.2677020079" lon="-5.09357366507" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418124UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-330" lat="42.2698697585" lon="-5.0939440457" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421305UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-317" lat="42.2680195085" lon="-5.09738843496" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118110UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-140" lat="42.2690061403" lon="-5.09384216575" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418121UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-269" lat="42.269926835" lon="-5.09420827546" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421301UM2872S"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-143" lat="42.2681710487" lon="-5.09496315922" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319403UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-75" lat="42.2679310136" lon="-5.09914624698" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018108UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-194" lat="42.2681991634" lon="-5.10019371326" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919705UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-302" lat="42.2678833422" lon="-5.09574056083" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319501UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-285" lat="42.2678721787" lon="-5.09524162722" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319504UM2871N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-148" lat="42.2688241796" lon="-5.0950036317" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319206UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-11" lat="42.2687204734" lon="-5.09781833369" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219801UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-149" lat="42.2682965213" lon="-5.09621124455" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219011UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-315" lat="42.2680812805" lon="-5.09721922572" visible="true">
+  <tag k="addr:housenumber" v="3A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219606UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-339" lat="42.2693588364" lon="-5.09368120828" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421403UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-129" lat="42.2686360175" lon="-5.09434449342" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420501UM2872S"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-258" lat="42.2673678564" lon="-5.09745801812" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218703UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-157" lat="42.2686540969" lon="-5.09567352779" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219010UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-91" lat="42.2671970237" lon="-5.09915734976" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918310UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-39" lat="42.2677977216" lon="-5.09496917985" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418102UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-114" lat="42.268120081" lon="-5.0954678377" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319703UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-318" lat="42.2676451872" lon="-5.0969304133" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218101UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-64" lat="42.267964914" lon="-5.09824019006" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118101UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-291" lat="42.2675252684" lon="-5.09621788949" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218109UM2871N"/>
+  <tag k="addr:street" v="Plaza Corrillo"/>
+</node>
+<node action="modify" id="-331" lat="42.2689736864" lon="-5.0934126203" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7519801UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-3" lat="42.2670070385" lon="-5.09949942943" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018602UM2871N"/>
+  <tag k="addr:street" v="Avenida Doctor Sainz Garcia"/>
+</node>
+<node action="modify" id="-326" lat="42.2657884593" lon="-5.09489030615" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217015UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-214" lat="42.2669936755" lon="-5.09499469424" visible="true">
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318609UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-42" lat="42.2678621746" lon="-5.09478488812" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418104UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-72" lat="42.2679157066" lon="-5.09861191448" visible="true">
+  <tag k="addr:housenumber" v="21A"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018110UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-216" lat="42.2671841022" lon="-5.10111359552" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=47090A00900002"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-273" lat="42.2683820571" lon="-5.09345215289" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7519702UM2871N"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-312" lat="42.2672206839" lon="-5.09649901477" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218707UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-28" lat="42.2691748448" lon="-5.09975472513" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020001UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-103" lat="42.2674614396" lon="-5.09966348006" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918307UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-252" lat="42.2669135872" lon="-5.09853694615" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118606UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-92" lat="42.2676488151" lon="-5.09989082358" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018101UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-203" lat="42.2685305248" lon="-5.09889673257" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019003UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-16" lat="42.268993316" lon="-5.09824162781" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7120702UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-134" lat="42.2688115987" lon="-5.09382547283" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418119UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-240" lat="42.267542014" lon="-5.09373463091" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418125UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-267" lat="42.2674797047" lon="-5.09836922651" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018114UM2871N"/>
+  <tag k="addr:street" v="Calle Carrapozo"/>
+</node>
+<node action="modify" id="-332" lat="42.2662398984" lon="-5.09689620546" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217017UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-44" lat="42.2679064312" lon="-5.0946642317" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418106UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-4" lat="42.2688648322" lon="-5.09824384572" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020411UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-119" lat="42.2682440994" lon="-5.0945123709" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319407UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-229" lat="42.2666398596" lon="-5.09530866146" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217010UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-74" lat="42.2679448711" lon="-5.09896757916" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018109UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-123" lat="42.268276038" lon="-5.09435660386" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319409UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-307" lat="42.267821804" lon="-5.09574478409" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318802UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-278" lat="42.2693156159" lon="-5.09406883398" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420707UM2872S"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-82" lat="42.268062738" lon="-5.0976833776" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118107UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-301" lat="42.268105053" lon="-5.09599633894" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218106UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-33" lat="42.2674713401" lon="-5.09568796295" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318605UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-108" lat="42.2677923528" lon="-5.09672142761" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218102UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-309" lat="42.2681676305" lon="-5.09726873891" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219601UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-56" lat="42.2674184393" lon="-5.0958644027" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318604UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-184" lat="42.2686713434" lon="-5.0992226371" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020402UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-90" lat="42.268666513" lon="-5.09801361867" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020410UM2872S"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-1" lat="42.267848791" lon="-5.10075934523" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919601UM2861N"/>
+  <tag k="addr:street" v="Avenida Doctor Sainz Garcia"/>
+</node>
+<node action="modify" id="-282" lat="42.2683340009" lon="-5.09880551818" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119701UM2871N"/>
+  <tag k="addr:street" v="Calle Colago"/>
+</node>
+<node action="modify" id="-265" lat="42.2673234125" lon="-5.09851283059" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018115UM2871N"/>
+  <tag k="addr:street" v="Calle Carrapozo"/>
+</node>
+<node action="modify" id="-151" lat="42.2683443467" lon="-5.09612081908" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219007UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-21" lat="42.268535354" lon="-5.09669395383" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219809UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-164" lat="42.2688379774" lon="-5.0950296364" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420702UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-208" lat="42.2677264233" lon="-5.09822882797" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118120UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-139" lat="42.2689472718" lon="-5.09386870465" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418120UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-325" lat="42.2697735557" lon="-5.0939317602" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421501UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-71" lat="42.2678584518" lon="-5.10056165406" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919703UM2861N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-102" lat="42.2673653896" lon="-5.0994325215" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018107UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-171" lat="42.2686820587" lon="-5.09554276993" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319201UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-8" lat="42.2687349802" lon="-5.09741974179" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219803UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-251" lat="42.2668199498" lon="-5.09698353561" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217004UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-197" lat="42.2680092503" lon="-5.10014244108" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919707UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-223" lat="42.2669326209" lon="-5.09760764736" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118403UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-63" lat="42.2679897202" lon="-5.09921998982" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019009UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-128" lat="42.2684532997" lon="-5.09410180405" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418116UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-257" lat="42.2671353589" lon="-5.09850137101" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118601UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-231" lat="42.2668151078" lon="-5.09507224576" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217011UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-283" lat="42.2684586625" lon="-5.09561011233" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319202UM2871N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-38" lat="42.2679343941" lon="-5.09469354234" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319410UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-113" lat="42.2682240111" lon="-5.09623617692" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218105UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-239" lat="42.2697662889" lon="-5.0921431723" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7620702UM2872S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-189" lat="42.2685343292" lon="-5.09968824033" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919709UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-51" lat="42.268257339" lon="-5.09416970214" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418112UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-142" lat="42.2682911067" lon="-5.09495040379" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319217UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-182" lat="42.2686448447" lon="-5.0991512987" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020409UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-213" lat="42.2670039046" lon="-5.09795144482" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118605UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-159" lat="42.2692097772" lon="-5.09348850515" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7520701UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-156" lat="42.2690103434" lon="-5.09402546738" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420503UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-73" lat="42.2679145531" lon="-5.09870936066" visible="true">
+  <tag k="addr:housenumber" v="21B"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018119UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-329" lat="42.2692827946" lon="-5.09365881026" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420302UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-27" lat="42.2693340841" lon="-5.09959141144" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020002UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-300" lat="42.2670147487" lon="-5.09489490227" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418128UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-50" lat="42.2681392584" lon="-5.09421052717" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418113UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-178" lat="42.2685579402" lon="-5.09892750162" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020404UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-81" lat="42.2680389521" lon="-5.09827203133" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119708UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-337" lat="42.2701243424" lon="-5.09375681952" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421401UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-222" lat="42.2668213661" lon="-5.09603495622" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217016UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-22" lat="42.2691147332" lon="-5.09895651828" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020007UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-308" lat="42.2677420644" lon="-5.09558915572" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319506UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-202" lat="42.2685201772" lon="-5.0988231005" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020405UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-15" lat="42.2690441377" lon="-5.09819448605" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7120703UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-89" lat="42.2682674436" lon="-5.09741229282" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119706UM2871N"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-133" lat="42.2686533909" lon="-5.09421303395" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420506UM2872S"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-264" lat="42.2672710332" lon="-5.09780661687" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118116UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-62" lat="42.2679924715" lon="-5.09799340985" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118103UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-187" lat="42.2681113587" lon="-5.10009782915" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919304UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-310" lat="42.2674069816" lon="-5.09672763272" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218705UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-163" lat="42.2687884954" lon="-5.09522799468" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420701UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-95" lat="42.267693235" lon="-5.10000943341" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918302UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-43" lat="42.2678873045" lon="-5.09472354992" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418105UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-277" lat="42.2699423652" lon="-5.094504986" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421601UM2872S"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-118" lat="42.2682842828" lon="-5.0946974441" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319213UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-324" lat="42.2701376121" lon="-5.093697265" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421402UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-70" lat="42.2680516768" lon="-5.09811902427" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119707UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-125" lat="42.2681079866" lon="-5.09522802574" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319401UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-122" lat="42.2685291445" lon="-5.09438186405" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319211UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-198" lat="42.2684360668" lon="-5.09843679427" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020407UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-250" lat="42.2669472309" lon="-5.09877782938" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018501UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-290" lat="42.2675202973" lon="-5.09605481026" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218110UM2871N"/>
+  <tag k="addr:street" v="Plaza Corrillo"/>
+</node>
+<node action="modify" id="-126" lat="42.2683467188" lon="-5.09413871785" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418111UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-107" lat="42.2682976186" lon="-5.09634872395" visible="true">
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219006UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-183" lat="42.2682661875" lon="-5.10021340513" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919301UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-207" lat="42.2677676665" lon="-5.0982283897" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118121UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-20" lat="42.2690882698" lon="-5.09888299813" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020008UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-138" lat="42.2681985339" lon="-5.09507404336" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319218UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-116" lat="42.2683428832" lon="-5.09473832456" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319214UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-316" lat="42.2678934224" lon="-5.09711756556" visible="true">
+  <tag k="addr:housenumber" v="3B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219605UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-296" lat="42.2675662646" lon="-5.09483422944" visible="true">
+  <tag k="addr:housenumber" v="13A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418134UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-328" lat="42.2693881677" lon="-5.09378999317" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420303UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-299" lat="42.2671972421" lon="-5.09501056747" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418129UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-196" lat="42.2680908365" lon="-5.10012059129" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919706UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-9" lat="42.2686972954" lon="-5.09773084017" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219802UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-80" lat="42.2678671694" lon="-5.09969890373" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018102UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-336" lat="42.2686853559" lon="-5.09311910517" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7519804UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-127" lat="42.2687515051" lon="-5.0945712925" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319209UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-224" lat="42.2668012699" lon="-5.09581699095" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217008UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-144" lat="42.2683188249" lon="-5.09486742902" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319216UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-256" lat="42.2671892484" lon="-5.09836781611" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118701UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-162" lat="42.2687527671" lon="-5.09540725664" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319102UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-154" lat="42.2689993902" lon="-5.0943265661" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420502UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-88" lat="42.268433988" lon="-5.09724133038" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219002UM2871N"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-37" lat="42.2675850007" lon="-5.09543423341" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318607UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-263" lat="42.267356693" lon="-5.09755818332" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118115UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-61" lat="42.2679939599" lon="-5.09892730457" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019007UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-188" lat="42.2684321694" lon="-5.09829252256" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020408UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-271" lat="42.2681057934" lon="-5.0934645152" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7519701UM2871N"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-32" lat="42.2673067988" lon="-5.09645208493" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218114UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-323" lat="42.2702003489" lon="-5.09352414136" visible="true">
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421404UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-25" lat="42.2693219588" lon="-5.09934377598" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020004UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-179" lat="42.2686044311" lon="-5.09913348414" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019002UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-83" lat="42.2680146133" lon="-5.09843051536" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119709UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-26" lat="42.2692013864" lon="-5.09944980695" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020003UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-101" lat="42.2673491912" lon="-5.09947584169" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918308UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-249" lat="42.2663560339" lon="-5.09751853352" visible="true">
+  <tag k="addr:housenumber" v="6A"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217019UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-49" lat="42.268075418" lon="-5.0942326752" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418115UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-221" lat="42.2669535464" lon="-5.09769993659" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118402UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-146" lat="42.2683367778" lon="-5.0948026153" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319215UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-313" lat="42.2671011186" lon="-5.09648507257" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218708UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-190" lat="42.2679890658" lon="-5.10007966682" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919303UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-201" lat="42.2683973814" lon="-5.09860513368" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119702UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-14" lat="42.2688764472" lon="-5.09812883271" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7120601UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-132" lat="42.2687748875" lon="-5.09393195252" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418118UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-292" lat="42.2674008578" lon="-5.09492864351" visible="true">
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418132UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-170" lat="42.2691458491" lon="-5.09367306197" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420301UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-237" lat="42.2672576721" lon="-5.09414246865" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418126UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-94" lat="42.2676563445" lon="-5.09994515905" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918303UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-117" lat="42.2682297015" lon="-5.09460146746" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319406UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-279" lat="42.2682250449" lon="-5.09880661159" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019005UM2871N"/>
+  <tag k="addr:street" v="Calle Colago"/>
+</node>
+<node action="modify" id="-245" lat="42.2692168251" lon="-5.09309892825" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7520705UM2872S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-295" lat="42.2675904492" lon="-5.09533248619" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418101UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-230" lat="42.2670974805" lon="-5.09576743791" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318610UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-121" lat="42.2682584769" lon="-5.09443325855" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319408UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-298" lat="42.2673154824" lon="-5.09511944886" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418130UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-276" lat="42.2685301402" lon="-5.09352122427" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418122UM2871N"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-79" lat="42.2680954304" lon="-5.09756515229" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118108UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-289" lat="42.2674889854" lon="-5.09622715184" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218111UM2871N"/>
+  <tag k="addr:street" v="Plaza Corrillo"/>
+</node>
+<node action="modify" id="-335" lat="42.2688256126" lon="-5.09321169079" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7519803UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-31" lat="42.2685487862" lon="-5.09708708123" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219807UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-106" lat="42.2675609538" lon="-5.09980032596" visible="true">
+  <tag k="addr:housenumber" v="9B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918305UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-177" lat="42.2683817765" lon="-5.09803626146" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119705UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-306" lat="42.2677928306" lon="-5.09564056821" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319503UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-12" lat="42.2688134531" lon="-5.09793438522" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7120502UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-54" lat="42.2673668977" lon="-5.09603495209" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318603UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-153" lat="42.2684023278" lon="-5.09600122988" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219008UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-87" lat="42.2684566031" lon="-5.09737320294" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219001UM2871N"/>
+  <tag k="addr:street" v="Plaza Mayor"/>
+</node>
+<node action="modify" id="-343" lat="42.2699833751" lon="-5.09387524979" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421303UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-262" lat="42.2674048433" lon="-5.09742766201" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118114UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-206" lat="42.2682739712" lon="-5.09950295911" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019012UM2871N"/>
+  <tag k="addr:street" v="Calle La Vega"/>
+</node>
+<node action="modify" id="-60" lat="42.2680030188" lon="-5.09793673004" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118104UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-19" lat="42.2690649662" lon="-5.09880363552" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020009UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-161" lat="42.2694210098" lon="-5.09323608106" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7520702UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-137" lat="42.2688214156" lon="-5.09406086132" visible="true">
+  <tag k="addr:housenumber" v="292"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420508UM2872S"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-2" lat="42.2672488998" lon="-5.09994810175" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918311UM2861N"/>
+  <tag k="addr:street" v="Avenida Doctor Sainz Garcia"/>
+</node>
+<node action="modify" id="-322" lat="42.2671136747" lon="-5.09635444416" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318612UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-212" lat="42.2674261712" lon="-5.09814157546" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118118UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-68" lat="42.2678788566" lon="-5.10023415858" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919708UM2861N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-165" lat="42.2689006683" lon="-5.09478703427" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420703UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-169" lat="42.2690647846" lon="-5.09411065477" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420706UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-99" lat="42.26723829" lon="-5.0992448104" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918309UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-270" lat="42.2699504059" lon="-5.09401918919" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421302UM2872S"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-248" lat="42.2694612621" lon="-5.09313409795" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7520703UM2872S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-195" lat="42.26828062" lon="-5.09824417771" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119704UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-220" lat="42.2668864401" lon="-5.09615494109" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217007UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-176" lat="42.2682598502" lon="-5.09655503625" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219005UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-255" lat="42.2671371196" lon="-5.0984051829" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118602UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-69" lat="42.2679350413" lon="-5.098542577" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018111UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-172" lat="42.2682834414" lon="-5.09697253052" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219004UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-111" lat="42.2680106706" lon="-5.09647778221" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219603UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-236" lat="42.2690699936" lon="-5.09289212756" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7620701UM2872S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-288" lat="42.2674262105" lon="-5.0961996211" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218112UM2871N"/>
+  <tag k="addr:street" v="Plaza Corrillo"/>
+</node>
+<node action="modify" id="-268" lat="42.267909822" lon="-5.09351871341" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418109UM2871N"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-211" lat="42.2671200004" lon="-5.09801973434" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118604UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-55" lat="42.2674584956" lon="-5.09583336651" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318803UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-24" lat="42.2691882694" lon="-5.09927814216" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020005UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-294" lat="42.2681740103" lon="-5.09602643059" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319701UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-96" lat="42.2677894539" lon="-5.10011710754" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918301UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-100" lat="42.2672828131" lon="-5.09928936892" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018118UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-297" lat="42.2675654963" lon="-5.09474719836" visible="true">
+  <tag k="addr:housenumber" v="13B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418131UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-147" lat="42.2682953952" lon="-5.09720176215" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219013UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-48" lat="42.2680299057" lon="-5.09398801416" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418114UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-145" lat="42.2681992625" lon="-5.09479343459" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319404UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-78" lat="42.267882759" lon="-5.09960273109" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018103UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-334" lat="42.2688858422" lon="-5.09326384113" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7519802UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-305" lat="42.2679507649" lon="-5.09584947277" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218108UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-200" lat="42.2684525364" lon="-5.09856627839" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020406UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-228" lat="42.2669350184" lon="-5.09592383482" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318611UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-13" lat="42.2688403191" lon="-5.09802235417" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7120501UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-152" lat="42.2688966465" lon="-5.09475558428" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319208UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-86" lat="42.2680192032" lon="-5.09786530533" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118105UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-342" lat="42.2653754682" lon="-5.09455492908" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217014UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-261" lat="42.2672668488" lon="-5.09774442936" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218701UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-59" lat="42.2679952719" lon="-5.09880645631" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019006UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-160" lat="42.2687295381" lon="-5.09550144464" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319101UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-93" lat="42.2676104749" lon="-5.09988361906" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918304UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-41" lat="42.2672854005" lon="-5.09637702625" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318601UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-321" lat="42.2675253344" lon="-5.09690363253" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218704UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-67" lat="42.2679359166" lon="-5.09843227518" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018112UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-281" lat="42.2681609575" lon="-5.09874179978" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119711UM2871N"/>
+  <tag k="addr:street" v="Calle Colago"/>
+</node>
+<node action="modify" id="-192" lat="42.2683949747" lon="-5.10023272319" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919701UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-36" lat="42.2678776097" lon="-5.09479773649" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319411UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-247" lat="42.2692861841" lon="-5.09308081718" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7520704UM2872S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-219" lat="42.2669561092" lon="-5.09780964752" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118401UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-275" lat="42.269792561" lon="-5.09471566911" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420101UM2872S"/>
+  <tag k="addr:street" v="Calle Arrabales"/>
+</node>
+<node action="modify" id="-30" lat="42.2685087531" lon="-5.09685092185" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219808UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-105" lat="42.2675095143" lon="-5.09971920027" visible="true">
+  <tag k="addr:housenumber" v="9A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6918306UM2861N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-53" lat="42.2674305697" lon="-5.0959323922" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318801UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-130" lat="42.2685563751" lon="-5.09407753567" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418117UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-168" lat="42.2690562444" lon="-5.09429518359" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420705UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-227" lat="42.2667759413" lon="-5.09554358797" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217009UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-181" lat="42.2686254317" lon="-5.09930613894" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019001UM2871N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-205" lat="42.2682002445" lon="-5.09944552471" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019011UM2871N"/>
+  <tag k="addr:street" v="Calle La Vega"/>
+</node>
+<node action="modify" id="-18" lat="42.269016995" lon="-5.09861709255" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020010UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-287" lat="42.2683194178" lon="-5.09524719802" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319219UM2871N"/>
+  <tag k="addr:street" v="Calle Consistorio"/>
+</node>
+<node action="modify" id="-136" lat="42.2689252264" lon="-5.09393958454" visible="true">
+  <tag k="addr:housenumber" v="291"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420507UM2872S"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-141" lat="42.2681283947" lon="-5.09512176563" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319402UM2871N"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-243" lat="42.2669661669" lon="-5.09983409918" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018601UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-293" lat="42.2674371609" lon="-5.0947112351" visible="true">
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418133UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-235" lat="42.2669775516" lon="-5.09466420309" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418127UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-98" lat="42.2671996158" lon="-5.09898730673" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018117UM2871N"/>
+  <tag k="addr:street" v="Calle Estanco"/>
+</node>
+<node action="modify" id="-46" lat="42.2679926163" lon="-5.09443375369" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7418108UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-244" lat="42.2691171718" lon="-5.09312488797" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7520706UM2872S"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-175" lat="42.2687560626" lon="-5.09527553572" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319205UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-180" lat="42.2686197307" lon="-5.09908352259" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020403UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-193" lat="42.2683148812" lon="-5.10027189458" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919704UM2861N"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-7" lat="42.2687105799" lon="-5.09730994619" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219804UM2871N"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-77" lat="42.2678801733" lon="-5.09942625789" visible="true">
+  <tag k="addr:housenumber" v="27B"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7018105UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-333" lat="42.2706458433" lon="-5.09352400598" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7421202UM2872S"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-304" lat="42.2678289679" lon="-5.09568405134" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7319502UM2871N"/>
+  <tag k="addr:street" v="Calle Costanilla"/>
+</node>
+<node action="modify" id="-246" lat="42.2668009075" lon="-5.09748515259" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217003UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-280" lat="42.2684053818" lon="-5.09885676311" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7019004UM2871N"/>
+  <tag k="addr:street" v="Calle Colago"/>
+</node>
+<node action="modify" id="-85" lat="42.2680320251" lon="-5.09865965822" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7119710UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-341" lat="42.2658754443" lon="-5.09445415147" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217013UM2871N"/>
+  <tag k="addr:street" v="Calle Extramuros"/>
+</node>
+<node action="modify" id="-35" lat="42.2675515516" lon="-5.09550406167" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7318606UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-110" lat="42.2678795376" lon="-5.09658004966" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218103UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-260" lat="42.2676106687" lon="-5.09706874729" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118113UM2871N"/>
+  <tag k="addr:street" v="Calle Barrizales"/>
+</node>
+<node action="modify" id="-58" lat="42.2681310506" lon="-5.09745597826" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118109UM2871N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-186" lat="42.268658409" lon="-5.09940546008" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020401UM2872S"/>
+  <tag k="addr:street" v="Calle Santiago"/>
+</node>
+<node action="modify" id="-320" lat="42.2674903053" lon="-5.09674217205" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218115UM2871N"/>
+  <tag k="addr:street" v="Calle Cuatro Calles"/>
+</node>
+<node action="modify" id="-210" lat="42.2675429308" lon="-5.09816665664" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7118119UM2871N"/>
+  <tag k="addr:street" v="Calle Barriales"/>
+</node>
+<node action="modify" id="-66" lat="42.2679387976" lon="-5.09956924734" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6919302UM2861N"/>
+  <tag k="addr:street" v="Calle Mayor"/>
+</node>
+<node action="modify" id="-131" lat="42.2686712877" lon="-5.09429344722" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420505UM2872S"/>
+  <tag k="addr:street" v="Calle Pont&#243;n"/>
+</node>
+<node action="modify" id="-23" lat="42.2691662345" lon="-5.09910836154" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7020006UM2872S"/>
+  <tag k="addr:street" v="Calle La Fuente"/>
+</node>
+<node action="modify" id="-167" lat="42.268950754" lon="-5.09464554398" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7420704UM2872S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-112" lat="42.2680445253" lon="-5.09639959514" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218104UM2871N"/>
+  <tag k="addr:street" v="Calle Obispo"/>
+</node>
+<node action="modify" id="-47" lat="42.2673236116" lon="-5.09638638011" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7218113UM2871N"/>
+  <tag k="addr:street" v="Calle Hospital"/>
+</node>
+<node action="modify" id="-217" lat="42.2669141208" lon="-5.0964835782" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217005UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-218" lat="42.2669037576" lon="-5.09636058079" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7217006UM2871N"/>
+  <tag k="addr:street" v="Carretera/Carrera Sahagun-Mayorga"/>
+</node>
+<node action="modify" id="-174" lat="42.2682795837" lon="-5.09688039201" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="47686"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7219012UM2871N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+</osm>
