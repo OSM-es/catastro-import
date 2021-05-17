@@ -1,0 +1,2397 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.3.5'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 1.3.5"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2021-03-04"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-348" lat="41.1720008846" lon="-5.78511772077" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518705TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-112" lat="41.1711672013" lon="-5.78574450819" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517704TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-302" lat="41.1717010885" lon="-5.78214481055" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718744TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-247" lat="41.1704279781" lon="-5.78432283237" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616710TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-137" lat="41.1739018846" lon="-5.78286324438" visible="true">
+  <tag k="addr:housenumber" v="107"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720716TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-354" lat="41.1728579026" lon="-5.78393528535" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618822TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-310" lat="41.1720313893" lon="-5.7820574611" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717203TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-42" lat="41.1708035346" lon="-5.78369649013" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617330TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-145" lat="41.1715420876" lon="-5.7844102378" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518526TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-34" lat="41.17098696" lon="-5.78315060624" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617328TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-339" lat="41.1722500699" lon="-5.78488428856" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518103TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-266" lat="41.169721403" lon="-5.78389368228" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616742TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-91" lat="41.1709226538" lon="-5.78637039553" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417601TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-368" lat="41.1720868808" lon="-5.78431837958" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518310TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-286" lat="41.1721153223" lon="-5.78239251352" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718719TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-190" lat="41.1733875461" lon="-5.78288682322" visible="true">
+  <tag k="addr:housenumber" v="64"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719701TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-28" lat="41.1708845601" lon="-5.78236817507" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617339TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-248" lat="41.1696325317" lon="-5.78397835728" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616741TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-328" lat="41.1728847752" lon="-5.7840209163" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619008TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-51" lat="41.1722889978" lon="-5.7834260213" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618105TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-278" lat="41.1740816428" lon="-5.78156015094" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6820701TL6662S"/>
+  <tag k="addr:street" v="Calle Jes&#250;s G&#243;mez"/>
+</node>
+<node action="modify" id="-77" lat="41.1729620855" lon="-5.78302933603" visible="true">
+  <tag k="addr:housenumber" v="72"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719708TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-64" lat="41.1723674583" lon="-5.78324041292" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718704TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-167" lat="41.1723836539" lon="-5.78409292649" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618816TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-227" lat="41.1720110894" lon="-5.78464387488" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518305TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-114" lat="41.171592211" lon="-5.78514199852" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518504TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-272" lat="41.1723974549" lon="-5.78280126577" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719719TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-254" lat="41.1702637197" lon="-5.78380294698" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616727TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-96" lat="41.1709121114" lon="-5.78505333855" visible="true">
+  <tag k="addr:housenumber" v="3Z"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516105TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-359" lat="41.1703535534" lon="-5.7841178446" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616713TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-355" lat="41.1729881339" lon="-5.78384024661" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619011TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-113" lat="41.171516629" lon="-5.78479577921" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517724TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-16" lat="41.1718660322" lon="-5.78326706446" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718708TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-80" lat="41.1709070502" lon="-5.7846881098" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516107TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-183" lat="41.1729809261" lon="-5.78340348617" visible="true">
+  <tag k="addr:housenumber" v="55A"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619005TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-342" lat="41.1728129384" lon="-5.78378769358" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618824TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-103" lat="41.1716848701" lon="-5.78475937711" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518520TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-17" lat="41.1711002876" lon="-5.78277708504" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617335TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-6" lat="41.1714622226" lon="-5.78240605283" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617320TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-162" lat="41.1719784411" lon="-5.78383410862" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618001TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-128" lat="41.1718065009" lon="-5.78533893437" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417223TL6661N"/>
+  <tag k="addr:street" v="Calle Prado"/>
+</node>
+<node action="modify" id="-175" lat="41.1723937632" lon="-5.78372857425" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618103TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-373" lat="41.1722173005" lon="-5.78474224877" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518302TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-240" lat="41.1700927669" lon="-5.78534817962" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6416301TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-3" lat="41.1717214546" lon="-5.7829052397" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718726TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-301" lat="41.1717984338" lon="-5.78213427103" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718743TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-249" lat="41.1703386361" lon="-5.78351695991" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616740TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-198" lat="41.173309766" lon="-5.78378657129" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619003TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-262" lat="41.1700082949" lon="-5.78362418564" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616745TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-33" lat="41.1709758981" lon="-5.78408268" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617802TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-136" lat="41.173912236" lon="-5.7829290708" visible="true">
+  <tag k="addr:housenumber" v="105"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720717TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-333" lat="41.172537149" lon="-5.78465820124" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518203TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-309" lat="41.1720718198" lon="-5.78199113008" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717202TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-72" lat="41.1728308125" lon="-5.78314191697" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719714TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-271" lat="41.1726380096" lon="-5.78244778456" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719728TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-41" lat="41.1716979358" lon="-5.78371482894" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617822TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-144" lat="41.1745911228" lon="-5.78281466542" visible="true">
+  <tag k="addr:housenumber" v="125"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720707TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-232" lat="41.1704498742" lon="-5.78456109971" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616703TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-273" lat="41.172399823" lon="-5.78296037188" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718706TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-317" lat="41.1721762425" lon="-5.78122883167" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718303TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-22" lat="41.1712223184" lon="-5.78238998535" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617344TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-139" lat="41.1714624261" lon="-5.78448319331" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517723TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-101" lat="41.1714554377" lon="-5.78537125282" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517728TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-49" lat="41.1708643715" lon="-5.78371706543" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617331TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-356" lat="41.1728113662" lon="-5.78406800628" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618807TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-367" lat="41.1706741925" lon="-5.78401932672" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616711TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-322" lat="41.1696531117" lon="-5.78215143331" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6715101TL6661N"/>
+  <tag k="addr:street" v="Calle Cervantes"/>
+</node>
+<node action="modify" id="-287" lat="41.1721267965" lon="-5.78236926354" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718720TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-189" lat="41.1732701195" lon="-5.78292702587" visible="true">
+  <tag k="addr:housenumber" v="62"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719702TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-158" lat="41.1719384304" lon="-5.78399218705" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617819TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-221" lat="41.1719074765" lon="-5.78443697144" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518313TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-108" lat="41.171639732" lon="-5.78494984448" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518502TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-5" lat="41.1715999222" lon="-5.78267330142" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718728TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-186" lat="41.1730319834" lon="-5.78340016587" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619017TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-279" lat="41.1731562927" lon="-5.78239368332" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719101TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-349" lat="41.1729024519" lon="-5.78354556453" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619013TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-157" lat="41.1720696463" lon="-5.78408113133" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618811TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-63" lat="41.1727297204" lon="-5.78335935098" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619402TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-166" lat="41.1723498081" lon="-5.78411785703" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618815TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-241" lat="41.1702729328" lon="-5.78445341168" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616758TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-193" lat="41.1732683485" lon="-5.78367610744" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619006TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-257" lat="41.1700724235" lon="-5.78422357653" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616720TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-206" lat="41.1733293227" lon="-5.78334291126" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619202TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-205" lat="41.1733513113" lon="-5.78349879987" visible="true">
+  <tag k="addr:housenumber" v="77D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619204TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-314" lat="41.1731935824" lon="-5.78157463596" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719808TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-358" lat="41.170844665" lon="-5.78284111357" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617336TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-54" lat="41.1717186173" lon="-5.78362130924" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617302TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-293" lat="41.1722939248" lon="-5.78219589547" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718737TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-67" lat="41.1724484003" lon="-5.78318397616" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718705TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-213" lat="41.1736029176" lon="-5.78352144983" visible="true">
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720723TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-182" lat="41.1728168683" lon="-5.7837257585" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618825TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-160" lat="41.1718933464" lon="-5.78388502033" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617820TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-265" lat="41.1699124534" lon="-5.78371404891" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616744TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-292" lat="41.1724105839" lon="-5.78212357311" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718302TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-27" lat="41.1710022315" lon="-5.78237744835" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617340TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-344" lat="41.1718145337" lon="-5.78508073886" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518508TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-2" lat="41.1716922286" lon="-5.78298378297" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617316TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-357" lat="41.1707772371" lon="-5.78390122272" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617601TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-327" lat="41.1727567633" lon="-5.78420308638" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618805TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-154" lat="41.1715940854" lon="-5.78427549472" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617816TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-229" lat="41.1703526152" lon="-5.7849309352" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516111TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-351" lat="41.1716485318" lon="-5.78532613673" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417222TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-226" lat="41.1718701103" lon="-5.78455136495" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518528TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-308" lat="41.1712759605" lon="-5.78214573213" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717007TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-19" lat="41.1711931235" lon="-5.78233057064" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717009TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-85" lat="41.1709697489" lon="-5.78560430972" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417402TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-95" lat="41.1709101854" lon="-5.78488495945" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516106TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-143" lat="41.1745060974" lon="-5.78280736915" visible="true">
+  <tag k="addr:housenumber" v="123"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720709TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-98" lat="41.1709199802" lon="-5.78520028587" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516103TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-215" lat="41.1736945421" lon="-5.78343955597" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720706TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-38" lat="41.1712324603" lon="-5.78312155073" visible="true">
+  <tag k="addr:housenumber" v="14D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617346TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-214" lat="41.1736316465" lon="-5.78344452033" visible="true">
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720722TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-261" lat="41.1701022497" lon="-5.78353412301" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616746TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-151" lat="41.1716449877" lon="-5.78435223275" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518532TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-366" lat="41.170680275" lon="-5.78417888722" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616709TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-102" lat="41.1716256473" lon="-5.78482099408" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518521TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-288" lat="41.173569549" lon="-5.78273862022" visible="true">
+  <tag k="addr:housenumber" v="1C"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720117TL6662S"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-188" lat="41.1730448321" lon="-5.78355411703" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619015TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-84" lat="41.1710010975" lon="-5.78544050647" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517712TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-372" lat="41.172413258" lon="-5.78427794068" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618809TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-280" lat="41.1723824906" lon="-5.7822475245" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718715TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-219" lat="41.1719497706" lon="-5.78466837215" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518517TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-62" lat="41.1722189525" lon="-5.78331919502" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718702TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-165" lat="41.1721750531" lon="-5.78384079355" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618004TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-32" lat="41.1717571183" lon="-5.78301340162" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718725TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-57" lat="41.1725550507" lon="-5.78324004564" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618112TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-332" lat="41.172551498" lon="-5.78457618691" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518204TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-252" lat="41.1700752046" lon="-5.78375860767" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616737TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-173" lat="41.1731273629" lon="-5.78315498457" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719707TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-231" lat="41.1702992798" lon="-5.78513261287" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516113TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-118" lat="41.1715321068" lon="-5.78551169549" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417213TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-268" lat="41.1725044585" lon="-5.78261805061" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718713TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-335" lat="41.1724548905" lon="-5.78467162182" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518202TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-21" lat="41.1710166064" lon="-5.78225969775" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717011TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-100" lat="41.1715096526" lon="-5.78468368725" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517722TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-163" lat="41.1721936812" lon="-5.78396825762" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618814TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-365" lat="41.1707076583" lon="-5.78373093603" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617332TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-321" lat="41.1684249565" lon="-5.78204806983" visible="true">
+  <tag k="addr:housenumber" v="10D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6713301TL6661S"/>
+  <tag k="addr:street" v="Calle Cervantes"/>
+</node>
+<node action="modify" id="-243" lat="41.1705646421" lon="-5.78442786867" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616704TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-291" lat="41.1733231634" lon="-5.78284154286" visible="true">
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719729TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-196" lat="41.1742992814" lon="-5.78268179437" visible="true">
+  <tag k="addr:housenumber" v="72"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720109TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-260" lat="41.1701344034" lon="-5.78435326114" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616716TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-209" lat="41.1747357744" lon="-5.7825573591" visible="true">
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720103TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-220" lat="41.1720258659" lon="-5.7847500417" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518515TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-107" lat="41.1712637359" lon="-5.78547350077" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517708TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-299" lat="41.1721699949" lon="-5.78187918988" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718301TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-71" lat="41.170937431" lon="-5.7835115718" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617329TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-70" lat="41.1727764459" lon="-5.78318445181" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719715TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-10" lat="41.1715155168" lon="-5.78222745778" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717001TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-89" lat="41.170929504" lon="-5.78614695999" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417602TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-134" lat="41.1735315808" lon="-5.78300320087" visible="true">
+  <tag k="addr:housenumber" v="101"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720720TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-39" lat="41.171373001" lon="-5.78312728808" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617325TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-346" lat="41.1718049758" lon="-5.78514446068" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518505TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-142" lat="41.1744215773" lon="-5.78280152469" visible="true">
+  <tag k="addr:housenumber" v="121"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720710TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-360" lat="41.1706617528" lon="-5.7837888166" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616723TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-337" lat="41.1723187118" lon="-5.78475555769" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518102TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-315" lat="41.1733305617" lon="-5.78140269515" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719810TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-296" lat="41.1721287963" lon="-5.78215278764" visible="true">
+  <tag k="addr:housenumber" v="34C"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718740TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-47" lat="41.1720798796" lon="-5.78355007209" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618007TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-150" lat="41.1752500107" lon="-5.78308266203" visible="true">
+  <tag k="addr:housenumber" v="141"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720727TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-236" lat="41.1700764425" lon="-5.7845376982" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616701TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-281" lat="41.1723388741" lon="-5.782377621" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718716TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-289" lat="41.1732540468" lon="-5.7827499326" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719703TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-4" lat="41.1716463075" lon="-5.78281145804" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718727TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-156" lat="41.1717946139" lon="-5.78415397611" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617818TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-26" lat="41.170956277" lon="-5.7823108878" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717013TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-126" lat="41.1715526074" lon="-5.78520410169" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517727TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-178" lat="41.1724992293" lon="-5.78359453612" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618108TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-181" lat="41.1727531534" lon="-5.78343317278" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619401TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-326" lat="41.1729402819" lon="-5.78391987162" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619010TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-244" lat="41.1704396865" lon="-5.78460539161" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516109TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-191" lat="41.1739094548" lon="-5.78274610196" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720113TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-255" lat="41.1705410566" lon="-5.78382423093" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616724TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-127" lat="41.1718294587" lon="-5.78537706408" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518704TL6661N"/>
+  <tag k="addr:street" v="Calle Prado"/>
+</node>
+<node action="modify" id="-204" lat="41.1732630564" lon="-5.78347360001" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619201TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-61" lat="41.1721827516" lon="-5.78333974255" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718701TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-164" lat="41.171104931" lon="-5.78458104067" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517718TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-225" lat="41.1719796381" lon="-5.78463071732" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518306TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-274" lat="41.1723303477" lon="-5.78267124169" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718712TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-65" lat="41.1729413943" lon="-5.78319626062" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619403TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-78" lat="41.172966229" lon="-5.78311448077" visible="true">
+  <tag k="addr:housenumber" v="74"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719709TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-203" lat="41.1744966769" lon="-5.78266059265" visible="true">
+  <tag k="addr:housenumber" v="76"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720107TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-94" lat="41.1710520387" lon="-5.78620049824" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417202TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-267" lat="41.1724614294" lon="-5.78294164671" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719718TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-159" lat="41.1721534644" lon="-5.78402663432" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618812TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-259" lat="41.1698546979" lon="-5.78439266247" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616718TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-180" lat="41.1727313919" lon="-5.78358641717" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618826TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-347" lat="41.1720592845" lon="-5.78502346919" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518706TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-364" lat="41.1709378954" lon="-5.78173473659" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717209TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-40" lat="41.1713997896" lon="-5.78317047481" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617315TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-290" lat="41.1719138124" lon="-5.78253605826" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718724TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-239" lat="41.169823995" lon="-5.78478314374" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516501TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-83" lat="41.1708262991" lon="-5.78542040451" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417403TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-371" lat="41.1722273124" lon="-5.78456468078" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518303TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-9" lat="41.1713740458" lon="-5.7824285922" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617321TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-7" lat="41.1714918365" lon="-5.78239839474" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718730TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-331" lat="41.1726114542" lon="-5.7845103089" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518205TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-306" lat="41.1717080187" lon="-5.78243151134" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718729TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-250" lat="41.1702800508" lon="-5.78361555342" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616738TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-212" lat="41.1736520395" lon="-5.78365147821" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720726TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-141" lat="41.1744020288" lon="-5.78274154389" visible="true">
+  <tag k="addr:housenumber" v="117"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720711TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-230" lat="41.1704679599" lon="-5.78506240592" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516112TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-117" lat="41.1710902569" lon="-5.78577545491" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517701TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-269" lat="41.172719798" lon="-5.78274542531" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719722TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-73" lat="41.1728905754" lon="-5.78308698735" visible="true">
+  <tag k="addr:housenumber" v="62"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719713TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-298" lat="41.1718871928" lon="-5.78213242679" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718742TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-20" lat="41.171116708" lon="-5.78229299309" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717010TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-46" lat="41.1714252236" lon="-5.78363591892" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617309TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-149" lat="41.1713646365" lon="-5.7843966864" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617808TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-99" lat="41.170790592" lon="-5.78539172194" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516102TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-52" lat="41.1716474553" lon="-5.78364562386" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617301TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-155" lat="41.1719871997" lon="-5.7841075205" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518311TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-345" lat="41.1721149426" lon="-5.78499716132" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518707TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-106" lat="41.1717119228" lon="-5.78498878167" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518506TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-282" lat="41.1722524272" lon="-5.78238497101" visible="true">
+  <tag k="addr:housenumber" v="12C"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718717TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-129" lat="41.1717701213" lon="-5.78560285434" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518702TL6661N"/>
+  <tag k="addr:street" v="Calle Prado"/>
+</node>
+<node action="modify" id="-60" lat="41.1719259697" lon="-5.78342613317" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617305TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-88" lat="41.1710318048" lon="-5.78552612703" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517710TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-363" lat="41.1710100752" lon="-5.78188157752" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717208TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-376" lat="41.1724660855" lon="-5.78483801736" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518101TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-68" lat="41.1725749741" lon="-5.78299866358" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719717TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-171" lat="41.1725490236" lon="-5.7839473711" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618820TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-336" lat="41.1719468392" lon="-5.7849467688" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518512TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-246" lat="41.1703010776" lon="-5.78486104988" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516110TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-194" lat="41.171298909" lon="-5.78476066159" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517721TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-258" lat="41.1699396026" lon="-5.78431187222" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616719TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-222" lat="41.1718189012" lon="-5.78442583119" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518530TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-76" lat="41.1729420442" lon="-5.78286992904" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719710TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-179" lat="41.1711559595" lon="-5.78457891202" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517719TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-235" lat="41.1702366174" lon="-5.7848388205" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516004TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-307" lat="41.1713596637" lon="-5.78213041854" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717003TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-55" lat="41.1724025315" lon="-5.78340699702" visible="true">
+  <tag k="addr:housenumber" v="35D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618113TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-25" lat="41.1711779542" lon="-5.78236568653" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617342TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-125" lat="41.1715526199" lon="-5.78464911977" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518525TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-264" lat="41.1703442762" lon="-5.78395403883" visible="true">
+  <tag k="addr:housenumber" v="6A"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616760TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-23" lat="41.1709905442" lon="-5.78229293544" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717012TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-325" lat="41.1700952775" lon="-5.78219470641" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616756TL6661N"/>
+  <tag k="addr:street" v="Calle Cervantes"/>
+</node>
+<node action="modify" id="-297" lat="41.171980074" lon="-5.78213516731" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718741TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-44" lat="41.1714228363" lon="-5.78339434432" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617311TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-87" lat="41.1710076817" lon="-5.78569907498" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417401TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-132" lat="41.1717003153" lon="-5.78558378699" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417219TL6661N"/>
+  <tag k="addr:street" v="Calle Prado"/>
+</node>
+<node action="modify" id="-224" lat="41.1718398462" lon="-5.78449561035" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518529TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-1" lat="41.1718923196" lon="-5.78328691818" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718707TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-111" lat="41.17155141" lon="-5.78503057776" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518503TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-305" lat="41.1721528193" lon="-5.78208064766" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717201TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-14" lat="41.1713077281" lon="-5.78222863706" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717014TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-93" lat="41.1710648218" lon="-5.78599940614" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417203TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-37" lat="41.1716062353" lon="-5.78378055567" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617813TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-140" lat="41.1743368321" lon="-5.78274855707" visible="true">
+  <tag k="addr:housenumber" v="115"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720730TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-313" lat="41.1731191246" lon="-5.78166328391" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719807TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-119" lat="41.1714842818" lon="-5.78556008745" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417212TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-90" lat="41.1710289678" lon="-5.78563132464" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517709TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-45" lat="41.1714199318" lon="-5.78351593735" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617310TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-148" lat="41.1751449654" lon="-5.78278212944" visible="true">
+  <tag k="addr:housenumber" v="139"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720701TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-341" lat="41.1718455197" lon="-5.78511781068" visible="true">
+  <tag k="addr:housenumber" v="29Z"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518509TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-122" lat="41.1713127682" lon="-5.78583274431" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417207TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-263" lat="41.1701617582" lon="-5.78406655892" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616759TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-253" lat="41.1703507223" lon="-5.78372105243" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616726TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-202" lat="41.1735253935" lon="-5.78394994901" visible="true">
+  <tag k="addr:housenumber" v="75A"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619018TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-185" lat="41.1732254356" lon="-5.78308020947" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719705TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-82" lat="41.1709868392" lon="-5.78536099521" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517713TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-370" lat="41.1721743678" lon="-5.78433158814" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618810TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-283" lat="41.1711963621" lon="-5.78210796544" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717205TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-59" lat="41.1726115917" lon="-5.78336310563" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618114TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-131" lat="41.1717356211" lon="-5.78573251155" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518701TL6661N"/>
+  <tag k="addr:street" v="Calle Prado"/>
+</node>
+<node action="modify" id="-30" lat="41.1718319411" lon="-5.78315111259" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718709TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-330" lat="41.1728247532" lon="-5.78412311978" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619007TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-201" lat="41.1734438069" lon="-5.78383027425" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619001TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-170" lat="41.1724524118" lon="-5.78380836094" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618819TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-350" lat="41.1717581748" lon="-5.78524558666" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417224TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-116" lat="41.1715703002" lon="-5.78541967158" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417214TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-270" lat="41.1727210379" lon="-5.78257121225" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719727TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-75" lat="41.1713689906" lon="-5.78378963743" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617810TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-109" lat="41.1712208921" lon="-5.78574345877" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517706TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-362" lat="41.1708788853" lon="-5.78213311196" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717206TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-245" lat="41.1704916152" lon="-5.7843639635" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616705TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-174" lat="41.1725842256" lon="-5.78403246166" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618808TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-218" lat="41.1721252619" lon="-5.78482697246" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518301TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-105" lat="41.1717723296" lon="-5.78497501212" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518507TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-184" lat="41.1731341815" lon="-5.78289099238" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719706TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-210" lat="41.1749457477" lon="-5.78235490846" visible="true">
+  <tag k="addr:housenumber" v="84"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720102TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-8" lat="41.1714968669" lon="-5.78234034429" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718731TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-211" lat="41.1747973814" lon="-5.78241943075" visible="true">
+  <tag k="addr:housenumber" v="84A"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720114TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-375" lat="41.1722337613" lon="-5.78446021395" visible="true">
+  <tag k="addr:housenumber" v="8A"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618801TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-58" lat="41.1718483118" lon="-5.78352440986" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617304TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-312" lat="41.1730432401" lon="-5.78174991882" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719806TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-31" lat="41.1716694881" lon="-5.7832394687" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617313TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-147" lat="41.1749534312" lon="-5.7827747013" visible="true">
+  <tag k="addr:housenumber" v="135"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720703TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-234" lat="41.1703122195" lon="-5.78455317159" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616702TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-320" lat="41.1695497088" lon="-5.78291917459" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6615201TL6661N"/>
+  <tag k="addr:street" v="Calle Cervantes"/>
+</node>
+<node action="modify" id="-338" lat="41.1719170395" lon="-5.78505421187" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518511TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-50" lat="41.1710481583" lon="-5.78402390775" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617807TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-153" lat="41.1717111824" lon="-5.78428742008" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518531TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-24" lat="41.1717199549" lon="-5.78329035694" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617306TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-124" lat="41.1714956979" lon="-5.78491877761" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517725TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-318" lat="41.172818533" lon="-5.78200994354" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719803TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-324" lat="41.1701802236" lon="-5.7822057167" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616755TL6661N"/>
+  <tag k="addr:street" v="Calle Cervantes"/>
+</node>
+<node action="modify" id="-284" lat="41.1721899634" lon="-5.7823843699" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718718TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-192" lat="41.1741500201" lon="-5.78265294442" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720112TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-161" lat="41.1721885411" lon="-5.78402120709" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618813TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-92" lat="41.1710638284" lon="-5.78591074676" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417204TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-133" lat="41.1713017261" lon="-5.78443204366" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617806TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-223" lat="41.1719488348" lon="-5.78459653191" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518307TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-110" lat="41.1715671514" lon="-5.78487227228" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518501TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-276" lat="41.1736925687" lon="-5.78223889354" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719104TL6661N"/>
+  <tag k="addr:street" v="Calle Jes&#250;s G&#243;mez"/>
+</node>
+<node action="modify" id="-256" lat="41.1704096537" lon="-5.78385764035" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616722TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-300" lat="41.1731418191" lon="-5.78264588827" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719724TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-13" lat="41.171452702" lon="-5.78276638217" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617345TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-169" lat="41.1724373646" lon="-5.78394412002" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618818TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-53" lat="41.1722962764" lon="-5.7833386176" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618106TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-66" lat="41.1712995478" lon="-5.78382164304" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617809TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-79" lat="41.1714616423" lon="-5.78375807979" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617811TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-74" lat="41.172924759" lon="-5.78292108251" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719711TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-177" lat="41.1725242316" lon="-5.78378267405" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618827TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-121" lat="41.1712871594" lon="-5.78573743575" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417210TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-361" lat="41.1708759333" lon="-5.7825238339" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617338TL6661N"/>
+  <tag k="addr:street" v="Calle Eras"/>
+</node>
+<node action="modify" id="-340" lat="41.1718462623" lon="-5.78501640715" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518510TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-12" lat="41.1714233124" lon="-5.78230896893" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717002TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-237" lat="41.1700501569" lon="-5.78491500058" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516002TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-81" lat="41.1708174131" lon="-5.7855313424" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417404TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-217" lat="41.1735492663" lon="-5.78332040204" visible="true">
+  <tag k="addr:housenumber" v="99Z"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720721TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-304" lat="41.1716441929" lon="-5.78224061814" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718745TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-352" lat="41.1727881451" lon="-5.78382597815" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618823TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-369" lat="41.1724784657" lon="-5.78471720028" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518201TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-295" lat="41.1722119116" lon="-5.78217204054" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718739TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-29" lat="41.1707843628" lon="-5.78230674308" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717501TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-130" lat="41.1716849003" lon="-5.78546155486" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417216TL6661N"/>
+  <tag k="addr:street" v="Calle Prado"/>
+</node>
+<node action="modify" id="-197" lat="41.1747044095" lon="-5.78242789048" visible="true">
+  <tag k="addr:housenumber" v="72D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720118TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-329" lat="41.17258017" lon="-5.78431803053" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618802TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-303" lat="41.1716392362" lon="-5.78219976287" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718746TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-35" lat="41.171574688" lon="-5.78370280953" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617812TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-138" lat="41.1741248888" lon="-5.78284677088" visible="true">
+  <tag k="addr:housenumber" v="109"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720715TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-228" lat="41.171906673" lon="-5.78461108157" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518518TL6661N"/>
+  <tag k="addr:street" v="Calle Traviesa"/>
+</node>
+<node action="modify" id="-115" lat="41.1711783333" lon="-5.7856343682" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517703TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-187" lat="41.1732173462" lon="-5.78292681713" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719704TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-311" lat="41.172716464" lon="-5.78220289267" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719801TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-251" lat="41.1701744506" lon="-5.78363783299" visible="true">
+  <tag k="addr:housenumber" v="13D"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616757TL6661N"/>
+  <tag k="addr:street" v="Calle San Salvador"/>
+</node>
+<node action="modify" id="-200" lat="41.1743446905" lon="-5.7826773999" visible="true">
+  <tag k="addr:housenumber" v="74"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720108TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-18" lat="41.1712446634" lon="-5.78232260856" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717008TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-97" lat="41.1709527019" lon="-5.78471411651" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517717TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-43" lat="41.1713850474" lon="-5.78337748087" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617312TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-146" lat="41.1748238971" lon="-5.78286493317" visible="true">
+  <tag k="addr:housenumber" v="133"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720704TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-48" lat="41.1715142318" lon="-5.78365960911" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617308TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-319" lat="41.1729703503" lon="-5.78183472549" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719805TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-285" lat="41.1709312591" lon="-5.78212413706" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717207TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-152" lat="41.1714673282" lon="-5.78416515199" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617815TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-343" lat="41.1721541164" lon="-5.78491490788" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518708TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-104" lat="41.1717118613" lon="-5.78488710587" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518519TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-242" lat="41.16977769" lon="-5.78521909043" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516601TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-86" lat="41.1711161228" lon="-5.78545472834" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6517711TL6661N"/>
+  <tag k="addr:street" v="Calle Ladera"/>
+</node>
+<node action="modify" id="-135" lat="41.1736020597" lon="-5.78298558719" visible="true">
+  <tag k="addr:housenumber" v="103"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720719TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-353" lat="41.1729437962" lon="-5.78382266567" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619012TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-11" lat="41.1713547239" lon="-5.78253341987" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617322TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-374" lat="41.1723258982" lon="-5.78465006392" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618803TL6661N"/>
+  <tag k="addr:street" v="Calle la Fuente"/>
+</node>
+<node action="modify" id="-277" lat="41.1739994146" lon="-5.78196439027" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6820703TL6662S"/>
+  <tag k="addr:street" v="Calle Jes&#250;s G&#243;mez"/>
+</node>
+<node action="modify" id="-199" lat="41.1733816031" lon="-5.78365396755" visible="true">
+  <tag k="addr:housenumber" v="73Z"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619002TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-168" lat="41.1722706031" lon="-5.78393747305" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618817TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-334" lat="41.1720499428" lon="-5.78493647747" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518513TL6661N"/>
+  <tag k="addr:street" v="Calle comercio"/>
+</node>
+<node action="modify" id="-15" lat="41.1712878702" lon="-5.7823258055" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6717006TL6661N"/>
+  <tag k="addr:street" v="Calle del Ca&#241;o"/>
+</node>
+<node action="modify" id="-207" lat="41.1712652695" lon="-5.78444611331" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617805TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-176" lat="41.1725611438" lon="-5.78386844993" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618821TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-172" lat="41.1721883824" lon="-5.78352880286" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6618101TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-233" lat="41.1701118651" lon="-5.78485280503" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516003TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-275" lat="41.1726087983" lon="-5.78266186896" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719721TL6661N"/>
+  <tag k="addr:street" v="Calle Rinc&#243;n"/>
+</node>
+<node action="modify" id="-238" lat="41.1699610075" lon="-5.78459979264" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6516401TL6661N"/>
+  <tag k="addr:street" v="Calle Triana"/>
+</node>
+<node action="modify" id="-120" lat="41.1715513521" lon="-5.78460203931" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6518533TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-195" lat="41.1742372243" lon="-5.78264090319" visible="true">
+  <tag k="addr:housenumber" v="70C"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720110TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-36" lat="41.1711387542" lon="-5.78350515885" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617327TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-208" lat="41.1734272838" lon="-5.78322908465" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6619203TL6661N"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-316" lat="41.1727896779" lon="-5.78213360761" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719802TL6661N"/>
+  <tag k="addr:street" v="Calle Venancio Rodr&#237;guez"/>
+</node>
+<node action="modify" id="-123" lat="41.1712799105" lon="-5.78584714454" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6417208TL6661N"/>
+  <tag k="addr:street" v="Calle Lecheros"/>
+</node>
+<node action="modify" id="-216" lat="41.1737802544" lon="-5.78339610341" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6720718TL6662S"/>
+  <tag k="addr:street" v="Calle de San Roque"/>
+</node>
+<node action="modify" id="-323" lat="41.17019372" lon="-5.78222819543" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6616754TL6661N"/>
+  <tag k="addr:street" v="Calle Cervantes"/>
+</node>
+<node action="modify" id="-56" lat="41.1717782614" lon="-5.78358812338" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6617303TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+<node action="modify" id="-294" lat="41.172249848" lon="-5.78218616232" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6718738TL6661N"/>
+  <tag k="addr:street" v="Calle San Sebasti&#225;n"/>
+</node>
+<node action="modify" id="-69" lat="41.1726278082" lon="-5.78314860528" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="37799"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6719716TL6661N"/>
+  <tag k="addr:street" v="Calle la Iglesia"/>
+</node>
+</osm>
