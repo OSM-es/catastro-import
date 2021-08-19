@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.7 b85c4387">
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-12-10T22:49:03Z" areas="2020-12-10T21:37:03Z"/>
+<meta osm_base="2021-08-19T15:49:59Z" areas="2021-08-19T14:52:57Z"/>
 
   <node id="516244202" lat="42.9031951" lon="-8.7413643" version="12" timestamp="2017-05-31T11:14:42Z" changeset="49132467" uid="650671" user="Nemigo">
     <tag k="addr:city" v="Negreira"/>
@@ -131,7 +131,7 @@
     <tag k="tourism" v="hostel"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2539994465" lat="42.9069770" lon="-8.7395714" version="3" timestamp="2013-12-01T12:49:04Z" changeset="19209403" uid="1811682" user="JMAV21">
+  <node id="2539994465" lat="42.9069043" lon="-8.7395338" version="4" timestamp="2021-08-14T12:50:38Z" changeset="109669262" uid="2788764" user="Monchinho">
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housename" v="Cafe Bar Porto"/>
     <tag k="addr:housenumber" v="6"/>
@@ -142,29 +142,26 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Bar Porto"/>
   </node>
-  <node id="2549555774" lat="42.9119480" lon="-8.7369436" version="7" timestamp="2020-07-30T17:21:27Z" changeset="88745485" uid="2365149" user="lucumon">
+  <node id="2549555774" lat="42.9119480" lon="-8.7369436" version="9" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Avenida da Barcala"/>
-    <tag k="name" v="Tenda R"/>
-    <tag k="shop" v="mobile_phone"/>
+    <tag k="addr:street" v="Avenida de Barcala"/>
+    <tag k="branch" v="Fagin"/>
+    <tag k="brand" v="Multiópticas"/>
+    <tag k="brand:wikidata" v="Q62391719"/>
+    <tag k="name" v="Multiópticas"/>
+    <tag k="shop" v="optician"/>
   </node>
   <node id="2556565724" lat="42.9124260" lon="-8.7348678" version="1" timestamp="2013-11-29T00:57:18Z" changeset="19170648" uid="1811753" user="mrflorod"/>
   <node id="2556565727" lat="42.9123422" lon="-8.7348269" version="1" timestamp="2013-11-29T00:57:18Z" changeset="19170648" uid="1811753" user="mrflorod"/>
   <node id="2556565730" lat="42.9123917" lon="-8.7347055" version="1" timestamp="2013-11-29T00:57:18Z" changeset="19170648" uid="1811753" user="mrflorod"/>
   <node id="2556565733" lat="42.9124593" lon="-8.7347534" version="1" timestamp="2013-11-29T00:57:18Z" changeset="19170648" uid="1811753" user="mrflorod"/>
   <node id="2556566248" lat="42.9124430" lon="-8.7347418" version="1" timestamp="2013-11-29T00:57:26Z" changeset="19170650" uid="1811753" user="mrflorod"/>
-  <node id="2556570733" lat="42.9138591" lon="-8.7346463" version="4" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570734" lat="42.9139885" lon="-8.7344263" version="4" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570735" lat="42.9138199" lon="-8.7342425" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570736" lat="42.9137820" lon="-8.7342483" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570737" lat="42.9136861" lon="-8.7344108" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570738" lat="42.9136903" lon="-8.7344626" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570782" lat="42.9141502" lon="-8.7346024" version="5" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570783" lat="42.9140208" lon="-8.7348224" version="6" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570826" lat="42.9143407" lon="-8.7348099" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570827" lat="42.9143450" lon="-8.7348616" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570828" lat="42.9142492" lon="-8.7350242" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570829" lat="42.9142113" lon="-8.7350299" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
+  <node id="2556570782" lat="42.9141502" lon="-8.7346024" version="6" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2556570783" lat="42.9140208" lon="-8.7348224" version="7" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2556570826" lat="42.9143407" lon="-8.7348099" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2556570827" lat="42.9143450" lon="-8.7348616" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2556570828" lat="42.9142493" lon="-8.7350242" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2556570829" lat="42.9142113" lon="-8.7350299" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
   <node id="2556734889" lat="42.9114664" lon="-8.7406950" version="1" timestamp="2013-11-29T08:09:00Z" changeset="19173585" uid="1811753" user="mrflorod"/>
   <node id="2556734890" lat="42.9114590" lon="-8.7408851" version="1" timestamp="2013-11-29T08:09:00Z" changeset="19173585" uid="1811753" user="mrflorod"/>
   <node id="2556734900" lat="42.9113287" lon="-8.7407509" version="1" timestamp="2013-11-29T08:09:12Z" changeset="19173587" uid="1811753" user="mrflorod"/>
@@ -218,6 +215,10 @@
   <node id="2556748536" lat="42.9121202" lon="-8.7420055" version="1" timestamp="2013-11-29T08:24:17Z" changeset="19173835" uid="1811753" user="mrflorod"/>
   <node id="2556748538" lat="42.9121759" lon="-8.7420834" version="1" timestamp="2013-11-29T08:24:17Z" changeset="19173835" uid="1811753" user="mrflorod"/>
   <node id="2556748540" lat="42.9120917" lon="-8.7421896" version="1" timestamp="2013-11-29T08:24:17Z" changeset="19173835" uid="1811753" user="mrflorod"/>
+  <node id="2556764491" lat="42.9145914" lon="-8.7354302" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="2556764492" lat="42.9145049" lon="-8.7354694" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="2556764493" lat="42.9144797" lon="-8.7353656" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="2556764494" lat="42.9145662" lon="-8.7353264" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
   <node id="2556767246" lat="42.9138038" lon="-8.7368377" version="1" timestamp="2013-11-29T08:41:43Z" changeset="19174154" uid="1811753" user="mrflorod"/>
   <node id="2556767247" lat="42.9139987" lon="-8.7366696" version="1" timestamp="2013-11-29T08:41:43Z" changeset="19174154" uid="1811753" user="mrflorod"/>
   <node id="2556767248" lat="42.9138876" lon="-8.7364338" version="1" timestamp="2013-11-29T08:41:43Z" changeset="19174154" uid="1811753" user="mrflorod"/>
@@ -266,21 +267,17 @@
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Tele-club de San Martiño de Broño"/>
   </node>
-  <node id="6565872873" lat="42.9139275" lon="-8.7343958" version="3" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon">
+  <node id="6565872873" lat="42.9139275" lon="-8.7343958" version="7" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
     <tag k="addr:unit" v="Bajo Derecha"/>
     <tag k="craft" v="electrician;plumber"/>
-    <tag k="name" v="Instalaciones CEPA"/>
-  </node>
-  <node id="6708221652" lat="42.9108444" lon="-8.7362446" version="3" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Praza do Concello"/>
-    <tag k="addr:unit" v="8"/>
-    <tag k="healthcare" v="physiotherapist"/>
-    <tag k="name" v="Sense"/>
+    <tag k="email" v="administracion@instalacionescepa.es"/>
+    <tag k="name" v="Instalacións CEPA"/>
+    <tag k="phone" v="+34 981881797;+34 606349347"/>
+    <tag k="website" v="https://instalacionescepa.es"/>
   </node>
   <node id="6727540484" lat="42.9122322" lon="-8.7422244" version="2" timestamp="2020-09-08T07:47:51Z" changeset="90569757" uid="170106" user="sanchi">
     <tag k="addr:housenumber" v="51"/>
@@ -324,42 +321,14 @@
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Rúa da Cachurra"/>
   </node>
-  <node id="7110996749" lat="42.9138895" lon="-8.7345269" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996750" lat="42.9138643" lon="-8.7344993" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996751" lat="42.9138844" lon="-8.7344651" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996752" lat="42.9139097" lon="-8.7344926" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996753" lat="42.9137958" lon="-8.7344155" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996754" lat="42.9138093" lon="-8.7343925" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996755" lat="42.9137924" lon="-8.7343742" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996756" lat="42.9137790" lon="-8.7343971" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996757" lat="42.9138009" lon="-8.7342443" version="2" timestamp="2020-01-06T16:43:12Z" changeset="79256836" uid="2365149" user="lucumon">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="amenity" v="parking_entrance"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7110996758" lat="42.9138400" lon="-8.7342641" version="1" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon">
-    <tag k="access" v="no"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="addr:unit" v="Bajo Izquierda"/>
-    <tag k="entrance" v="room"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7110996759" lat="42.9139307" lon="-8.7343629" version="1" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon"/>
-  <node id="7110996760" lat="42.9138943" lon="-8.7343233" version="1" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="door" v="double"/>
-    <tag k="entrance" v="main"/>
-    <tag k="level" v="0"/>
+  <node id="6834264862" lat="42.9110584" lon="-8.7380365" version="2" timestamp="2021-07-28T08:23:35Z" changeset="108737183" uid="2365149" user="lucumon">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Avenida de Vilachán"/>
+    <tag k="amenity" v="driving_school"/>
+    <tag k="contact:email" v="autoescolaantoniosl@gmail.com"/>
+    <tag k="contact:phone" v="981885426"/>
+    <tag k="name" v="Autoescola Antonio"/>
+    <tag k="website" v="http://autoescolaantonio.com"/>
   </node>
   <node id="7214503322" lat="42.9142564" lon="-8.7347181" version="1" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
   <node id="7214503323" lat="42.9142388" lon="-8.7346990" version="1" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
@@ -377,36 +346,6 @@
   <node id="7214503335" lat="42.9142357" lon="-8.7347944" version="1" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
   <node id="7214503336" lat="42.9142064" lon="-8.7348442" version="1" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
   <node id="7214503337" lat="42.9142971" lon="-8.7349429" version="1" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="7214720743" lat="42.9141943" lon="-8.7346505" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:door" v="Izquierda"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7214720744" lat="42.9142630" lon="-8.7350008" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7214720745" lat="42.9143429" lon="-8.7348358" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7214720747" lat="42.9142479" lon="-8.7347089" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="door" v="double"/>
-    <tag k="entrance" v="main"/>
-    <tag k="level" v="0"/>
-  </node>
   <node id="7886388952" lat="42.9128769" lon="-8.7340475" version="1" timestamp="2020-09-08T07:47:51Z" changeset="90569757" uid="170106" user="sanchi">
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:street" v="Rúa de Rosalía de Castro"/>
@@ -422,6 +361,121 @@
   <node id="7886388955" lat="42.9124513" lon="-8.7347114" version="1" timestamp="2020-09-08T07:47:51Z" changeset="90569757" uid="170106" user="sanchi">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Rúa de Rosalía de Castro"/>
+  </node>
+  <node id="7961056387" lat="42.9145683" lon="-8.7354578" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
+  <node id="7961056389" lat="42.9145421" lon="-8.7354694" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
+  <node id="8225771374" lat="42.9145388" lon="-8.7354541" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771375" lat="42.9145647" lon="-8.7354423" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8270113890" lat="42.9134622" lon="-8.7358074" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113893" lat="42.9142659" lon="-8.7350155" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113894" lat="42.9137749" lon="-8.7342407" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113899" lat="42.9137581" lon="-8.7342691" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113902" lat="42.9135679" lon="-8.7358214" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113903" lat="42.9139137" lon="-8.7356778" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113911" lat="42.9135628" lon="-8.7357960" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113913" lat="42.9142884" lon="-8.7349774" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138520" lat="42.9134185" lon="-8.7355502" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138521" lat="42.9136807" lon="-8.7344517" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138524" lat="42.9139885" lon="-8.7344263" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138528" lat="42.9139722" lon="-8.7355082" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138532" lat="42.9138367" lon="-8.7342452" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138533" lat="42.9135004" lon="-8.7354941" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138549" lat="42.9137989" lon="-8.7355881" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138550" lat="42.9140592" lon="-8.7354771" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138556" lat="42.9138228" lon="-8.7342299" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138558" lat="42.9138180" lon="-8.7356834" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138560" lat="42.9135659" lon="-8.7358253" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138566" lat="42.9134097" lon="-8.7355535" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138567" lat="42.9138591" lon="-8.7346463" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138569" lat="42.9138243" lon="-8.7357152" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138570" lat="42.9141367" lon="-8.7346254" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138580" lat="42.9138858" lon="-8.7355423" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138581" lat="42.9135111" lon="-8.7358589" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138583" lat="42.9140013" lon="-8.7356516" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138593" lat="42.9136771" lon="-8.7344068" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138596" lat="42.9135683" lon="-8.7358371" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138597" lat="42.9140366" lon="-8.7347956" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138605" lat="42.9134663" lon="-8.7358275" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138620" lat="42.9136785" lon="-8.7344242" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138632" lat="42.9137900" lon="-8.7342348" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138635" lat="42.9136793" lon="-8.7344030" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138637" lat="42.9138534" lon="-8.7346559" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138642" lat="42.9143424" lon="-8.7348856" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138644" lat="42.9131068" lon="-8.7349399" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Rúa da Unión Barcalesa"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8270138648" lat="42.9139387" lon="-8.7353446" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138649" lat="42.9137172" lon="-8.7345070" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138650" lat="42.9135087" lon="-8.7358471" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138655" lat="42.9138101" lon="-8.7342318" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138663" lat="42.9135685" lon="-8.7358243" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138667" lat="42.9141937" lon="-8.7350264" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138668" lat="42.9138438" lon="-8.7353350" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138671" lat="42.9138749" lon="-8.7346195" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138675" lat="42.9139725" lon="-8.7355099" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138676" lat="42.9134155" lon="-8.7355361" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138680" lat="42.9140255" lon="-8.7353118" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138683" lat="42.9139773" lon="-8.7344453" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138686" lat="42.9142086" lon="-8.7350426" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138688" lat="42.9141559" lon="-8.7345928" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138689" lat="42.9138876" lon="-8.7355510" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138691" lat="42.9134949" lon="-8.7354676" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138695" lat="42.9142926" lon="-8.7349819" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138701" lat="42.9141993" lon="-8.7350168" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138703" lat="42.9140343" lon="-8.7347994" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138706" lat="42.9137773" lon="-8.7342367" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138707" lat="42.9143493" lon="-8.7348036" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138710" lat="42.9143543" lon="-8.7348652" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138712" lat="42.9139071" lon="-8.7356462" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138713" lat="42.9136959" lon="-8.7343748" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138714" lat="42.9136961" lon="-8.7344841" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138717" lat="42.9140151" lon="-8.7348320" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138719" lat="42.9141389" lon="-8.7346215" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138720" lat="42.9143199" lon="-8.7349238" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138721" lat="42.9139942" lon="-8.7344167" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138723" lat="42.9132912" lon="-8.7344659" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Rúa de Teresa Fabeiro Caamaño"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8270138726" lat="42.9137549" lon="-8.7353667" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138728" lat="42.9138968" lon="-8.7355956" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138734" lat="42.9140907" lon="-8.7356312" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138736" lat="42.9138729" lon="-8.7346229" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138741" lat="42.9142289" lon="-8.7346725" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138742" lat="42.9140881" lon="-8.7356187" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138744" lat="42.9142540" lon="-8.7350358" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138747" lat="42.9143343" lon="-8.7347871" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138749" lat="42.9139727" lon="-8.7344531" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138752" lat="42.9134343" lon="-8.7354907" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138760" lat="42.9140039" lon="-8.7356639" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138770" lat="42.9138078" lon="-8.7356328" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138771" lat="42.9136821" lon="-8.7344687" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138776" lat="42.9134976" lon="-8.7358513" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138802" lat="42.9143241" lon="-8.7349283" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138804" lat="42.9142183" lon="-8.7346611" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138805" lat="42.9138578" lon="-8.7342684" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138825" lat="42.9139157" lon="-8.7356875" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8315271132" lat="42.9141063" lon="-8.7345913" version="3" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Iblani"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="8332292683" lat="42.9134863" lon="-8.7342822" version="3" timestamp="2021-05-01T11:09:57Z" changeset="103951910" uid="2365149" user="lucumon">
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Rúa de Teresa Fabeiro Caamaño"/>
+    <tag k="email" v="negreira@registrodelapropiedad.org"/>
+    <tag k="fax" v="+34 981 88 61 50"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Registro de la Propiedad de Negreira"/>
+    <tag k="office" v="government"/>
+    <tag k="phone" v="+34 981 88 50 98"/>
   </node>
   <way id="164833107" version="5" timestamp="2020-12-02T23:29:07Z" changeset="95181636" uid="10907973" user="Iváns_import">
     <nd ref="1764345819"/>
@@ -463,27 +517,40 @@
     <tag k="addr:street" v="Rúa de Rosalía de Castro"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248949931" version="5" timestamp="2020-02-11T21:44:54Z" changeset="80871337" uid="2365149" user="lucumon">
-    <nd ref="2556570733"/>
-    <nd ref="2556570734"/>
-    <nd ref="7110996759"/>
-    <nd ref="7110996760"/>
-    <nd ref="7110996758"/>
-    <nd ref="2556570735"/>
-    <nd ref="7110996757"/>
-    <nd ref="2556570736"/>
-    <nd ref="2556570737"/>
-    <nd ref="2556570738"/>
-    <nd ref="2556570733"/>
+  <way id="248949931" version="6" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138567"/>
+    <nd ref="8270138736"/>
+    <nd ref="8270138671"/>
+    <nd ref="8270138749"/>
+    <nd ref="8270138683"/>
+    <nd ref="8270138524"/>
+    <nd ref="8270138721"/>
+    <nd ref="8270138805"/>
+    <nd ref="8270138532"/>
+    <nd ref="8270138556"/>
+    <nd ref="8270138655"/>
+    <nd ref="8270138632"/>
+    <nd ref="8270138706"/>
+    <nd ref="8270113894"/>
+    <nd ref="8270113899"/>
+    <nd ref="8270138713"/>
+    <nd ref="8270138635"/>
+    <nd ref="8270138593"/>
+    <nd ref="8270138620"/>
+    <nd ref="8270138521"/>
+    <nd ref="8270138771"/>
+    <nd ref="8270138714"/>
+    <nd ref="8270138649"/>
+    <nd ref="8270138637"/>
+    <nd ref="8270138567"/>
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="area" v="yes"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="residential"/>
-    <tag k="name" v="Bloque 3"/>
+    <tag k="name" v="Edificio Cantalarrana: Portal 3"/>
     <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
     <tag k="roof:material" v="slate"/>
@@ -491,26 +558,38 @@
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="248949947" version="7" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
+  <way id="248949947" version="8" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270113893"/>
+    <nd ref="8270113913"/>
+    <nd ref="8270138695"/>
+    <nd ref="8270138802"/>
+    <nd ref="8270138720"/>
+    <nd ref="8270138642"/>
+    <nd ref="8270138710"/>
+    <nd ref="8270138707"/>
+    <nd ref="8270138747"/>
+    <nd ref="8270138741"/>
+    <nd ref="8270138804"/>
+    <nd ref="8270138688"/>
     <nd ref="2556570782"/>
-    <nd ref="7214720743"/>
-    <nd ref="7214720747"/>
-    <nd ref="2556570826"/>
-    <nd ref="7214720745"/>
-    <nd ref="2556570827"/>
-    <nd ref="7214720744"/>
-    <nd ref="2556570828"/>
-    <nd ref="2556570829"/>
+    <nd ref="8270138719"/>
+    <nd ref="8270138570"/>
+    <nd ref="8270138597"/>
+    <nd ref="8270138703"/>
     <nd ref="2556570783"/>
-    <nd ref="2556570782"/>
+    <nd ref="8270138701"/>
+    <nd ref="8270138667"/>
+    <nd ref="8270138686"/>
+    <nd ref="8270138744"/>
+    <nd ref="8270113893"/>
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="residential"/>
-    <tag k="name" v="Bloque 1"/>
+    <tag k="name" v="Edificio Cantalarrana: Portal 1"/>
     <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
     <tag k="roof:material" v="slate"/>
@@ -647,6 +726,26 @@
     <tag k="addr:street" v="Rúa de Xulián Magariños"/>
     <tag k="building" v="house"/>
   </way>
+  <way id="248970234" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import">
+    <nd ref="2556764492"/>
+    <nd ref="8225771374"/>
+    <nd ref="7961056389"/>
+    <nd ref="7961056387"/>
+    <nd ref="8225771375"/>
+    <nd ref="2556764491"/>
+    <nd ref="2556764494"/>
+    <nd ref="2556764493"/>
+    <nd ref="2556764492"/>
+    <tag k="addr:city" v="Negreira"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:colour" v="yellow"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:colour" v="red"/>
+    <tag k="roof:material" v="roof_tiles"/>
+    <tag k="roof:shape" v="hipped"/>
+  </way>
   <way id="248970380" version="2" timestamp="2018-05-07T12:22:42Z" changeset="58757052" uid="1921164" user="cafeconleche">
     <nd ref="2556767246"/>
     <nd ref="2556767247"/>
@@ -657,20 +756,32 @@
     <tag k="addr:street" v="Zapateira"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="541692151" version="4" timestamp="2020-02-11T20:15:30Z" changeset="80868618" uid="2365149" user="lucumon">
-    <nd ref="2556570782"/>
-    <nd ref="2556570734"/>
-    <nd ref="2556570733"/>
+  <way id="541692151" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
     <nd ref="2556570783"/>
+    <nd ref="8270138703"/>
+    <nd ref="8270138597"/>
+    <nd ref="8270138570"/>
+    <nd ref="8270138719"/>
     <nd ref="2556570782"/>
+    <nd ref="8270138688"/>
+    <nd ref="8270138721"/>
+    <nd ref="8270138524"/>
+    <nd ref="8270138683"/>
+    <nd ref="8270138749"/>
+    <nd ref="8270138671"/>
+    <nd ref="8270138736"/>
+    <nd ref="8270138567"/>
+    <nd ref="8270138637"/>
+    <nd ref="8270138717"/>
+    <nd ref="2556570783"/>
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="residential"/>
-    <tag k="name" v="Bloque 2"/>
+    <tag k="name" v="Edificio Cantalarrana: Portal 2"/>
     <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
     <tag k="roof:material" v="slate"/>
@@ -678,51 +789,9 @@
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="761114409" version="4" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <nd ref="2556570827"/>
-    <nd ref="7214720745"/>
-    <nd ref="2556570826"/>
-    <nd ref="7214720747"/>
-    <nd ref="7214720743"/>
-    <nd ref="2556570735"/>
-    <nd ref="7110996757"/>
-    <nd ref="2556570736"/>
-    <nd ref="2556570737"/>
-    <nd ref="2556570738"/>
-    <nd ref="2556570829"/>
-    <nd ref="2556570828"/>
-    <nd ref="7214720744"/>
-    <nd ref="2556570827"/>
-    <tag k="building" v="residential"/>
-  </way>
-  <way id="761114410" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon">
-    <nd ref="7110996749"/>
-    <nd ref="7110996750"/>
-    <nd ref="7110996751"/>
-    <nd ref="7110996752"/>
-    <nd ref="7110996749"/>
-    <tag k="area" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="yes"/>
-    <tag k="man_made" v="courtyaard"/>
-  </way>
-  <way id="761114411" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon">
-    <nd ref="7110996753"/>
-    <nd ref="7110996754"/>
-    <nd ref="7110996755"/>
-    <nd ref="7110996756"/>
-    <nd ref="7110996753"/>
-    <tag k="area" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="yes"/>
-    <tag k="man_made" v="courtyaard"/>
-  </way>
-  <way id="772743380" version="6" timestamp="2020-07-04T16:37:15Z" changeset="87535937" uid="2365149" user="lucumon">
+  <way id="772743380" version="9" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="7214503331"/>
     <nd ref="2556570782"/>
-    <nd ref="7214720743"/>
     <nd ref="7214503323"/>
     <nd ref="7214503324"/>
     <nd ref="7214503325"/>
@@ -737,24 +806,20 @@
     <tag k="addr:door" v="Izquierda"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="amenity" v="childcare"/>
+    <tag k="disused:amenity" v="childcare"/>
     <tag k="indoor" v="room"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="A Casa da Avoa"/>
     <tag k="operator:type" v="private"/>
-    <tag k="ref" v="CCE.04;CCE.01"/>
   </way>
-  <way id="772743381" version="2" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
+  <way id="772743381" version="3" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
     <nd ref="7214503336"/>
     <nd ref="7214503335"/>
     <nd ref="7214503334"/>
     <nd ref="7214503333"/>
     <nd ref="7214503322"/>
     <nd ref="2556570826"/>
-    <nd ref="7214720745"/>
     <nd ref="2556570827"/>
     <nd ref="7214503337"/>
-    <nd ref="7214720744"/>
     <nd ref="2556570828"/>
     <nd ref="2556570829"/>
     <nd ref="7214503332"/>
@@ -767,32 +832,87 @@
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
     <tag k="indoor" v="room"/>
     <tag k="level" v="0"/>
-    <tag k="ref" v="CCE.03;CCE.02"/>
   </way>
-  <relation id="10702761" version="2" timestamp="2020-02-11T21:44:54Z" changeset="80871337" uid="2365149" user="lucumon">
-    <member type="way" ref="761114409" role="outline"/>
-    <member type="way" ref="248949947" role="part"/>
-    <member type="way" ref="541692151" role="part"/>
-    <member type="way" ref="248949931" role="part"/>
-    <member type="way" ref="761114410" role="part"/>
-    <member type="way" ref="761114411" role="part"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:country" v="ES"/>
-    <tag k="addr:housename" v="Edificio Cantalarrana"/>
-    <tag k="addr:housenumber" v="1;3;5"/>
+  <way id="889562164" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138742"/>
+    <nd ref="8270138550"/>
+    <nd ref="8270138680"/>
+    <nd ref="8270138648"/>
+    <nd ref="8270138528"/>
+    <nd ref="8270138675"/>
+    <nd ref="8270138583"/>
+    <nd ref="8270138760"/>
+    <nd ref="8270138734"/>
+    <nd ref="8270138742"/>
+    <tag k="addr:housenumber" v="44"/>
     <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:province" v="A Coruña"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="building" v="residential"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+  </way>
+  <way id="889562182" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138560"/>
+    <nd ref="8270138663"/>
+    <nd ref="8270113902"/>
+    <nd ref="8270113911"/>
+    <nd ref="8270138533"/>
+    <nd ref="8270138691"/>
+    <nd ref="8270138752"/>
+    <nd ref="8270138676"/>
+    <nd ref="8270138520"/>
+    <nd ref="8270138566"/>
+    <nd ref="8270113890"/>
+    <nd ref="8270138605"/>
+    <nd ref="8270138776"/>
+    <nd ref="8270138650"/>
+    <nd ref="8270138581"/>
+    <nd ref="8270138596"/>
+    <nd ref="8270138560"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="name" v="Edificio Cantalarrana"/>
-    <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
-    <tag k="roof:material" v="slate"/>
-    <tag k="roof:shape" v="quadruple_saltbox"/>
-    <tag k="type" v="building"/>
-  </relation>
+  </way>
+  <way id="889562196" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138528"/>
+    <nd ref="8270138580"/>
+    <nd ref="8270138689"/>
+    <nd ref="8270138728"/>
+    <nd ref="8270138712"/>
+    <nd ref="8270113903"/>
+    <nd ref="8270138825"/>
+    <nd ref="8270138583"/>
+    <nd ref="8270138675"/>
+    <nd ref="8270138528"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="889562197" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138712"/>
+    <nd ref="8270138728"/>
+    <nd ref="8270138689"/>
+    <nd ref="8270138580"/>
+    <nd ref="8270138668"/>
+    <nd ref="8270138726"/>
+    <nd ref="8270138549"/>
+    <nd ref="8270138770"/>
+    <nd ref="8270138558"/>
+    <nd ref="8270138569"/>
+    <nd ref="8270113903"/>
+    <nd ref="8270138712"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
   <area id="3600346501">
     <tag k="admin_level" v="8"/>
     <tag k="boundary" v="administrative"/>

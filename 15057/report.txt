@@ -1,61 +1,60 @@
 Municipio: Negreira
 Nombre en Catastro: NEGREIRA
 Código: 15057
-Fecha: 12/10/20
+Fecha: 08/19/21
 Opciones: 15057
-Superficie: 108,9 km²
+Superficie: 109,9 km²
 Población: 7029 hab. (2009)
 Wikipedia: https://www.wikipedia.org/wiki/gl:Negreira
 Wikidata: https://www.wikidata.org/wiki/Q840787
 
 =Información del sistema=
-Versión de la aplicación: CatAtom2Osm 1.2.2
-Plataforma: Linux 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 x86_64
+Versión de la aplicación: CatAtom2Osm 1.3.9
+Plataforma: Linux 5.8.0-59-generic #66~20.04.1-Ubuntu SMP Thu Jun 17 11:14:10 UTC 2021 x86_64 x86_64
 Versión de QGIS: 2.18.17
 Versión de GDAL: 2.2.3
 Número de CPUs: 2
 Frecuencia de CPU: 1.900,0 Mhz
-Tiempo de ejecución: 490,6 segundos
-Memoria total: 3.850,99 MB
-Memoria física usada: 638,29 MB
-Memoria virtual usada: 1.590,10 MB
+Tiempo de ejecución: 475,2 segundos
+Memoria total: 3.850,42 MB
+Memoria física usada: 640,89 MB
+Memoria virtual usada: 1.539,92 MB
 
 =Direcciones=
 
 ==Datos de entrada==
-Fecha de origen: 2020-10-23
-Número de características: 5.888
-  Tipo entrada: 1.476
-  Tipo parcela: 4.412
+Fecha de origen: 2021-03-03
+Número de características: 6.127
+  Tipo entrada: 1.521
+  Tipo parcela: 4.606
 Códigos postales: 5
 Nombres de viales: 134
 
 ==Procesado==
-Direcciones eliminadas por nombre de vía: 21
-Direcciones sin número de portal eliminadas: 4.078
-Direcciones sin edificio asociado eliminadas: 42
-Direcciones correspondientes a edificios múltiples eliminadas: 541
-Direcciones tipo parcela no únicas para su edificio eliminadas: 108
+Direcciones eliminadas por nombre de vía: 6
+Direcciones sin número de portal eliminadas: 4.253
+Direcciones sin edificio asociado eliminadas: 44
+Direcciones correspondientes a edificios múltiples eliminadas: 564
+Direcciones tipo parcela no únicas para su edificio eliminadas: 112
 
 ==Combinación==
-Direcciones OSM: 56
-  Sin número de portal: 1
-Direcciones rechazadas por existir en OSM: 27
+Direcciones OSM: 58
+Direcciones rechazadas por existir en OSM: 34
 
 ==Datos de salida==
-Direcciones: 1.071
-  En nodos de entrada: 616
-  En edificios: 455
-  Tipo addr:street: 218
-  Tipo addr:place: 853
+Direcciones: 1.114
+  En nodos de entrada: 637
+  En edificios: 477
+  Tipo addr:street: 207
+  Tipo addr:place: 907
 
 =Edificios=
 
 ==Datos de entrada==
-Fecha de origen: 2020-10-24
-Número de características: 11.188
-  Edificios: 3.013
-  Partes de edificios: 8.139
+Fecha de origen: 2021-03-04
+Número de características: 11.192
+  Edificios: 3.012
+  Partes de edificios: 8.144
   Piscinas: 36
 
 ==Procesado==
@@ -63,34 +62,36 @@ Partes fuera de contorno eliminadas: 35
 Partes bajo rasante eliminadas: 8
 Edificios con geometrías multiparte: 748
 Edificios resultantes de dividir multipartes: 1.719
-Partes fusionadas al contorno: 4.426
-Partes adyacentes fusionadas: 736
+Partes fusionadas al contorno: 2.677
+Partes adyacentes fusionadas: 1.019
 Anillos de geometrías no válidos eliminados: 1
 Vértices en punta eliminados: 1
-Vértices próximos fusionados: 115
-Puntos topológicos creados: 1.254
-Vértices simplificados: 5.646
+Vértices próximos fusionados: 117
+Puntos topológicos creados: 1.255
+Vértices simplificados: 5.644
 
 ==Combinación==
-Edificios/piscinas en OSM: 1.582
-  Con conflicto: 1.501
+Edificios/piscinas en OSM: 1.590
+  Con conflicto: 1.509
 
 ==Datos de salida==
-Nodos: 31.895
-Vías: 6.965
-Relaciones: 22
-Número de características: 6.954
-  Edificios: 3.984
-  Partes de edificios: 2.934
+Nodos: 31.900
+Vías: 8.425
+Relaciones: 38
+Número de características: 8.424
+  Edificios: 3.983
+  Partes de edificios: 4.405
   Piscinas: 36
-Recuento de tipos de edificios: industrial: 227, office: 1, residential: 2830, yes: 766, retail: 22, ruins: 26, public: 105, barn: 7
-Plantas sobre rasante (nivel: nº de edificios): 1: 1076, 2: 1188, 3: 374, 4: 96, 5: 82, 6: 55, 7: 9, 8: 1
-Plantas bajo rasante (nivel: nº de edificios): 1: 129, 2: 22
-Archivos de tareas de rústica: 64
-Archivos de tareas de urbana: 726
+Recuento de tipos de edificios: industrial: 227, office: 1, residential: 2830, yes: 765, retail: 22, ruins: 26, public: 105, barn: 7
+Plantas sobre rasante (nivel: nº de edificios): 1: 1075, 2: 1189, 3: 375, 4: 95, 5: 83, 6: 55, 7: 9, 8: 1
+Plantas bajo rasante (nivel: nº de edificios): 1: 128, 2: 22
+Archivos de tareas de rústica: 66
+Archivos de tareas de urbana: 727
+Edificios sin zona: 156
 
 =Problemas=
-Correcciones (fixmes): 164
-  Falta el contorno del edificio para esta parte: 164
+Correcciones (fixmes): 186
+  Las partes de edificio no cubren todo el contorno: 30
+  Falta el contorno del edificio para esta parte: 156
 Avisos: 1
-  Existen 1 direcciones sin número de portal en OSM
+  Existen 156 edificios sin zona, compruebe tasks/missing.osm

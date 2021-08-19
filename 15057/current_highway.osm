@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-12-09T19:21:02Z" areas="2020-12-09T18:31:02Z"/>
+<meta osm_base="2021-08-19T15:29:39Z" areas="2021-08-19T14:51:57Z"/>
 
-  <node id="257167267" lat="42.9016106" lon="-8.7061123" version="2" timestamp="2009-03-08T01:00:21Z" changeset="754757" uid="101355" user="ottokar55"/>
   <node id="257167307" lat="42.9032145" lon="-8.7079241" version="4" timestamp="2011-11-24T22:57:36Z" changeset="9938587" uid="532668" user="chillfmm"/>
   <node id="257167308" lat="42.9033453" lon="-8.7080164" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
   <node id="257167309" lat="42.9034987" lon="-8.7081241" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
   <node id="257167310" lat="42.9036717" lon="-8.7082449" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167311" lat="42.9038552" lon="-8.7083976" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167312" lat="42.9039844" lon="-8.7085151" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167313" lat="42.9040627" lon="-8.7086052" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167315" lat="42.9042803" lon="-8.7088798" version="4" timestamp="2020-12-08T13:05:01Z" changeset="95489334" uid="2365149" user="lucumon"/>
-  <node id="257167316" lat="42.9044113" lon="-8.7090753" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167317" lat="42.9045014" lon="-8.7091888" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167322" lat="42.9049729" lon="-8.7101184" version="3" timestamp="2009-07-15T09:36:56Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167323" lat="42.9067863" lon="-8.7136837" version="3" timestamp="2009-07-15T09:36:57Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167324" lat="42.9078840" lon="-8.7159132" version="3" timestamp="2009-07-15T09:36:57Z" changeset="1834256" uid="144047" user="Javier Pais"/>
-  <node id="257167325" lat="42.9085801" lon="-8.7172672" version="9" timestamp="2011-02-11T15:06:00Z" changeset="7256053" uid="41263" user="afernandez"/>
+  <node id="257167311" lat="42.9038532" lon="-8.7084056" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167312" lat="42.9039923" lon="-8.7085446" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167313" lat="42.9041236" lon="-8.7086830" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167315" lat="42.9042665" lon="-8.7088744" version="5" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167316" lat="42.9043956" lon="-8.7090565" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167317" lat="42.9045210" lon="-8.7092666" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167322" lat="42.9049591" lon="-8.7101264" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167323" lat="42.9067784" lon="-8.7136944" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167324" lat="42.9078899" lon="-8.7158944" version="4" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="257167325" lat="42.9082461" lon="-8.7165993" version="10" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
   <node id="257167326" lat="42.9102542" lon="-8.7204739" version="3" timestamp="2009-07-15T09:36:57Z" changeset="1834256" uid="144047" user="Javier Pais"/>
   <node id="257167327" lat="42.9109724" lon="-8.7216231" version="3" timestamp="2009-07-15T09:36:57Z" changeset="1834256" uid="144047" user="Javier Pais"/>
   <node id="257167328" lat="42.9113222" lon="-8.7219845" version="4" timestamp="2011-02-13T14:45:01Z" changeset="7276074" uid="346373" user="Picholeiro"/>
@@ -182,7 +181,6 @@
   <node id="484612363" lat="42.9106485" lon="-8.7551171" version="6" timestamp="2020-05-08T00:28:21Z" changeset="84858030" uid="326947" user="Iago"/>
   <node id="484612376" lat="42.9175816" lon="-8.7739810" version="1" timestamp="2009-09-05T13:38:53Z" changeset="2380234" uid="101355" user="ottokar55"/>
   <node id="484612468" lat="42.9109438" lon="-8.7529579" version="4" timestamp="2020-05-08T00:28:21Z" changeset="84858030" uid="326947" user="Iago"/>
-  <node id="613726241" lat="42.9018732" lon="-8.7064700" version="2" timestamp="2011-11-24T22:57:37Z" changeset="9938587" uid="532668" user="chillfmm"/>
   <node id="613726257" lat="42.9026096" lon="-8.7092538" version="1" timestamp="2010-01-14T21:41:03Z" changeset="3619749" uid="101355" user="ottokar55"/>
   <node id="613726263" lat="42.9089986" lon="-8.7507851" version="1" timestamp="2010-01-14T21:41:05Z" changeset="3619749" uid="101355" user="ottokar55"/>
   <node id="613726275" lat="42.9015671" lon="-8.7042812" version="2" timestamp="2013-06-02T16:13:08Z" changeset="16393398" uid="532668" user="chillfmm"/>
@@ -192,7 +190,7 @@
   <node id="613726285" lat="42.9021996" lon="-8.7033750" version="2" timestamp="2013-06-02T16:13:08Z" changeset="16393398" uid="532668" user="chillfmm"/>
   <node id="613726288" lat="42.9027494" lon="-8.7030923" version="3" timestamp="2011-11-24T23:01:14Z" changeset="9938614" uid="532668" user="chillfmm"/>
   <node id="613726294" lat="42.9012005" lon="-8.7026949" version="2" timestamp="2011-11-24T22:57:37Z" changeset="9938587" uid="532668" user="chillfmm"/>
-  <node id="613726296" lat="42.9018846" lon="-8.7035548" version="2" timestamp="2011-11-24T22:57:37Z" changeset="9938587" uid="532668" user="chillfmm"/>
+  <node id="613726296" lat="42.9018846" lon="-8.7035521" version="3" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
   <node id="613726365" lat="42.9057763" lon="-8.6955033" version="3" timestamp="2012-08-30T11:04:45Z" changeset="12916389" uid="346373" user="Picholeiro"/>
   <node id="747893609" lat="42.9094719" lon="-8.7348466" version="8" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
   <node id="747893611" lat="42.9094666" lon="-8.7349102" version="8" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
@@ -278,22 +276,24 @@
   <node id="917223084" lat="42.9139343" lon="-8.7387299" version="3" timestamp="2020-05-05T16:47:59Z" changeset="84709107" uid="326947" user="Iago"/>
   <node id="917223102" lat="42.9125233" lon="-8.7424127" version="3" timestamp="2019-08-12T01:10:38Z" changeset="73253096" uid="326947" user="Iago"/>
   <node id="917223104" lat="42.9148770" lon="-8.7366719" version="1" timestamp="2010-09-18T19:50:16Z" changeset="5814516" uid="326947" user="Iago"/>
-  <node id="917424845" lat="42.9131444" lon="-8.7327013" version="3" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
+  <node id="917424845" lat="42.9131397" lon="-8.7327166" version="4" timestamp="2021-07-19T21:59:34Z" changeset="108276765" uid="2365149" user="lucumon"/>
   <node id="917424889" lat="42.9115154" lon="-8.7364677" version="3" timestamp="2019-08-09T15:25:44Z" changeset="73198566" uid="326947" user="Iago"/>
   <node id="917424940" lat="42.9134774" lon="-8.7331122" version="3" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
-  <node id="917424956" lat="42.9124763" lon="-8.7326776" version="3" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
+  <node id="917424956" lat="42.9123997" lon="-8.7326841" version="4" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon"/>
   <node id="917425031" lat="42.9136101" lon="-8.7339276" version="5" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
   <node id="917425041" lat="42.9097757" lon="-8.7402961" version="2" timestamp="2012-03-30T17:42:53Z" changeset="11156686" uid="449098" user="ghas"/>
   <node id="917425051" lat="42.9145257" lon="-8.7347987" version="3" timestamp="2012-08-30T11:31:55Z" changeset="12916674" uid="346373" user="Picholeiro"/>
-  <node id="917425094" lat="42.9135465" lon="-8.7340097" version="3" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <node id="917425094" lat="42.9135465" lon="-8.7340097" version="5" timestamp="2021-07-19T21:53:28Z" changeset="108276611" uid="2365149" user="lucumon">
     <tag k="highway" v="crossing"/>
   </node>
   <node id="917425137" lat="42.9145248" lon="-8.7345718" version="1" timestamp="2010-09-18T21:16:13Z" changeset="5815252" uid="326947" user="Iago"/>
-  <node id="917425192" lat="42.9129649" lon="-8.7326163" version="2" timestamp="2018-10-02T20:26:44Z" changeset="63137897" uid="2105126" user="Hupf"/>
+  <node id="917425192" lat="42.9129586" lon="-8.7326278" version="3" timestamp="2021-07-19T21:59:34Z" changeset="108276765" uid="2365149" user="lucumon"/>
   <node id="917425225" lat="42.9122869" lon="-8.7328011" version="3" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
   <node id="917425236" lat="42.9122031" lon="-8.7356186" version="4" timestamp="2013-11-20T08:57:01Z" changeset="19008608" uid="75317" user="HoloDuke"/>
   <node id="917425282" lat="42.9133256" lon="-8.7328625" version="2" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
-  <node id="917425368" lat="42.9135544" lon="-8.7335328" version="3" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
+  <node id="917425368" lat="42.9135544" lon="-8.7335328" version="4" timestamp="2021-07-19T21:59:34Z" changeset="108276765" uid="2365149" user="lucumon">
+    <tag k="traffic_calming" v="bump"/>
+  </node>
   <node id="917425404" lat="42.9140511" lon="-8.7343791" version="2" timestamp="2012-03-30T17:31:17Z" changeset="11156686" uid="449098" user="ghas"/>
   <node id="917425475" lat="42.9099787" lon="-8.7398583" version="3" timestamp="2019-08-07T23:32:52Z" changeset="73130930" uid="326947" user="Iago"/>
   <node id="917425481" lat="42.9165974" lon="-8.7347470" version="2" timestamp="2013-10-09T08:07:03Z" changeset="18260087" uid="75317" user="HoloDuke"/>
@@ -511,10 +511,11 @@
   <node id="1079876932" lat="42.9135392" lon="-8.7370996" version="2" timestamp="2020-05-05T16:47:59Z" changeset="84709107" uid="326947" user="Iago"/>
   <node id="1079876961" lat="42.9114579" lon="-8.7389682" version="2" timestamp="2018-02-21T01:35:29Z" changeset="56536439" uid="326947" user="Iago"/>
   <node id="1079877229" lat="42.9151979" lon="-8.7363317" version="1" timestamp="2011-01-02T23:42:11Z" changeset="6845121" uid="326947" user="Iago"/>
-  <node id="1147396047" lat="42.9084329" lon="-8.7169807" version="1" timestamp="2011-02-11T15:05:55Z" changeset="7256053" uid="41263" user="afernandez"/>
+  <node id="1082772197" lat="42.8645033" lon="-8.7965585" version="3" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
+  <node id="1082772332" lat="42.8655336" lon="-8.7976753" version="3" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
+  <node id="1147396047" lat="42.9080734" lon="-8.7162485" version="2" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
   <node id="1147396049" lat="42.9105554" lon="-8.7209558" version="1" timestamp="2011-02-11T15:05:55Z" changeset="7256053" uid="41263" user="afernandez"/>
   <node id="1150996265" lat="42.9217797" lon="-8.7371403" version="2" timestamp="2020-02-25T12:33:42Z" changeset="81454988" uid="2365149" user="lucumon"/>
-  <node id="1150996301" lat="42.9188902" lon="-8.7309952" version="2" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
   <node id="1150997538" lat="42.9185440" lon="-8.7302048" version="1" timestamp="2011-02-13T14:44:06Z" changeset="7276074" uid="346373" user="Picholeiro"/>
   <node id="1515996884" lat="42.9017601" lon="-8.7065008" version="1" timestamp="2011-11-24T22:57:30Z" changeset="9938587" uid="532668" user="chillfmm"/>
   <node id="1515998228" lat="42.9054128" lon="-8.6988846" version="1" timestamp="2011-11-24T22:59:41Z" changeset="9938602" uid="532668" user="chillfmm"/>
@@ -551,6 +552,10 @@
   </node>
   <node id="1766456231" lat="42.9107401" lon="-8.7417365" version="1" timestamp="2012-05-26T17:11:12Z" changeset="11708335" uid="532668" user="chillfmm"/>
   <node id="1766456235" lat="42.9127670" lon="-8.7417302" version="2" timestamp="2020-05-05T16:47:59Z" changeset="84709107" uid="326947" user="Iago"/>
+  <node id="1769710245" lat="42.8645498" lon="-8.7966244" version="2" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
+  <node id="1769710247" lat="42.8648752" lon="-8.7970015" version="2" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
+  <node id="1769710249" lat="42.8650902" lon="-8.7972454" version="3" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
+  <node id="1769710251" lat="42.8653724" lon="-8.7975453" version="2" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
   <node id="1771912373" lat="42.9060034" lon="-8.7404906" version="2" timestamp="2019-08-14T01:08:50Z" changeset="73328555" uid="326947" user="Iago"/>
   <node id="1777008856" lat="42.9056208" lon="-8.7383252" version="2" timestamp="2020-05-08T00:28:21Z" changeset="84858030" uid="326947" user="Iago"/>
   <node id="1777008859" lat="42.9064693" lon="-8.7391220" version="2" timestamp="2020-05-08T00:28:21Z" changeset="84858030" uid="326947" user="Iago"/>
@@ -619,14 +624,14 @@
   <node id="2497613038" lat="42.9097403" lon="-8.7336751" version="2" timestamp="2013-11-28T10:06:40Z" changeset="19156886" uid="75317" user="HoloDuke"/>
   <node id="2539993383" lat="42.9099770" lon="-8.7369103" version="2" timestamp="2019-09-30T08:40:24Z" changeset="75086214" uid="326947" user="Iago"/>
   <node id="2539993385" lat="42.9129356" lon="-8.7347537" version="2" timestamp="2013-11-20T08:57:01Z" changeset="19008608" uid="75317" user="HoloDuke"/>
-  <node id="2539993389" lat="42.9131423" lon="-8.7350750" version="1" timestamp="2013-11-19T17:16:53Z" changeset="18997908" uid="1811664" user="agpais"/>
+  <node id="2539993389" lat="42.9131513" lon="-8.7350824" version="3" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
   <node id="2540059242" lat="42.9106081" lon="-8.7378428" version="3" timestamp="2018-10-08T16:17:58Z" changeset="63317195" uid="326947" user="Iago"/>
   <node id="2540059246" lat="42.9104784" lon="-8.7377759" version="2" timestamp="2018-10-08T01:16:41Z" changeset="63292903" uid="326947" user="Iago"/>
   <node id="2540059249" lat="42.9102923" lon="-8.7377288" version="2" timestamp="2018-10-08T01:16:41Z" changeset="63292903" uid="326947" user="Iago"/>
   <node id="2540059251" lat="42.9101118" lon="-8.7377065" version="2" timestamp="2018-10-08T01:16:41Z" changeset="63292903" uid="326947" user="Iago"/>
   <node id="2540059253" lat="42.9098995" lon="-8.7376367" version="2" timestamp="2018-10-08T01:16:41Z" changeset="63292903" uid="326947" user="Iago"/>
   <node id="2540067025" lat="42.9134613" lon="-8.7341126" version="1" timestamp="2013-11-19T18:13:21Z" changeset="18998953" uid="1811753" user="mrflorod"/>
-  <node id="2540073849" lat="42.9124921" lon="-8.7352958" version="4" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon"/>
+  <node id="2540073849" lat="42.9124677" lon="-8.7353241" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
   <node id="2540073853" lat="42.9140733" lon="-8.7404983" version="2" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
   <node id="2540097313" lat="42.9076147" lon="-8.7391979" version="1" timestamp="2013-11-19T18:34:51Z" changeset="18999342" uid="1811753" user="mrflorod"/>
   <node id="2540097316" lat="42.9078544" lon="-8.7389458" version="1" timestamp="2013-11-19T18:34:51Z" changeset="18999342" uid="1811753" user="mrflorod"/>
@@ -639,9 +644,9 @@
   <node id="2540123927" lat="42.9107736" lon="-8.7355239" version="5" timestamp="2016-08-06T01:19:55Z" changeset="41280524" uid="32529" user="Rodrigo Rega"/>
   <node id="2540152107" lat="42.9140896" lon="-8.7401925" version="2" timestamp="2020-05-05T16:47:59Z" changeset="84709107" uid="326947" user="Iago"/>
   <node id="2540157624" lat="42.9120268" lon="-8.7333343" version="2" timestamp="2013-11-20T08:57:01Z" changeset="19008608" uid="75317" user="HoloDuke"/>
-  <node id="2540157625" lat="42.9122055" lon="-8.7331549" version="1" timestamp="2013-11-19T19:17:57Z" changeset="19000119" uid="1811753" user="mrflorod"/>
-  <node id="2540157626" lat="42.9125228" lon="-8.7327046" version="1" timestamp="2013-11-19T19:17:57Z" changeset="19000119" uid="1811753" user="mrflorod"/>
-  <node id="2540157627" lat="42.9125418" lon="-8.7326591" version="2" timestamp="2018-10-02T20:26:44Z" changeset="63137897" uid="2105126" user="Hupf"/>
+  <node id="2540157625" lat="42.9121954" lon="-8.7331296" version="2" timestamp="2021-07-19T21:40:08Z" changeset="108276310" uid="2365149" user="lucumon"/>
+  <node id="2540157626" lat="42.9124553" lon="-8.7328163" version="2" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon"/>
+  <node id="2540157627" lat="42.9124897" lon="-8.7327012" version="3" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon"/>
   <node id="2540165348" lat="42.9107240" lon="-8.7347235" version="2" timestamp="2019-08-08T17:20:11Z" changeset="73164771" uid="326947" user="Iago"/>
   <node id="2540165375" lat="42.9110471" lon="-8.7343095" version="2" timestamp="2019-08-08T17:20:11Z" changeset="73164771" uid="326947" user="Iago"/>
   <node id="2540165386" lat="42.9113053" lon="-8.7339979" version="3" timestamp="2018-10-02T20:26:43Z" changeset="63137897" uid="2105126" user="Hupf"/>
@@ -726,7 +731,9 @@
   <node id="2705955460" lat="42.9096451" lon="-8.7349808" version="5" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
   <node id="3152416646" lat="42.9008985" lon="-8.7339330" version="1" timestamp="2014-10-27T12:41:12Z" changeset="26362922" uid="512016" user="edoarado"/>
   <node id="3433995718" lat="42.9085487" lon="-8.7503569" version="1" timestamp="2015-04-03T12:33:19Z" changeset="29950872" uid="2788764" user="Monchinho"/>
-  <node id="3452006808" lat="42.9121602" lon="-8.7355524" version="1" timestamp="2015-04-12T14:13:16Z" changeset="30164171" uid="474183" user="ratrun">
+  <node id="3452006808" lat="42.9121602" lon="-8.7355524" version="3" timestamp="2021-07-13T14:51:17Z" changeset="107918213" uid="2365149" user="lucumon">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="3452006809" lat="42.9122548" lon="-8.7355587" version="1" timestamp="2015-04-12T14:13:16Z" changeset="30164171" uid="474183" user="ratrun">
@@ -734,10 +741,10 @@
   </node>
   <node id="4046747621" lat="42.9279046" lon="-8.7953808" version="1" timestamp="2016-03-07T22:55:23Z" changeset="37676433" uid="32529" user="Rodrigo Rega"/>
   <node id="4442604595" lat="42.9142054" lon="-8.7350330" version="2" timestamp="2020-06-16T11:45:07Z" changeset="86719751" uid="2365149" user="lucumon"/>
-  <node id="4442604596" lat="42.9140789" lon="-8.7351960" version="1" timestamp="2016-10-11T18:37:05Z" changeset="42810266" uid="4674971" user="JavierNegreiroa"/>
-  <node id="4442604597" lat="42.9127610" lon="-8.7357525" version="2" timestamp="2020-06-16T11:45:07Z" changeset="86719751" uid="2365149" user="lucumon"/>
+  <node id="4442604596" lat="42.9140884" lon="-8.7351277" version="2" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
+  <node id="4442604597" lat="42.9127690" lon="-8.7357623" version="3" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
   <node id="4442604598" lat="42.9127150" lon="-8.7356636" version="2" timestamp="2020-06-16T11:45:07Z" changeset="86719751" uid="2365149" user="lucumon"/>
-  <node id="4442604599" lat="42.9136772" lon="-8.7344569" version="2" timestamp="2020-06-16T11:45:07Z" changeset="86719751" uid="2365149" user="lucumon"/>
+  <node id="4442604599" lat="42.9136667" lon="-8.7344599" version="3" timestamp="2021-07-19T11:50:36Z" changeset="108249964" uid="2365149" user="lucumon"/>
   <node id="4878813107" lat="42.9096638" lon="-8.7348552" version="4" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
   <node id="4878813108" lat="42.9102040" lon="-8.7352340" version="1" timestamp="2017-05-26T16:02:55Z" changeset="49006362" uid="275212" user="jeslop"/>
   <node id="4878813110" lat="42.9076332" lon="-8.7386929" version="2" timestamp="2019-08-10T01:56:21Z" changeset="73211523" uid="326947" user="Iago"/>
@@ -851,8 +858,9 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6693665853" lat="42.9096722" lon="-8.7387591" version="1" timestamp="2019-08-08T00:45:27Z" changeset="73131610" uid="326947" user="Iago">
+  <node id="6693665853" lat="42.9096722" lon="-8.7387591" version="2" timestamp="2021-07-13T15:04:42Z" changeset="107918213" uid="2365149" user="lucumon">
     <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6693665879" lat="42.9129819" lon="-8.7396557" version="1" timestamp="2019-08-08T00:45:27Z" changeset="73131610" uid="326947" user="Iago"/>
@@ -921,8 +929,9 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6698239575" lat="42.9089050" lon="-8.7378774" version="1" timestamp="2019-08-10T00:26:18Z" changeset="73210795" uid="326947" user="Iago">
+  <node id="6698239575" lat="42.9089050" lon="-8.7378774" version="2" timestamp="2021-07-13T15:04:38Z" changeset="107918213" uid="2365149" user="lucumon">
     <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6698239577" lat="42.9078801" lon="-8.7383737" version="1" timestamp="2019-08-10T00:26:18Z" changeset="73210795" uid="326947" user="Iago">
@@ -933,16 +942,19 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6698239581" lat="42.9086142" lon="-8.7374253" version="1" timestamp="2019-08-10T00:26:18Z" changeset="73210795" uid="326947" user="Iago">
+  <node id="6698239581" lat="42.9086142" lon="-8.7374253" version="2" timestamp="2021-07-13T15:03:45Z" changeset="107918213" uid="2365149" user="lucumon">
     <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6698239584" lat="42.9094162" lon="-8.7363686" version="1" timestamp="2019-08-10T00:26:18Z" changeset="73210795" uid="326947" user="Iago">
+  <node id="6698239584" lat="42.9094162" lon="-8.7363686" version="2" timestamp="2021-07-13T15:03:31Z" changeset="107918213" uid="2365149" user="lucumon">
     <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="6698239587" lat="42.9090437" lon="-8.7368551" version="1" timestamp="2019-08-10T00:26:18Z" changeset="73210795" uid="326947" user="Iago">
+  <node id="6698239587" lat="42.9090437" lon="-8.7368551" version="2" timestamp="2021-07-13T15:03:38Z" changeset="107918213" uid="2365149" user="lucumon">
     <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="6698239590" lat="42.9091231" lon="-8.7368538" version="2" timestamp="2019-10-01T20:33:27Z" changeset="75170381" uid="326947" user="Iago">
@@ -1004,7 +1016,7 @@
   <node id="6717463613" lat="42.9107469" lon="-8.7637502" version="1" timestamp="2019-08-17T01:43:12Z" changeset="73433768" uid="326947" user="Iago"/>
   <node id="6720179943" lat="42.9099121" lon="-8.7465505" version="1" timestamp="2019-08-18T02:05:18Z" changeset="73454479" uid="326947" user="Iago"/>
   <node id="6720179944" lat="42.9099513" lon="-8.7465221" version="1" timestamp="2019-08-18T02:05:18Z" changeset="73454479" uid="326947" user="Iago"/>
-  <node id="6806562755" lat="42.9141085" lon="-8.7351786" version="2" timestamp="2020-01-06T00:15:33Z" changeset="79226285" uid="2365149" user="lucumon"/>
+  <node id="6765222214" lat="42.8654988" lon="-8.7976827" version="1" timestamp="2019-09-01T22:33:50Z" changeset="73983380" uid="532668" user="chillfmm"/>
   <node id="6806562773" lat="42.9080951" lon="-8.7386741" version="1" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns"/>
   <node id="6806562777" lat="42.9060035" lon="-8.7386180" version="2" timestamp="2020-05-08T00:28:21Z" changeset="84858030" uid="326947" user="Iago"/>
   <node id="6841862994" lat="42.9098833" lon="-8.7368235" version="1" timestamp="2019-10-01T20:33:27Z" changeset="75170381" uid="326947" user="Iago"/>
@@ -1056,11 +1068,12 @@
     <tag k="name" v="Negreira"/>
     <tag k="public_transport" v="stop_position"/>
   </node>
-  <node id="7194168396" lat="42.9107212" lon="-8.7354843" version="1" timestamp="2020-02-07T21:09:32Z" changeset="80709379" uid="2365149" user="lucumon">
+  <node id="7194168396" lat="42.9107212" lon="-8.7354843" version="2" timestamp="2021-04-28T19:44:38Z" changeset="103798888" uid="170106" user="sanchi">
+    <tag k="bus" v="yes"/>
     <tag k="name" v="Negreira"/>
     <tag k="public_transport" v="stop_position"/>
   </node>
-  <node id="7239721245" lat="42.9221288" lon="-8.7377907" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
+  <node id="7239721245" lat="42.9222196" lon="-8.7379472" version="2" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
   <node id="7239721246" lat="42.9254076" lon="-8.7431109" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
   <node id="7239721247" lat="42.9258706" lon="-8.7437714" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
   <node id="7239721249" lat="42.9230453" lon="-8.7394118" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
@@ -1077,7 +1090,6 @@
   <node id="7239721260" lat="42.9273251" lon="-8.7487755" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
   <node id="7239721261" lat="42.9273227" lon="-8.7489677" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
   <node id="7239721262" lat="42.9272159" lon="-8.7500851" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon"/>
-  <node id="7242441287" lat="42.9214663" lon="-8.7365559" version="1" timestamp="2020-02-25T12:33:42Z" changeset="81454988" uid="2365149" user="lucumon"/>
   <node id="7258857461" lat="42.9139293" lon="-8.7402143" version="1" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
   <node id="7258857462" lat="42.9138417" lon="-8.7400692" version="1" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
   <node id="7258857463" lat="42.9136730" lon="-8.7398340" version="1" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns"/>
@@ -1161,6 +1173,7 @@
   <node id="7512762531" lat="42.8967832" lon="-8.8161637" version="1" timestamp="2020-05-13T01:19:45Z" changeset="85110864" uid="326947" user="Iago"/>
   <node id="7552249616" lat="42.9147548" lon="-8.7247283" version="1" timestamp="2020-05-23T18:56:28Z" changeset="85662765" uid="326947" user="Iago"/>
   <node id="7552249682" lat="42.9132118" lon="-8.7234666" version="1" timestamp="2020-05-23T18:56:28Z" changeset="85662765" uid="326947" user="Iago"/>
+  <node id="7625809229" lat="42.9136579" lon="-8.7345051" version="3" timestamp="2021-07-19T11:50:36Z" changeset="108249964" uid="2365149" user="lucumon"/>
   <node id="7924474424" lat="42.9150371" lon="-8.7353017" version="3" timestamp="2020-11-27T06:50:46Z" changeset="94876091" uid="478872" user="mcheck">
     <tag k="direction" v="backward"/>
     <tag k="highway" v="stop"/>
@@ -1196,7 +1209,8 @@
     <tag k="side" v="left"/>
     <tag k="traffic_sign:backward" v="ES:R1"/>
   </node>
-  <node id="7924474432" lat="42.9121396" lon="-8.7357034" version="1" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <node id="7924474432" lat="42.9121396" lon="-8.7357034" version="2" timestamp="2021-07-13T14:51:07Z" changeset="107917896" uid="2365149" user="lucumon">
+    <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
   </node>
   <node id="7924474433" lat="42.9115972" lon="-8.7363813" version="1" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
@@ -1214,9 +1228,11 @@
   <node id="7924474436" lat="42.9117832" lon="-8.7368707" version="1" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
     <tag k="highway" v="crossing"/>
   </node>
-  <node id="7924474439" lat="42.9149903" lon="-8.7352540" version="1" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
-    <tag k="crossing" v="yes"/>
+  <node id="7924474439" lat="42.9149903" lon="-8.7352540" version="4" timestamp="2021-07-13T14:54:20Z" changeset="107918374" uid="2365149" user="lucumon">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
     <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
   <node id="7924474440" lat="42.9142127" lon="-8.7345493" version="1" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
     <tag k="traffic_calming" v="bump"/>
@@ -1239,15 +1255,200 @@
     <tag k="traffic_calming" v="table"/>
   </node>
   <node id="8210689714" lat="42.9139230" lon="-8.7342480" version="1" timestamp="2020-12-09T19:09:46Z" changeset="95571829" uid="2365149" user="lucumon"/>
-  <way id="31877696" version="11" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <node id="8335591661" lat="42.9214652" lon="-8.7365544" version="1" timestamp="2021-01-18T19:54:46Z" changeset="97719175" uid="11167454" user="josedaniel811"/>
+  <node id="8337722090" lat="42.9226210" lon="-8.7386684" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="8337722092" lat="42.9235996" lon="-8.7403308" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns"/>
+  <node id="8409884878" lat="42.9262628" lon="-8.7438126" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884879" lat="42.9279126" lon="-8.7440272" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884880" lat="42.9290281" lon="-8.7440486" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884881" lat="42.9296094" lon="-8.7438555" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884882" lat="42.9300807" lon="-8.7434049" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884883" lat="42.9305992" lon="-8.7428041" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884884" lat="42.9308820" lon="-8.7424608" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884885" lat="42.9313533" lon="-8.7421818" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884886" lat="42.9318403" lon="-8.7421603" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884887" lat="42.9329244" lon="-8.7426324" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884888" lat="42.9337256" lon="-8.7431903" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884889" lat="42.9347781" lon="-8.7442203" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884890" lat="42.9355165" lon="-8.7453575" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884891" lat="42.9362234" lon="-8.7466665" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884892" lat="42.9366162" lon="-8.7475891" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884893" lat="42.9371032" lon="-8.7485547" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884894" lat="42.9377786" lon="-8.7494130" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884895" lat="42.9389568" lon="-8.7502284" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884896" lat="42.9413759" lon="-8.7511082" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884897" lat="42.9431980" lon="-8.7514515" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884898" lat="42.9458526" lon="-8.7516232" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884899" lat="42.9485541" lon="-8.7513228" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884900" lat="42.9500462" lon="-8.7510653" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884901" lat="42.9509414" lon="-8.7509365" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884902" lat="42.9524020" lon="-8.7509365" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884903" lat="42.9538312" lon="-8.7506790" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884904" lat="42.9565638" lon="-8.7497349" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884905" lat="42.9580086" lon="-8.7490483" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884906" lat="42.9596888" lon="-8.7486835" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884907" lat="42.9614319" lon="-8.7492414" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884908" lat="42.9666137" lon="-8.7516232" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884909" lat="42.9703349" lon="-8.7536617" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884910" lat="42.9783574" lon="-8.7598844" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884911" lat="42.9850447" lon="-8.7655921" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884912" lat="42.9878701" lon="-8.7676950" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884913" lat="42.9901774" lon="-8.7706347" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884914" lat="42.9912917" lon="-8.7718363" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884915" lat="42.9924532" lon="-8.7726302" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409884916" lat="42.9948545" lon="-8.7735958" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894617" lat="42.9983072" lon="-8.7748833" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894618" lat="43.0000491" lon="-8.7757631" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894619" lat="43.0011320" lon="-8.7766428" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894620" lat="43.0021834" lon="-8.7781019" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894621" lat="43.0027483" lon="-8.7795825" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894622" lat="43.0030935" lon="-8.7813850" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894623" lat="43.0038311" lon="-8.7838097" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894624" lat="43.0049138" lon="-8.7860842" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894625" lat="43.0064202" lon="-8.7885947" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894626" lat="43.0080364" lon="-8.7904616" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894627" lat="43.0097624" lon="-8.7913413" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894628" lat="43.0124298" lon="-8.7920065" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894629" lat="43.0144381" lon="-8.7919851" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894630" lat="43.0158815" lon="-8.7921138" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894631" lat="43.0177328" lon="-8.7923713" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894632" lat="43.0186113" lon="-8.7927790" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894633" lat="43.0192702" lon="-8.7933369" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894634" lat="43.0203213" lon="-8.7947102" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894635" lat="43.0220156" lon="-8.7976070" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894636" lat="43.0229568" lon="-8.7991734" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894637" lat="43.0239922" lon="-8.8011475" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894638" lat="43.0244001" lon="-8.8029285" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894639" lat="43.0249020" lon="-8.8050742" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894640" lat="43.0252628" lon="-8.8065334" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894641" lat="43.0260315" lon="-8.8087864" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894642" lat="43.0267531" lon="-8.8106747" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894643" lat="43.0269099" lon="-8.8114257" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894644" lat="43.0270040" lon="-8.8122196" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894645" lat="43.0270981" lon="-8.8130350" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894646" lat="43.0271257" lon="-8.8139841" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894647" lat="43.0271412" lon="-8.8146707" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894648" lat="43.0272602" lon="-8.8153785" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894649" lat="43.0274155" lon="-8.8158457" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894650" lat="43.0277001" lon="-8.8162279" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894651" lat="43.0278708" lon="-8.8164828" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894652" lat="43.0280157" lon="-8.8168438" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894653" lat="43.0280830" lon="-8.8171835" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894654" lat="43.0281089" lon="-8.8179126" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894655" lat="43.0281760" lon="-8.8188276" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894656" lat="43.0283652" lon="-8.8194807" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894657" lat="43.0286444" lon="-8.8199244" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894658" lat="43.0292300" lon="-8.8204913" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894659" lat="43.0300499" lon="-8.8210582" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894660" lat="43.0307796" lon="-8.8213663" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894661" lat="43.0318516" lon="-8.8216498" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894662" lat="43.0327435" lon="-8.8218347" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894663" lat="43.0334461" lon="-8.8220935" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894664" lat="43.0340137" lon="-8.8224878" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894665" lat="43.0346623" lon="-8.8233505" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894666" lat="43.0390753" lon="-8.8332963" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894667" lat="43.0431684" lon="-8.8419008" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894668" lat="43.0434921" lon="-8.8434781" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894669" lat="43.0436286" lon="-8.8454208" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894670" lat="43.0438880" lon="-8.8470086" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894671" lat="43.0444340" lon="-8.8484096" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894672" lat="43.0454716" lon="-8.8497733" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894673" lat="43.0472190" lon="-8.8515666" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894674" lat="43.0503040" lon="-8.8542378" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894675" lat="43.0523379" lon="-8.8559750" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894676" lat="43.0557094" lon="-8.8581979" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894677" lat="43.0575247" lon="-8.8590759" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894678" lat="43.0588623" lon="-8.8594308" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894679" lat="43.0622736" lon="-8.8604977" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894680" lat="43.0634494" lon="-8.8611629" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894681" lat="43.0644057" lon="-8.8622787" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894682" lat="43.0655031" lon="-8.8642099" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894683" lat="43.0689047" lon="-8.8709476" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894684" lat="43.0726668" lon="-8.8772562" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894685" lat="43.0764912" lon="-8.8834789" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894686" lat="43.0804722" lon="-8.8902810" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894687" lat="43.0843432" lon="-8.8967612" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894688" lat="43.0886057" lon="-8.9032843" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894689" lat="43.0907212" lon="-8.9062669" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894690" lat="43.0916927" lon="-8.9081767" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894691" lat="43.0925546" lon="-8.9105155" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894692" lat="43.0936671" lon="-8.9132836" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894693" lat="43.0952355" lon="-8.9176824" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894694" lat="43.0958356" lon="-8.9189713" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894695" lat="43.0966268" lon="-8.9207833" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894696" lat="43.0974725" lon="-8.9214931" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894697" lat="43.0989728" lon="-8.9223150" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894698" lat="43.1010733" lon="-8.9227820" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894699" lat="43.1051104" lon="-8.9229315" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894700" lat="43.1092795" lon="-8.9227959" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894701" lat="43.1121932" lon="-8.9224312" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894702" lat="43.1138849" lon="-8.9221093" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894703" lat="43.1164695" lon="-8.9223882" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894704" lat="43.1205418" lon="-8.9241478" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894705" lat="43.1229537" lon="-8.9248130" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894706" lat="43.1244416" lon="-8.9259931" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894707" lat="43.1265872" lon="-8.9280531" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894708" lat="43.1295783" lon="-8.9318082" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894709" lat="43.1313478" lon="-8.9337608" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894710" lat="43.1334775" lon="-8.9358851" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894711" lat="43.1361708" lon="-8.9376876" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894712" lat="43.1387700" lon="-8.9388677" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894713" lat="43.1412909" lon="-8.9394685" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894714" lat="43.1426530" lon="-8.9396831" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894715" lat="43.1441560" lon="-8.9401337" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894716" lat="43.1457686" lon="-8.9409062" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894717" lat="43.1474281" lon="-8.9424512" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894718" lat="43.1485866" lon="-8.9435455" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894719" lat="43.1507470" lon="-8.9453694" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894720" lat="43.1531734" lon="-8.9467642" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894721" lat="43.1552553" lon="-8.9478156" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8409894722" lat="43.1512889" lon="-8.9456809" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811"/>
+  <node id="8785437269" lat="42.9134833" lon="-8.7340861" version="1" timestamp="2021-05-31T11:55:10Z" changeset="105621983" uid="2365149" user="lucumon"/>
+  <node id="8929634235" lat="42.9141657" lon="-8.7349897" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
+  <node id="8929634261" lat="42.9127407" lon="-8.7357133" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon">
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="vehicle" v="no"/>
+  </node>
+  <node id="8929634265" lat="42.9141147" lon="-8.7351596" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
+  <node id="8929634269" lat="42.9136630" lon="-8.7344912" version="2" timestamp="2021-07-19T11:50:36Z" changeset="108249964" uid="2365149" user="lucumon"/>
+  <node id="8929634271" lat="42.9136644" lon="-8.7344832" version="2" timestamp="2021-07-19T11:50:36Z" changeset="108249964" uid="2365149" user="lucumon"/>
+  <node id="8929634286" lat="42.9140994" lon="-8.7352256" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
+  <node id="8929634290" lat="42.9136657" lon="-8.7344757" version="2" timestamp="2021-07-19T11:50:36Z" changeset="108249964" uid="2365149" user="lucumon"/>
+  <node id="8929634309" lat="42.9127509" lon="-8.7357329" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon">
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="vehicle" v="no"/>
+  </node>
+  <node id="8929643531" lat="42.9140636" lon="-8.7351772" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon"/>
+  <node id="8929643533" lat="42.9127624" lon="-8.7357516" version="1" timestamp="2021-07-18T00:44:53Z" changeset="108176726" uid="2365149" user="lucumon">
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="vehicle" v="no"/>
+  </node>
+  <node id="8933282579" lat="42.9118897" lon="-8.7333018" version="1" timestamp="2021-07-19T14:50:55Z" changeset="108260197" uid="2365149" user="lucumon"/>
+  <node id="8934130431" lat="42.9130896" lon="-8.7326861" version="1" timestamp="2021-07-19T21:59:34Z" changeset="108276765" uid="2365149" user="lucumon">
+    <tag k="traffic_calming" v="bump"/>
+  </node>
+  <node id="8934130432" lat="42.9134236" lon="-8.7329717" version="1" timestamp="2021-07-19T21:59:34Z" changeset="108276765" uid="2365149" user="lucumon"/>
+  <node id="8934130433" lat="42.9128419" lon="-8.7326246" version="1" timestamp="2021-07-19T21:59:34Z" changeset="108276765" uid="2365149" user="lucumon">
+    <tag k="traffic_calming" v="bump"/>
+  </node>
+  <node id="8934207904" lat="42.9125160" lon="-8.7326704" version="1" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon"/>
+  <node id="8934207905" lat="42.9124480" lon="-8.7326810" version="1" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon"/>
+  <node id="8934207906" lat="42.9124804" lon="-8.7327589" version="1" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon"/>
+  <node id="9005386512" lat="42.9082060" lon="-8.7384968" version="1" timestamp="2021-08-13T23:16:33Z" changeset="109651815" uid="2365149" user="lucumon"/>
+  <node id="9011983671" lat="42.9129769" lon="-8.7326359" version="1" timestamp="2021-08-16T21:26:10Z" changeset="109773412" uid="2365149" user="lucumon"/>
+  <way id="31877696" version="13" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893636"/>
     <nd ref="2705955455"/>
     <nd ref="2705955456"/>
     <nd ref="747893611"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
     <tag k="oneway" v="yes"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="sidewalk" v="separate"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -1295,7 +1496,7 @@
     <tag k="name" v="Avenida de Feiraco"/>
     <tag k="sidewalk" v="separate"/>
   </way>
-  <way id="37702572" version="33" timestamp="2020-12-09T13:39:16Z" changeset="95556871" uid="2365149" user="lucumon">
+  <way id="37702572" version="34" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="356963594"/>
     <nd ref="7495651691"/>
     <nd ref="7495651692"/>
@@ -1318,6 +1519,7 @@
     <nd ref="7495651704"/>
     <nd ref="7495651706"/>
     <tag k="highway" v="tertiary"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa Malecón"/>
     <tag k="ref" v="DP-1302"/>
   </way>
@@ -1429,16 +1631,6 @@
     <tag k="name" v="Camiño de Fisterra"/>
     <tag k="ref" v="Camino Finisterre"/>
   </way>
-  <way id="48305308" version="4" timestamp="2020-02-08T20:35:17Z" changeset="80733897" uid="2365149" user="lucumon">
-    <nd ref="257167267"/>
-    <nd ref="613726241"/>
-    <tag k="bridge" v="yes"/>
-    <tag k="highway" v="primary"/>
-    <tag k="layer" v="1"/>
-    <tag k="name" v="AC-544"/>
-    <tag k="ref" v="AC-544"/>
-    <tag k="ref:colour" v="orange"/>
-  </way>
   <way id="48305309" version="10" timestamp="2015-03-28T12:53:30Z" changeset="29804699" uid="2788764" user="Monchinho">
     <nd ref="2545346455"/>
     <nd ref="357169105"/>
@@ -1491,19 +1683,20 @@
     <tag k="name" v="Camiño de Fisterra"/>
     <tag k="ref" v="Camino Finisterre"/>
   </way>
-  <way id="48305319" version="10" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns">
+  <way id="48305319" version="12" timestamp="2021-06-10T07:18:58Z" changeset="106134437" uid="2904" user="Emilio Gomez">
     <nd ref="356986455"/>
     <nd ref="613726365"/>
     <tag k="alt_name" v="Ponte Vella"/>
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="footway"/>
     <tag k="historic" v="yes"/>
-    <tag k="image" v="es:Pontemaceira (Portor)#/media/Archivo:Ponte Maceira.jpg"/>
+    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Ponte_Maceira.jpg"/>
     <tag k="layer" v="1"/>
     <tag k="name" v="Ponte Maceira"/>
     <tag k="surface" v="cobblestone"/>
     <tag k="tourism" v="attraction"/>
     <tag k="width" v="2"/>
+    <tag k="wikidata" v="Q100577085"/>
   </way>
   <way id="60215883" version="7" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
     <nd ref="442612480"/>
@@ -1517,38 +1710,39 @@
     <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="60215884" version="9" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="60215884" version="10" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893631"/>
     <nd ref="2705955457"/>
     <nd ref="2545311011"/>
     <nd ref="2497613038"/>
     <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
     <tag k="oneway" v="yes"/>
-    <tag k="ref:colour" v="yellow"/>
   </way>
-  <way id="60215887" version="7" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="60215887" version="8" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="442612480"/>
     <nd ref="919949377"/>
     <nd ref="357169094"/>
     <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="60215889" version="6" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="60215889" version="7" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893636"/>
     <nd ref="6841863184"/>
     <nd ref="6841863185"/>
     <nd ref="2553265647"/>
     <nd ref="747893637"/>
     <tag k="highway" v="service"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
     <tag k="oneway" v="yes"/>
     <tag k="sidewalk" v="separate"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="60215891" version="11" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="60215891" version="12" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893618"/>
     <nd ref="2705955460"/>
     <nd ref="747893627"/>
@@ -1558,11 +1752,11 @@
     <nd ref="747893611"/>
     <tag k="highway" v="secondary"/>
     <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="60542815" version="10" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="60542815" version="11" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893620"/>
     <nd ref="6698975439"/>
     <nd ref="747893614"/>
@@ -1571,20 +1765,21 @@
     <nd ref="2540165409"/>
     <nd ref="747893636"/>
     <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
     <tag k="oneway" v="yes"/>
     <tag k="ref:colour" v="yellow"/>
     <tag k="sidewalk" v="separate"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="65371364" version="5" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="65371364" version="6" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="357169094"/>
     <nd ref="277031068"/>
     <nd ref="7258871793"/>
     <nd ref="277031069"/>
     <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="69222445" version="10" timestamp="2018-01-07T16:45:32Z" changeset="55240167" uid="326947" user="Iago">
@@ -1625,7 +1820,7 @@
     <tag k="name" v="Camiño de Fisterra"/>
     <tag k="ref" v="Camino Finisterre"/>
   </way>
-  <way id="78066775" version="13" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="78066775" version="15" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="277031063"/>
     <nd ref="6694492877"/>
     <nd ref="6694492875"/>
@@ -1643,6 +1838,8 @@
     <nd ref="6697399976"/>
     <nd ref="747893620"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa da Cachurra"/>
     <tag k="oneway" v="yes"/>
     <tag k="ref:colour" v="yellow"/>
@@ -1785,66 +1982,76 @@
     <tag k="sidewalk" v="separate"/>
     <tag k="source" v="local knowledge;PNOA"/>
   </way>
-  <way id="78076545" version="16" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="78076545" version="18" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="917425236"/>
     <nd ref="7924474432"/>
     <nd ref="7924474433"/>
     <nd ref="7924474434"/>
     <nd ref="917424889"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa do Tambre"/>
     <tag k="oneway" v="yes"/>
+    <tag k="surface" v="concrete"/>
   </way>
-  <way id="78076547" version="10" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="78076547" version="12" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="442098167"/>
     <nd ref="7924474435"/>
     <nd ref="7924474436"/>
     <nd ref="277031063"/>
     <tag k="highway" v="secondary"/>
     <tag k="lanes" v="2"/>
-    <tag k="maxspeed" v="40"/>
-    <tag k="name" v="Avenida da Barcala"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Avenida de Barcala"/>
     <tag k="ref:colour" v="orange"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="78076558" version="9" timestamp="2020-12-09T19:03:49Z" changeset="95571650" uid="2365149" user="lucumon">
+  <way id="78076558" version="11" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893618"/>
     <nd ref="4878813108"/>
     <nd ref="466456614"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa da Fonte do Carmen"/>
     <tag k="oneway" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="78076561" version="4" timestamp="2015-04-13T12:16:47Z" changeset="30185935" uid="2788764" user="Monchinho">
+  <way id="78076561" version="7" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="917425600"/>
     <nd ref="1889690552"/>
     <nd ref="917425137"/>
     <nd ref="917425494"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Xosé Francisco Pensado Pousa"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="78076565" version="8" timestamp="2020-12-09T19:09:46Z" changeset="95571829" uid="2365149" user="lucumon">
+  <way id="78076565" version="11" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690555"/>
     <nd ref="7924474424"/>
     <nd ref="7924474439"/>
     <nd ref="917425051"/>
     <nd ref="917425494"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Xosé Manuel López Ardeiro"/>
     <tag k="official_name" v="Rúa Xosé M. López Ardeiro"/>
+    <tag k="sidewalk" v="left"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="78076566" version="5" timestamp="2019-08-11T10:59:37Z" changeset="73238469" uid="326947" user="Iago">
+  <way id="78076566" version="6" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="466456614"/>
     <nd ref="2540165348"/>
     <nd ref="2540165375"/>
     <nd ref="466456652"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Castelao"/>
     <tag k="oneway" v="yes"/>
   </way>
-  <way id="78076572" version="9" timestamp="2019-10-01T20:33:27Z" changeset="75170381" uid="326947" user="Iago">
+  <way id="78076572" version="12" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893620"/>
     <nd ref="6698239584"/>
     <nd ref="1889690477"/>
@@ -1855,10 +2062,12 @@
     <nd ref="6698239577"/>
     <nd ref="4878813110"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Carreira de San Mauro"/>
     <tag k="ref" v="DP-5601"/>
     <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="sett"/>
   </way>
   <way id="78246231" version="3" timestamp="2019-08-08T11:03:18Z" changeset="73148917" uid="326947" user="Iago">
     <nd ref="918888041"/>
@@ -1891,7 +2100,7 @@
     <tag k="name" v="Costa dos Castros"/>
     <tag k="source" v="local knowledge;PNOA"/>
   </way>
-  <way id="78246246" version="7" timestamp="2019-08-14T01:08:50Z" changeset="73328555" uid="326947" user="Iago">
+  <way id="78246246" version="8" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="4878813111"/>
     <nd ref="2540097335"/>
     <nd ref="6693632524"/>
@@ -1900,10 +2109,10 @@
     <nd ref="918888060"/>
     <nd ref="5965192276"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Carreira de San Mauro"/>
     <tag k="ref" v="DP-5601"/>
-    <tag k="source" v="PNOA; datos oficiales"/>
+    <tag k="source" v="PNOA;datos oficiales"/>
   </way>
   <way id="78246250" version="4" timestamp="2019-08-08T11:03:18Z" changeset="73148917" uid="326947" user="Iago">
     <nd ref="918888441"/>
@@ -2136,13 +2345,13 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Rúa Tourío"/>
   </way>
-  <way id="93149961" version="4" timestamp="2020-05-04T13:45:21Z" changeset="84627623" uid="326947" user="Iago">
+  <way id="93149961" version="6" timestamp="2021-08-13T20:14:56Z" changeset="109647805" uid="275212" user="jeslop">
     <nd ref="1079876658"/>
     <nd ref="6693665880"/>
     <nd ref="1079876724"/>
     <tag k="highway" v="unclassified"/>
-    <tag k="name" v="Avenida da Barcala"/>
-    <tag k="source" v="local knowledge;PNOA; Catastro"/>
+    <tag k="name" v="Avenida de Barcala"/>
+    <tag k="source" v="local knowledge;PNOA;Catastro"/>
     <tag k="source:name" v="Catastro - detalle parcelas"/>
     <tag k="tracktype" v="grade2"/>
   </way>
@@ -2157,15 +2366,17 @@
     <tag k="highway" v="residential"/>
     <tag k="name" v="Rúa do Real Club Deportivo da Coruña"/>
   </way>
-  <way id="93149991" version="10" timestamp="2019-08-08T10:18:05Z" changeset="73146975" uid="326947" user="Iago">
+  <way id="93149991" version="12" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1079876308"/>
     <nd ref="6694519699"/>
     <nd ref="1698145797"/>
     <nd ref="6694519698"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Praza do Concello"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="93149994" version="7" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago">
+  <way id="93149994" version="9" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1079876709"/>
     <nd ref="6694519687"/>
     <nd ref="1079876497"/>
@@ -2182,20 +2393,24 @@
     <nd ref="1079876308"/>
     <nd ref="1079876709"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Praza do Concello"/>
     <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="93507194" version="8" timestamp="2020-09-07T14:13:52Z" changeset="90536296" uid="2365149" user="lucumon">
+  <way id="93507194" version="10" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="466456614"/>
     <nd ref="6698975443"/>
     <nd ref="6698975440"/>
     <nd ref="747893620"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa do Carmen"/>
     <tag k="oneway" v="yes"/>
     <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="99508155" version="11" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="99508155" version="13" timestamp="2021-07-26T10:41:15Z" changeset="108616416" uid="2365149" user="lucumon">
     <nd ref="917425481"/>
     <nd ref="442047847"/>
     <nd ref="917222878"/>
@@ -2214,25 +2429,27 @@
     <nd ref="277031063"/>
     <tag k="highway" v="tertiary"/>
     <tag k="lanes" v="2"/>
-    <tag k="maxspeed" v="40"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida das Brañas"/>
     <tag k="oneway" v="no"/>
     <tag k="source" v="PNOA; datos oficiales"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="157575985" version="5" timestamp="2020-09-20T10:21:19Z" changeset="91171115" uid="2365149" user="lucumon">
+  <way id="157575985" version="6" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1698145785"/>
     <nd ref="1698145753"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa do Corzán"/>
     <tag k="oneway" v="yes"/>
   </way>
-  <way id="157575986" version="10" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="157575986" version="11" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1698167428"/>
     <nd ref="7924474429"/>
     <nd ref="7924474430"/>
     <nd ref="917425236"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Rosalía de Castro"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -2248,14 +2465,28 @@
     <tag k="oneway" v="yes"/>
     <tag k="sidewalk" v="separate"/>
   </way>
-  <way id="157578736" version="4" timestamp="2020-08-21T10:32:49Z" changeset="89739876" uid="2365149" user="lucumon">
+  <way id="157578736" version="7" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1698167459"/>
     <nd ref="1889690545"/>
     <nd ref="1698167442"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="178622582" version="5" timestamp="2020-08-21T10:32:49Z" changeset="89739876" uid="2365149" user="lucumon">
+  <way id="165423254" version="3" timestamp="2020-12-10T22:26:50Z" changeset="95644045" uid="2365149" user="lucumon">
+    <nd ref="1082772197"/>
+    <nd ref="1769710245"/>
+    <nd ref="1769710247"/>
+    <nd ref="1769710249"/>
+    <nd ref="1769710251"/>
+    <nd ref="6765222214"/>
+    <nd ref="1082772332"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Presa Barrié de la Maza"/>
+  </way>
+  <way id="178622582" version="6" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690545"/>
     <nd ref="2541299163"/>
     <nd ref="1889690546"/>
@@ -2263,15 +2494,19 @@
     <nd ref="2556550152"/>
     <nd ref="1889690533"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
   </way>
-  <way id="178622583" version="5" timestamp="2020-04-10T22:13:11Z" changeset="83383874" uid="2365149" user="lucumon">
+  <way id="178622583" version="8" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690593"/>
     <nd ref="2489113744"/>
     <nd ref="1889690592"/>
     <nd ref="1889690594"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Afonso Eanes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="178622584" version="10" timestamp="2019-10-01T20:33:27Z" changeset="75170381" uid="326947" user="Iago">
     <nd ref="1889690477"/>
@@ -2289,7 +2524,7 @@
     <tag k="oneway" v="yes"/>
     <tag k="sidewalk" v="separate"/>
   </way>
-  <way id="178622585" version="3" timestamp="2020-04-08T17:56:31Z" changeset="83266860" uid="2365149" user="lucumon">
+  <way id="178622585" version="5" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690479"/>
     <nd ref="1889690449"/>
     <nd ref="2540165403"/>
@@ -2297,9 +2532,11 @@
     <nd ref="1889690447"/>
     <nd ref="1889690437"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa da Restreva"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="221837750" version="11" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="221837750" version="13" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="2489111499"/>
     <nd ref="277031060"/>
     <nd ref="2489111495"/>
@@ -2320,8 +2557,8 @@
     <nd ref="442098167"/>
     <tag k="highway" v="secondary"/>
     <tag k="lanes" v="2"/>
-    <tag k="maxspeed" v="40"/>
-    <tag k="name" v="Avenida da Barcala"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Avenida de Barcala"/>
     <tag k="ref:colour" v="orange"/>
     <tag k="surface" v="asphalt"/>
   </way>
@@ -2397,52 +2634,59 @@
     <tag k="source" v="local knowledge;PNOA"/>
     <tag k="surface" v="compacted"/>
   </way>
-  <way id="242248792" version="13" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="242248792" version="15" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="7194168396"/>
     <nd ref="2540123927"/>
     <nd ref="6694519698"/>
     <nd ref="1698145785"/>
     <nd ref="917424889"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Camiño Vello"/>
     <tag k="oneway" v="yes"/>
     <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="247059901" version="4" timestamp="2020-07-17T14:27:04Z" changeset="88148081" uid="2365149" user="lucumon">
+  <way id="247059901" version="5" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="2539993389"/>
     <nd ref="2539993385"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa da Unión Barcalesa"/>
     <tag k="oneway" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="247070133" version="4" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns">
+  <way id="247070133" version="5" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690317"/>
     <nd ref="2540097313"/>
     <nd ref="2540097316"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Manuel Negreira"/>
   </way>
-  <way id="247070134" version="3" timestamp="2019-08-07T23:32:52Z" changeset="73130930" uid="326947" user="Iago">
+  <way id="247070134" version="4" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="2540097335"/>
     <nd ref="1889690317"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Praza do Cotón"/>
     <tag k="oneway" v="yes"/>
   </way>
-  <way id="247077120" version="5" timestamp="2020-08-27T21:41:30Z" changeset="90046930" uid="2365149" user="lucumon">
-    <nd ref="2540157624"/>
-    <nd ref="2540157625"/>
-    <nd ref="2540157626"/>
+  <way id="247077120" version="7" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon">
     <nd ref="2540157627"/>
+    <nd ref="8934207906"/>
+    <nd ref="2540157626"/>
+    <nd ref="2540157625"/>
+    <nd ref="2540157624"/>
     <tag k="highway" v="residential"/>
     <tag k="lit" v="yes"/>
     <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Castelao"/>
+    <tag k="oneway" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="247078163" version="3" timestamp="2020-04-08T17:56:31Z" changeset="83266860" uid="2365149" user="lucumon">
+  <way id="247078163" version="5" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="2540165403"/>
     <nd ref="2540165404"/>
     <nd ref="2556556627"/>
@@ -2450,7 +2694,9 @@
     <nd ref="2540165408"/>
     <nd ref="2540165409"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa da Restreva"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="247092430" version="8" timestamp="2020-08-21T10:22:33Z" changeset="89739318" uid="2365149" user="lucumon">
     <nd ref="2540300586"/>
@@ -2504,15 +2750,15 @@
     <tag k="highway" v="unclassified"/>
     <tag k="name" v="Maio Pequeno"/>
   </way>
-  <way id="264945989" version="3" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="264945989" version="4" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="277031067"/>
     <nd ref="2705955459"/>
     <nd ref="2705955458"/>
     <nd ref="747893638"/>
     <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
     <tag k="oneway" v="yes"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="264945999" version="4" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
@@ -2527,25 +2773,27 @@
     <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="292062092" version="3" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="292062092" version="4" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893611"/>
     <nd ref="747893609"/>
     <nd ref="747893631"/>
     <tag k="highway" v="secondary"/>
     <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="309906776" version="2" timestamp="2019-08-17T11:31:33Z" changeset="73440712" uid="326947" user="Iago">
+  <way id="309906776" version="3" timestamp="2021-08-16T15:40:26Z" changeset="109758873" uid="2365149" user="lucumon">
     <nd ref="442098203"/>
     <nd ref="3152416646"/>
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="tertiary"/>
     <tag k="layer" v="1"/>
+    <tag k="maxweight" v="16"/>
     <tag k="name" v="Ponte Insua"/>
     <tag k="ref" v="DP-1302"/>
   </way>
-  <way id="337017063" version="8" timestamp="2020-12-09T19:09:46Z" changeset="95571829" uid="2365149" user="lucumon">
+  <way id="337017063" version="9" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="917425494"/>
     <nd ref="7924474440"/>
     <nd ref="917425404"/>
@@ -2553,17 +2801,21 @@
     <nd ref="917425031"/>
     <tag k="highway" v="residential"/>
     <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Xosé Manuel López Ardeiro"/>
     <tag k="official_name" v="Rúa Xosé M. López Ardeiro"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="337017066" version="2" timestamp="2020-04-10T22:13:11Z" changeset="83383874" uid="2365149" user="lucumon">
+  <way id="337017066" version="5" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690592"/>
     <nd ref="1889690552"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa do Camiño de Fisterra"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="337017068" version="4" timestamp="2020-09-20T09:30:18Z" changeset="91169899" uid="2365149" user="lucumon">
+  <way id="337017068" version="6" timestamp="2021-07-13T14:49:55Z" changeset="107917986" uid="2365149" user="lucumon">
     <nd ref="466456652"/>
     <nd ref="5949722477"/>
     <nd ref="2540165386"/>
@@ -2571,8 +2823,10 @@
     <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Castelao"/>
     <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="337017072" version="6" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="337017072" version="9" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="917425236"/>
     <nd ref="3452006809"/>
     <nd ref="7924474431"/>
@@ -2580,25 +2834,31 @@
     <nd ref="2539993385"/>
     <nd ref="917425547"/>
     <nd ref="2540067025"/>
+    <nd ref="8785437269"/>
     <nd ref="917425094"/>
     <nd ref="917425031"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Teresa Fabeiro Caamaño"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="337017076" version="7" timestamp="2020-09-20T09:30:18Z" changeset="91169899" uid="2365149" user="lucumon">
+  <way id="337017076" version="9" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="917425236"/>
     <nd ref="3452006808"/>
     <nd ref="1698145793"/>
     <nd ref="1698145753"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Rosalía de Castro"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="337017079" version="6" timestamp="2020-09-20T00:16:39Z" changeset="91163595" uid="2365149" user="lucumon">
+  <way id="337017079" version="8" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="917424889"/>
     <nd ref="6697419849"/>
     <nd ref="277031063"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Camiño Vello"/>
     <tag k="oneway" v="yes"/>
     <tag k="ref:colour" v="yellow"/>
@@ -2613,29 +2873,42 @@
     <tag k="highway" v="pedestrian"/>
     <tag k="name" v="Praza do Ferreiro"/>
   </way>
-  <way id="338065812" version="4" timestamp="2020-09-20T10:21:19Z" changeset="91171115" uid="2365149" user="lucumon">
+  <way id="338065812" version="6" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1079876233"/>
     <nd ref="5949722473"/>
     <nd ref="2540123927"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Víctor García Ferreiro"/>
     <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="both"/>
   </way>
-  <way id="447062390" version="7" timestamp="2020-08-29T18:27:05Z" changeset="90127431" uid="2365149" user="lucumon">
+  <way id="447062390" version="10" timestamp="2021-07-19T11:50:36Z" changeset="108249964" uid="2365149" user="lucumon">
     <nd ref="4442604595"/>
-    <nd ref="6806562755"/>
+    <nd ref="8929634265"/>
     <nd ref="4442604596"/>
+    <nd ref="8929643531"/>
+    <nd ref="8929634286"/>
     <nd ref="4442604597"/>
+    <nd ref="8929643533"/>
+    <nd ref="8929634309"/>
+    <nd ref="8929634261"/>
     <nd ref="4442604598"/>
+    <nd ref="7625809229"/>
+    <nd ref="8929634269"/>
+    <nd ref="8929634271"/>
+    <nd ref="8929634290"/>
     <nd ref="4442604599"/>
+    <nd ref="8929634235"/>
     <nd ref="4442604595"/>
     <tag k="description" v="Praza con pista de fútbol e baloncesto, e con bastantes camiños por onde pasear"/>
     <tag k="landuse" v="recreation_ground"/>
     <tag k="name" v="Praza das Brañas"/>
     <tag k="place" v="square"/>
+    <tag k="wikidata" v="Q97480077"/>
     <tag k="wikipedia" v="gl:Praza das Brañas"/>
   </way>
-  <way id="496154979" version="2" timestamp="2019-08-10T01:57:32Z" changeset="73211530" uid="326947" user="Iago">
+  <way id="496154979" version="3" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="4878813110"/>
     <nd ref="4878813111"/>
     <tag k="arcade:left" v="open"/>
@@ -2643,7 +2916,7 @@
     <tag k="covered" v="arcade"/>
     <tag k="highway" v="tertiary"/>
     <tag k="layer" v="-1"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Carreira de San Mauro"/>
     <tag k="ref" v="DP-5601"/>
   </way>
@@ -2679,7 +2952,7 @@
     <tag k="source:name" v="Catastro - detalle parcelas"/>
     <tag k="tracktype" v="grade3"/>
   </way>
-  <way id="630026013" version="3" timestamp="2020-09-20T09:30:18Z" changeset="91169899" uid="2365149" user="lucumon">
+  <way id="630026013" version="5" timestamp="2021-07-13T14:49:42Z" changeset="107917986" uid="2365149" user="lucumon">
     <nd ref="2540165386"/>
     <nd ref="2540165401"/>
     <nd ref="5949730289"/>
@@ -2688,42 +2961,45 @@
     <tag k="name" v="Rúa de Castelao"/>
     <tag k="oneway" v="yes"/>
     <tag k="parking:lane:right" v="perpendicular"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="630026014" version="5" timestamp="2020-09-20T09:30:18Z" changeset="91169899" uid="2365149" user="lucumon">
+  <way id="630026014" version="8" timestamp="2021-07-19T22:58:24Z" changeset="108277737" uid="2365149" user="lucumon">
     <nd ref="917425648"/>
     <nd ref="917425225"/>
     <nd ref="917424956"/>
+    <nd ref="8934207905"/>
     <nd ref="2540157627"/>
-    <nd ref="917425520"/>
-    <nd ref="917425192"/>
-    <nd ref="917424845"/>
-    <nd ref="917425282"/>
-    <nd ref="917424940"/>
-    <nd ref="917425368"/>
-    <nd ref="917425031"/>
     <tag k="highway" v="residential"/>
     <tag k="lit" v="yes"/>
     <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Castelao"/>
+    <tag k="oneway" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="630026015" version="1" timestamp="2018-10-02T20:26:42Z" changeset="63137897" uid="2105126" user="Hupf">
+  <way id="630026015" version="7" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="5949730289"/>
+    <nd ref="8933282579"/>
     <nd ref="917425648"/>
+    <tag k="cycleway:both" v="no"/>
     <tag k="highway" v="residential"/>
-    <tag k="maxspeed" v="50"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Castelao"/>
     <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="631698011" version="3" timestamp="2019-08-17T11:31:33Z" changeset="73440712" uid="326947" user="Iago">
+  <way id="631698011" version="4" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="5965192276"/>
     <nd ref="918887414"/>
     <tag k="bridge" v="yes"/>
     <tag k="highway" v="tertiary"/>
     <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Ponte Negreira"/>
     <tag k="ref" v="DP-5601"/>
-    <tag k="source" v="PNOA; datos oficiales"/>
+    <tag k="source" v="PNOA;datos oficiales"/>
   </way>
   <way id="631916941" version="4" timestamp="2020-09-07T19:05:40Z" changeset="90546078" uid="2365149" user="lucumon">
     <nd ref="2540059242"/>
@@ -2863,13 +3139,14 @@
     <tag k="oneway" v="yes"/>
     <tag k="surface" v="concrete"/>
   </way>
-  <way id="711886661" version="1" timestamp="2019-08-07T23:32:52Z" changeset="73130930" uid="326947" user="Iago">
+  <way id="711886661" version="2" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="1889690317"/>
     <nd ref="6693632526"/>
     <nd ref="6693632525"/>
     <nd ref="2553272314"/>
     <nd ref="6693632524"/>
     <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Vilachán"/>
     <tag k="oneway" v="yes"/>
   </way>
@@ -2922,11 +3199,12 @@
     <tag k="name" v="Camiño de Fisterra"/>
     <tag k="ref" v="Camino Finisterre"/>
   </way>
-  <way id="725978986" version="1" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns">
+  <way id="725978986" version="2" timestamp="2021-08-13T23:16:33Z" changeset="109651815" uid="2365149" user="lucumon">
     <nd ref="2540097316"/>
     <nd ref="2540097318"/>
     <nd ref="6806562773"/>
     <nd ref="2540097321"/>
+    <nd ref="9005386512"/>
     <tag k="highway" v="pedestrian"/>
     <tag k="name" v="Avenida de Manuel Negreira"/>
   </way>
@@ -2968,96 +3246,44 @@
     <nd ref="6841989983"/>
     <nd ref="6841989982"/>
   </way>
-  <way id="761095567" version="4" timestamp="2020-05-23T18:56:28Z" changeset="85662765" uid="326947" user="Iago">
-    <nd ref="1150996301"/>
-    <nd ref="1150997538"/>
-    <nd ref="257167341"/>
-    <nd ref="257167340"/>
-    <nd ref="257167339"/>
-    <nd ref="257167338"/>
-    <nd ref="257167337"/>
-    <nd ref="257167336"/>
-    <nd ref="7109601701"/>
-    <nd ref="257167335"/>
-    <nd ref="2559716350"/>
-    <nd ref="7552249616"/>
-    <nd ref="257167334"/>
-    <nd ref="257167333"/>
-    <nd ref="257167332"/>
-    <nd ref="2317191154"/>
-    <nd ref="7552249682"/>
-    <nd ref="257167331"/>
-    <nd ref="257167330"/>
-    <nd ref="257167329"/>
-    <nd ref="257167328"/>
-    <nd ref="257167327"/>
-    <nd ref="1147396049"/>
-    <nd ref="257167326"/>
-    <nd ref="466464454"/>
-    <nd ref="257167325"/>
-    <nd ref="1147396047"/>
-    <nd ref="257167324"/>
-    <nd ref="257167323"/>
-    <nd ref="257167322"/>
-    <nd ref="257167317"/>
-    <nd ref="257167316"/>
-    <nd ref="257167315"/>
-    <nd ref="257167313"/>
-    <nd ref="257167312"/>
-    <nd ref="257167311"/>
-    <nd ref="257167310"/>
-    <nd ref="257167309"/>
-    <nd ref="257167308"/>
-    <nd ref="257167307"/>
-    <tag k="cutting" v="yes"/>
-    <tag k="highway" v="primary"/>
-    <tag k="lanes:backward" v="1"/>
-    <tag k="lanes:forward" v="1"/>
-    <tag k="lit" v="no"/>
-    <tag k="maxspeed" v="90"/>
-    <tag k="motorroad" v="no"/>
-    <tag k="name" v="Variante de Negreira"/>
-    <tag k="oneway" v="no"/>
-    <tag k="ref" v="AC-544"/>
-    <tag k="ref:colour" v="orange"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="770932481" version="2" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="770932481" version="4" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="466456614"/>
     <nd ref="7194168395"/>
     <nd ref="277031064"/>
     <nd ref="7194168396"/>
     <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Camiño Vello"/>
     <tag k="oneway" v="yes"/>
     <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="770932482" version="2" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="770932482" version="3" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893638"/>
     <nd ref="4878813107"/>
     <nd ref="747893629"/>
     <nd ref="747893618"/>
     <tag k="highway" v="secondary"/>
     <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="770932483" version="2" timestamp="2020-03-02T18:04:55Z" changeset="81693016" uid="7579660" user="Iváns">
+  <way id="770932483" version="3" timestamp="2021-08-11T23:11:14Z" changeset="109540124" uid="2365149" user="lucumon">
     <nd ref="747893631"/>
     <nd ref="747893612"/>
     <nd ref="747893622"/>
     <nd ref="747893638"/>
     <tag k="highway" v="secondary"/>
     <tag k="junction" v="roundabout"/>
+    <tag k="maxspeed" v="30"/>
     <tag k="name" v="Avenida de Santiago"/>
-    <tag k="ref:colour" v="yellow"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="776041435" version="2" timestamp="2020-02-25T12:33:42Z" changeset="81454988" uid="2365149" user="lucumon">
+  <way id="776041435" version="3" timestamp="2021-01-18T19:54:46Z" changeset="97719175" uid="11167454" user="josedaniel811">
     <nd ref="1150996265"/>
-    <nd ref="7242441287"/>
+    <nd ref="8335591661"/>
     <tag k="change:forward" v="no"/>
     <tag k="change:lanes:backward" v="yes|yes"/>
     <tag k="cutting" v="yes"/>
@@ -3078,20 +3304,20 @@
     <tag k="turn:lanes:backward" v="through|merge_to_left"/>
     <tag k="turn:lanes:forward" v="through|slight_right"/>
   </way>
-  <way id="776041436" version="1" timestamp="2020-02-24T18:45:14Z" changeset="81419632" uid="2365149" user="lucumon">
-    <nd ref="7239721251"/>
-    <nd ref="442129497"/>
+  <way id="776041436" version="2" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="8337722092"/>
     <nd ref="7239721250"/>
     <nd ref="7239721249"/>
     <nd ref="6685729855"/>
-    <nd ref="7239721245"/>
+    <nd ref="8337722090"/>
+    <tag k="bridge" v="yes"/>
     <tag k="change:backward" v="yes"/>
     <tag k="change:forward" v="yes"/>
-    <tag k="cutting" v="yes"/>
     <tag k="highway" v="primary"/>
     <tag k="lanes" v="2"/>
     <tag k="lanes:backward" v="1"/>
     <tag k="lanes:forward" v="1"/>
+    <tag k="layer" v="1"/>
     <tag k="lit" v="no"/>
     <tag k="maxspeed" v="90"/>
     <tag k="motorroad" v="no"/>
@@ -3370,7 +3596,7 @@
     <tag k="name" v="Aparcadoiro do Eroski"/>
     <tag k="service" v="parking_aisle"/>
   </way>
-  <way id="849436310" version="1" timestamp="2020-09-20T09:30:18Z" changeset="91169899" uid="2365149" user="lucumon">
+  <way id="849436310" version="3" timestamp="2021-07-13T14:52:59Z" changeset="107917986" uid="2365149" user="lucumon">
     <nd ref="1698145753"/>
     <nd ref="1079876233"/>
     <nd ref="5949730285"/>
@@ -3378,6 +3604,311 @@
     <tag k="highway" v="residential"/>
     <tag k="maxspeed" v="30"/>
     <tag k="name" v="Rúa de Rosalía de Castro"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896991910" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="8337722090"/>
+    <nd ref="7239721245"/>
+    <tag k="change:backward" v="yes"/>
+    <tag k="change:forward" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Variante de Negreira"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="yes"/>
+    <tag k="ref" v="AC-544"/>
+    <tag k="ref:colour" v="orange"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896991911" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="7239721251"/>
+    <nd ref="442129497"/>
+    <nd ref="8337722092"/>
+    <tag k="change:backward" v="yes"/>
+    <tag k="change:forward" v="yes"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Variante de Negreira"/>
+    <tag k="oneway" v="no"/>
+    <tag k="overtaking" v="yes"/>
+    <tag k="ref" v="AC-544"/>
+    <tag k="ref:colour" v="orange"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896991912" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="1150997538"/>
+    <nd ref="257167341"/>
+    <nd ref="257167340"/>
+    <nd ref="257167339"/>
+    <nd ref="257167338"/>
+    <nd ref="257167337"/>
+    <nd ref="257167336"/>
+    <nd ref="7109601701"/>
+    <nd ref="257167335"/>
+    <nd ref="2559716350"/>
+    <nd ref="7552249616"/>
+    <nd ref="257167334"/>
+    <nd ref="257167333"/>
+    <nd ref="257167332"/>
+    <nd ref="2317191154"/>
+    <nd ref="7552249682"/>
+    <nd ref="257167331"/>
+    <nd ref="257167330"/>
+    <nd ref="257167329"/>
+    <nd ref="257167328"/>
+    <nd ref="257167327"/>
+    <nd ref="1147396049"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Variante de Negreira"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="AC-544"/>
+    <tag k="ref:colour" v="orange"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896991913" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="1147396049"/>
+    <nd ref="257167326"/>
+    <nd ref="466464454"/>
+    <nd ref="257167325"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Variante de Negreira"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="AC-544"/>
+    <tag k="ref:colour" v="orange"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896991914" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="257167325"/>
+    <nd ref="1147396047"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Variante de Negreira"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="AC-544"/>
+    <tag k="ref:colour" v="orange"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="896991915" version="1" timestamp="2021-01-19T10:57:51Z" changeset="97762282" uid="7579660" user="Iváns">
+    <nd ref="1147396047"/>
+    <nd ref="257167324"/>
+    <nd ref="257167323"/>
+    <nd ref="257167322"/>
+    <nd ref="257167317"/>
+    <nd ref="257167316"/>
+    <nd ref="257167315"/>
+    <nd ref="257167313"/>
+    <nd ref="257167312"/>
+    <nd ref="257167311"/>
+    <nd ref="257167310"/>
+    <nd ref="257167309"/>
+    <nd ref="257167308"/>
+    <nd ref="257167307"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="90"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Variante de Negreira"/>
+    <tag k="oneway" v="no"/>
+    <tag k="ref" v="AC-544"/>
+    <tag k="ref:colour" v="orange"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="905590374" version="1" timestamp="2021-02-09T20:23:34Z" changeset="98998663" uid="11167454" user="josedaniel811">
+    <nd ref="8409884878"/>
+    <nd ref="8409884879"/>
+    <nd ref="8409884880"/>
+    <nd ref="8409884881"/>
+    <nd ref="8409884882"/>
+    <nd ref="8409884883"/>
+    <nd ref="8409884884"/>
+    <nd ref="8409884885"/>
+    <nd ref="8409884886"/>
+    <nd ref="8409884887"/>
+    <nd ref="8409884888"/>
+    <nd ref="8409884889"/>
+    <nd ref="8409884890"/>
+    <nd ref="8409884891"/>
+    <nd ref="8409884892"/>
+    <nd ref="8409884893"/>
+    <nd ref="8409884894"/>
+    <nd ref="8409884895"/>
+    <nd ref="8409884896"/>
+    <nd ref="8409884897"/>
+    <nd ref="8409884898"/>
+    <nd ref="8409884899"/>
+    <nd ref="8409884900"/>
+    <nd ref="8409884901"/>
+    <nd ref="8409884902"/>
+    <nd ref="8409884903"/>
+    <nd ref="8409884904"/>
+    <nd ref="8409884905"/>
+    <nd ref="8409884906"/>
+    <nd ref="8409884907"/>
+    <nd ref="8409884908"/>
+    <nd ref="8409884909"/>
+    <nd ref="8409884910"/>
+    <nd ref="8409884911"/>
+    <nd ref="8409884912"/>
+    <nd ref="8409884913"/>
+    <nd ref="8409884914"/>
+    <nd ref="8409884915"/>
+    <nd ref="8409884916"/>
+    <nd ref="8409894617"/>
+    <nd ref="8409894618"/>
+    <nd ref="8409894619"/>
+    <nd ref="8409894620"/>
+    <nd ref="8409894621"/>
+    <nd ref="8409894622"/>
+    <nd ref="8409894623"/>
+    <nd ref="8409894624"/>
+    <nd ref="8409894625"/>
+    <nd ref="8409894626"/>
+    <nd ref="8409894627"/>
+    <nd ref="8409894628"/>
+    <nd ref="8409894629"/>
+    <nd ref="8409894630"/>
+    <nd ref="8409894631"/>
+    <nd ref="8409894632"/>
+    <nd ref="8409894633"/>
+    <nd ref="8409894634"/>
+    <nd ref="8409894635"/>
+    <nd ref="8409894636"/>
+    <nd ref="8409894637"/>
+    <nd ref="8409894638"/>
+    <nd ref="8409894639"/>
+    <nd ref="8409894640"/>
+    <nd ref="8409894641"/>
+    <nd ref="8409894642"/>
+    <nd ref="8409894643"/>
+    <nd ref="8409894644"/>
+    <nd ref="8409894645"/>
+    <nd ref="8409894646"/>
+    <nd ref="8409894647"/>
+    <nd ref="8409894648"/>
+    <nd ref="8409894649"/>
+    <nd ref="8409894650"/>
+    <nd ref="8409894651"/>
+    <nd ref="8409894652"/>
+    <nd ref="8409894653"/>
+    <nd ref="8409894654"/>
+    <nd ref="8409894655"/>
+    <nd ref="8409894656"/>
+    <nd ref="8409894657"/>
+    <nd ref="8409894658"/>
+    <nd ref="8409894659"/>
+    <nd ref="8409894660"/>
+    <nd ref="8409894661"/>
+    <nd ref="8409894662"/>
+    <nd ref="8409894663"/>
+    <nd ref="8409894664"/>
+    <nd ref="8409894665"/>
+    <nd ref="8409894666"/>
+    <nd ref="8409894667"/>
+    <nd ref="8409894668"/>
+    <nd ref="8409894669"/>
+    <nd ref="8409894670"/>
+    <nd ref="8409894671"/>
+    <nd ref="8409894672"/>
+    <nd ref="8409894673"/>
+    <nd ref="8409894674"/>
+    <nd ref="8409894675"/>
+    <nd ref="8409894676"/>
+    <nd ref="8409894677"/>
+    <nd ref="8409894678"/>
+    <nd ref="8409894679"/>
+    <nd ref="8409894680"/>
+    <nd ref="8409894681"/>
+    <nd ref="8409894682"/>
+    <nd ref="8409894683"/>
+    <nd ref="8409894684"/>
+    <nd ref="8409894685"/>
+    <nd ref="8409894686"/>
+    <nd ref="8409894687"/>
+    <nd ref="8409894688"/>
+    <nd ref="8409894689"/>
+    <nd ref="8409894690"/>
+    <nd ref="8409894691"/>
+    <nd ref="8409894692"/>
+    <nd ref="8409894693"/>
+    <nd ref="8409894694"/>
+    <nd ref="8409894695"/>
+    <nd ref="8409894696"/>
+    <nd ref="8409894697"/>
+    <nd ref="8409894698"/>
+    <nd ref="8409894699"/>
+    <nd ref="8409894700"/>
+    <nd ref="8409894701"/>
+    <nd ref="8409894702"/>
+    <nd ref="8409894703"/>
+    <nd ref="8409894704"/>
+    <nd ref="8409894705"/>
+    <nd ref="8409894706"/>
+    <nd ref="8409894707"/>
+    <nd ref="8409894708"/>
+    <nd ref="8409894709"/>
+    <nd ref="8409894710"/>
+    <nd ref="8409894711"/>
+    <nd ref="8409894712"/>
+    <nd ref="8409894713"/>
+    <nd ref="8409894714"/>
+    <nd ref="8409894715"/>
+    <nd ref="8409894716"/>
+    <nd ref="8409894717"/>
+    <nd ref="8409894718"/>
+    <nd ref="8409894719"/>
+    <nd ref="8409894722"/>
+    <nd ref="8409894720"/>
+    <nd ref="8409894721"/>
+    <tag k="highway" v="proposed"/>
+    <tag k="name" v="VAC Costa da Morte-Santiago de Compostela"/>
+    <tag k="source" v="https://www.coruna.gal/descarga/1453615020474/Plan-MOVE.pdf"/>
+  </way>
+  <way id="965755853" version="2" timestamp="2021-08-16T21:26:10Z" changeset="109773412" uid="2365149" user="lucumon">
+    <nd ref="2540157627"/>
+    <nd ref="8934207904"/>
+    <nd ref="917425520"/>
+    <nd ref="8934130433"/>
+    <nd ref="917425192"/>
+    <nd ref="9011983671"/>
+    <nd ref="8934130431"/>
+    <nd ref="917424845"/>
+    <nd ref="917425282"/>
+    <nd ref="8934130432"/>
+    <nd ref="917424940"/>
+    <nd ref="917425368"/>
+    <nd ref="917425031"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rúa de Castelao"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <relation id="1354710" version="2" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago">
     <member type="way" ref="730332776" role="outer"/>
