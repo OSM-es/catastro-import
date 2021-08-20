@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.56.7 b85c4387">
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2020-12-10T22:52:03Z" areas="2020-12-10T22:46:02Z"/>
+<meta osm_base="2021-08-19T15:53:01Z" areas="2021-08-19T14:51:57Z"/>
 
   <node id="619192790" lat="42.9142808" lon="-8.6977310" version="1" timestamp="2010-01-24T13:00:32Z" changeset="3700351" uid="101355" user="ottokar55"/>
   <node id="918887104" lat="42.9073226" lon="-8.7445069" version="1" timestamp="2010-09-19T19:30:10Z" changeset="5823414" uid="326947" user="Iago"/>
@@ -114,10 +114,6 @@
   <node id="1889690122" lat="42.9042695" lon="-8.7274362" version="2" timestamp="2020-05-09T01:20:21Z" changeset="84922460" uid="326947" user="Iago"/>
   <node id="1889690230" lat="42.9062437" lon="-8.7254976" version="3" timestamp="2020-05-09T00:28:25Z" changeset="84921541" uid="326947" user="Iago"/>
   <node id="1991026994" lat="42.8735117" lon="-8.8418086" version="1" timestamp="2012-10-31T15:33:51Z" changeset="13700926" uid="346373" user="Picholeiro"/>
-  <node id="2030929461" lat="42.9093932" lon="-8.7362464" version="7" timestamp="2019-08-10T00:26:18Z" changeset="73210795" uid="326947" user="Iago">
-    <tag k="name" v="Eurofrut"/>
-    <tag k="shop" v="greengrocer"/>
-  </node>
   <node id="2308258465" lat="42.9039433" lon="-8.7110247" version="1" timestamp="2013-05-17T14:08:33Z" changeset="16166475" uid="344561" user="FahRadler"/>
   <node id="2308258466" lat="42.9039506" lon="-8.7110665" version="1" timestamp="2013-05-17T14:08:33Z" changeset="16166475" uid="344561" user="FahRadler"/>
   <node id="2308258470" lat="42.9039702" lon="-8.7110160" version="1" timestamp="2013-05-17T14:08:33Z" changeset="16166475" uid="344561" user="FahRadler"/>
@@ -128,40 +124,27 @@
   <node id="2317192919" lat="42.9130015" lon="-8.7046028" version="1" timestamp="2013-05-23T15:05:55Z" changeset="16253813" uid="532668" user="chillfmm"/>
   <node id="2317192920" lat="42.9131554" lon="-8.7044124" version="1" timestamp="2013-05-23T15:05:55Z" changeset="16253813" uid="532668" user="chillfmm"/>
   <node id="2331862784" lat="42.8738628" lon="-8.8695284" version="1" timestamp="2013-06-04T15:00:51Z" changeset="16420710" uid="346373" user="Picholeiro"/>
-  <node id="2540002910" lat="42.9140870" lon="-8.7356163" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540002911" lat="42.9140254" lon="-8.7353138" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540002912" lat="42.9139374" lon="-8.7353411" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540002913" lat="42.9139284" lon="-8.7352956" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540002915" lat="42.9137550" lon="-8.7353652" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540002916" lat="42.9137524" lon="-8.7353460" version="1" timestamp="2013-11-19T17:29:14Z" changeset="18998139" uid="33868" user="michogar"/>
-  <node id="2540002917" lat="42.9134338" lon="-8.7354863" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540002918" lat="42.9134724" lon="-8.7358199" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2540003679" lat="42.9090574" lon="-8.7366831" version="1" timestamp="2013-11-19T17:31:05Z" changeset="18998167" uid="1811664" user="agpais">
+  <node id="2540002910" lat="42.9138263" lon="-8.7357248" version="3" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2540002916" lat="42.9137516" lon="-8.7353514" version="2" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2540002917" lat="42.9134930" lon="-8.7354587" version="3" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2540002918" lat="42.9137782" lon="-8.7357446" version="3" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2540003679" lat="42.9090602" lon="-8.7366877" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Bar A Casa da Cultura"/>
   </node>
   <node id="2540106562" lat="42.9128305" lon="-8.7350296" version="6" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon">
     <tag k="building" v="commercial"/>
   </node>
-  <node id="2540137047" lat="42.9126796" lon="-8.7385495" version="3" timestamp="2019-08-08T00:45:27Z" changeset="73131610" uid="326947" user="Iago">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Os Arcos"/>
-  </node>
-  <node id="2540161975" lat="42.9100921" lon="-8.7355697" version="2" timestamp="2013-11-26T21:15:30Z" changeset="19134475" uid="1811682" user="JMAV21">
+  <node id="2540142280" lat="42.9112399" lon="-8.7362464" version="6" timestamp="2021-08-09T14:26:15Z" changeset="109412867" uid="2788764" user="Monchinho">
     <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housename" v="Muchas"/>
     <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa do Carme"/>
-    <tag k="name" v="Muchas"/>
-    <tag k="shop" v="hardware"/>
+    <tag k="addr:street" v="Camiño Vello"/>
+    <tag k="name" v="Electrodomésticos Gran Vía"/>
+    <tag k="shop" v="electronics"/>
   </node>
   <node id="2540165416" lat="42.9105915" lon="-8.7364435" version="1" timestamp="2013-11-19T19:24:31Z" changeset="19000265" uid="1811753" user="mrflorod"/>
   <node id="2540178143" lat="42.8999223" lon="-8.7660329" version="1" timestamp="2013-11-19T19:31:05Z" changeset="19000396" uid="1811753" user="mrflorod"/>
   <node id="2540185612" lat="42.8989980" lon="-8.7664476" version="1" timestamp="2013-11-19T19:35:25Z" changeset="19000487" uid="1811753" user="mrflorod"/>
-  <node id="2540202487" lat="42.9095913" lon="-8.7352284" version="1" timestamp="2013-11-19T19:47:02Z" changeset="19000701" uid="1811753" user="mrflorod">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Barqueiro"/>
-  </node>
   <node id="2540237432" lat="42.9155322" lon="-8.7353103" version="3" timestamp="2020-09-30T20:44:37Z" changeset="91788098" uid="2365149" user="lucumon">
     <tag k="name" v="Suministros Caamaño"/>
     <tag k="shop" v="hardware"/>
@@ -169,6 +152,7 @@
   <node id="2540275322" lat="42.9011399" lon="-8.7590804" version="1" timestamp="2013-11-19T20:36:03Z" changeset="19001627" uid="1811753" user="mrflorod"/>
   <node id="2540275326" lat="42.9009690" lon="-8.7587853" version="1" timestamp="2013-11-19T20:36:03Z" changeset="19001627" uid="1811753" user="mrflorod"/>
   <node id="2540275339" lat="42.9012401" lon="-8.7587880" version="1" timestamp="2013-11-19T20:36:03Z" changeset="19001627" uid="1811753" user="mrflorod"/>
+  <node id="2540325858" lat="42.9108684" lon="-8.7355265" version="4" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
   <node id="2540331228" lat="42.8969931" lon="-8.7810921" version="1" timestamp="2013-11-19T21:08:50Z" changeset="19002262" uid="1811753" user="mrflorod"/>
   <node id="2541989321" lat="42.8769466" lon="-8.7658589" version="1" timestamp="2013-11-20T19:17:48Z" changeset="19021097" uid="1811753" user="mrflorod"/>
   <node id="2541990754" lat="42.8771795" lon="-8.7666912" version="1" timestamp="2013-11-20T19:19:40Z" changeset="19021141" uid="1811753" user="mrflorod"/>
@@ -642,13 +626,13 @@
   <node id="2556557612" lat="42.9100609" lon="-8.7358604" version="2" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago"/>
   <node id="2556557613" lat="42.9099799" lon="-8.7357469" version="3" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago"/>
   <node id="2556557614" lat="42.9101237" lon="-8.7359400" version="1" timestamp="2013-11-29T00:39:39Z" changeset="19170430" uid="1811753" user="mrflorod"/>
-  <node id="2556557615" lat="42.9100357" lon="-8.7356443" version="1" timestamp="2013-11-29T00:39:39Z" changeset="19170430" uid="1811753" user="mrflorod"/>
+  <node id="2556557615" lat="42.9100549" lon="-8.7356643" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
   <node id="2556557616" lat="42.9101801" lon="-8.7358753" version="1" timestamp="2013-11-29T00:39:39Z" changeset="19170430" uid="1811753" user="mrflorod"/>
-  <node id="2556557617" lat="42.9102004" lon="-8.7357398" version="1" timestamp="2013-11-29T00:39:47Z" changeset="19170431" uid="1811753" user="mrflorod"/>
-  <node id="2556557618" lat="42.9101340" lon="-8.7358016" version="1" timestamp="2013-11-29T00:39:47Z" changeset="19170431" uid="1811753" user="mrflorod"/>
-  <node id="2556557780" lat="42.9101869" lon="-8.7354594" version="1" timestamp="2013-11-29T00:39:56Z" changeset="19170434" uid="1811753" user="mrflorod"/>
+  <node id="2556557617" lat="42.9102224" lon="-8.7357614" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
+  <node id="2556557618" lat="42.9101650" lon="-8.7358363" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
+  <node id="2556557780" lat="42.9101956" lon="-8.7354705" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
   <node id="2556557782" lat="42.9102839" lon="-8.7355826" version="1" timestamp="2013-11-29T00:39:56Z" changeset="19170434" uid="1811753" user="mrflorod"/>
-  <node id="2556557785" lat="42.9101859" lon="-8.7357171" version="1" timestamp="2013-11-29T00:39:56Z" changeset="19170434" uid="1811753" user="mrflorod"/>
+  <node id="2556557785" lat="42.9101910" lon="-8.7357086" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
   <node id="2556558191" lat="42.9102907" lon="-8.7353115" version="1" timestamp="2013-11-29T00:40:07Z" changeset="19170436" uid="1811753" user="mrflorod"/>
   <node id="2556558194" lat="42.9103561" lon="-8.7354409" version="1" timestamp="2013-11-29T00:40:07Z" changeset="19170436" uid="1811753" user="mrflorod"/>
   <node id="2556558564" lat="42.9104209" lon="-8.7353568" version="2" timestamp="2019-08-08T17:20:11Z" changeset="73164771" uid="326947" user="Iago"/>
@@ -1003,30 +987,8 @@
   <node id="2556570460" lat="42.9129668" lon="-8.7352417" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="2556570559" lat="42.9130714" lon="-8.7350702" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="2556570561" lat="42.9130702" lon="-8.7351208" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="2556570651" lat="42.9132310" lon="-8.7349285" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570652" lat="42.9130945" lon="-8.7347161" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570653" lat="42.9130472" lon="-8.7347729" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570654" lat="42.9130447" lon="-8.7348249" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570655" lat="42.9131451" lon="-8.7349812" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570656" lat="42.9131835" lon="-8.7349850" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570657" lat="42.9132302" lon="-8.7345541" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570661" lat="42.9134946" lon="-8.7345945" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570662" lat="42.9133665" lon="-8.7347663" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570708" lat="42.9135184" lon="-8.7342582" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570710" lat="42.9136192" lon="-8.7344158" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570712" lat="42.9136175" lon="-8.7344672" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="2556570733" lat="42.9138591" lon="-8.7346463" version="4" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570734" lat="42.9139885" lon="-8.7344263" version="4" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570735" lat="42.9138199" lon="-8.7342425" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570736" lat="42.9137820" lon="-8.7342483" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570737" lat="42.9136861" lon="-8.7344108" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570738" lat="42.9136903" lon="-8.7344626" version="3" timestamp="2020-02-10T19:49:12Z" changeset="80812971" uid="2365149" user="lucumon"/>
-  <node id="2556570782" lat="42.9141502" lon="-8.7346024" version="5" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570783" lat="42.9140208" lon="-8.7348224" version="6" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570826" lat="42.9143407" lon="-8.7348099" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570827" lat="42.9143450" lon="-8.7348616" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570828" lat="42.9142492" lon="-8.7350242" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
-  <node id="2556570829" lat="42.9142113" lon="-8.7350299" version="4" timestamp="2020-02-15T17:30:18Z" changeset="81049643" uid="2365149" user="lucumon"/>
+  <node id="2556570782" lat="42.9141502" lon="-8.7346024" version="6" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="2556570783" lat="42.9140208" lon="-8.7348224" version="7" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
   <node id="2556570830" lat="42.9132229" lon="-8.7359702" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="2556570831" lat="42.9131400" lon="-8.7360048" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="2556570832" lat="42.9130751" lon="-8.7356838" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
@@ -1833,10 +1795,10 @@
   <node id="2556764485" lat="42.9145733" lon="-8.7359738" version="1" timestamp="2013-11-29T08:37:58Z" changeset="19174094" uid="1811753" user="mrflorod"/>
   <node id="2556764486" lat="42.9144832" lon="-8.7357492" version="2" timestamp="2020-09-30T20:44:37Z" changeset="91788098" uid="2365149" user="lucumon"/>
   <node id="2556764487" lat="42.9145667" lon="-8.7357134" version="2" timestamp="2020-09-30T20:44:37Z" changeset="91788098" uid="2365149" user="lucumon"/>
-  <node id="2556764491" lat="42.9145912" lon="-8.7354305" version="2" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
-  <node id="2556764492" lat="42.9145042" lon="-8.7354686" version="2" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
-  <node id="2556764493" lat="42.9144674" lon="-8.7353697" version="2" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
-  <node id="2556764494" lat="42.9145662" lon="-8.7353258" version="2" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
+  <node id="2556764491" lat="42.9145914" lon="-8.7354302" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="2556764492" lat="42.9145049" lon="-8.7354694" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="2556764493" lat="42.9144797" lon="-8.7353656" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="2556764494" lat="42.9145662" lon="-8.7353264" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
   <node id="2556764496" lat="42.9139701" lon="-8.7359587" version="2" timestamp="2020-09-30T20:44:37Z" changeset="91788098" uid="2365149" user="lucumon"/>
   <node id="2556764497" lat="42.9143014" lon="-8.7359785" version="1" timestamp="2013-11-29T08:38:17Z" changeset="19174097" uid="1811753" user="mrflorod"/>
   <node id="2556764678" lat="42.9137932" lon="-8.7360282" version="2" timestamp="2020-09-30T20:44:37Z" changeset="91788098" uid="2365149" user="lucumon"/>
@@ -6501,7 +6463,6 @@
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Rúa da Cachurra"/>
   </node>
-  <node id="6806562713" lat="42.9133648" lon="-8.7343931" version="2" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
   <node id="6806562730" lat="42.9124687" lon="-8.7343105" version="1" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns"/>
   <node id="6806562731" lat="42.9122763" lon="-8.7341735" version="1" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns"/>
   <node id="6806562732" lat="42.9124141" lon="-8.7338123" version="1" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns"/>
@@ -6860,82 +6821,13 @@
   <node id="6841991595" lat="42.9100825" lon="-8.7366463" version="1" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago"/>
   <node id="6841991596" lat="42.9101958" lon="-8.7366949" version="3" timestamp="2020-05-09T02:31:58Z" changeset="84923362" uid="326947" user="Iago"/>
   <node id="6841991597" lat="42.9101493" lon="-8.7369105" version="1" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago"/>
-  <node id="7110994672" lat="42.9134163" lon="-8.7355367" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="7110994673" lat="42.9135074" lon="-8.7358454" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
+  <node id="7110994673" lat="42.9135698" lon="-8.7358303" version="2" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
   <node id="7110994674" lat="42.9129818" lon="-8.7356846" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="7110994675" lat="42.9129694" lon="-8.7349109" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="7110994676" lat="42.9129312" lon="-8.7349091" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="7110994677" lat="42.9125429" lon="-8.7354183" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="7110994678" lat="42.9126446" lon="-8.7355782" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
   <node id="7110994679" lat="42.9126118" lon="-8.7355697" version="1" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon"/>
-  <node id="7110996749" lat="42.9138895" lon="-8.7345269" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996750" lat="42.9138643" lon="-8.7344993" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996751" lat="42.9138844" lon="-8.7344651" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996752" lat="42.9139097" lon="-8.7344926" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996753" lat="42.9137958" lon="-8.7344155" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996754" lat="42.9138093" lon="-8.7343925" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996755" lat="42.9137924" lon="-8.7343742" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996756" lat="42.9137790" lon="-8.7343971" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon"/>
-  <node id="7110996757" lat="42.9138009" lon="-8.7342443" version="2" timestamp="2020-01-06T16:43:12Z" changeset="79256836" uid="2365149" user="lucumon">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="amenity" v="parking_entrance"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7110996758" lat="42.9138400" lon="-8.7342641" version="1" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon">
-    <tag k="access" v="no"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="addr:unit" v="Bajo Izquierda"/>
-    <tag k="entrance" v="room"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7110996759" lat="42.9139307" lon="-8.7343629" version="1" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon"/>
-  <node id="7110996760" lat="42.9138943" lon="-8.7343233" version="1" timestamp="2020-01-05T23:49:48Z" changeset="79226064" uid="2365149" user="lucumon">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="door" v="double"/>
-    <tag k="entrance" v="main"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7162463961" lat="42.9134809" lon="-8.7342549" version="1" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon"/>
-  <node id="7214720743" lat="42.9141943" lon="-8.7346505" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:door" v="Izquierda"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7214720744" lat="42.9142630" lon="-8.7350008" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7214720745" lat="42.9143429" lon="-8.7348358" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="level" v="0"/>
-  </node>
-  <node id="7214720747" lat="42.9142479" lon="-8.7347089" version="1" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="door" v="double"/>
-    <tag k="entrance" v="main"/>
-    <tag k="level" v="0"/>
-  </node>
   <node id="7371763073" lat="42.9058165" lon="-8.6949130" version="1" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns"/>
   <node id="7371763074" lat="42.9058248" lon="-8.6948625" version="1" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns"/>
   <node id="7371763075" lat="42.9058745" lon="-8.6948777" version="1" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns"/>
@@ -7543,12 +7435,9 @@
   <node id="7956387336" lat="42.9146070" lon="-8.7345623" version="1" timestamp="2020-09-29T22:02:57Z" changeset="91731026" uid="2365149" user="lucumon"/>
   <node id="7956387337" lat="42.9150377" lon="-8.7352225" version="1" timestamp="2020-09-29T22:02:57Z" changeset="91731026" uid="2365149" user="lucumon"/>
   <node id="7956387338" lat="42.9149100" lon="-8.7347987" version="1" timestamp="2020-09-29T22:02:57Z" changeset="91731026" uid="2365149" user="lucumon"/>
-  <node id="7961056386" lat="42.9145646" lon="-8.7354423" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
   <node id="7961056387" lat="42.9145683" lon="-8.7354578" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
-  <node id="7961056388" lat="42.9145383" lon="-8.7354534" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
   <node id="7961056389" lat="42.9145421" lon="-8.7354694" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
-  <node id="7961056390" lat="42.9144837" lon="-8.7354380" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
-  <node id="7961056391" lat="42.9144957" lon="-8.7354327" version="1" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon"/>
+  <node id="7961056396" lat="42.9143721" lon="-8.7355288" version="2" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
   <node id="8033559541" lat="42.9079218" lon="-8.7389044" version="1" timestamp="2020-10-21T21:50:16Z" changeset="92855804" uid="1921164" user="cafeconleche">
     <tag k="addr:housenumber" v="1"/>
   </node>
@@ -7567,6 +7456,192 @@
   <node id="8033580365" lat="42.9082056" lon="-8.7385698" version="1" timestamp="2020-10-21T21:34:14Z" changeset="92855299" uid="1921164" user="cafeconleche">
     <tag k="addr:housenumber" v="7"/>
   </node>
+  <node id="8225771374" lat="42.9145388" lon="-8.7354541" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771375" lat="42.9145647" lon="-8.7354423" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771376" lat="42.9144041" lon="-8.7354066" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771377" lat="42.9143927" lon="-8.7353786" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771378" lat="42.9144177" lon="-8.7353963" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771379" lat="42.9144063" lon="-8.7353683" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771380" lat="42.9144090" lon="-8.7354823" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771381" lat="42.9143130" lon="-8.7354421" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8225771382" lat="42.9143495" lon="-8.7353982" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import"/>
+  <node id="8270113890" lat="42.9134622" lon="-8.7358074" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113893" lat="42.9142659" lon="-8.7350155" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113894" lat="42.9137749" lon="-8.7342407" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113897" lat="42.9130927" lon="-8.7347189" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113898" lat="42.9135373" lon="-8.7342698" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113899" lat="42.9137581" lon="-8.7342691" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113900" lat="42.9132352" lon="-8.7345490" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113901" lat="42.9133744" lon="-8.7344073" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113902" lat="42.9135679" lon="-8.7358214" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113903" lat="42.9139137" lon="-8.7356778" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113904" lat="42.9132157" lon="-8.7349046" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113906" lat="42.9134448" lon="-8.7345164" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113908" lat="42.9133655" lon="-8.7343935" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113910" lat="42.9133506" lon="-8.7347420" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113911" lat="42.9135628" lon="-8.7357960" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270113913" lat="42.9142884" lon="-8.7349774" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138520" lat="42.9134185" lon="-8.7355502" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138521" lat="42.9136807" lon="-8.7344517" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138524" lat="42.9139885" lon="-8.7344263" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138528" lat="42.9139722" lon="-8.7355082" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138529" lat="42.9132351" lon="-8.7349402" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138531" lat="42.9132312" lon="-8.7349286" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138532" lat="42.9138367" lon="-8.7342452" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138533" lat="42.9135004" lon="-8.7354941" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138535" lat="42.9135254" lon="-8.7342514" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138537" lat="42.9132346" lon="-8.7349245" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138539" lat="42.9132853" lon="-8.7346407" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138541" lat="42.9130474" lon="-8.7348474" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138543" lat="42.9133667" lon="-8.7347669" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138544" lat="42.9135137" lon="-8.7342468" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138549" lat="42.9137989" lon="-8.7355881" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138550" lat="42.9140592" lon="-8.7354771" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138551" lat="42.9133513" lon="-8.7347430" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138553" lat="42.9132836" lon="-8.7346379" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138554" lat="42.9131102" lon="-8.7347404" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138556" lat="42.9138228" lon="-8.7342299" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138558" lat="42.9138180" lon="-8.7356834" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138560" lat="42.9135659" lon="-8.7358253" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138562" lat="42.9132301" lon="-8.7345550" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138563" lat="42.9131737" lon="-8.7348391" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138566" lat="42.9134097" lon="-8.7355535" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138567" lat="42.9138591" lon="-8.7346463" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138569" lat="42.9138243" lon="-8.7357152" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138570" lat="42.9141367" lon="-8.7346254" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138579" lat="42.9131482" lon="-8.7347996" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138580" lat="42.9138858" lon="-8.7355423" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138581" lat="42.9135111" lon="-8.7358589" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138583" lat="42.9140013" lon="-8.7356516" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138585" lat="42.9133417" lon="-8.7344057" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138589" lat="42.9132456" lon="-8.7345790" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138592" lat="42.9130948" lon="-8.7347165" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138593" lat="42.9136771" lon="-8.7344068" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138596" lat="42.9135683" lon="-8.7358371" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138597" lat="42.9140366" lon="-8.7347956" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138599" lat="42.9132421" lon="-8.7345244" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138600" lat="42.9133490" lon="-8.7348043" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138601" lat="42.9136096" lon="-8.7344933" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138603" lat="42.9131523" lon="-8.7348059" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138605" lat="42.9134663" lon="-8.7358275" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138606" lat="42.9133115" lon="-8.7346812" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138610" lat="42.9135021" lon="-8.7346053" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138611" lat="42.9132064" lon="-8.7345833" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138612" lat="42.9131413" lon="-8.7349935" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138613" lat="42.9131868" lon="-8.7349976" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138616" lat="42.9133786" lon="-8.7344138" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138620" lat="42.9136785" lon="-8.7344242" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138625" lat="42.9132004" lon="-8.7349815" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138626" lat="42.9136265" lon="-8.7344079" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138632" lat="42.9137900" lon="-8.7342348" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138633" lat="42.9132545" lon="-8.7345259" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138634" lat="42.9135081" lon="-8.7346145" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138635" lat="42.9136793" lon="-8.7344030" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138637" lat="42.9138534" lon="-8.7346559" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138639" lat="42.9132005" lon="-8.7345742" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138642" lat="42.9143424" lon="-8.7348856" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138644" lat="42.9131068" lon="-8.7349399" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Rúa da Unión Barcalesa"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8270138645" lat="42.9132609" lon="-8.7349095" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138647" lat="42.9132481" lon="-8.7345336" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138648" lat="42.9139387" lon="-8.7353446" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138649" lat="42.9137172" lon="-8.7345070" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138650" lat="42.9135087" lon="-8.7358471" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138655" lat="42.9138101" lon="-8.7342318" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138658" lat="42.9134469" lon="-8.7345197" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138663" lat="42.9135685" lon="-8.7358243" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138665" lat="42.9136146" lon="-8.7343896" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138667" lat="42.9141937" lon="-8.7350264" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138668" lat="42.9138438" lon="-8.7353350" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138670" lat="42.9130521" lon="-8.7347510" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138671" lat="42.9138749" lon="-8.7346195" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138673" lat="42.9132515" lon="-8.7349043" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138675" lat="42.9139725" lon="-8.7355099" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138676" lat="42.9134155" lon="-8.7355361" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138678" lat="42.9134932" lon="-8.7345915" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138679" lat="42.9130868" lon="-8.7347097" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138680" lat="42.9140255" lon="-8.7353118" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138681" lat="42.9131184" lon="-8.7346883" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138682" lat="42.9134208" lon="-8.7344791" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138683" lat="42.9139773" lon="-8.7344453" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138684" lat="42.9133476" lon="-8.7344149" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138686" lat="42.9142086" lon="-8.7350426" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138687" lat="42.9131126" lon="-8.7346790" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138688" lat="42.9141559" lon="-8.7345928" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138689" lat="42.9138876" lon="-8.7355510" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138691" lat="42.9134949" lon="-8.7354676" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138694" lat="42.9136217" lon="-8.7344136" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138695" lat="42.9142926" lon="-8.7349819" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138699" lat="42.9131563" lon="-8.7346269" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138701" lat="42.9141993" lon="-8.7350168" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138702" lat="42.9134228" lon="-8.7344823" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138703" lat="42.9140343" lon="-8.7347994" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138704" lat="42.9134890" lon="-8.7345850" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138706" lat="42.9137773" lon="-8.7342367" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138707" lat="42.9143493" lon="-8.7348036" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138710" lat="42.9143543" lon="-8.7348652" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138711" lat="42.9130355" lon="-8.7348290" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138712" lat="42.9139071" lon="-8.7356462" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138713" lat="42.9136959" lon="-8.7343748" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138714" lat="42.9136961" lon="-8.7344841" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138717" lat="42.9140151" lon="-8.7348320" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138719" lat="42.9141389" lon="-8.7346215" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138720" lat="42.9143199" lon="-8.7349238" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138721" lat="42.9139942" lon="-8.7344167" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138723" lat="42.9132912" lon="-8.7344659" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Rúa de Teresa Fabeiro Caamaño"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8270138726" lat="42.9137549" lon="-8.7353667" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138728" lat="42.9138968" lon="-8.7355956" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138730" lat="42.9134775" lon="-8.7342435" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138731" lat="42.9131294" lon="-8.7349751" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138732" lat="42.9132486" lon="-8.7345167" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138733" lat="42.9133412" lon="-8.7344225" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138734" lat="42.9140907" lon="-8.7356312" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138736" lat="42.9138729" lon="-8.7346229" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138739" lat="42.9133086" lon="-8.7346766" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138741" lat="42.9142289" lon="-8.7346725" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138742" lat="42.9140881" lon="-8.7356187" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138744" lat="42.9142540" lon="-8.7350358" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138747" lat="42.9143343" lon="-8.7347871" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138748" lat="42.9136260" lon="-8.7344738" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138749" lat="42.9139727" lon="-8.7344531" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138751" lat="42.9133430" lon="-8.7347952" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138752" lat="42.9134343" lon="-8.7354907" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138753" lat="42.9132548" lon="-8.7349004" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138756" lat="42.9133596" lon="-8.7343843" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138760" lat="42.9140039" lon="-8.7356639" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138761" lat="42.9134611" lon="-8.7342631" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138765" lat="42.9133352" lon="-8.7344133" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138770" lat="42.9138078" lon="-8.7356328" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138771" lat="42.9136821" lon="-8.7344687" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138776" lat="42.9134976" lon="-8.7358513" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138780" lat="42.9130385" lon="-8.7347671" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138784" lat="42.9135207" lon="-8.7342571" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138788" lat="42.9132291" lon="-8.7349310" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138793" lat="42.9132461" lon="-8.7345798" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138802" lat="42.9143241" lon="-8.7349283" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138804" lat="42.9142183" lon="-8.7346611" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138805" lat="42.9138578" lon="-8.7342684" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138808" lat="42.9132293" lon="-8.7345397" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138825" lat="42.9139157" lon="-8.7356875" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8270138830" lat="42.9136284" lon="-8.7344235" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import"/>
+  <node id="8993169375" lat="42.9105289" lon="-8.7354525" version="1" timestamp="2021-08-09T14:26:15Z" changeset="109412867" uid="2788764" user="Monchinho"/>
+  <node id="8993451818" lat="42.9095658" lon="-8.7352198" version="1" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
+  <node id="8993451826" lat="42.9101170" lon="-8.7355967" version="1" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho"/>
+  <node id="9005324620" lat="42.9128118" lon="-8.7354263" version="1" timestamp="2021-08-13T22:14:19Z" changeset="109650858" uid="2365149" user="lucumon">
+    <tag k="operator" v="Unión Fenosa Distribución"/>
+    <tag k="power" v="transformer"/>
+    <tag k="ref" v="15CXJ5"/>
+  </node>
+  <node id="9006634047" lat="42.9126796" lon="-8.7385495" version="1" timestamp="2021-08-14T13:35:08Z" changeset="109670621" uid="2788764" user="Monchinho"/>
   <way id="78246225" version="3" timestamp="2010-11-01T18:26:43Z" changeset="6259076" uid="78656" user="Walter Schlögl">
     <nd ref="918888160"/>
     <nd ref="918888301"/>
@@ -7787,7 +7862,7 @@
     <nd ref="1786614421"/>
     <tag k="building" v="yes"/>
   </way>
-  <way id="178619513" version="2" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns">
+  <way id="178619513" version="3" timestamp="2021-01-02T12:20:38Z" changeset="96804746" uid="12420688" user="Mapeador047">
     <nd ref="1889662038"/>
     <nd ref="1889662017"/>
     <nd ref="1889662034"/>
@@ -7796,6 +7871,7 @@
     <nd ref="1889662045"/>
     <nd ref="1889662038"/>
     <tag k="building" v="yes"/>
+    <tag k="historic" v="yes"/>
   </way>
   <way id="221837752" version="3" timestamp="2018-07-10T16:13:01Z" changeset="60582355" uid="145231" user="woodpeck_repair">
     <nd ref="2308258465"/>
@@ -7806,19 +7882,27 @@
     <tag k="building" v="yes"/>
     <tag k="power" v="sub_station"/>
   </way>
-  <way id="247061048" version="2" timestamp="2020-01-06T00:29:04Z" changeset="79226414" uid="2365149" user="lucumon">
+  <way id="247061048" version="3" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="7110994673"/>
+    <nd ref="2540002918"/>
     <nd ref="2540002910"/>
-    <nd ref="2540002911"/>
-    <nd ref="2540002912"/>
-    <nd ref="2540002913"/>
-    <nd ref="2540002915"/>
+    <nd ref="8270138569"/>
+    <nd ref="8270138558"/>
+    <nd ref="8270138770"/>
+    <nd ref="8270138549"/>
+    <nd ref="8270138726"/>
     <nd ref="2540002916"/>
     <nd ref="2540002917"/>
-    <nd ref="7110994672"/>
-    <nd ref="2540002918"/>
+    <nd ref="8270138691"/>
+    <nd ref="8270138533"/>
+    <nd ref="8270113911"/>
+    <nd ref="8270113902"/>
+    <nd ref="8270138663"/>
     <nd ref="7110994673"/>
-    <nd ref="2540002910"/>
     <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:levels:underground" v="1"/>
+    <tag k="roof:levels" v="1"/>
   </way>
   <way id="247574194" version="1" timestamp="2013-11-22T09:15:40Z" changeset="19049478" uid="1811753" user="mrflorod">
     <nd ref="2544598404"/>
@@ -8659,11 +8743,10 @@
     <nd ref="2556556628"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248948536" version="1" timestamp="2013-11-29T00:33:11Z" changeset="19170349" uid="1811753" user="mrflorod">
+  <way id="248948536" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="2556556638"/>
     <nd ref="2556556636"/>
     <nd ref="2556556637"/>
-    <nd ref="2030929461"/>
     <nd ref="2556556639"/>
     <nd ref="2556556638"/>
     <tag k="building" v="apartments"/>
@@ -8741,12 +8824,12 @@
     <nd ref="2556556675"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248948552" version="1" timestamp="2013-11-29T00:34:31Z" changeset="19170367" uid="1811753" user="mrflorod">
-    <nd ref="2540202487"/>
+  <way id="248948552" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="2556556688"/>
     <nd ref="2556556689"/>
     <nd ref="2556556677"/>
-    <nd ref="2540202487"/>
+    <nd ref="8993451818"/>
+    <nd ref="2556556688"/>
     <tag k="building" v="apartments"/>
   </way>
   <way id="248948553" version="1" timestamp="2013-11-29T00:34:38Z" changeset="19170368" uid="1811753" user="mrflorod">
@@ -8895,21 +8978,21 @@
     <nd ref="2556557614"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248948669" version="2" timestamp="2013-11-29T00:39:56Z" changeset="19170434" uid="1811753" user="mrflorod">
+  <way id="248948669" version="3" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="2556557617"/>
     <nd ref="2556557618"/>
     <nd ref="2556557615"/>
-    <nd ref="2540161975"/>
+    <nd ref="8993451826"/>
     <nd ref="2556557785"/>
     <nd ref="2556557617"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248948670" version="1" timestamp="2013-11-29T00:39:56Z" changeset="19170434" uid="1811753" user="mrflorod">
-    <nd ref="2540161975"/>
+  <way id="248948670" version="2" timestamp="2021-08-09T15:13:22Z" changeset="109415326" uid="2788764" user="Monchinho">
     <nd ref="2556557780"/>
     <nd ref="2556557782"/>
     <nd ref="2556557785"/>
-    <nd ref="2540161975"/>
+    <nd ref="8993451826"/>
+    <nd ref="2556557780"/>
     <tag k="building" v="apartments"/>
   </way>
   <way id="248948671" version="2" timestamp="2013-11-29T00:49:20Z" changeset="19170548" uid="1811753" user="mrflorod">
@@ -9144,11 +9227,12 @@
     <nd ref="2556560366"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248949341" version="1" timestamp="2013-11-29T00:45:30Z" changeset="19170503" uid="1811753" user="mrflorod">
+  <way id="248949341" version="2" timestamp="2021-08-09T14:26:15Z" changeset="109412867" uid="2788764" user="Monchinho">
     <nd ref="2556560376"/>
     <nd ref="2556560377"/>
     <nd ref="2556560378"/>
     <nd ref="2556560379"/>
+    <nd ref="2540325858"/>
     <nd ref="2556560376"/>
     <tag k="building" v="apartments"/>
   </way>
@@ -9342,8 +9426,9 @@
     <nd ref="2556560913"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248949399" version="1" timestamp="2013-11-29T00:49:20Z" changeset="19170548" uid="1811753" user="mrflorod">
+  <way id="248949399" version="2" timestamp="2021-08-09T14:26:15Z" changeset="109412867" uid="2788764" user="Monchinho">
     <nd ref="2556558564"/>
+    <nd ref="8993169375"/>
     <nd ref="2556560919"/>
     <nd ref="2556560920"/>
     <nd ref="2556560921"/>
@@ -9408,8 +9493,9 @@
     <nd ref="2556561086"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248949420" version="1" timestamp="2013-11-29T00:50:41Z" changeset="19170564" uid="1811753" user="mrflorod">
+  <way id="248949420" version="2" timestamp="2021-08-09T14:26:15Z" changeset="109412867" uid="2788764" user="Monchinho">
     <nd ref="2556561178"/>
+    <nd ref="2540142280"/>
     <nd ref="2556561183"/>
     <nd ref="2556561184"/>
     <nd ref="2556561185"/>
@@ -9948,10 +10034,11 @@
     <nd ref="2556570454"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248949891" version="1" timestamp="2013-11-29T01:02:14Z" changeset="19170697" uid="1811753" user="mrflorod">
+  <way id="248949891" version="2" timestamp="2021-08-13T22:14:19Z" changeset="109650858" uid="2365149" user="lucumon">
     <nd ref="2556570455"/>
     <nd ref="2556570458"/>
     <nd ref="2556570459"/>
+    <nd ref="9005324620"/>
     <nd ref="2556570454"/>
     <nd ref="2556570455"/>
     <tag k="building" v="apartments"/>
@@ -9974,63 +10061,175 @@
     <nd ref="2540106562"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248949911" version="1" timestamp="2013-11-29T01:02:42Z" changeset="19170705" uid="1811753" user="mrflorod">
-    <nd ref="2556570651"/>
-    <nd ref="2556570652"/>
-    <nd ref="2556570653"/>
-    <nd ref="2556570654"/>
-    <nd ref="2556570655"/>
-    <nd ref="2556570656"/>
-    <nd ref="2556570651"/>
+  <way id="248949911" version="3" timestamp="2021-07-13T14:46:19Z" changeset="107917921" uid="2365149" user="lucumon">
+    <nd ref="8270138625"/>
+    <nd ref="8270138529"/>
+    <nd ref="8270138788"/>
+    <nd ref="8270138531"/>
+    <nd ref="8270113904"/>
+    <nd ref="8270138563"/>
+    <nd ref="8270138603"/>
+    <nd ref="8270138579"/>
+    <nd ref="8270138554"/>
+    <nd ref="8270138592"/>
+    <nd ref="8270113897"/>
+    <nd ref="8270138679"/>
+    <nd ref="8270138670"/>
+    <nd ref="8270138780"/>
+    <nd ref="8270138711"/>
+    <nd ref="8270138541"/>
+    <nd ref="8270138644"/>
+    <nd ref="8270138731"/>
+    <nd ref="8270138612"/>
+    <nd ref="8270138613"/>
+    <nd ref="8270138625"/>
     <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:levels:underground" v="2"/>
+    <tag k="roof:levels" v="2"/>
+    <tag k="roof:shape" v="quadruple_saltbox"/>
   </way>
-  <way id="248949912" version="3" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon">
-    <nd ref="2556570652"/>
-    <nd ref="2556570657"/>
-    <nd ref="2556570662"/>
-    <nd ref="2556570651"/>
-    <nd ref="2556570652"/>
+  <way id="248949912" version="4" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138673"/>
+    <nd ref="8270138753"/>
+    <nd ref="8270138645"/>
+    <nd ref="8270138600"/>
+    <nd ref="8270138751"/>
+    <nd ref="8270138543"/>
+    <nd ref="8270138551"/>
+    <nd ref="8270113910"/>
+    <nd ref="8270138606"/>
+    <nd ref="8270138739"/>
+    <nd ref="8270138539"/>
+    <nd ref="8270138553"/>
+    <nd ref="8270138793"/>
+    <nd ref="8270138589"/>
+    <nd ref="8270138562"/>
+    <nd ref="8270138611"/>
+    <nd ref="8270138639"/>
+    <nd ref="8270138699"/>
+    <nd ref="8270138687"/>
+    <nd ref="8270138681"/>
+    <nd ref="8270138592"/>
+    <nd ref="8270138554"/>
+    <nd ref="8270138579"/>
+    <nd ref="8270138603"/>
+    <nd ref="8270138563"/>
+    <nd ref="8270113904"/>
+    <nd ref="8270138531"/>
+    <nd ref="8270138537"/>
+    <nd ref="8270138673"/>
     <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:levels:underground" v="2"/>
+    <tag k="roof:levels" v="2"/>
   </way>
-  <way id="248949913" version="2" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns">
-    <nd ref="2556570657"/>
-    <nd ref="6806562713"/>
-    <nd ref="2556570661"/>
-    <nd ref="2556570662"/>
-    <nd ref="2556570657"/>
+  <way id="248949913" version="4" timestamp="2021-07-13T14:46:12Z" changeset="107917921" uid="2365149" user="lucumon">
+    <nd ref="8270138543"/>
+    <nd ref="8270138610"/>
+    <nd ref="8270138678"/>
+    <nd ref="8270138704"/>
+    <nd ref="8270138658"/>
+    <nd ref="8270113906"/>
+    <nd ref="8270138702"/>
+    <nd ref="8270138682"/>
+    <nd ref="8270138616"/>
+    <nd ref="8270113901"/>
+    <nd ref="8270113908"/>
+    <nd ref="8270138756"/>
+    <nd ref="8270138585"/>
+    <nd ref="8270138684"/>
+    <nd ref="8270138733"/>
+    <nd ref="8270138765"/>
+    <nd ref="8270138723"/>
+    <nd ref="8270138732"/>
+    <nd ref="8270138633"/>
+    <nd ref="8270138647"/>
+    <nd ref="8270138599"/>
+    <nd ref="8270138808"/>
+    <nd ref="8270113900"/>
+    <nd ref="8270138562"/>
+    <nd ref="8270138589"/>
+    <nd ref="8270138793"/>
+    <nd ref="8270138553"/>
+    <nd ref="8270138539"/>
+    <nd ref="8270138739"/>
+    <nd ref="8270138606"/>
+    <nd ref="8270113910"/>
+    <nd ref="8270138551"/>
+    <nd ref="8270138543"/>
     <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:levels:underground" v="2"/>
+    <tag k="roof:levels" v="2"/>
+    <tag k="roof:shape" v="double_saltbox"/>
   </way>
-  <way id="248949914" version="3" timestamp="2020-01-27T11:54:07Z" changeset="80140142" uid="2365149" user="lucumon">
-    <nd ref="6806562713"/>
-    <nd ref="7162463961"/>
-    <nd ref="2556570708"/>
-    <nd ref="2556570710"/>
-    <nd ref="2556570712"/>
-    <nd ref="2556570661"/>
-    <nd ref="6806562713"/>
+  <way id="248949914" version="5" timestamp="2021-07-13T14:45:48Z" changeset="107917921" uid="2365149" user="lucumon">
+    <nd ref="8270138601"/>
+    <nd ref="8270138748"/>
+    <nd ref="8270138830"/>
+    <nd ref="8270138694"/>
+    <nd ref="8270138626"/>
+    <nd ref="8270138665"/>
+    <nd ref="8270113898"/>
+    <nd ref="8270138535"/>
+    <nd ref="8270138784"/>
+    <nd ref="8270138544"/>
+    <nd ref="8270138730"/>
+    <nd ref="8270138761"/>
+    <nd ref="8270138756"/>
+    <nd ref="8270113908"/>
+    <nd ref="8270113901"/>
+    <nd ref="8270138616"/>
+    <nd ref="8270138682"/>
+    <nd ref="8270138702"/>
+    <nd ref="8270113906"/>
+    <nd ref="8270138658"/>
+    <nd ref="8270138704"/>
+    <nd ref="8270138678"/>
+    <nd ref="8270138610"/>
+    <nd ref="8270138634"/>
+    <nd ref="8270138601"/>
     <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:levels:underground" v="2"/>
+    <tag k="roof:levels" v="2"/>
+    <tag k="roof:shape" v="quadruple_saltbox"/>
   </way>
-  <way id="248949931" version="5" timestamp="2020-02-11T21:44:54Z" changeset="80871337" uid="2365149" user="lucumon">
-    <nd ref="2556570733"/>
-    <nd ref="2556570734"/>
-    <nd ref="7110996759"/>
-    <nd ref="7110996760"/>
-    <nd ref="7110996758"/>
-    <nd ref="2556570735"/>
-    <nd ref="7110996757"/>
-    <nd ref="2556570736"/>
-    <nd ref="2556570737"/>
-    <nd ref="2556570738"/>
-    <nd ref="2556570733"/>
+  <way id="248949931" version="6" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138567"/>
+    <nd ref="8270138736"/>
+    <nd ref="8270138671"/>
+    <nd ref="8270138749"/>
+    <nd ref="8270138683"/>
+    <nd ref="8270138524"/>
+    <nd ref="8270138721"/>
+    <nd ref="8270138805"/>
+    <nd ref="8270138532"/>
+    <nd ref="8270138556"/>
+    <nd ref="8270138655"/>
+    <nd ref="8270138632"/>
+    <nd ref="8270138706"/>
+    <nd ref="8270113894"/>
+    <nd ref="8270113899"/>
+    <nd ref="8270138713"/>
+    <nd ref="8270138635"/>
+    <nd ref="8270138593"/>
+    <nd ref="8270138620"/>
+    <nd ref="8270138521"/>
+    <nd ref="8270138771"/>
+    <nd ref="8270138714"/>
+    <nd ref="8270138649"/>
+    <nd ref="8270138637"/>
+    <nd ref="8270138567"/>
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="area" v="yes"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="residential"/>
-    <tag k="name" v="Bloque 3"/>
+    <tag k="name" v="Edificio Cantalarrana: Portal 3"/>
     <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
     <tag k="roof:material" v="slate"/>
@@ -10038,26 +10237,38 @@
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="248949947" version="7" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
+  <way id="248949947" version="8" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270113893"/>
+    <nd ref="8270113913"/>
+    <nd ref="8270138695"/>
+    <nd ref="8270138802"/>
+    <nd ref="8270138720"/>
+    <nd ref="8270138642"/>
+    <nd ref="8270138710"/>
+    <nd ref="8270138707"/>
+    <nd ref="8270138747"/>
+    <nd ref="8270138741"/>
+    <nd ref="8270138804"/>
+    <nd ref="8270138688"/>
     <nd ref="2556570782"/>
-    <nd ref="7214720743"/>
-    <nd ref="7214720747"/>
-    <nd ref="2556570826"/>
-    <nd ref="7214720745"/>
-    <nd ref="2556570827"/>
-    <nd ref="7214720744"/>
-    <nd ref="2556570828"/>
-    <nd ref="2556570829"/>
+    <nd ref="8270138719"/>
+    <nd ref="8270138570"/>
+    <nd ref="8270138597"/>
+    <nd ref="8270138703"/>
     <nd ref="2556570783"/>
-    <nd ref="2556570782"/>
+    <nd ref="8270138701"/>
+    <nd ref="8270138667"/>
+    <nd ref="8270138686"/>
+    <nd ref="8270138744"/>
+    <nd ref="8270113893"/>
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="residential"/>
-    <tag k="name" v="Bloque 1"/>
+    <tag k="name" v="Edificio Cantalarrana: Portal 1"/>
     <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
     <tag k="roof:material" v="slate"/>
@@ -10889,23 +11100,23 @@
     <tag k="building" v="apartments"/>
     <tag k="building:use" v="hotel"/>
   </way>
-  <way id="248966956" version="2" timestamp="2013-11-29T08:04:35Z" changeset="19173501" uid="1811753" user="mrflorod">
-    <nd ref="2540137047"/>
+  <way id="248966956" version="3" timestamp="2021-08-14T13:35:08Z" changeset="109670621" uid="2788764" user="Monchinho">
+    <nd ref="9006634047"/>
     <nd ref="2556572921"/>
     <nd ref="2556572920"/>
     <nd ref="2556728937"/>
     <nd ref="2556728938"/>
-    <nd ref="2540137047"/>
+    <nd ref="9006634047"/>
     <tag k="building" v="apartments"/>
   </way>
-  <way id="248967170" version="2" timestamp="2013-11-29T08:05:10Z" changeset="19173513" uid="1811753" user="mrflorod">
-    <nd ref="2540137047"/>
+  <way id="248967170" version="3" timestamp="2021-08-14T13:35:08Z" changeset="109670621" uid="2788764" user="Monchinho">
+    <nd ref="9006634047"/>
     <nd ref="2556730051"/>
     <nd ref="2556730763"/>
     <nd ref="2556730052"/>
     <nd ref="2556730053"/>
     <nd ref="2556728938"/>
-    <nd ref="2540137047"/>
+    <nd ref="9006634047"/>
     <tag k="building" v="apartments"/>
   </way>
   <way id="248967419" version="1" timestamp="2013-11-29T08:05:10Z" changeset="19173513" uid="1811753" user="mrflorod">
@@ -12042,19 +12253,25 @@
     <nd ref="2556764484"/>
     <tag k="building" v="house"/>
   </way>
-  <way id="248970234" version="2" timestamp="2020-09-30T20:12:10Z" changeset="91787195" uid="2365149" user="lucumon">
-    <nd ref="2556764491"/>
-    <nd ref="7961056386"/>
-    <nd ref="7961056387"/>
-    <nd ref="7961056389"/>
-    <nd ref="7961056388"/>
+  <way id="248970234" version="3" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import">
     <nd ref="2556764492"/>
-    <nd ref="7961056391"/>
-    <nd ref="7961056390"/>
-    <nd ref="2556764493"/>
-    <nd ref="2556764494"/>
+    <nd ref="8225771374"/>
+    <nd ref="7961056389"/>
+    <nd ref="7961056387"/>
+    <nd ref="8225771375"/>
     <nd ref="2556764491"/>
-    <tag k="building" v="house"/>
+    <nd ref="2556764494"/>
+    <nd ref="2556764493"/>
+    <nd ref="2556764492"/>
+    <tag k="addr:city" v="Negreira"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="detached"/>
+    <tag k="building:colour" v="yellow"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:colour" v="red"/>
+    <tag k="roof:material" v="roof_tiles"/>
+    <tag k="roof:shape" v="hipped"/>
   </way>
   <way id="248970235" version="2" timestamp="2013-11-29T08:38:32Z" changeset="19174101" uid="1811753" user="mrflorod">
     <nd ref="2556764496"/>
@@ -12842,7 +13059,7 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Cuartel Garda Civil"/>
   </way>
-  <way id="248973365" version="2" timestamp="2019-09-18T20:54:08Z" changeset="74645359" uid="7579660" user="Iváns">
+  <way id="248973365" version="3" timestamp="2021-05-01T10:53:55Z" changeset="103951411" uid="2365149" user="lucumon">
     <nd ref="2556787645"/>
     <nd ref="2556787646"/>
     <nd ref="2556787647"/>
@@ -12850,8 +13067,8 @@
     <nd ref="2556787649"/>
     <nd ref="2556787650"/>
     <nd ref="2556787645"/>
-    <tag k="building" v="yes"/>
-    <tag k="landuse" v="industrial"/>
+    <tag k="building" v="industrial"/>
+    <tag k="operator" v="Telefónica"/>
   </way>
   <way id="248973523" version="6" timestamp="2020-05-05T16:47:59Z" changeset="84709107" uid="326947" user="Iago">
     <nd ref="2556788542"/>
@@ -19938,13 +20155,14 @@
     <tag k="building:levels" v="1"/>
     <tag k="roof:shape" v="hipped"/>
   </way>
-  <way id="514249336" version="1" timestamp="2017-08-09T13:47:50Z" changeset="50974314" uid="1390694" user="nemo-xx">
+  <way id="514249336" version="2" timestamp="2021-02-02T02:04:47Z" changeset="98540830" uid="1921164" user="cafeconleche">
     <nd ref="5024509112"/>
     <nd ref="5024509113"/>
     <nd ref="5024509114"/>
     <nd ref="5024509115"/>
     <nd ref="5024509112"/>
     <tag k="building" v="yes"/>
+    <tag k="name" v="Antigua escola San Vicente"/>
     <tag k="roof:shape" v="gabled"/>
   </way>
   <way id="514249337" version="1" timestamp="2017-08-09T13:47:50Z" changeset="50974314" uid="1390694" user="nemo-xx">
@@ -20438,20 +20656,32 @@
     <nd ref="5172967228"/>
     <nd ref="7499676589"/>
   </way>
-  <way id="541692151" version="4" timestamp="2020-02-11T20:15:30Z" changeset="80868618" uid="2365149" user="lucumon">
-    <nd ref="2556570782"/>
-    <nd ref="2556570734"/>
-    <nd ref="2556570733"/>
+  <way id="541692151" version="5" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
     <nd ref="2556570783"/>
+    <nd ref="8270138703"/>
+    <nd ref="8270138597"/>
+    <nd ref="8270138570"/>
+    <nd ref="8270138719"/>
     <nd ref="2556570782"/>
+    <nd ref="8270138688"/>
+    <nd ref="8270138721"/>
+    <nd ref="8270138524"/>
+    <nd ref="8270138683"/>
+    <nd ref="8270138749"/>
+    <nd ref="8270138671"/>
+    <nd ref="8270138736"/>
+    <nd ref="8270138567"/>
+    <nd ref="8270138637"/>
+    <nd ref="8270138717"/>
+    <nd ref="2556570783"/>
     <tag k="addr:city" v="Negreira"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="15830"/>
     <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
+    <tag k="building" v="apartments"/>
     <tag k="building:levels" v="4"/>
     <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="residential"/>
-    <tag k="name" v="Bloque 2"/>
+    <tag k="name" v="Edificio Cantalarrana: Portal 2"/>
     <tag k="roof:colour" v="black"/>
     <tag k="roof:levels" v="2"/>
     <tag k="roof:material" v="slate"/>
@@ -22096,54 +22326,14 @@
     <nd ref="6841991597"/>
     <nd ref="6841991523"/>
   </way>
-  <way id="761114409" version="4" timestamp="2020-02-15T19:35:20Z" changeset="81052378" uid="2365149" user="lucumon">
-    <nd ref="2556570827"/>
-    <nd ref="7214720745"/>
-    <nd ref="2556570826"/>
-    <nd ref="7214720747"/>
-    <nd ref="7214720743"/>
-    <nd ref="2556570735"/>
-    <nd ref="7110996757"/>
-    <nd ref="2556570736"/>
-    <nd ref="2556570737"/>
-    <nd ref="2556570738"/>
-    <nd ref="2556570829"/>
-    <nd ref="2556570828"/>
-    <nd ref="7214720744"/>
-    <nd ref="2556570827"/>
-    <tag k="building" v="residential"/>
-  </way>
-  <way id="761114410" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon">
-    <nd ref="7110996749"/>
-    <nd ref="7110996750"/>
-    <nd ref="7110996751"/>
-    <nd ref="7110996752"/>
-    <nd ref="7110996749"/>
-    <tag k="area" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="yes"/>
-    <tag k="man_made" v="courtyaard"/>
-  </way>
-  <way id="761114411" version="2" timestamp="2020-02-10T21:27:50Z" changeset="80815943" uid="2365149" user="lucumon">
-    <nd ref="7110996753"/>
-    <nd ref="7110996754"/>
-    <nd ref="7110996755"/>
-    <nd ref="7110996756"/>
-    <nd ref="7110996753"/>
-    <tag k="area" v="yes"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="building:levels:underground" v="1"/>
-    <tag k="building:part" v="yes"/>
-    <tag k="man_made" v="courtyaard"/>
-  </way>
-  <way id="788487092" version="1" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns">
+  <way id="788487092" version="2" timestamp="2021-01-02T12:20:44Z" changeset="96804746" uid="12420688" user="Mapeador047">
     <nd ref="7371763076"/>
     <nd ref="7371763075"/>
     <nd ref="7371763074"/>
     <nd ref="7371763073"/>
     <nd ref="7371763076"/>
     <tag k="building" v="yes"/>
+    <tag k="historic" v="yes"/>
   </way>
   <way id="788487094" version="1" timestamp="2020-04-06T11:06:09Z" changeset="83141391" uid="7579660" user="Iváns">
     <nd ref="7371767092"/>
@@ -23469,6 +23659,107 @@
     <tag k="access" v="private"/>
     <tag k="leisure" v="swimming_pool"/>
   </way>
+  <way id="884523594" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import">
+    <nd ref="8225771381"/>
+    <nd ref="7961056396"/>
+    <nd ref="8225771380"/>
+    <nd ref="8225771382"/>
+    <nd ref="8225771381"/>
+    <tag k="building" v="shed"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="884523595" version="1" timestamp="2020-12-13T22:34:46Z" changeset="95773155" uid="7209228" user="lucumon_import">
+    <nd ref="8225771376"/>
+    <nd ref="8225771378"/>
+    <nd ref="8225771379"/>
+    <nd ref="8225771377"/>
+    <nd ref="8225771376"/>
+    <tag k="barn" v="horreo"/>
+    <tag k="building" v="barn"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="roof:shape" v="gabled"/>
+  </way>
+  <way id="889562164" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138742"/>
+    <nd ref="8270138550"/>
+    <nd ref="8270138680"/>
+    <nd ref="8270138648"/>
+    <nd ref="8270138528"/>
+    <nd ref="8270138675"/>
+    <nd ref="8270138583"/>
+    <nd ref="8270138760"/>
+    <nd ref="8270138734"/>
+    <nd ref="8270138742"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+  </way>
+  <way id="889562182" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138560"/>
+    <nd ref="8270138663"/>
+    <nd ref="8270113902"/>
+    <nd ref="8270113911"/>
+    <nd ref="8270138533"/>
+    <nd ref="8270138691"/>
+    <nd ref="8270138752"/>
+    <nd ref="8270138676"/>
+    <nd ref="8270138520"/>
+    <nd ref="8270138566"/>
+    <nd ref="8270113890"/>
+    <nd ref="8270138605"/>
+    <nd ref="8270138776"/>
+    <nd ref="8270138650"/>
+    <nd ref="8270138581"/>
+    <nd ref="8270138596"/>
+    <nd ref="8270138560"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="building:levels:underground" v="1"/>
+    <tag k="roof:levels" v="2"/>
+  </way>
+  <way id="889562196" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138528"/>
+    <nd ref="8270138580"/>
+    <nd ref="8270138689"/>
+    <nd ref="8270138728"/>
+    <nd ref="8270138712"/>
+    <nd ref="8270113903"/>
+    <nd ref="8270138825"/>
+    <nd ref="8270138583"/>
+    <nd ref="8270138675"/>
+    <nd ref="8270138528"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="15830"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
+  <way id="889562197" version="1" timestamp="2020-12-29T13:33:46Z" changeset="96605136" uid="7209228" user="lucumon_import">
+    <nd ref="8270138712"/>
+    <nd ref="8270138728"/>
+    <nd ref="8270138689"/>
+    <nd ref="8270138580"/>
+    <nd ref="8270138668"/>
+    <nd ref="8270138726"/>
+    <nd ref="8270138549"/>
+    <nd ref="8270138770"/>
+    <nd ref="8270138558"/>
+    <nd ref="8270138569"/>
+    <nd ref="8270113903"/>
+    <nd ref="8270138712"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="Avenida das Brañas"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:levels" v="4"/>
+    <tag k="roof:levels" v="1"/>
+  </way>
   <relation id="1354711" version="7" timestamp="2019-10-01T22:12:27Z" changeset="75172713" uid="326947" user="Iago">
     <member type="way" ref="93150005" role="inner"/>
     <member type="way" ref="93149989" role="outer"/>
@@ -24350,30 +24641,6 @@
     <tag k="height" v="22"/>
     <tag k="source" v="Catastro; PNOA; local_knowledge"/>
     <tag k="type" v="multipolygon"/>
-  </relation>
-  <relation id="10702761" version="2" timestamp="2020-02-11T21:44:54Z" changeset="80871337" uid="2365149" user="lucumon">
-    <member type="way" ref="761114409" role="outline"/>
-    <member type="way" ref="248949947" role="part"/>
-    <member type="way" ref="541692151" role="part"/>
-    <member type="way" ref="248949931" role="part"/>
-    <member type="way" ref="761114410" role="part"/>
-    <member type="way" ref="761114411" role="part"/>
-    <tag k="addr:city" v="Negreira"/>
-    <tag k="addr:country" v="ES"/>
-    <tag k="addr:housename" v="Edificio Cantalarrana"/>
-    <tag k="addr:housenumber" v="1;3;5"/>
-    <tag k="addr:postcode" v="15830"/>
-    <tag k="addr:province" v="A Coruña"/>
-    <tag k="addr:street" v="Rúa de Xosé Manuel López Ardeiro"/>
-    <tag k="building" v="residential"/>
-    <tag k="building:levels" v="4"/>
-    <tag k="building:levels:underground" v="1"/>
-    <tag k="name" v="Edificio Cantalarrana"/>
-    <tag k="roof:colour" v="black"/>
-    <tag k="roof:levels" v="2"/>
-    <tag k="roof:material" v="slate"/>
-    <tag k="roof:shape" v="quadruple_saltbox"/>
-    <tag k="type" v="building"/>
   </relation>
   <relation id="11067685" version="2" timestamp="2020-05-05T11:35:07Z" changeset="84690556" uid="326947" user="Iago">
     <member type="way" ref="799833647" role="outer"/>

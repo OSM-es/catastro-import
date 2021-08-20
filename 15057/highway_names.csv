@@ -4,10 +4,15 @@ AV FEIRACO	Avenida de Feiraco
 AV SANTIAGO	Avenida de Santiago
 AV VILACHAN	Avenida de Vilachán
 BO CAMPOS	Lugar Campos
-BO CORPACHON	Lugar Corpachon
+BO CORPACHON	Lugar Corpachón
+BO NEGREIRA	Lugar Negreira
 BO NEGREIROA	Lugar Negreiroa
 BO VILACHAN ABAJO	Lugar Vilachán de Abaixo
 BO VILACHAN ARRIBA	Lugar Vilachán de Arriba
+CL CARMEN	Rúa do Carmen
+CL MALECON	Rúa Malecón
+CL PRESA	Presa Barrié de la Maza
+CL PUENTE	Rúa do Licenciado Pedro Rodríguez
 CL CAMINO VIEJO	Camiño Vello
 CL CARRERA S MAURO	Carreira de San Mauro
 LG ABEANCA	Lugar A Abeanca
@@ -28,7 +33,7 @@ LG CAMPOLONGO	Lugar Campolongo
 LG CANCELO	Lugar O Cancelo
 LG CASA ANTELO	Lugar Casa de Antelo
 LG CASAL MATO	Lugar Casal do Mato
-LG CASTELAN	Lugar Castelan
+LG CASTELAN	Lugar Castelán
 LG CASTRO	Lugar O Castro
 LG CHANCELA	Lugar A Chancela
 LG CORNADO	Lugar O Cornado
@@ -77,7 +82,7 @@ LG PORTOR	Lugar Portor
 LG QUINTENLA	Lugar Quintenla
 LG RAPOTE	Lugar O Rapote
 LG REBORDANS	Lugar Rebordáns
-LG REDEMUIÑOS	Lugar Redemuíños
+LG REDEMUIÑOS	Lugar Redemuiños
 LG REIBO	Lugar Reibó
 LG ROMARIS	Lugar Romarís
 LG RONS	Lugar Rons
@@ -100,16 +105,13 @@ LG VILAR ORDOESTE	Lugar Vilar de Ordoeste
 LG VILASERIO	Lugar Vilaserío
 LG XALLAS ABAIXO	Lugar Xallas de Abaixo
 LG ZAS	Lugar Zas
-LG MAIO PEQUENO	Maio Pequeno
+LG MAIO PEQUENO	Lugar Maio Pequeno
 LG PONTE MACEIRA	Lugar A Ponte Maceira
 PZ CONCELLO	Praza do Concello
 PZ COTON	Praza do Cotón
 PZ FERREIRO	Praza do Ferreiro
 RU CAMIÑO A FISTERRA	Rúa do Camiño de Fisterra
 RU CIUDAD VICENTE LOPEZ	Rúa Ciudad Vicente López
-CL MALECON	Rúa Malecón
-CL PRESA	Presa Barrié de la Maza
-CL PUENTE	Rúa do Licenciado Pedro Rodríguez
 RU TOURIO	Rúa Tourío
 RU XOSE F PENSADO POUSA	Rúa Xosé Francisco Pensado Pousa
 CL CACHURRA	Rúa da Cachurra
@@ -123,7 +125,6 @@ RU TERESA FABEIRO CAAMAÑO	Rúa de Teresa Fabeiro Caamaño
 RU VICTOR GARCIA FERREIRO	Rúa de Víctor García Ferreiro
 RU XOSE M LOPEZ ARDEIRO	Rúa de Xosé Manuel López Ardeiro
 RU XULIAN MAGARIÑOS	Rúa de Xulián Magariños
-CL CARMEN	Rúa do Carmen
 RU CORZAN	Rúa do Corzán
 CL PATROCINIO	Rúa do Patrocinio
 RU TAMBRE	Rúa do Tambre
