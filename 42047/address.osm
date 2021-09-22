@@ -1,0 +1,3363 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.3.9'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 1.3.9"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2021-09-11"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-37" lat="41.2945981726" lon="-2.65528242173" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917606WL2781N"/>
+  <tag k="addr:street" v="Carretera de N-II a SO-160 por Barahona"/>
+</node>
+<node action="modify" id="-234" lat="41.2601595443" lon="-2.59551931336" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979401WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-45" lat="41.2943674369" lon="-2.6565918359" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817805WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-174" lat="41.3180062051" lon="-2.59445186534" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042301WL3744S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-147" lat="41.2954181819" lon="-2.65739086916" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718704WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-242" lat="41.2602550759" lon="-2.59557087285" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980904WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-182" lat="41.317302445" lon="-2.59380349176" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142908WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-214" lat="41.2946523567" lon="-2.65847464173" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717907WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-34" lat="41.2961458548" lon="-2.65691029221" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8819102WL2781N"/>
+  <tag k="addr:street" v="Camino Rello"/>
+</node>
+<node action="modify" id="-46" lat="41.2949831275" lon="-2.65512048269" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917602WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-53" lat="41.2953936024" lon="-2.65722666509" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818101WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-250" lat="41.2595620026" lon="-2.59574895352" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979902WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-225" lat="41.2595446734" lon="-2.59548864294" visible="true">
+  <tag k="addr:housenumber" v="16B"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979602WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-190" lat="41.3165578519" lon="-2.5948897046" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041901WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-449" lat="41.2951315348" lon="-2.65517767388" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917902WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-222" lat="41.2595309844" lon="-2.59535640127" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979601WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-129" lat="41.3372332161" lon="-2.5554764814" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163612WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-66" lat="41.2954836482" lon="-2.65664354715" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817402WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-255" lat="41.2584603791" lon="-2.5961459375" visible="true">
+  <tag k="addr:housenumber" v="13D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978211WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-2" lat="41.2945239209" lon="-2.65765242637" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717106WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-278" lat="41.2591240951" lon="-2.59588252823" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979806WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-311" lat="41.2580106054" lon="-2.59606347329" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877510WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-106" lat="41.3372431436" lon="-2.55481577913" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263102WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-375" lat="41.2589355403" lon="-2.59721459668" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878307WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-417" lat="41.260003377" lon="-2.59625787198" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979303WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-104" lat="41.3371193442" lon="-2.55472118571" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263905WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-488" lat="41.2945936065" lon="-2.65661108371" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817803WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-410" lat="41.2598453017" lon="-2.59664403716" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879505WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-10" lat="41.2946378779" lon="-2.65727689066" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817101WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-459" lat="41.2958847498" lon="-2.65733597953" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718503WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-210" lat="41.2948861743" lon="-2.65743314803" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717601WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-286" lat="41.2592009482" lon="-2.59643121487" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879704WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-438" lat="41.294554277" lon="-2.6558375412" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917210WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-319" lat="41.2582154085" lon="-2.59549982321" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4178704WL3647N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-351" lat="41.2584189047" lon="-2.59707222861" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878802WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-383" lat="41.2590773094" lon="-2.5975895891" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878301WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-418" lat="41.2599705987" lon="-2.5962079063" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979304WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-18" lat="41.2944561617" lon="-2.65812233781" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717110WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-467" lat="41.2961067463" lon="-2.65831318942" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718302WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-294" lat="41.2592025844" lon="-2.59693084125" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878401WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-95" lat="41.3367123775" lon="-2.55496848375" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262302WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-327" lat="41.2580641099" lon="-2.59628795227" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877503WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-359" lat="41.2585375725" lon="-2.5970414657" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978701WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-75" lat="41.2962726955" lon="-2.65469972439" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818502WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-271" lat="41.2582217976" lon="-2.59682695163" visible="true">
+  <tag k="addr:housenumber" v="5C"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877406WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-26" lat="41.2943806394" lon="-2.65677208444" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817806WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-475" lat="41.2944624935" lon="-2.65651922428" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917213WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-117" lat="41.3373161232" lon="-2.55506058906" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263203WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-302" lat="41.2589389232" lon="-2.59691079683" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878201WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-335" lat="41.2586622457" lon="-2.5960847135" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978209WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-367" lat="41.2587117099" lon="-2.59696061446" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878901WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-399" lat="41.2591947798" lon="-2.59785331354" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779701WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-121" lat="41.337065557" lon="-2.55537325687" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162501WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-165" lat="41.3176335696" lon="-2.59409020584" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042603WL3744S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-296" lat="41.259349919" lon="-2.59654285545" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879706WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-84" lat="41.3365608266" lon="-2.55478716523" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262902WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-198" lat="41.3174315785" lon="-2.5945707556" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042904WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-64" lat="41.2957661685" lon="-2.65583259742" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818920WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-138" lat="41.3366625336" lon="-2.55548204418" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162903WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-233" lat="41.2599948916" lon="-2.59528754038" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980702WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-149" lat="41.2955975239" lon="-2.65718454608" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718603WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-206" lat="41.3173254497" lon="-2.59460663909" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042909WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-112" lat="41.3368481069" lon="-2.55584996708" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162401WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-146" lat="41.295246791" lon="-2.65754884047" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718706WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-241" lat="41.2602128157" lon="-2.59545847883" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980905WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-181" lat="41.3175942118" lon="-2.59378598324" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142304WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-443" lat="41.2947206716" lon="-2.65562220912" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917907WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-213" lat="41.2946970328" lon="-2.65819760172" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717905WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-120" lat="41.3373795829" lon="-2.5550381867" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263202WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-52" lat="41.2952379616" lon="-2.65724369079" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818102WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-249" lat="41.2594868243" lon="-2.59564803918" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979801WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-227" lat="41.259903628" lon="-2.59582613094" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980501WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-100" lat="41.3370728798" lon="-2.55445991476" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263701WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-221" lat="41.2597159993" lon="-2.59576802486" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980505WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-128" lat="41.3376114215" lon="-2.55535591337" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163502WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-80" lat="41.2960592866" lon="-2.65655312421" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818516WL2781N"/>
+  <tag k="addr:street" v="Calle Suerte"/>
+</node>
+<node action="modify" id="-205" lat="41.3173305997" lon="-2.59452196601" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041509WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-60" lat="41.2951928043" lon="-2.65728462781" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818103WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-1" lat="41.2947265519" lon="-2.65760824032" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717606WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-452" lat="41.2956203244" lon="-2.65467237764" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818903WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-277" lat="41.2590426458" lon="-2.59571316138" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979810WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-432" lat="41.2950661392" lon="-2.65598311051" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917301WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-310" lat="41.2583772955" lon="-2.59558437442" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978804WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-342" lat="41.259007491" lon="-2.59637952361" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878602WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-374" lat="41.2591544338" lon="-2.59710283114" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879803WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-36" lat="41.2946377134" lon="-2.6554265984" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917605WL2781N"/>
+  <tag k="addr:street" v="Carretera de N-II a SO-160 por Barahona"/>
+</node>
+<node action="modify" id="-487" lat="41.2946499151" lon="-2.65662434596" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817802WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-409" lat="41.2598375091" lon="-2.59677034037" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879506WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-9" lat="41.2945698013" lon="-2.65726561096" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817102WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-458" lat="41.2959173987" lon="-2.65727243731" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718505WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-285" lat="41.2590994853" lon="-2.59610171215" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979103WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-341" lat="41.2587428202" lon="-2.59604976483" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978303WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-89" lat="41.336758886" lon="-2.55471077634" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262406WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-318" lat="41.2581245796" lon="-2.59615160919" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977305WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-350" lat="41.2582984094" lon="-2.59679827138" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978712WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-245" lat="41.2602469282" lon="-2.59568694518" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980902WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-382" lat="41.2590944501" lon="-2.59766780538" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879104WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-395" lat="41.2595561311" lon="-2.5960608317" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979204WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-448" lat="41.2954183755" lon="-2.65622647614" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818704WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-265" lat="41.2587778094" lon="-2.59541351494" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978502WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-17" lat="41.2943011931" lon="-2.6571416302" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817109WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-466" lat="41.2962284152" lon="-2.65769481221" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719101WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-293" lat="41.259117569" lon="-2.59691071236" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878402WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-380" lat="41.259137406" lon="-2.59769157886" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879103WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-326" lat="41.2582211725" lon="-2.59588291005" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977303WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-358" lat="41.2580889818" lon="-2.5968643693" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877402WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-390" lat="41.2595258238" lon="-2.59647076662" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879601WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-420" lat="41.259686597" lon="-2.59609064401" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979308WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-132" lat="41.3372674949" lon="-2.555086096" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163607WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-425" lat="41.259487839" lon="-2.59720391533" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879202WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-25" lat="41.2944773876" lon="-2.65693666297" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817107WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-474" lat="41.2946613817" lon="-2.65705980182" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817314WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-301" lat="41.258916393" lon="-2.59679984251" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878405WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-119" lat="41.3362256293" lon="-2.55556653271" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162716WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-334" lat="41.2587394659" lon="-2.59644247053" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978307WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-366" lat="41.2586514128" lon="-2.59729471608" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878311WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-398" lat="41.2598136723" lon="-2.59733079634" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779502WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-99" lat="41.337022763" lon="-2.55495545433" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263106WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-179" lat="41.3173989081" lon="-2.59392486139" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142307WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-164" lat="41.3167434202" lon="-2.59466175171" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041506WL3744S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-197" lat="41.3178339313" lon="-2.59435090989" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042610WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-105" lat="41.3371478919" lon="-2.55478215947" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263103WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-137" lat="41.3365687871" lon="-2.55540696022" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162703WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-232" lat="41.2599880369" lon="-2.59545140525" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979403WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-172" lat="41.3180838231" lon="-2.59537582694" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3943602WL3734S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-437" lat="41.2945959852" lon="-2.65575552073" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917209WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-49" lat="41.2941801964" lon="-2.65691765285" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816302WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-44" lat="41.2942587444" lon="-2.65826228556" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8716401WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-145" lat="41.2952274143" lon="-2.65789720272" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717301WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-240" lat="41.2603855486" lon="-2.59543224143" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980801WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-180" lat="41.3175246897" lon="-2.59382737777" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142305WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-212" lat="41.2946608172" lon="-2.65809815633" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717904WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-74" lat="41.2961332234" lon="-2.65524655349" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818504WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-153" lat="41.2948875804" lon="-2.6579029424" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717403WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-270" lat="41.258208208" lon="-2.5967839385" visible="true">
+  <tag k="addr:housenumber" v="5B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877407WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-188" lat="41.318151449" lon="-2.59359745661" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4143901WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-402" lat="41.2595512868" lon="-2.59705872439" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879902WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-229" lat="41.2596163179" lon="-2.59557545006" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979502WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-11" lat="41.2946754918" lon="-2.65757387828" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717605WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-388" lat="41.258086795" lon="-2.59697826313" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878805WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-414" lat="41.2600813606" lon="-2.59635604288" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3880901WL3638S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-59" lat="41.2952367113" lon="-2.6569830297" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818801WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-223" lat="41.259781622" lon="-2.59583443825" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980504WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-140" lat="41.2948279378" lon="-2.6581890365" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717406WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-276" lat="41.2589712712" lon="-2.59588324344" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978301WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-83" lat="41.3364696551" lon="-2.55502456942" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162707WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-309" lat="41.2581071149" lon="-2.59606907577" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877501WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-63" lat="41.2956288185" lon="-2.65630480677" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818514WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-35" lat="41.2962547071" lon="-2.6568132894" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8819101WL2781N"/>
+  <tag k="addr:street" v="Camino Rello"/>
+</node>
+<node action="modify" id="-408" lat="41.2597495269" lon="-2.59671324896" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879507WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-8" lat="41.2946666817" lon="-2.65777769583" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717103WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-457" lat="41.2959439256" lon="-2.65721943538" visible="true">
+  <tag k="addr:housenumber" v="10D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718504WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-284" lat="41.2593125908" lon="-2.59626475713" visible="true">
+  <tag k="addr:housenumber" v="28D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879707WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-136" lat="41.3376273013" lon="-2.55552887812" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163601WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-349" lat="41.258047409" lon="-2.59713647683" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877301WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-381" lat="41.2591265634" lon="-2.59751970818" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878302WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-416" lat="41.2594005635" lon="-2.59719524105" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879807WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-16" lat="41.2945864005" lon="-2.65697591482" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817809WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-465" lat="41.2961028901" lon="-2.65818583788" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718303WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-292" lat="41.2588475647" lon="-2.59676902342" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978602WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-442" lat="41.2953586243" lon="-2.65613574795" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818914WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-325" lat="41.2580555869" lon="-2.59637518693" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877504WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-357" lat="41.2584335907" lon="-2.5970093651" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978702WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-389" lat="41.2592753253" lon="-2.59773018092" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779601WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-424" lat="41.2597960216" lon="-2.59590776415" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980507WL3638S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-24" lat="41.2944516579" lon="-2.65683846246" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817807WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-473" lat="41.2958394571" lon="-2.65774223028" visible="true">
+  <tag k="addr:housenumber" v="9D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718912WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-300" lat="41.2588513411" lon="-2.59685431881" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978601WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-235" lat="41.2594368662" lon="-2.59591462274" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979905WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-184" lat="41.3175378424" lon="-2.59363059631" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142902WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-365" lat="41.2586780345" lon="-2.59678347041" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978605WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-248" lat="41.2595162078" lon="-2.59577099366" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979903WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-79" lat="41.2955832927" lon="-2.65625519249" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818916WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-127" lat="41.3371778102" lon="-2.55551860208" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163613WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-254" lat="41.2584292707" lon="-2.59621455199" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978207WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-163" lat="41.2952340571" lon="-2.65648772105" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817406WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-370" lat="41.2590220039" lon="-2.59705031845" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878501WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-431" lat="41.2948243478" lon="-2.65603058609" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917206WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-196" lat="41.3176696052" lon="-2.59441557449" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042609WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-396" lat="41.2597889915" lon="-2.59734783845" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779503WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-423" lat="41.2594102562" lon="-2.59714668604" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879808WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-343" lat="41.2590666987" lon="-2.59626021136" visible="true">
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878601WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-231" lat="41.259925314" lon="-2.59533472226" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980703WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-171" lat="41.3180640729" lon="-2.59437225981" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043605WL3744S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-161" lat="41.2952764883" lon="-2.65649805122" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817405WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-88" lat="41.3365364344" lon="-2.55524383674" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162704WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-204" lat="41.3185647846" lon="-2.59400225542" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043601WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-51" lat="41.295380339" lon="-2.65712570132" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718805WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-68" lat="41.2959570466" lon="-2.65521029246" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818922WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-42" lat="41.294156269" lon="-2.65740286629" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816306WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-264" lat="41.258789132" lon="-2.59545020508" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978503WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-483" lat="41.2948122526" lon="-2.65651765584" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917202WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-211" lat="41.2947245873" lon="-2.65785216195" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717903WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-118" lat="41.3369092884" lon="-2.55529048863" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162502WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-50" lat="41.2941722733" lon="-2.65695852549" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816303WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-247" lat="41.2603494971" lon="-2.59588761249" visible="true">
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980201WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-187" lat="41.3178218491" lon="-2.59372247346" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142301WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-447" lat="41.295110273" lon="-2.65537587322" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917903WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-219" lat="41.2597046367" lon="-2.59586905362" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980506WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-86" lat="41.3366100061" lon="-2.55508671116" visible="true">
+  <tag k="addr:housenumber" v="15D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162709WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-158" lat="41.2951626806" lon="-2.65642632292" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818711WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-379" lat="41.2591298996" lon="-2.59745139691" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878303WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-160" lat="41.2951390133" lon="-2.65637061051" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818710WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-72" lat="41.2959483239" lon="-2.65564556497" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818507WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-31" lat="41.2950393918" lon="-2.65672230265" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817306WL2781N"/>
+  <tag k="addr:street" v="Calle Travesa&#241;a"/>
+</node>
+<node action="modify" id="-230" lat="41.2598376788" lon="-2.59525657286" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980704WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-308" lat="41.2583413759" lon="-2.59565488957" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978805WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-340" lat="41.2588496502" lon="-2.596642623" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978603WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-372" lat="41.2591714518" lon="-2.59701422209" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879802WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-485" lat="41.2948359588" lon="-2.65629015376" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917204WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-407" lat="41.2596974027" lon="-2.59675208095" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879508WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-7" lat="41.2945356155" lon="-2.65721618843" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817104WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-456" lat="41.2955993239" lon="-2.65707546574" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718802WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-283" lat="41.2594068395" lon="-2.59632563733" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879702WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-436" lat="41.2947407511" lon="-2.65586499085" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917208WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-405" lat="41.2601137171" lon="-2.59686233044" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3880801WL3638S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-316" lat="41.2580520344" lon="-2.59590805773" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977403WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-322" lat="41.2584930256" lon="-2.59529757248" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4178701WL3647N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-391" lat="41.2596751392" lon="-2.59763323005" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779506WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-201" lat="41.317264852" lon="-2.59454718816" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041508WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-27" lat="41.2943657578" lon="-2.6569026979" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817108WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-415" lat="41.2601139409" lon="-2.59627610245" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979301WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-15" lat="41.2948379875" lon="-2.65725440545" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717602WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-464" lat="41.2960786241" lon="-2.65763831917" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718501WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-291" lat="41.2591640943" lon="-2.59624359512" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979104WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-93" lat="41.3368299258" lon="-2.55479151522" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262404WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-324" lat="41.2581829528" lon="-2.59603998206" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977304WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-356" lat="41.2584426698" lon="-2.59682301889" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978703WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-73" lat="41.2960682501" lon="-2.65540523542" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818505WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-269" lat="41.2581808178" lon="-2.5966943615" visible="true">
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877408WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-23" lat="41.2945360803" lon="-2.65692623194" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817808WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-472" lat="41.2958144162" lon="-2.65761817347" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718905WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-299" lat="41.2594214748" lon="-2.59657846468" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879603WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-332" lat="41.2587837785" lon="-2.5964901831" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978308WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-364" lat="41.2586392071" lon="-2.5971365926" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878101WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-170" lat="41.3181235068" lon="-2.59444381421" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043606WL3744S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-169" lat="41.3171568339" lon="-2.59440710892" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041503WL3744S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-480" lat="41.2947178682" lon="-2.65664781689" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817801WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-82" lat="41.3365841271" lon="-2.55486744942" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262901WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-195" lat="41.3172160678" lon="-2.59463922127" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042910WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-62" lat="41.2956799169" lon="-2.65596285285" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818918WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-135" lat="41.337585266" lon="-2.55539239965" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163602WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-258" lat="41.2585218122" lon="-2.59600418034" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978205WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-144" lat="41.2957257917" lon="-2.65788326758" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718909WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-139" lat="41.336924139" lon="-2.55508567491" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263108WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-143" lat="41.295047072" lon="-2.65800184566" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717304WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-238" lat="41.2600972036" lon="-2.59514580669" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4080101WL3648S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-178" lat="41.3170087474" lon="-2.59348107675" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142905WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-373" lat="41.2588749305" lon="-2.5972010364" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878308WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-260" lat="41.2579149237" lon="-2.59675733938" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877508WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-317" lat="41.2580014462" lon="-2.59579348644" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977402WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-426" lat="41.2954237602" lon="-2.65618804169" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818915WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-246" lat="41.2602926584" lon="-2.59571757265" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980901WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-186" lat="41.316532942" lon="-2.5949400378" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041902WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-272" lat="41.2581515598" lon="-2.596421509" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977307WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-218" lat="41.2592586729" lon="-2.59595862376" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979906WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-78" lat="41.2955478687" lon="-2.65637743954" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818702WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-98" lat="41.3369758219" lon="-2.55491946323" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263107WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-57" lat="41.2952102136" lon="-2.65687557967" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818803WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-274" lat="41.2584274245" lon="-2.59588383518" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977301WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-486" lat="41.2947460704" lon="-2.65687219906" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817313WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-151" lat="41.2955879671" lon="-2.6572969102" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718604WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-194" lat="41.3174492023" lon="-2.59398066851" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142306WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-307" lat="41.2580803756" lon="-2.59617252938" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877502WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-339" lat="41.2587065801" lon="-2.59612539573" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978304WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-371" lat="41.2587267108" lon="-2.59722144686" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878309WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-484" lat="41.2948983078" lon="-2.65592342573" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917402WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-406" lat="41.2598316301" lon="-2.59699503752" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879509WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-6" lat="41.2941976183" lon="-2.6575973299" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8716404WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-282" lat="41.2594507442" lon="-2.59639154443" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879701WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-87" lat="41.3366726229" lon="-2.55478730559" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262601WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-315" lat="41.2578920834" lon="-2.59579117643" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977405WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-347" lat="41.2589325861" lon="-2.59622602878" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978310WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-67" lat="41.2958546075" lon="-2.65599821353" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818511WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-203" lat="41.3184773355" lon="-2.59406413615" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043602WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-263" lat="41.2586722594" lon="-2.59565577838" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978201WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-14" lat="41.2945826219" lon="-2.65767704931" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717105WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-463" lat="41.2960763885" lon="-2.65746970193" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718502WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-290" lat="41.2590797185" lon="-2.59562678172" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979811WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-323" lat="41.2580441195" lon="-2.59649353874" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877505WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-355" lat="41.2583007783" lon="-2.597346297" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878807WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-387" lat="41.25812792" lon="-2.59707483094" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878804WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-252" lat="41.2585502452" lon="-2.59566431722" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978806WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-440" lat="41.2948103733" lon="-2.65588050824" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917912WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-156" lat="41.2952798285" lon="-2.65647120153" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818712WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-422" lat="41.2598076574" lon="-2.59600478242" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979310WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-22" lat="41.2945491809" lon="-2.65841819831" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717113WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-471" lat="41.2958011298" lon="-2.65728368355" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718601WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-298" lat="41.2589099058" lon="-2.59668386123" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878406WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-446" lat="41.2950213017" lon="-2.65541726002" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917904WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-331" lat="41.2584261886" lon="-2.59639710788" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978708WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-363" lat="41.2587148432" lon="-2.59666147673" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978604WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-394" lat="41.2595817425" lon="-2.59600763688" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979205WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-109" lat="41.33631163" lon="-2.55560437913" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162906WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-30" lat="41.2950863349" lon="-2.65676973301" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817305WL2781N"/>
+  <tag k="addr:street" v="Calle Travesa&#241;a"/>
+</node>
+<node action="modify" id="-479" lat="41.2946271407" lon="-2.65657347357" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917215WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-125" lat="41.3371221796" lon="-2.55548311954" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163614WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-159" lat="41.2953556292" lon="-2.6565118946" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817404WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-103" lat="41.3370713122" lon="-2.55484037544" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263104WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-134" lat="41.3365451911" lon="-2.5554518641" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162904WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-455" lat="41.2951185842" lon="-2.65609248705" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818707WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-435" lat="41.2954842002" lon="-2.65627674537" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818703WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-202" lat="41.3179050209" lon="-2.59439555909" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042313WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-141" lat="41.2955562431" lon="-2.65750262993" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818203WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-142" lat="41.2950136866" lon="-2.65767150964" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717401WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-237" lat="41.2600559033" lon="-2.59563872406" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979402WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-177" lat="41.3169102767" lon="-2.59428891652" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142104WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-92" lat="41.3367512768" lon="-2.55524127835" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162701WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-376" lat="41.2592260206" lon="-2.59749104786" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879101WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-116" lat="41.3368101135" lon="-2.55532771815" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162503WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-150" lat="41.2948648325" lon="-2.65805515273" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717404WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-58" lat="41.2952220828" lon="-2.65693558169" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818802WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-268" lat="41.2579851981" lon="-2.59667163522" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877507WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-185" lat="41.3177336268" lon="-2.59375447248" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142302WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-217" lat="41.2947726866" lon="-2.65770112485" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717902WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-124" lat="41.3375102307" lon="-2.55512471308" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163504WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-253" lat="41.2585946994" lon="-2.59557745841" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978807WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-173" lat="41.3181194393" lon="-2.59519959382" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043201WL3744S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-441" lat="41.2947374751" lon="-2.65576125591" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917908WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-56" lat="41.2952496996" lon="-2.65680734498" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817408WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-155" lat="41.2949637252" lon="-2.65774953501" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717402WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-259" lat="41.258553049" lon="-2.59591912546" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978204WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-451" lat="41.2955354703" lon="-2.65475260773" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818904WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-61" lat="41.2956259419" lon="-2.65615789516" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818917WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-275" lat="41.2582497209" lon="-2.59645004018" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978710WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-333" lat="41.2585183928" lon="-2.59631830916" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978208WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-427" lat="41.2950909035" lon="-2.65619185603" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818706WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-428" lat="41.295143719" lon="-2.65598858439" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818910WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-33" lat="41.2950917256" lon="-2.65684369421" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817304WL2781N"/>
+  <tag k="addr:street" v="Calle Travesa&#241;a"/>
+</node>
+<node action="modify" id="-257" lat="41.2584941887" lon="-2.59607134128" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978206WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-5" lat="41.2947724738" lon="-2.65719705379" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817315WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-154" lat="41.2955323857" lon="-2.65739807692" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818202WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-281" lat="41.2594255968" lon="-2.59628769482" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979201WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-314" lat="41.2580609539" lon="-2.59652938794" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877506WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-108" lat="41.3364481258" lon="-2.55497203518" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262906WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-378" lat="41.2591854599" lon="-2.59761423148" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879102WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-220" lat="41.2594372547" lon="-2.59555484523" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979804WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-413" lat="41.259936316" lon="-2.59649617181" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3880902WL3638S"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-13" lat="41.2947409006" lon="-2.65732382433" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717603WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-462" lat="41.2959946666" lon="-2.65791683337" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718305WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-289" lat="41.259278995" lon="-2.59613581718" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979101WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-189" lat="41.3170561941" lon="-2.59405454666" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142103WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-209" lat="41.3177543094" lon="-2.59516317634" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043103WL3744S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-354" lat="41.2583958054" lon="-2.59675127264" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978714WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-386" lat="41.2582470096" lon="-2.59688568228" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877405WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-421" lat="41.259789264" lon="-2.59613831594" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979309WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-21" lat="41.2945798354" lon="-2.65704084533" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817105WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-470" lat="41.2957592467" lon="-2.65718100813" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718602WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-297" lat="41.2594647658" lon="-2.59651546997" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879602WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-97" lat="41.3369285114" lon="-2.55478474979" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262402WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-330" lat="41.2589012908" lon="-2.59650083986" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878701WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-362" lat="41.2585029908" lon="-2.59727002277" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878102WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-77" lat="41.2963754537" lon="-2.65452384789" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=9019901WL2791N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-40" lat="41.2941598431" lon="-2.65702363981" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816304WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-111" lat="41.3370093604" lon="-2.55515559576" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263110WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-273" lat="41.2582486527" lon="-2.59665478719" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978711WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-29" lat="41.2943221126" lon="-2.65775107264" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8716403WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-478" lat="41.2945682784" lon="-2.65654575429" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917211WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-305" lat="41.259041544" lon="-2.59687441106" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878403WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-69" lat="41.2958466925" lon="-2.65586308302" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818510WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-236" lat="41.2600617463" lon="-2.59527901494" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980701WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-338" lat="41.2586282973" lon="-2.5962383326" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978305WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-133" lat="41.3373932564" lon="-2.55516444227" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163606WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-228" lat="41.2592966578" lon="-2.59578764964" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979807WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-168" lat="41.3169644685" lon="-2.5945177888" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041505WL3744S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-411" lat="41.2593537808" lon="-2.59746892637" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779603WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-397" lat="41.2595300106" lon="-2.59611518188" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979203WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-429" lat="41.295025184" lon="-2.65623519636" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818708WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-39" lat="41.2941809539" lon="-2.65645725393" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816501WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-41" lat="41.2941390101" lon="-2.65717794884" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816305WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-262" lat="41.2586399762" lon="-2.5957272215" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978202WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-176" lat="41.3180836382" lon="-2.59459810676" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4043608WL3744S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-244" lat="41.2601980867" lon="-2.59565414368" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980903WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-348" lat="41.2588618555" lon="-2.596378232" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978309WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-445" lat="41.2949317858" lon="-2.65557897366" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917905WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-216" lat="41.2948127756" lon="-2.65761714746" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717901WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-55" lat="41.2953769428" lon="-2.6567702686" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817401WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-90" lat="41.3366337429" lon="-2.55525569983" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162702WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-192" lat="41.3170224107" lon="-2.59397663976" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4141301WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-102" lat="41.3371285294" lon="-2.55437315009" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263801WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-47" lat="41.2950688424" lon="-2.65501813128" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917601WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-224" lat="41.2595446734" lon="-2.59548864294" visible="true">
+  <tag k="addr:housenumber" v="16A"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979602WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-131" lat="41.3371402358" lon="-2.55520918902" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163608WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-482" lat="41.2948733365" lon="-2.656063092" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917401WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-48" lat="41.2941920082" lon="-2.65681449548" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8816301WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-404" lat="41.2596433474" lon="-2.59693834652" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879903WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-4" lat="41.2948886812" lon="-2.65724026464" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817316WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-454" lat="41.2952861991" lon="-2.65596169751" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818912WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-280" lat="41.259460292" lon="-2.59623638838" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979202WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-434" lat="41.2950515897" lon="-2.65615075097" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917302WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-313" lat="41.2578568062" lon="-2.5959636507" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977901WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-345" lat="41.2589939327" lon="-2.59610593026" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978302WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-377" lat="41.2591607259" lon="-2.59728702103" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878304WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-288" lat="41.2591640271" lon="-2.59603666187" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979102WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-412" lat="41.2598702425" lon="-2.59661063204" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879503WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-12" lat="41.2945760233" lon="-2.6578509784" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717102WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-461" lat="41.2959477317" lon="-2.65749940342" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718507WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-91" lat="41.3367955356" lon="-2.55476641243" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262405WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-321" lat="41.2583974559" lon="-2.59538344318" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4178702WL3647N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-353" lat="41.2585333546" lon="-2.59710077871" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878801WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-71" lat="41.2959606602" lon="-2.6545840103" visible="true">
+  <tag k="addr:housenumber" v="24T"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818924WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-419" lat="41.2596737135" lon="-2.59634203734" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979306WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-430" lat="41.2949745065" lon="-2.65586266843" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818908WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-110" lat="41.3369763808" lon="-2.55516444891" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263109WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-267" lat="41.2587611601" lon="-2.59535710853" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978501WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-20" lat="41.2944826793" lon="-2.65830349474" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717112WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-469" lat="41.2961701103" lon="-2.65808890723" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8719103WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-157" lat="41.2951361101" lon="-2.65649986297" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817407WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-329" lat="41.258949177" lon="-2.59652453502" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878603WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-361" lat="41.2585655132" lon="-2.59686407736" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978704WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-393" lat="41.2596334504" lon="-2.59746524312" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779505WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-251" lat="41.2580278068" lon="-2.59669016218" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877403WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-113" lat="41.3371334249" lon="-2.55511620692" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263111WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-28" lat="41.294359059" lon="-2.65698529328" visible="true">
+  <tag k="addr:housenumber" v="8B"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817111WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-477" lat="41.2945181638" lon="-2.65652128068" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917214WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-304" lat="41.2594425137" lon="-2.59687182306" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879801WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-450" lat="41.2952356091" lon="-2.65502501154" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917901WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-337" lat="41.258691893" lon="-2.59599419054" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978210WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-123" lat="41.3370556494" lon="-2.55549783009" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162505WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-369" lat="41.2581629225" lon="-2.59723090041" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878806WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-401" lat="41.2597406594" lon="-2.59719638853" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879302WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-32" lat="41.2951027011" lon="-2.65697208669" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817302WL2781N"/>
+  <tag k="addr:street" v="Calle Travesa&#241;a"/>
+</node>
+<node action="modify" id="-256" lat="41.2586302519" lon="-2.59536669165" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978801WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-167" lat="41.3168253073" lon="-2.59455325394" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041507WL3744S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-200" lat="41.3177909793" lon="-2.59461101031" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042306WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-107" lat="41.3374105158" lon="-2.55467918899" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263401WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-43" lat="41.294199126" lon="-2.65794780505" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8716402WL2781N"/>
+  <tag k="addr:street" v="Carretera de &#193;greda a L&#237;mite de C.A. de Castilla La Mancha"/>
+</node>
+<node action="modify" id="-38" lat="41.2945336714" lon="-2.65524482728" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917607WL2781N"/>
+  <tag k="addr:street" v="Carretera de N-II a SO-160 por Barahona"/>
+</node>
+<node action="modify" id="-70" lat="41.2960718858" lon="-2.65508429157" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818901WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-175" lat="41.3179673675" lon="-2.59410151394" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042602WL3744S"/>
+  <tag k="addr:street" v="Calle Larga"/>
+</node>
+<node action="modify" id="-439" lat="41.2944264961" lon="-2.65605513883" visible="true">
+  <tag k="addr:housenumber" v="24D"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917217WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-239" lat="41.2602262896" lon="-2.59529314472" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3980802WL3638S"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-114" lat="41.3368180613" lon="-2.55559549303" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162504WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-148" lat="41.2955084909" lon="-2.65746605399" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718703WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-243" lat="41.2594704809" lon="-2.59579298429" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979904WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-183" lat="41.317684641" lon="-2.59377222379" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142303WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-96" lat="41.3362235578" lon="-2.55537588961" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162714WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-215" lat="41.2946279318" lon="-2.6580502356" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717101WL2781N"/>
+  <tag k="addr:street" v="Calle Lucio Rello"/>
+</node>
+<node action="modify" id="-122" lat="41.3374616551" lon="-2.55502824752" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263201WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-76" lat="41.2964512598" lon="-2.65463728925" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818501WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-400" lat="41.2598335255" lon="-2.59731300793" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779501WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-54" lat="41.2954046298" lon="-2.65704628687" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718804WL2781N"/>
+  <tag k="addr:street" v="Plaza Florencio Latorre"/>
+</node>
+<node action="modify" id="-193" lat="41.3173861247" lon="-2.59401806681" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142308WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-152" lat="41.2956497194" lon="-2.65744436871" visible="true">
+  <tag k="addr:housenumber" v="6D"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818201WL2781N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-191" lat="41.3171961495" lon="-2.59396737994" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142102WL3744S"/>
+  <tag k="addr:street" v="Calle Olmos"/>
+</node>
+<node action="modify" id="-130" lat="41.3371129189" lon="-2.55528930669" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163609WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-207" lat="41.3173846722" lon="-2.594502515" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4041501WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-481" lat="41.2947899734" lon="-2.65661952157" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917201WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-403" lat="41.2593257408" lon="-2.59757983404" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3779602WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-3" lat="41.2949785681" lon="-2.65725903428" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817317WL2781N"/>
+  <tag k="addr:street" v="Calle las Flores"/>
+</node>
+<node action="modify" id="-346" lat="41.258560904" lon="-2.59645510037" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978706WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-279" lat="41.2591658561" lon="-2.59592061367" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979808WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-85" lat="41.3365759217" lon="-2.55494249529" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7162710WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-312" lat="41.2579493068" lon="-2.596248227" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877509WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-344" lat="41.2586638215" lon="-2.59652525336" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978705WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-65" lat="41.2956805167" lon="-2.65618820852" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818513WL2781N"/>
+  <tag k="addr:street" v="Calle Soledad"/>
+</node>
+<node action="modify" id="-489" lat="41.2944909184" lon="-2.65658175651" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8817804WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-261" lat="41.2586055511" lon="-2.59579453048" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978203WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-162" lat="41.2951032015" lon="-2.65634924639" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818709WL2781N"/>
+  <tag k="addr:street" v="Calle Jos&#233; Casado"/>
+</node>
+<node action="modify" id="-460" lat="41.2958773864" lon="-2.65743391221" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718506WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-287" lat="41.2588943853" lon="-2.59564733688" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978402WL3637N"/>
+  <tag k="addr:street" v="Calle Cruz"/>
+</node>
+<node action="modify" id="-320" lat="41.2583403477" lon="-2.59544414906" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4178703WL3647N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-352" lat="41.2583890276" lon="-2.59693761881" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978713WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-384" lat="41.2589253893" lon="-2.59755464147" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878312WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-385" lat="41.2581510037" lon="-2.59715906208" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878803WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-19" lat="41.2944841898" lon="-2.65823785899" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8717111WL2781N"/>
+  <tag k="addr:street" v="Calle Sur"/>
+</node>
+<node action="modify" id="-468" lat="41.2961014578" lon="-2.65838634277" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8718301WL2781N"/>
+  <tag k="addr:street" v="Calle Norte"/>
+</node>
+<node action="modify" id="-453" lat="41.2952734499" lon="-2.65612400673" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8818705WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-295" lat="41.2591825835" lon="-2.59665536611" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3879705WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-444" lat="41.2947986312" lon="-2.65553096604" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917906WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-306" lat="41.2580860644" lon="-2.59624009995" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977306WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-328" lat="41.258291405" lon="-2.59579521224" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3977302WL3637N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-360" lat="41.2584357696" lon="-2.59730997344" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878103WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-392" lat="41.2596135376" lon="-2.59622907769" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979206WL3637N"/>
+  <tag k="addr:street" v="Calle San Miguel"/>
+</node>
+<node action="modify" id="-115" lat="41.3372462003" lon="-2.55503108512" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263101WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-476" lat="41.2943785102" lon="-2.65651700947" visible="true">
+  <tag k="addr:housenumber" v="10D"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917212WL2781N"/>
+  <tag k="addr:street" v="Calle Nueva"/>
+</node>
+<node action="modify" id="-303" lat="41.2589697563" lon="-2.59683222259" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878404WL3637N"/>
+  <tag k="addr:street" v="Calle de la Iglesia"/>
+</node>
+<node action="modify" id="-101" lat="41.3370479668" lon="-2.5549063042" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7263105WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-266" lat="41.2581381985" lon="-2.59656163643" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3877401WL3637N"/>
+  <tag k="addr:street" v="Calle Cruces"/>
+</node>
+<node action="modify" id="-336" lat="41.2586473397" lon="-2.59642469487" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3978306WL3637N"/>
+  <tag k="addr:street" v="Calle Plaza"/>
+</node>
+<node action="modify" id="-368" lat="41.2586968883" lon="-2.59728480129" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3878310WL3637N"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-81" lat="41.3365524929" lon="-2.55489191605" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262904WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-94" lat="41.3367891112" lon="-2.55507486832" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7262301WL3776S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-208" lat="41.3178500962" lon="-2.59569929595" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3943801WL3734S"/>
+  <tag k="addr:street" v="Calle Iglesia"/>
+</node>
+<node action="modify" id="-226" lat="41.2595220056" lon="-2.59563263382" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42295"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=3979603WL3637N"/>
+  <tag k="addr:street" v="Calle Concepci&#243;n"/>
+</node>
+<node action="modify" id="-126" lat="41.3375518437" lon="-2.55521835933" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42216"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7163503WL3776S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+<node action="modify" id="-166" lat="41.3172693153" lon="-2.59418500892" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4142101WL3744S"/>
+  <tag k="addr:street" v="Calle Cantarranas"/>
+</node>
+<node action="modify" id="-433" lat="41.2947724098" lon="-2.65595591913" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42213"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=8917207WL2781N"/>
+  <tag k="addr:street" v="Calle Medina"/>
+</node>
+<node action="modify" id="-199" lat="41.3176075412" lon="-2.59452123454" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="42214"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=4042308WL3744S"/>
+  <tag k="addr:street" v="Calle Real"/>
+</node>
+</osm>
