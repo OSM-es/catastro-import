@@ -1,0 +1,69 @@
+Municipio: Los Llanos de Aridane
+Nombre en Catastro: LOS LLANOS DE ARIDANE
+Código: 38024
+Fecha: 09/30/21
+Opciones: -bt 38024
+Superficie: 34,8 km²
+Población: 20948 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Los Llanos de Aridane
+Wikidata: https://www.wikidata.org/wiki/Q366948
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.3.7
+Plataforma: Linux 5.11.0-34-generic #36~20.04.1-Ubuntu SMP Fri Aug 27 08:06:32 UTC 2021 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 6
+Frecuencia de CPU: 4.000,0 Mhz
+Tiempo de ejecución: 862,4 segundos
+Memoria total: 31.994,74 MB
+Memoria física usada: 861,62 MB
+Memoria virtual usada: 1.687,83 MB
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2021-09-11
+Número de características: 25.596
+  Edificios: 6.831
+  Partes de edificios: 18.361
+  Piscinas: 404
+
+==Procesado==
+Partes fuera de contorno eliminadas: 85
+Partes bajo rasante eliminadas: 467
+Contornos de edificios creados: 1
+Edificios con geometrías multiparte: 1.857
+Edificios resultantes de dividir multipartes: 5.100
+Partes fusionadas al contorno: 8.523
+Partes adyacentes fusionadas: 1.016
+Geometrías no válidas eliminadas: 7
+Vértices en punta eliminados: 20
+Vértices próximos fusionados: 2.591
+Puntos topológicos creados: 7.115
+Vértices simplificados: 20.904
+
+==Combinación==
+Edificios/piscinas en OSM: 4.638
+  Con conflicto: 4.235
+
+==Datos de salida==
+Nodos: 92.121
+Vías: 18.982
+Relaciones: 484
+Número de características: 18.742
+  Edificios: 10.072
+  Partes de edificios: 8.266
+  Piscinas: 404
+    Sobre edificios: 1
+Recuento de tipos de edificios: industrial: 411, office: 25, residential: 7865, yes: 370, retail: 236, ruins: 11, public: 175, barn: 979
+Plantas sobre rasante (nivel: nº de edificios): 1: 4282, 2: 1294, 3: 684, 4: 240, 5: 167, 6: 94, 7: 37, 8: 6
+Plantas bajo rasante (nivel: nº de edificios): 1: 556, 2: 40, 3: 7, 4: 1
+Archivos de tareas de rústica: 27
+Archivos de tareas de urbana: 292
+Edificios sin zona: 0
+
+=Problemas=
+Correcciones (fixmes): 58
+  Las partes de edificio no cubren todo el contorno: 55
+  Comprobar, área demasiado pequeña: 3
