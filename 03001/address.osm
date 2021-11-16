@@ -1,0 +1,2588 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='CatAtom2Osm 1.3.10'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 1.3.10"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="source:date" v="2021-09-10"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+</changeset>
+<node action="modify" id="-232" lat="38.8477488903" lon="-0.161647179237" visible="true">
+  <tag k="addr:housenumber" v="84"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539908YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-67" lat="38.875427035" lon="-0.169929955367" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669903YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-108" lat="38.8753913142" lon="-0.170963196811" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569509YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-133" lat="38.8746528243" lon="-0.171625795864" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468601YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-314" lat="38.8472052773" lon="-0.151819376523" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238917YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-41" lat="38.853571217" lon="-0.160046496053" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6545603YJ4064N"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-322" lat="38.846802588" lon="-0.153150402882" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7138802YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-222" lat="38.8478961607" lon="-0.162515649897" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439908YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-98" lat="38.8750389031" lon="-0.171410120636" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569207YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-348" lat="38.8478071141" lon="-0.149642798522" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340730YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-49" lat="38.8536392704" lon="-0.159529798948" visible="true">
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6545626YJ4064N"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-330" lat="38.8471884729" lon="-0.152961525728" visible="true">
+  <tag k="addr:housenumber" v="75"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238901YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-59" lat="38.8755279324" lon="-0.169920684696" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669404YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-64" lat="38.8754451441" lon="-0.1696484666" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669506YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-357" lat="38.847715654" lon="-0.148655866368" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639205YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-239" lat="38.8479692268" lon="-0.160317112792" visible="true">
+  <tag k="addr:housenumber" v="91"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539807YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-271" lat="38.8467689399" lon="-0.151281297526" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238933YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-180" lat="38.8485412966" lon="-0.160634761349" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6640908YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-365" lat="38.848099555" lon="-0.150374605694" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340721YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-247" lat="38.8467582664" lon="-0.150858349588" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238735YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-10" lat="38.8756496293" lon="-0.17049254873" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670103YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-87" lat="38.8478828447" lon="-0.151219022502" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239609YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-7" lat="38.8756750393" lon="-0.170985301781" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570111YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-188" lat="38.8512461211" lon="-0.16126225175" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6541901YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-373" lat="38.8482509892" lon="-0.150756431355" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340716YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-255" lat="38.8467075956" lon="-0.151981604039" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238944YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-161" lat="38.8465366192" lon="-0.150710685512" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438202YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-345" lat="38.8475516815" lon="-0.150701147784" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439928YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-138" lat="38.8745451609" lon="-0.171611447841" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468603YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-196" lat="38.8485322753" lon="-0.162270997884" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440405YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-381" lat="38.8483412041" lon="-0.151270700698" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339406YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-333" lat="38.8468420862" lon="-0.152997047559" visible="true">
+  <tag k="addr:housenumber" v="81"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238957YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-352" lat="38.8479020834" lon="-0.149883428759" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340733YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-144" lat="38.8761533701" lon="-0.171527627557" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5470706YJ4056N"/>
+  <tag k="addr:street" v="Carrer Villalonga"/>
+</node>
+<node action="modify" id="-169" lat="38.8472842706" lon="-0.161165754335" visible="true">
+  <tag k="addr:housenumber" v="103"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6538904YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-204" lat="38.8489253909" lon="-0.162531990654" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440306YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-282" lat="38.8472012524" lon="-0.151132099067" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239620YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-334" lat="38.8473339705" lon="-0.150920497306" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239618YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-340" lat="38.8474048894" lon="-0.150973614151" visible="true">
+  <tag k="addr:housenumber" v="3A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239617YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-24" lat="38.8477840491" lon="-0.148484385336" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639202YJ4073N"/>
+  <tag k="addr:street" v="carrer la Solana"/>
+</node>
+<node action="modify" id="-56" lat="38.8514627282" lon="-0.159356415422" visible="true">
+  <tag k="addr:housenumber" v="53A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544711YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-213" lat="38.8494333326" lon="-0.163195470559" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6341805YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-72" lat="38.8758079861" lon="-0.169581113682" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669501YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-69" lat="38.8757215448" lon="-0.169826407485" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669401YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-32" lat="38.8524988842" lon="-0.157795136575" visible="true">
+  <tag k="addr:housenumber" v="15A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744204YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-313" lat="38.8472514022" lon="-0.152731252841" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239635YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-216" lat="38.8479371467" lon="-0.162716320842" visible="true">
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439205YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-221" lat="38.847738747" lon="-0.162511745694" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439907YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-106" lat="38.8754915692" lon="-0.170880731978" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569507YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-92" lat="38.8749156585" lon="-0.171553544706" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469606YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-12" lat="38.8756893585" lon="-0.170446621173" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670105YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-40" lat="38.8536344487" lon="-0.159768489974" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6545604YJ4064N"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-321" lat="38.8469755563" lon="-0.153065894554" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7138801YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-229" lat="38.8483100046" lon="-0.160915169205" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539903YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-208" lat="38.8493667896" lon="-0.163141316989" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440310YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-105" lat="38.8755474317" lon="-0.171466644342" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5470705YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-48" lat="38.8525912093" lon="-0.160047524614" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544715YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-329" lat="38.8471924441" lon="-0.152868554611" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238902YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-127" lat="38.8741123991" lon="-0.171973922279" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469806YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-237" lat="38.8477523858" lon="-0.161103959458" visible="true">
+  <tag k="addr:housenumber" v="89"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539805YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-238" lat="38.8478511616" lon="-0.160755765627" visible="true">
+  <tag k="addr:housenumber" v="90"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539806YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-148" lat="38.8471545728" lon="-0.149518182448" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539703YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-81" lat="38.848155617" lon="-0.15196731463" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339428YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-164" lat="38.847058408" lon="-0.15089943339" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438213YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-179" lat="38.8487599585" lon="-0.159573039645" visible="true">
+  <tag k="addr:housenumber" v="119"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6740209YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-364" lat="38.8478419793" lon="-0.15004412252" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439905YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-246" lat="38.8472483831" lon="-0.161689773321" visible="true">
+  <tag k="addr:housenumber" v="99"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539815YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-278" lat="38.8471635292" lon="-0.15029196154" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438219YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-339" lat="38.8472641627" lon="-0.150737298061" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439925YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-114" lat="38.8731984923" lon="-0.173296702877" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5368205YJ4056N"/>
+  <tag k="addr:street" v="Carrer Sector Uno"/>
+</node>
+<node action="modify" id="-351" lat="38.8478741284" lon="-0.149814112611" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340732YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-187" lat="38.8487190063" lon="-0.160395279394" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6640909YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-372" lat="38.8481205197" lon="-0.150729343782" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339414YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-254" lat="38.8467132523" lon="-0.151916045668" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238943YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-286" lat="38.8471546298" lon="-0.151012867815" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238928YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-113" lat="38.8744507365" lon="-0.173161550593" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5368202YJ4056N"/>
+  <tag k="addr:street" v="Carrer Sector Uno"/>
+</node>
+<node action="modify" id="-195" lat="38.8483688421" lon="-0.162052142531" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440404YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-380" lat="38.8484539666" lon="-0.151289193298" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340708YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-262" lat="38.8466657726" lon="-0.152465763565" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238952YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-294" lat="38.8471605838" lon="-0.15125666193" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238925YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-121" lat="38.877239092" lon="-0.172099225547" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472203YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-39" lat="38.852211606" lon="-0.158494709394" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744216YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-17" lat="38.8757138714" lon="-0.171208144149" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570107YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-203" lat="38.8496646613" lon="-0.16230156172" visible="true">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440302YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-230" lat="38.848747438" lon="-0.159643469837" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6640904YJ5064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-388" lat="38.8485459875" lon="-0.152206755088" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7240802YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-23" lat="38.8476964615" lon="-0.148385367695" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639204YJ4073N"/>
+  <tag k="addr:street" v="carrer la Solana"/>
+</node>
+<node action="modify" id="-55" lat="38.8519074993" lon="-0.159351234506" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544713YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-257" lat="38.8467027769" lon="-0.15203704876" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238945YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-312" lat="38.8472072875" lon="-0.151748724714" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238918YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-172" lat="38.8477093089" lon="-0.159972681654" visible="true">
+  <tag k="addr:housenumber" v="108"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6538909YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-276" lat="38.8472300419" lon="-0.150535320901" visible="true">
+  <tag k="addr:housenumber" v="10A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439923YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-344" lat="38.8477184547" lon="-0.150787249587" visible="true">
+  <tag k="addr:housenumber" v="7D"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239612YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-137" lat="38.8745914253" lon="-0.171600346566" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468602YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-320" lat="38.8471488616" lon="-0.150059685029" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438222YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-62" lat="38.8755848823" lon="-0.169602557914" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669504YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-228" lat="38.8482191978" lon="-0.161294218112" visible="true">
+  <tag k="addr:housenumber" v="78"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539902YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-273" lat="38.8463301738" lon="-0.153073017343" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238701YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-77" lat="38.8479815706" lon="-0.151561695588" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239605YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-236" lat="38.8477274911" lon="-0.161515760592" visible="true">
+  <tag k="addr:housenumber" v="88"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539804YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-94" lat="38.8751459157" lon="-0.171421989673" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569205YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-269" lat="38.8466020666" lon="-0.152706642771" visible="true">
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238707YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-101" lat="38.8748872027" lon="-0.17139670495" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569210YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-126" lat="38.8742267849" lon="-0.171496662643" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5568205YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-389" lat="38.8486356803" lon="-0.15259621512" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7240801YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-178" lat="38.8486178322" lon="-0.159635882727" visible="true">
+  <tag k="addr:housenumber" v="118"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6640808YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-363" lat="38.8480593099" lon="-0.150273019007" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340722YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-245" lat="38.8473853084" lon="-0.161474306033" visible="true">
+  <tag k="addr:housenumber" v="98"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539814YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-277" lat="38.8472363348" lon="-0.150612257958" visible="true">
+  <tag k="addr:housenumber" v="10B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439924YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-132" lat="38.8741869983" lon="-0.171775625821" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468703YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-139" lat="38.8744233943" lon="-0.171306323514" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5568202YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-107" lat="38.8754598033" lon="-0.171482405513" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469601YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-186" lat="38.8499104951" lon="-0.160711326884" visible="true">
+  <tag k="addr:housenumber" v="127"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6641101YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-371" lat="38.8482162573" lon="-0.150666310696" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340717YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-253" lat="38.8467184052" lon="-0.151856467587" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238942YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-159" lat="38.8466562574" lon="-0.150711294634" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438205YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-112" lat="38.8727266615" lon="-0.174813189009" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5168904YJ4056N"/>
+  <tag k="addr:street" v="Carrer Sector Uno"/>
+</node>
+<node action="modify" id="-91" lat="38.8753467873" lon="-0.171440101416" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569203YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-304" lat="38.8472558437" lon="-0.152185228853" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239629YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-11" lat="38.875692298" lon="-0.170484166483" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670104YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-167" lat="38.8471052728" lon="-0.161854679675" visible="true">
+  <tag k="addr:housenumber" v="100"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539816YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-194" lat="38.8483292697" lon="-0.161414413065" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6540807YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-379" lat="38.8482849687" lon="-0.151119858378" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339408YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-297" lat="38.8472635597" lon="-0.151962318666" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239627YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-261" lat="38.8467807183" lon="-0.151157258584" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238932YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-293" lat="38.8472720757" lon="-0.151768420504" visible="true">
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239625YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-120" lat="38.8771676313" lon="-0.172983198447" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472209YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-97" lat="38.8756219852" lon="-0.171458502176" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5470704YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-142" lat="38.8759104469" lon="-0.171431280593" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570103YJ4057S"/>
+  <tag k="addr:street" v="Carrer Villalonga"/>
+</node>
+<node action="modify" id="-343" lat="38.8476034814" lon="-0.150841954444" visible="true">
+  <tag k="addr:housenumber" v="7A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239614YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-336" lat="38.8478306003" lon="-0.150565883897" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339418YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-202" lat="38.8498482045" lon="-0.162198863277" visible="true">
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440401YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-57" lat="38.852462894" lon="-0.158918188338" visible="true">
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544706YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-70" lat="38.8758518733" lon="-0.169815557382" visible="true">
+  <tag k="addr:housenumber" v="7A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670110YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-387" lat="38.8487385623" lon="-0.152389172935" visible="true">
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340701YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-47" lat="38.8524486799" lon="-0.159199383474" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544719YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-332" lat="38.8468853396" lon="-0.152997932483" visible="true">
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238958YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-80" lat="38.8479395744" lon="-0.151202833787" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339420YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-22" lat="38.8477471907" lon="-0.148192649904" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639203YJ4073N"/>
+  <tag k="addr:street" v="carrer la Solana"/>
+</node>
+<node action="modify" id="-54" lat="38.8522128357" lon="-0.15939254537" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544720YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-211" lat="38.849838154" lon="-0.163074882839" visible="true">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6341802YH4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-338" lat="38.8478636798" lon="-0.150421126553" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439931YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-131" lat="38.873653755" lon="-0.172297760107" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469808YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-2" lat="38.8754965434" lon="-0.170342766071" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569511YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-129" lat="38.8739071716" lon="-0.172155979824" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469807YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-311" lat="38.8472376381" lon="-0.152656129292" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239634YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-219" lat="38.8473966283" lon="-0.162632509022" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439208YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-30" lat="38.8523432245" lon="-0.157758937306" visible="true">
+  <tag k="addr:housenumber" v="14A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744219YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-38" lat="38.8517865971" lon="-0.159347406145" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544708YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-319" lat="38.8471938223" lon="-0.152036931034" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238914YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-227" lat="38.848207741" lon="-0.161662745339" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539901YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-96" lat="38.8756290931" lon="-0.1712452408" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569301YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-16" lat="38.8755052789" lon="-0.170542325013" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569504YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-162" lat="38.8470933272" lon="-0.150897602818" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438214YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-212" lat="38.8495936626" lon="-0.163145887866" visible="true">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6341804YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-327" lat="38.8471533893" lon="-0.150131632744" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438221YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-325" lat="38.847203673" lon="-0.152606367636" visible="true">
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238905YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-279" lat="38.8472081438" lon="-0.151059713801" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239619YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-235" lat="38.8476109437" lon="-0.161909577308" visible="true">
+  <tag k="addr:housenumber" v="87"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539803YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-309" lat="38.8472565385" lon="-0.15257632269" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239633YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-349" lat="38.8478399147" lon="-0.149730664241" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340731YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-177" lat="38.8482556923" lon="-0.159549790372" visible="true">
+  <tag k="addr:housenumber" v="116"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6740206YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-52" lat="38.8521659177" lon="-0.159944568369" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544714YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-362" lat="38.8476969635" lon="-0.148988572065" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639206YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-152" lat="38.8473306453" lon="-0.149756742709" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439915YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-85" lat="38.8478320673" lon="-0.151007747024" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239611YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-383" lat="38.8484261379" lon="-0.151628455586" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339402YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-244" lat="38.8474403051" lon="-0.161017039764" visible="true">
+  <tag k="addr:housenumber" v="97"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539813YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-185" lat="38.8493962732" lon="-0.160126371377" visible="true">
+  <tag k="addr:housenumber" v="124"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6641104YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-370" lat="38.8479477975" lon="-0.150300143574" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439901YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-252" lat="38.8467230292" lon="-0.151802698879" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238941YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-284" lat="38.8471851061" lon="-0.150631976241" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438216YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-111" lat="38.8727936808" lon="-0.175099351749" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5168903YJ4056N"/>
+  <tag k="addr:street" v="Carrer Sector Uno"/>
+</node>
+<node action="modify" id="-136" lat="38.8744814237" lon="-0.171505788161" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468502YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-193" lat="38.8484124736" lon="-0.161053611744" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6540806YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-378" lat="38.8482568711" lon="-0.151052893251" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339409YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-260" lat="38.8466502218" lon="-0.15212401781" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238736YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-292" lat="38.8473031945" lon="-0.151683083155" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239624YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-119" lat="38.876917279" lon="-0.172654364011" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472208YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-27" lat="38.8518688151" lon="-0.15757139299" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744208YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-201" lat="38.8497291647" lon="-0.162104457663" visible="true">
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440411YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-386" lat="38.8484917243" lon="-0.152082775116" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7240803YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-342" lat="38.8475529182" lon="-0.150878531256" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239615YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-268" lat="38.8466078777" lon="-0.152644180237" visible="true">
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238708YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-174" lat="38.8484540159" lon="-0.159036926686" visible="true">
+  <tag k="addr:housenumber" v="110"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6739403YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-21" lat="38.8483521336" lon="-0.149178470223" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340726YJ4074S"/>
+  <tag k="addr:street" v="carrer la Solana"/>
+</node>
+<node action="modify" id="-302" lat="38.8471442472" lon="-0.149986900093" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438223YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-170" lat="38.8473259914" lon="-0.160943546358" visible="true">
+  <tag k="addr:housenumber" v="104"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6538905YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-210" lat="38.8497357842" lon="-0.162944948209" visible="true">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440312YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-287" lat="38.8470697263" lon="-0.149913732648" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438224YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-300" lat="38.8472212831" lon="-0.150006873323" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439917YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-6" lat="38.8754461951" lon="-0.170267383987" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569513YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-29" lat="38.8522718258" lon="-0.157565149832" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744206YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-310" lat="38.8472056983" lon="-0.150238557088" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439920YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-308" lat="38.8472595097" lon="-0.152472525114" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239632YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-73" lat="38.8479043052" lon="-0.151322769021" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239608YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-90" lat="38.8750498111" lon="-0.171550506189" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469605YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-318" lat="38.8471969442" lon="-0.151990489155" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238915YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-226" lat="38.8476179522" lon="-0.1620310727" visible="true">
+  <tag k="addr:housenumber" v="76"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439905YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-141" lat="38.8743560611" lon="-0.171372278944" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5568203YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-326" lat="38.8472011535" lon="-0.152665306802" visible="true">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238904YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-214" lat="38.8492125701" lon="-0.163345844453" visible="true">
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6341806YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-234" lat="38.8473767924" lon="-0.162216202221" visible="true">
+  <tag k="addr:housenumber" v="86"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539802YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-328" lat="38.8471952652" lon="-0.152803331948" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238903YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-125" lat="38.8743481236" lon="-0.171682674154" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468606YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-176" lat="38.8484350282" lon="-0.159167176896" visible="true">
+  <tag k="addr:housenumber" v="115"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6740205YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-46" lat="38.8528291329" lon="-0.160068880723" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544701YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-361" lat="38.8477968368" lon="-0.14993482418" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439906YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-243" lat="38.8475229164" lon="-0.160785804992" visible="true">
+  <tag k="addr:housenumber" v="96"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539812YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-275" lat="38.8471352276" lon="-0.149837306925" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438225YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-337" lat="38.8477905315" lon="-0.150500581413" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439930YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-130" lat="38.8743715877" lon="-0.171592276037" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468701YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-165" lat="38.8468416391" lon="-0.150868834047" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238931YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-184" lat="38.8492162163" lon="-0.159970448378" visible="true">
+  <tag k="addr:housenumber" v="123"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6641105YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-153" lat="38.8473626503" lon="-0.149714584123" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439914YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-369" lat="38.8481854546" lon="-0.150586224076" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340718YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-251" lat="38.8467009767" lon="-0.151534982395" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238726YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-157" lat="38.8467020139" lon="-0.150734480813" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438206YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-192" lat="38.8489485909" lon="-0.160782391003" visible="true">
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6540804YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-68" lat="38.8755738028" lon="-0.169898208256" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669403YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-377" lat="38.8483746695" lon="-0.151004372377" visible="true">
+  <tag k="addr:housenumber" v="48A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340712YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-259" lat="38.8466899047" lon="-0.152186381278" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238947YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-291" lat="38.8471565377" lon="-0.15109911327" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238927YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-118" lat="38.8768191145" lon="-0.172413730316" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472207YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-95" lat="38.875084173" lon="-0.171415244274" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569206YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-15" lat="38.8757156656" lon="-0.171260814376" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570106YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-200" lat="38.8495546638" lon="-0.162283238977" visible="true">
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440410YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-45" lat="38.8533526481" lon="-0.160335061528" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6545612YJ4064N"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-385" lat="38.8487137977" lon="-0.151736120522" visible="true">
+  <tag k="addr:housenumber" v="68A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340702YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-267" lat="38.8466143017" lon="-0.152575144612" visible="true">
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238709YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-299" lat="38.8472338825" lon="-0.150072729099" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439918YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-37" lat="38.8520549864" lon="-0.158308071196" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744222YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-356" lat="38.8474265658" lon="-0.147811016531" visible="true">
+  <tag k="addr:housenumber" v="1E"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539722YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-147" lat="38.8474674781" lon="-0.149649393866" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439911YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-20" lat="38.8479434927" lon="-0.148822496998" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639208YJ4073N"/>
+  <tag k="addr:street" v="carrer la Solana"/>
+</node>
+<node action="modify" id="-301" lat="38.8472028755" lon="-0.149950350807" visible="true">
+  <tag k="addr:housenumber" v="2C"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439916YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-209" lat="38.8495528107" lon="-0.163088639202" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440311YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-151" lat="38.8472775351" lon="-0.149643114685" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539704YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-84" lat="38.8480938178" lon="-0.152055284443" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239601YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-28" lat="38.852079416" lon="-0.157628128394" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744207YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-60" lat="38.8757465348" lon="-0.169607760605" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669502YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-263" lat="38.8466600909" lon="-0.152531793714" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238953YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-217" lat="38.8477598584" lon="-0.162683506874" visible="true">
+  <tag k="addr:housenumber" v="64"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439206YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-110" lat="38.8753828322" lon="-0.171126417269" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569510YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-135" lat="38.8741290258" lon="-0.171827724056" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468705YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-143" lat="38.8760277759" lon="-0.171348577156" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570102YJ4057S"/>
+  <tag k="addr:street" v="Carrer Villalonga"/>
+</node>
+<node action="modify" id="-160" lat="38.8465752573" lon="-0.15070283032" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438203YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-36" lat="38.8519712427" lon="-0.15774817548" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744220YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-317" lat="38.8472454262" lon="-0.152909790909" visible="true">
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239637YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-173" lat="38.8484563105" lon="-0.160056102858" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6640907YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-225" lat="38.8480656111" lon="-0.161860276096" visible="true">
+  <tag k="addr:housenumber" v="74"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439903YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-367" lat="38.8478919561" lon="-0.150165120884" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439903YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-347" lat="38.8477834433" lon="-0.14957088123" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340729YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-44" lat="38.8536682999" lon="-0.160797776116" visible="true">
+  <tag k="addr:housenumber" v="31B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6545601YJ4064N"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-75" lat="38.8481834896" lon="-0.151828298304" visible="true">
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339925YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-295" lat="38.8472514145" lon="-0.15185845464" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239626YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-233" lat="38.847276398" lon="-0.162419214882" visible="true">
+  <tag k="addr:housenumber" v="85"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539801YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-1" lat="38.875723319" lon="-0.17139842037" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570104YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-14" lat="38.8757179031" lon="-0.171318783964" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570105YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-100" lat="38.8749419462" lon="-0.171403368731" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569209YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-175" lat="38.8485181697" lon="-0.159003957882" visible="true">
+  <tag k="addr:housenumber" v="114"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6740204YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-360" lat="38.8477583649" lon="-0.149841757004" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439907YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-242" lat="38.8476407341" lon="-0.16030883171" visible="true">
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539811YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-274" lat="38.8467562591" lon="-0.151417981665" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238934YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-4" lat="38.8755083012" lon="-0.170241562923" visible="true">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569512YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-390" lat="38.8477600662" lon="-0.149499700893" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340728YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-183" lat="38.8491007868" lon="-0.159791858473" visible="true">
+  <tag k="addr:housenumber" v="122"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6641107YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-122" lat="38.8747516236" lon="-0.171500524052" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468501YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-368" lat="38.8479164011" lon="-0.15022426467" visible="true">
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439902YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-250" lat="38.8467193716" lon="-0.151318815936" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238729YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-156" lat="38.8471563171" lon="-0.150894236278" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438215YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-89" lat="38.8753855944" lon="-0.171334412508" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569202YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-9" lat="38.8755875225" lon="-0.170701498137" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569502YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-191" lat="38.8488121603" lon="-0.161230543783" visible="true">
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6540802YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-376" lat="38.8482020848" lon="-0.150922995108" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339411YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-258" lat="38.8466968913" lon="-0.152105315429" visible="true">
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238946YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-290" lat="38.847293823" lon="-0.151590715899" visible="true">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239623YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-117" lat="38.8767251722" lon="-0.171863398238" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472204YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-140" lat="38.8744929854" lon="-0.171623978726" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468604YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-305" lat="38.8471664834" lon="-0.151486841496" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238922YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-168" lat="38.8471070798" lon="-0.161702996151" visible="true">
+  <tag k="addr:housenumber" v="101"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6538402YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-199" lat="38.8493611133" lon="-0.162258017652" visible="true">
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440409YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-31" lat="38.8523966214" lon="-0.15771285604" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744205YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-285" lat="38.8471990224" lon="-0.151498325608" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239622YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-384" lat="38.8485490639" lon="-0.151718826422" visible="true">
+  <tag k="addr:housenumber" v="66"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340703YJ4074S"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-335" lat="38.8476375886" lon="-0.1506350237" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439929YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-298" lat="38.847164584" lon="-0.151411462153" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238923YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-124" lat="38.8742838396" lon="-0.171442387478" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5568204YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-289" lat="38.8472008361" lon="-0.150156315827" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439919YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-355" lat="38.8474767815" lon="-0.14833227882" visible="true">
+  <tag k="addr:housenumber" v="1D"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539721YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-58" lat="38.8515760556" lon="-0.159317760758" visible="true">
+  <tag k="addr:housenumber" v="9999"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544709YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-71" lat="38.8758008816" lon="-0.169967871417" visible="true">
+  <tag k="addr:housenumber" v="7B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670109YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-76" lat="38.8479475432" lon="-0.151482619656" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239606YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-104" lat="38.8747652107" lon="-0.17134001611" visible="true">
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569212YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-63" lat="38.8754770585" lon="-0.169635437407" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669505YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-316" lat="38.8472011835" lon="-0.151904479487" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238916YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-43" lat="38.8535244813" lon="-0.160165877215" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6545614YJ4064N"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-324" lat="38.8472127924" lon="-0.15239434789" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238908YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-218" lat="38.84749929" lon="-0.162630726169" visible="true">
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439207YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-146" lat="38.8474166588" lon="-0.149499737396" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539707YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-86" lat="38.8478537078" lon="-0.151086333299" visible="true">
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239610YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-51" lat="38.8527546249" lon="-0.159258291844" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544704YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-359" lat="38.8477215322" lon="-0.14975270219" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439908YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-241" lat="38.8477659783" lon="-0.160118992453" visible="true">
+  <tag k="addr:housenumber" v="94"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539810YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-150" lat="38.8471517207" lon="-0.149707580219" visible="true">
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539701YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-83" lat="38.8482594777" lon="-0.151948997143" visible="true">
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339429YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-3" lat="38.8757165479" lon="-0.171065558067" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570109YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-350" lat="38.8475993975" lon="-0.149249859629" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539709YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-182" lat="38.8489999027" lon="-0.159681579747" visible="true">
+  <tag k="addr:housenumber" v="121"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6740201YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-53" lat="38.8523617422" lon="-0.159454825127" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544718YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-66" lat="38.8754225112" lon="-0.17004745426" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669901YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-266" lat="38.8466211486" lon="-0.152495259649" visible="true">
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238710YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-249" lat="38.846726107" lon="-0.151239900887" visible="true">
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238730YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-281" lat="38.8471733508" lon="-0.15044783265" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438218YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-109" lat="38.8753748896" lon="-0.171481331621" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5469603YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-134" lat="38.8741585707" lon="-0.171799830462" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468704YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-190" lat="38.8488327275" lon="-0.161515370236" visible="true">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6540801YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-375" lat="38.8481747862" lon="-0.150858266465" visible="true">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339412YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-163" lat="38.8468929892" lon="-0.150891623731" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238930YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-116" lat="38.8766690898" lon="-0.17229275603" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472206YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-74" lat="38.8479247038" lon="-0.151403750052" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239607YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-198" lat="38.8488837142" lon="-0.162422662001" visible="true">
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440407YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-33" lat="38.8524322497" lon="-0.157900101465" visible="true">
+  <tag k="addr:housenumber" v="15B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744218YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-265" lat="38.8466493897" lon="-0.152649670055" visible="true">
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238955YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-171" lat="38.8475538033" lon="-0.160155538046" visible="true">
+  <tag k="addr:housenumber" v="107"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6538908YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-354" lat="38.8474491573" lon="-0.148602851024" visible="true">
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539717YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-99" lat="38.8749995274" lon="-0.171408054101" visible="true">
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569208YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-19" lat="38.8757119051" lon="-0.17114874667" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570108YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-35" lat="38.8525525066" lon="-0.158069632437" visible="true">
+  <tag k="addr:housenumber" v="16A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744217YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-207" lat="38.8492173561" lon="-0.16318700432" visible="true">
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440309YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-5" lat="38.8757061566" lon="-0.17101680804" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5570110YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-26" lat="38.8526940198" lon="-0.15822414599" visible="true">
+  <tag k="addr:housenumber" v="10A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744202YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-307" lat="38.8471681661" lon="-0.151552677358" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238921YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-215" lat="38.8486174386" lon="-0.162853690895" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439210YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-65" lat="38.8754533796" lon="-0.169722000313" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669406YJ4057S"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-341" lat="38.847354874" lon="-0.150782442858" visible="true">
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439926YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-155" lat="38.8473873117" lon="-0.149698259249" visible="true">
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439913YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-88" lat="38.8755571943" lon="-0.171270406817" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569307YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-8" lat="38.8756809082" lon="-0.170814345456" visible="true">
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670101YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-34" lat="38.8526088385" lon="-0.158010881667" visible="true">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6744203YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-315" lat="38.8472484767" lon="-0.152818497473" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239636YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-61" lat="38.8756467821" lon="-0.169609594203" visible="true">
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5669503YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Perera"/>
+</node>
+<node action="modify" id="-223" lat="38.8480939921" lon="-0.162641997673" visible="true">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439909YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-78" lat="38.8481549221" lon="-0.151907066273" visible="true">
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339427YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-346" lat="38.8478004146" lon="-0.150679254222" visible="true">
+  <tag k="addr:housenumber" v="9B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339419YJ4073N"/>
+  <tag k="addr:street" v="carrer del Pont"/>
+</node>
+<node action="modify" id="-42" lat="38.8520746699" lon="-0.159210619021" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544707YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-323" lat="38.8472110295" lon="-0.150328649002" visible="true">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439921YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-231" lat="38.8477935482" lon="-0.161435253185" visible="true">
+  <tag k="addr:housenumber" v="83"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539907YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-220" lat="38.8475719396" lon="-0.162550649207" visible="true">
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439906YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-123" lat="38.8744427423" lon="-0.171636451512" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468605YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-50" lat="38.8528632472" lon="-0.159308931324" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6544703YJ4064S"/>
+  <tag k="addr:street" v="Urbanitzaci&#243; l'Atz&#250;bia Pinos"/>
+</node>
+<node action="modify" id="-18" lat="38.87556313" lon="-0.170402712337" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569505YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-331" lat="38.8469431227" lon="-0.152999133837" visible="true">
+  <tag k="addr:housenumber" v="77"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238959YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-358" lat="38.8476890645" lon="-0.149671619821" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439909YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-240" lat="38.8481386965" lon="-0.159923054816" visible="true">
+  <tag k="addr:housenumber" v="93"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6539809YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-272" lat="38.8465883598" lon="-0.152853315161" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238705YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-103" lat="38.8755624951" lon="-0.171018342705" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569501YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-128" lat="38.8743421236" lon="-0.171509896408" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5468702YJ4056N"/>
+  <tag k="addr:street" v="Carrer Quintana"/>
+</node>
+<node action="modify" id="-102" lat="38.874840314" lon="-0.171387206803" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569211YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-181" lat="38.8488671635" lon="-0.159561745221" visible="true">
+  <tag k="addr:housenumber" v="120"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6740211YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-366" lat="38.8478701746" lon="-0.150112438878" visible="true">
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439904YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-205" lat="38.8487129914" lon="-0.162907842559" visible="true">
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440307YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-248" lat="38.8467510585" lon="-0.15147782489" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238935YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-280" lat="38.8472297236" lon="-0.151002034731" visible="true">
+  <tag k="addr:housenumber" v="12A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239640YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-154" lat="38.8473551839" lon="-0.149553686625" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539706YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-303" lat="38.8472583377" lon="-0.152080971015" visible="true">
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239628YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-166" lat="38.8486086108" lon="-0.159835984538" visible="true">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6640906YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-189" lat="38.8511515136" lon="-0.161124764018" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6542801YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-270" lat="38.8465943504" lon="-0.152789227884" visible="true">
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238706YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-283" lat="38.8471820468" lon="-0.150540234075" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438217YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-374" lat="38.848278713" lon="-0.150823639833" visible="true">
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7340715YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-256" lat="38.8467479191" lon="-0.150984583165" visible="true">
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238734YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-288" lat="38.846973194" lon="-0.14991931547" visible="true">
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7438226YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-115" lat="38.8765245545" lon="-0.172068556008" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5472205YJ4057S"/>
+  <tag k="addr:street" v="Carer Sector Dos"/>
+</node>
+<node action="modify" id="-93" lat="38.875205648" lon="-0.171420373719" visible="true">
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5569204YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Pla&#231;a"/>
+</node>
+<node action="modify" id="-13" lat="38.8755623575" lon="-0.170202600106" visible="true">
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=5670107YJ4056N"/>
+  <tag k="addr:street" v="Carrer la Font"/>
+</node>
+<node action="modify" id="-197" lat="38.8486223739" lon="-0.162571227119" visible="true">
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440406YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-382" lat="38.8483793626" lon="-0.151406427876" visible="true">
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7339404YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-79" lat="38.8479180305" lon="-0.151670297302" visible="true">
+  <tag k="addr:housenumber" v="19A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239604YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-158" lat="38.8469291809" lon="-0.150907675676" visible="true">
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238929YJ4073N"/>
+  <tag k="addr:street" v="carrer de la Font"/>
+</node>
+<node action="modify" id="-264" lat="38.8467423669" lon="-0.151049585838" visible="true">
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238733YJ4073N"/>
+  <tag k="addr:street" v="carrer Nou"/>
+</node>
+<node action="modify" id="-296" lat="38.847162235" lon="-0.151321458476" visible="true">
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7238924YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+<node action="modify" id="-353" lat="38.8476596195" lon="-0.149594931138" visible="true">
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439910YJ4073N"/>
+  <tag k="addr:street" v="carrer de los Torres Ordu&#241;a"/>
+</node>
+<node action="modify" id="-145" lat="38.8472860314" lon="-0.149805607907" visible="true">
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7439932YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-224" lat="38.8483289142" lon="-0.162118131714" visible="true">
+  <tag k="addr:housenumber" v="73"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6439902YJ4063N"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-206" lat="38.848878852" lon="-0.163070958324" visible="true">
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=6440308YJ4064S"/>
+  <tag k="addr:street" v="urbanitzaci&#243; Les Bassetes"/>
+</node>
+<node action="modify" id="-149" lat="38.8471813014" lon="-0.149690385234" visible="true">
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7539702YJ4073N"/>
+  <tag k="addr:street" v="carrer Arrabal"/>
+</node>
+<node action="modify" id="-82" lat="38.8480298628" lon="-0.151747478652" visible="true">
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239603YJ4073N"/>
+  <tag k="addr:street" v="carrer Lepanto"/>
+</node>
+<node action="modify" id="-25" lat="38.8478068574" lon="-0.148672880609" visible="true">
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7639207YJ4073N"/>
+  <tag k="addr:street" v="carrer la Solana"/>
+</node>
+<node action="modify" id="-306" lat="38.8472591557" lon="-0.152378825435" visible="true">
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="addr:postcode" v="03786"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7239631YJ4073N"/>
+  <tag k="addr:street" v="carrer Principal"/>
+</node>
+</osm>
