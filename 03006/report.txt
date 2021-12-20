@@ -1,0 +1,98 @@
+Municipality: Alcalalí
+Cadastre name: ALCALALI
+Code: 03006
+Date: 12/19/21
+Options: 03006
+Area: 12,0 km²
+Population: 1524 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/es:Alcalalí
+Wikidata: https://www.wikidata.org/wiki/Q619496
+
+=System info=
+Application version: CatAtom2Osm 1.8.5
+Platform: Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64
+Language: ca_ES
+QGIS version: 2.18.17
+GDAL version: 2.2.3
+CPU count: 4
+CPU frequency: 0,0 Mhz
+Execution time: 10429,4 seconds
+Total memory: 12693,30 MB
+Physical memory usage: 213,79 MB
+Virtual memory usage: 1035,05 MB
+
+=Addresses=
+
+==Input data==
+Source date: 2021-09-10
+Feature count: 1356
+  Type entrance: 758
+  Type parcel: 598
+Postal codes: 4
+Street names: 89
+
+==Process==
+Addresses deleted by street name: 366
+Addresses without house number deleted: 73
+Addresses without associated building deleted: 110
+Addresses belonging to multiple buildings deleted: 163
+'Parcel' addresses not unique for its building deleted: 27
+
+==Conflation==
+OSM addresses : 152
+Addresses rejected because they exist in OSM: 88
+
+==Output data==
+Addresses: 529
+  In entrance nodes: 241
+  In buildings: 288
+  Type addr:street: 466
+  Type addr:place: 63
+
+=Buildings=
+
+==Input data==
+Source date: 2021-09-10
+Feature count: 4391
+  Buildings: 1100
+  Building parts: 2943
+  Swimming pools: 348
+
+==Process==
+Parts outside outline deleted: 41
+Parts with no floors above ground: 18
+Buildings with multipart geometries: 242
+Buildings resulting from splitting multiparts: 546
+Parts merged to the outline: 1045
+Adjacent parts merged: 392
+Invalid geometries deleted: 1
+Close vertices merged: 138
+Topological points created: 342
+Simplified vertices: 5111
+
+==Conflation==
+Buildings/pools in OSM: 882
+  With conflict: 882
+
+==Output data==
+Nodes: 21390
+Ways: 3205
+Relations: 19
+Feature count: 3198
+  Buildings: 1403
+  Buildings parts: 1447
+  Swimming pools: 348
+Building types counter: industrial: 11, office: 2, residential: 1296, yes: 18, retail: 9, ruins: 1, public: 13, barn: 53
+Max. levels above ground (level: # of buildings): 1: 577, 2: 470, 3: 50, 4: 1, 5: 1
+Min. levels below ground (level: # of buildings): 1: 84
+Rustic tasks files: 5
+Urban tasks files: 113
+Buildings without zone: 101
+
+=Problems=
+Fixmes: 6
+  Building parts don't fill the building outline: 6
+Warnings: 1
+  There are 101 buildings without zone, check tasks/missing.osm
+
+https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar
