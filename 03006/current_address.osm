@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-12-19T15:42:38Z" areas="2021-12-19T15:35:39Z"/>
+
+  <node id="1268702811" lat="38.7496140" lon="-0.0416078" version="5" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="name" v="dicost"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1936573601" lat="38.7712337" lon="-0.0092209" version="3" timestamp="2021-10-28T17:20:58Z" changeset="113091625" uid="8278438" user="Jordi MF">
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="03723"/>
+    <tag k="addr:street" v="Calle Salamanca"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia María de la Cruz Pellín Mira"/>
+    <tag k="operator" v="Raquel Ferrer González"/>
+  </node>
+  <node id="2347374657" lat="38.7523496" lon="-0.0436766" version="2" timestamp="2021-03-07T11:21:11Z" changeset="100569718" uid="8278438" user="Jordi MF">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Passeig del Pou"/>
+    <tag k="alt_name" v="Ca Pinet"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="casapinet.alcalali@gmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Casapinet"/>
+    <tag k="contact:phone" v="+34 965 88 42 29"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Restaurant Casa Pinet"/>
+    <tag k="website" v="https://casapinet.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6815119397" lat="38.7496940" lon="-0.0408449" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119398" lat="38.7496472" lon="-0.0406841" version="3" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119399" lat="38.7496562" lon="-0.0408272" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119400" lat="38.7496637" lon="-0.0409419" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119401" lat="38.7496703" lon="-0.0410317" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119409" lat="38.7496977" lon="-0.0409143" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119410" lat="38.7497037" lon="-0.0409939" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119411" lat="38.7497133" lon="-0.0410680" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119412" lat="38.7497297" lon="-0.0411634" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119413" lat="38.7496837" lon="-0.0412448" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119414" lat="38.7496803" lon="-0.0411927" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119415" lat="38.7496774" lon="-0.0411441" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119416" lat="38.7496744" lon="-0.0410935" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer les Penyetes"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119417" lat="38.7496172" lon="-0.0415188" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119418" lat="38.7495700" lon="-0.0413849" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119419" lat="38.7497469" lon="-0.0413175" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119420" lat="38.7496223" lon="-0.0415948" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119421" lat="38.7497436" lon="-0.0414104" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119422" lat="38.7497411" lon="-0.0414715" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815119423" lat="38.7496909" lon="-0.0416043" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Plaça de l'Ajuntament"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815186569" lat="38.7499806" lon="-0.0408616" version="3" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="plaça Placeta Nova"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815186570" lat="38.7500667" lon="-0.0407152" version="3" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="plaça Placeta Nova"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208318" lat="38.7496681" lon="-0.0402910" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208319" lat="38.7496561" lon="-0.0401124" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208320" lat="38.7496481" lon="-0.0400009" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208321" lat="38.7496001" lon="-0.0400066" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208322" lat="38.7496074" lon="-0.0401002" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208323" lat="38.7496194" lon="-0.0402715" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208324" lat="38.7496372" lon="-0.0405397" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815208325" lat="38.7496410" lon="-0.0405976" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284115" lat="38.7491272" lon="-0.0416826" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284116" lat="38.7491580" lon="-0.0417650" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284117" lat="38.7491650" lon="-0.0416966" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284118" lat="38.7491722" lon="-0.0416223" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284119" lat="38.7491811" lon="-0.0415347" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284120" lat="38.7491358" lon="-0.0415733" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2A"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284121" lat="38.7491415" lon="-0.0414839" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284122" lat="38.7491469" lon="-0.0414194" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284123" lat="38.7491533" lon="-0.0413459" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284124" lat="38.7491588" lon="-0.0412733" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284125" lat="38.7492095" lon="-0.0411912" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284126" lat="38.7492178" lon="-0.0410931" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284127" lat="38.7491649" lon="-0.0411951" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284128" lat="38.7491710" lon="-0.0411172" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284129" lat="38.7491794" lon="-0.0410167" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284130" lat="38.7491857" lon="-0.0409427" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284131" lat="38.7491936" lon="-0.0408425" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284132" lat="38.7491987" lon="-0.0407588" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284133" lat="38.7492044" lon="-0.0406825" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284134" lat="38.7492104" lon="-0.0406059" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284135" lat="38.7492166" lon="-0.0405365" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284136" lat="38.7492213" lon="-0.0404836" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284137" lat="38.7492272" lon="-0.0404148" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284138" lat="38.7492236" lon="-0.0410256" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284139" lat="38.7492295" lon="-0.0409565" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284140" lat="38.7492368" lon="-0.0408714" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284141" lat="38.7492410" lon="-0.0408180" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284142" lat="38.7492454" lon="-0.0407586" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284143" lat="38.7492512" lon="-0.0406932" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284144" lat="38.7492586" lon="-0.0406039" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284145" lat="38.7492699" lon="-0.0404559" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284146" lat="38.7492972" lon="-0.0401134" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284147" lat="38.7493026" lon="-0.0400489" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284148" lat="38.7492369" lon="-0.0403123" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284149" lat="38.7492417" lon="-0.0402523" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284150" lat="38.7492469" lon="-0.0401863" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284151" lat="38.7492532" lon="-0.0400975" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284152" lat="38.7492583" lon="-0.0400252" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284153" lat="38.7492637" lon="-0.0399565" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284154" lat="38.7492710" lon="-0.0398665" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284155" lat="38.7492702" lon="-0.0396031" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284156" lat="38.7492629" lon="-0.0394729" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284157" lat="38.7492525" lon="-0.0392755" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Nou"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284160" lat="38.7495636" lon="-0.0394723" version="3" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284161" lat="38.7495509" lon="-0.0393849" version="3" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284162" lat="38.7495421" lon="-0.0392618" version="3" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815284163" lat="38.7495264" lon="-0.0390285" version="3" timestamp="2021-11-01T14:33:26Z" changeset="113239800" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470370" lat="38.7507036" lon="-0.0398613" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470371" lat="38.7506753" lon="-0.0398067" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470372" lat="38.7506536" lon="-0.0397636" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470373" lat="38.7507575" lon="-0.0399685" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470374" lat="38.7507255" lon="-0.0399041" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470375" lat="38.7508010" lon="-0.0400514" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470376" lat="38.7508551" lon="-0.0401547" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470377" lat="38.7507309" lon="-0.0398222" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470378" lat="38.7507682" lon="-0.0398959" version="3" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470379" lat="38.7506920" lon="-0.0397461" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470380" lat="38.7506528" lon="-0.0396676" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815470381" lat="38.7506215" lon="-0.0396071" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sequeret"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815918290" lat="38.7497068" lon="-0.0406239" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815918291" lat="38.7497474" lon="-0.0406151" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815918292" lat="38.7497304" lon="-0.0405596" version="3" timestamp="2021-10-31T01:04:59Z" changeset="113177774" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815918293" lat="38.7497893" lon="-0.0405362" version="3" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926316" lat="38.7498327" lon="-0.0405221" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926317" lat="38.7498901" lon="-0.0405043" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926318" lat="38.7499546" lon="-0.0404878" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926319" lat="38.7500251" lon="-0.0404690" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926320" lat="38.7500787" lon="-0.0404498" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926321" lat="38.7501297" lon="-0.0404915" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926322" lat="38.7501843" lon="-0.0404701" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926323" lat="38.7501407" lon="-0.0404263" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6815926326" lat="38.7502500" lon="-0.0404444" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer d'en Mig"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710766" lat="38.7497305" lon="-0.0417893" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710767" lat="38.7497537" lon="-0.0418517" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710768" lat="38.7498006" lon="-0.0418465" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710769" lat="38.7498019" lon="-0.0419155" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710770" lat="38.7498835" lon="-0.0419412" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710771" lat="38.7499353" lon="-0.0419572" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710772" lat="38.7499839" lon="-0.0419719" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710773" lat="38.7500853" lon="-0.0420176" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710774" lat="38.7501937" lon="-0.0420725" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710775" lat="38.7505222" lon="-0.0422054" version="3" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710779" lat="38.7500321" lon="-0.0418213" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sant Josep"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710780" lat="38.7500887" lon="-0.0417588" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sant Josep"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710781" lat="38.7501177" lon="-0.0417330" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sant Josep"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710782" lat="38.7501439" lon="-0.0417104" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Sant Josep"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710783" lat="38.7499578" lon="-0.0410036" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816710784" lat="38.7500052" lon="-0.0410746" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713985" lat="38.7500189" lon="-0.0411407" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713986" lat="38.7500365" lon="-0.0412263" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713987" lat="38.7500636" lon="-0.0413157" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713988" lat="38.7500663" lon="-0.0411922" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713989" lat="38.7500311" lon="-0.0410059" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713990" lat="38.7500406" lon="-0.0410580" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713991" lat="38.7501057" lon="-0.0412873" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713992" lat="38.7501468" lon="-0.0413619" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713993" lat="38.7501755" lon="-0.0414137" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713996" lat="38.7502123" lon="-0.0414801" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713997" lat="38.7501901" lon="-0.0415083" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713998" lat="38.7502474" lon="-0.0415330" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816713999" lat="38.7502703" lon="-0.0416112" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714000" lat="38.7502867" lon="-0.0415807" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714001" lat="38.7503169" lon="-0.0416116" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714002" lat="38.7503092" lon="-0.0416475" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714003" lat="38.7503440" lon="-0.0416362" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714004" lat="38.7503502" lon="-0.0416841" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714005" lat="38.7503871" lon="-0.0417172" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714006" lat="38.7504189" lon="-0.0417466" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714007" lat="38.7504486" lon="-0.0417714" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714008" lat="38.7504807" lon="-0.0418000" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="6816714009" lat="38.7503790" lon="-0.0416659" version="2" timestamp="2021-04-10T14:13:07Z" changeset="102700573" uid="8339" user="mtmail">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Solo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="7238142629" lat="38.7495592" lon="-0.0412534" version="1" timestamp="2020-02-24T06:50:03Z" changeset="81390287" uid="4695161" user="analucía">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer de l’Hort"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="La Torre"/>
+  </node>
+  <node id="7295389666" lat="38.7499514" lon="-0.0398351" version="3" timestamp="2021-12-11T19:46:06Z" changeset="114828940" uid="13779940" user="paunofu">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Calvari"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Farmàcia"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-13:30,16:00-19:00, Sa 09:30-13:30"/>
+    <tag k="operator" v="Encarnación Moll Mengual"/>
+  </node>
+  <node id="9214272988" lat="38.7506602" lon="-0.0422573" version="1" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="9214272989" lat="38.7504434" lon="-0.0421746" version="1" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="9214272990" lat="38.7503912" lon="-0.0421543" version="1" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="9214272991" lat="38.7503373" lon="-0.0421336" version="1" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="9214272992" lat="38.7502864" lon="-0.0421137" version="1" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="9214272993" lat="38.7500583" lon="-0.0420154" version="1" timestamp="2021-10-31T13:24:53Z" changeset="113192870" uid="13779940" user="paunofu">
+    <tag k="addr:city" v="Alcalalí"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="03728"/>
+    <tag k="addr:street" v="Carrer Porxo"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="name" v="Consultori d'Alcalalí"/>
+    <tag k="name:ca" v="Consultori d'Alcalalí"/>
+    <tag k="name:es" v="Consultorio de Alcalalí"/>
+    <tag k="operator" v="Marina Salud"/>
+    <tag k="phone" v="+34 966 482 296"/>
+  </node>
+  <area id="3600347418">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Alcalalí"/>
+    <tag k="ine:municipio" v="03006"/>
+    <tag k="loc_name" v="Alcanalí"/>
+    <tag k="name" v="Alcalalí"/>
+    <tag k="name:ca" v="Alcalalí"/>
+    <tag k="population" v="1524"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q619496"/>
+    <tag k="wikipedia" v="es:Alcalalí"/>
+  </area>
+
+</osm>
