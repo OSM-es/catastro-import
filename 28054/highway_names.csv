@@ -1,0 +1,275 @@
+DS CEBADILLOS	
+DS PRESA LOS ARROYOS	
+DS VALDECARROS	
+DS DISEMINADO	
+AV ARBOLEDA	Avenida Arboleda
+AV MANUEL MORATIEL IVAN	Avenida Manuel Moratiel Ibán
+AV REYES CATOLICOS	Avenida Reyes Católicos
+AV CASTILLA	Avenida de Castilla
+AV FELIPE II	Avenida de Felipe II
+AV CONSTITUCION	Avenida de la Constitución
+AV FRESNEDA	Avenida de la Fresneda
+AV CIERROS	Avenida de los Cierros
+BO CRUZ	Barrio Cruz
+CL AGUILA	Calle del Águila
+CL ALAMEDA	Calle Alameda
+CL ALFOLI	Calle Alfolí
+CL ALFONSO XIII	Calle Alfonso XIII
+CL ALONDRA	Calle Alondra
+CL AMAPOLAS DE LAS	Calle Amapolas
+CL ANDRES ALMAGUER	Calle Andrés Almaguer
+CL ARIAS MONTANO	Calle Arias Montano
+CL ARROYO DE LAVAR	Calle Arroyo de Lavar
+CL ARTISTAS	Calle Artistas
+CL ATALAYA	Calle Atalaya
+CL AULENCIA	Calle Aulencia
+CL BALTASAR PORREÑO	Calle Baltasar Porreño
+CL BERNABE AVILA	Calle Bernabé Ávila
+CL AVILA	Calle Ávila
+CL BILBAO	Calle Bilbao
+CL CADIZ	Calle Cádiz
+CL BUENAVENTURA MADRIGAL	Calle Buenaventura Madrigal
+CL CALVARIO	Calle Calvario
+CL CAMINO VIEJO	Calle Camino Viejo
+CL CARDENAL CISNEROS	Calle Cardenal Cisneros
+CL CARMEN CABEZUELO	Calle Carmen Cabezuelo
+CL CASTELLANA	Calle Castellana
+CL CATORCE	Calle Catorce
+CL CIGÜEÑA	Calle Cigüeña
+CL CINCO	Calle Cinco
+CL CIPRIANO HERRAN	Calle Cipriano Herrán
+CL CLAVEL DEL	Calle Clavel
+CL COLON	Calle Colón
+CL CONCHA NUÑEZ	Calle Concha Núñez
+CL CONDE CHINCHON	Calle Conde de Chinchón
+CL CUATRO	Calle Cuatro
+CL CORDOBA	Calle Córdoba
+CL DAOIZ VELARDE	Calle Daoíz y Velarde
+CL DIECINUEVE	Calle Diecinueve
+CL DIECIOCHO	Calle Dieciocho
+CL DIECISEIS	Calle Dieciseis
+CL DIECISIETE	Calle Diecisiete
+CL DIEZ	Calle Diez
+CL DOCE	Calle Doce
+CL DOS	Calle Dos
+CL GRECO EL	Calle El Greco
+CL ENEBRO	Calle Enebro
+CL ERAS	Calle Eras
+CL FEDERICO FLIEDNER	Calle Federico Fieldner
+CL FELIPE IV	Calle Felipe IV
+CL FELIPE V	Calle Felipe V
+CL FERNANDO ALVAREZ	Calle de Fernando Álvarez
+CL FERNANDO VI	Calle Fernando VI
+CL FERNANDO VII	Calle Fernando VII
+CL FRAGUAS	Calle Fraguas
+CL FRANCISCO MORA	Calle Francisco Mora
+CL FRANCISCO VALIÑO	Calle Francisco Valiño
+CL FRAY JUAN DE SAN JERONIMO	Calle Fray Juan de San Jerónimo
+CL FRESNO	Calle Fresno
+CL GALARZA	Calle Galarza
+CL GAVIOTA	Calle Gaviota
+CL GOLONDRINA	Calle Golondrina
+CL GRANADA	Calle Granada
+CL GUADIANA	Calle Guadiana
+CL GOMEZ CAMPO	Calle Gómez del Campo
+CL HOSPITAL	Calle Hospital
+CL HUELVA	Calle Huelva
+CL INDEPENDENCIA	Calle Independencia
+CL JAVIER VICENTE MONTERO	Calle Javier Vicente Montero
+CL JOAQUIN PACHECO	Calle Joaquín Pacheco
+CL JOSE DONATE	Calle José Donate
+CL JOSE MANUEL BERTRAN DE LS	Calle José Manuel Beltrán de Lis
+CL JOSE ANDRES	Calle José de Andrés
+CL JUAN HURTADO DE MENDOZA	Calle Juan Hurtado de Mendoza
+CL JUAN AUSTRIA	Calle Juan de Austria
+CL JUAN HERRERA	Calle Juan de Herrera
+CL JULIANA	Calle Juliana
+CL PIÑA LA	Calle La Piña
+CL LICENCIADO ORTE	Calle Licenciado Ortega
+CL LUGO	Calle Lugo
+CL LUIS FABRA	Calle Luis Fabra
+CL MADRESELVA	Calle Madreselva
+CL MADROÑOS LOS	Calle Madroños
+CL MARGARITAS DE LAS	Calle Margaritas
+CL MATIAS LOPEZ	Calle Matías López
+CL MAYOR	Calle Mayor
+CL MIGUEL ANTONA	Calle Miguel Antona
+CL MALAGA	Calle Málaga
+CL NAVARRA	Calle Navarra
+CL NORTE	Calle Norte
+CL NTRA SRA HERRERIA	Calle Nuestra Señora de la Herrería
+CL NUEVE	Calle Nueve
+CL OCHO	Calle Ocho
+CL OESTE	Calle Oeste
+CL ONCE	Calle Once
+CL OVIEDO	Calle Oviedo
+CL PABLO MAYORAL	Calle Pablo Mayoral
+CL PADRE GERARDO GIL	Calle Padre Gerardo Gil
+CL PADRE SIGUENZA	Calle Padre Sigüenza
+CL PADRE WIGFRIDO	Calle Padre Wigfrido
+CL PANADERIA	Calle Panadería
+CL PARQUE DEL	Calle Parque
+CL PERALEJO	Calle Peralejo
+CL PEREGRINAS	Calle Peregrinas
+CL SEGOVIA	Calle Segovia
+CL PEÑA EL REMENDADO	Calle Peña El Remendado
+CL PINAR	Calle Pinar
+CL PIZARRO	Calle Pizarro
+CL PONIENTE	Calle Poniente
+CL PRADOS ENCINA	Calle Prado de las Encinas
+CL PRINCIPAL	Calle Principal
+CL PRINCIPE	Calle Príncipe
+CL QUINCE	Calle Quince
+CM QUINTAMORA	Calle Quintamora
+CL REINA VICTORIA	Calle Reina Victoria
+CL RETAMAR	Calle Retamar
+CL ROMERO	Calle Romero
+CL ROSAS DE LAS	Calle Rosas
+CL RUISEÑOR	Calle Ruiseñor
+CL SAGRADO CORAZON	Calle Sagrado Corazón
+CL SAN ANTONIO	Calle San Antonio
+CL SAN BERNABE	Calle San Bernabé
+CL SAN LORENZO	Calle San Lorenzo
+CL SAN LUIS GONZAGA	Calle San Luis Gonzaga
+CL SANTA ROSA	Calle Santa Rosa
+CL SANTA TERESA	Calle Santa Teresa
+CL STMO SACRAMENTO	Calle Santísimo Sacramento
+CL SEBASTIAN SANTOYO	Calle Sebastián Santoyo
+CL RIO SEGURA	Calle Segura
+CL SEIS	Calle Seis
+CL SEVILLA	Calle Sevilla
+CL SIETE	Calle Siete
+CL SOROLLA	Calle Sorolla
+CL SOTOMORA	Calle Sotomora
+CL SUSAÑA	Calle Susaña
+CL TOMILLO	Calle Tomillo
+CL TRECE	Calle Trece
+CL TREINTA Y CUATRO	Calle Treinta y Cuatro
+CL TREINTA Y NUEVE	Calle Treinta y Nueve
+CL TREINTA Y OCHO	Calle Treinta y Ocho
+CL TREINTA Y SEIS	Calle Treinta y Seis
+CL TREINTA Y SIETE	Calle Treinta y Siete
+CL TREINTA Y DOS	Calle Treinta y dos
+CL TREINTA Y TRES	Calle Treinta y tres
+CL TRES	Calle Tres
+CL TULIPANES DE LOS	Calle Tulipanes
+CL VALENCIA	Calle Valencia
+CL VALLADOLID	Calle Valladolid
+CL VEINTE	Calle Veinte
+CL VEINTICINCO	Calle Veinticinco
+CL VEINTICUATRO	Calle Veinticuatro
+CL VEINTIDOS	Calle Veintidós
+CL VEINTINUEVE	Calle Veintinueve
+CL VEINTIOCHO	Calle Veintiocho
+CL VEINTISIETE	Calle Veintisiete
+CL VEINTISEIS	Calle Veintiséis
+CL VEINTITRES	Calle Veintitrés
+CL VEINTIUNO	Calle Veintiuno
+CL VIRGEN DE BEGOÑA	Calle Virgen de Begoña
+CL VIRGEN DE COVADONGA	Calle Virgen de Covadonga
+CL VIRGEN DE NURIA	Calle Virgen de Nuria
+CL VIRGEN DE LAS NIEVES	Calle Virgen de las Nieves
+CL VIRGEN DEL CARMEN	Calle Virgen del Carmen
+CL VIRGEN JUNCAL	Calle Virgen del Juncal
+CL VIRGEN DE LLUCH	Calle Virgen del Lluch
+CL VIRGEN DEL PINO	Calle Virgen del Pino
+CL VIRGEN DEL REMEDIO	Calle Virgen del Remedio
+CL VICTOR NAVALPOT	Calle Víctor Navalpotro
+CL ZAMORA	Calle Zamora
+CL ALFONSO XII	Calle de Alfonso XII
+CL BAILEN	Calle de Bailén
+CL CARLOS III	Calle de Carlos III
+CL CARLOS V	Calle de Carlos V
+CL CERVANTES	Calle de Cervantes
+CL DON RODRIGO	Calle de Don Rodrigo
+CL FELIPE III	Calle de Felipe III
+CL FERNANDO EL CATOLICO	Calle de Fernando El Católico
+CL ISIDRO RGUEZ	Calle de Isidro Rodríguez
+CL JOSE GARCIA SIÑERIZ	Calle de José García Siñeriz
+CL JUAN GOMEZ	Calle de Juan Gómez
+CL LEPANTO	Calle de Lepanto
+CL LORENZO NIÑO	Calle de Lorenzo Niño
+CL LUIS CABRERA C	Calle de Luis Cabrera de Córdoba
+CL LUIS MUÑOZ	Calle de Luis Muñoz
+CL MADRID	Calle de Madrid
+CL MAGALLANES	Calle de Magallanes
+CL NAVAARMADO	Calle de Navaarmado
+CL QUITERIO LOPEZ	Calle de Quiterio López
+CL SAN IGNACIO	Calle de San Ignacio
+CL SAN ISIDORO	Calle de San Isidoro
+CL SAN JUAN	Calle de San Juan
+CL SAN QUINTIN	Calle de San Quintín
+CL SAN SEBASTIAN	Calle de San Sebastián
+CL ESTACION DE LA	Calle de la Estación
+CL FLORIDA	Calle de la Florida
+CL IGLESIA	Calle de la Iglesia
+CL CEBADILLAS	Calle de las Cebadillas
+CL RIO UR LAS SUER	Calle del Río
+CL SUERTES	Calle de las Suertes
+AV ALCORES DE LOS	Calle de los Alcores
+CL AUSTRIAS DE LOS	Calle de los Austrias
+CL BORBONES DE LOS	Calle de los Borbones
+CL LLANOS DE LOS	Calle de los Llanos
+CL NARDOS LOS	Calle de los Nardos
+CL PINOS DE LOS	Calle de los Pinos
+CL TRASTAMARA DE LOS	Calle de los Trastamara
+CL ACEBO	Calle del Acebo
+CL ARROYO	Calle del Arroyo
+CL AZOR	Calle del Azor
+CL BOSQUE	Calle del Bosque
+CL CURA MONTERO	Calle del Cura Montero
+CL DIVINO VALLES	Calle del Divino Vallés
+CL DOS MAYO	Calle del Dos de Mayo
+CL DUERO	Calle del Duero
+CL EBRO	Calle del Ebro
+CL HALCON	Calle del Halcón
+CL JACINTO DEL	Calle del Jacinto
+CL JUCAR	Calle del Júcar
+CL RIO NERVION	Calle del Nervión
+CL NOGAL	Calle del Nogal
+CL PADRE VILLACASTIN	Calle del Padre Villacastín
+CL PRADO TORNERO	Calle del Prado Tornero
+CL REY	Calle del Rey
+CL ROMERAL	Calle del Romeral
+CL VILLALAR	Calle del Villalar
+CM PERALEJO	Camino de Peralejo a El Escorial
+CR C-600	Carretera/Carrera C-600
+CR ZARZALEJO	Carretera de Zarzalejo
+FN LA QUERENCIA	Finca la Querencia
+PJ PRADO DEL MOLINO	Pasaje Prado del Molino
+PJ LAS SUERTES	Pasaje de Las Suertes
+PJ LOS CACERONES	Pasaje los Cacerones
+PJ CEMENTERIO	Pasaje Cementerio
+PJ ERAS LAS	Pasaje Las Eras
+PJ PRADO NUEVO	Pasaje Prado Nuevo
+PJ PUERTE DEL DEMESON	Pasaje/Pasadizo Puerte del Demeson
+PS ALAMO	Paseo del Álamo
+PZ CONSTITUCION	Plaza Constitución
+PZ ESPAÑA	Plaza de España
+PZ IGLESIA PERALEJO	Plaza de la Iglesia de Peralejo
+PZ BOLOS	Plaza de los Bolos
+PL SECTOR 1 ENSANCHE	Polígono Sector 1 Ensanche
+TR CALLE SEIS	Travesia Calle Seis
+TR ANDRES ALMAGUER	Travesía Andrés Almaguer
+TR PADRE GERARDO GIL	Travesía Padre Gerardo Gil
+TR SEBASTIAN SANTO	Travesía Sebastián Santoyo
+TR LUIS MUÑOZ	Travesía de Luis Muñoz
+UR JUAN DE AUSTRIA	Urbanizacion Juan de Austria
+UR ABETOS LOS	Urbanización Abetos los
+UR ALCOR I	Urbanización Alcor I
+UR ALCOR II	Urbanización Alcor Ii
+UR ALCOR III	Urbanización Alcor Iii
+UR ARROYOS LOS	Urbanización Arroyos los
+UR CHANA	Urbanización Chana
+UR CIERROS LOS	Urbanización Cierros los
+UR CIUDAD BOSQUE	Urbanización Ciudad Bosque
+UR DEHESA OMAÑA	Urbanización Dehesa Omaña
+UR ENCINAR EL	Urbanización Encinar el
+UR FABRA III	Urbanización Fabra Iii
+UR HERREÑO EL	Urbanización Herreño el
+UR MATAS LAS	Urbanización Matas las
+UR PARQUE REAL	Urbanización Parque Real
+UR PINO SOL	Urbanización Pino Sol
+UR PRADO VENTORRO	Calle del Halcón
+UR STA TERESA	Urbanización Sta Teresa
+UR SUERTES	Urbanización Suertes
