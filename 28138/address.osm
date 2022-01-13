@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 2.0.0'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.0.0"/>
+  <tag k="source:date" v="2021-09-10"/>
+</changeset>
+<node id="-35" action="modify" visible="true" lon="-3.6258760406506076" lat="41.02947397736237">
+  <tag k="addr:street" v="Plaza del Parque"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524006VL4472S"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-3.6258658005724635" lat="41.02972857083669">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525504VL4472S"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-3.6249516229687657" lat="41.03085658196386">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626710VL4472N"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-3.624103670952271" lat="41.030457415400896">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524602VL4472S"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-3.6257677857853956" lat="41.03150171100929">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526102VL4472N"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-3.6254464719321113" lat="41.03066405049876">
+  <tag k="addr:street" v="Calle Puerta del Sol"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526409VL4472N"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-3.626102689762572" lat="41.03097214052099">
+  <tag k="addr:street" v="Avenida Braojos"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526501VL4472N"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-3.625520250712812" lat="41.03074726481693">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526410VL4472N"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-3.6252149332186" lat="41.03092454107079">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626713VL4472N"/>
+</node>
+<node id="-109" action="modify" visible="true" lon="-3.624894259754822" lat="41.031905077633745">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627003VL4472N"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-3.6250253789758378" lat="41.030359925082394">
+  <tag k="addr:street" v="Plaza Iglesia"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525301VL4472N"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-3.625321511036789" lat="41.030314598090435">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525308VL4472N"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-3.62467701984785" lat="41.03072314807293">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626510VL4472N"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-3.6253875429337623" lat="41.03067300634481">
+  <tag k="addr:street" v="Calle Puerta del Sol"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526408VL4472N"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-3.625818669234709" lat="41.03113032623871">
+  <tag k="addr:street" v="Calle Callejones"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526011VL4472N"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-3.62451465409843" lat="41.03041013309983">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524601VL4472S"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-3.6252049721437016" lat="41.031081088698706">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626723VL4472N"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-3.62479050251545" lat="41.03073106303887">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626511VL4472N"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-3.6261067776915263" lat="41.02962447938857">
+  <tag k="addr:street" v="Calle Arroyo"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7424605VL4472S"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-3.624878687407617" lat="41.03055485612188">
+  <tag k="addr:street" v="Avenida Braojos"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7625802VL4472N"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-3.625628282220551" lat="41.030861215182966">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526005VL4472N"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-3.6253781416270887" lat="41.03136193687632">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626733VL4472N"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-3.6249131786750914" lat="41.03165391440889">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626702VL4472N"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-3.62472800249629" lat="41.0318247122481">
+  <tag k="addr:street" v="Calle Rentas"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627016VL4472N"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-3.625532216273679" lat="41.03041172016841">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525204VL4472N"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-3.6249027551780326" lat="41.03087496125285">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626709VL4472N"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-3.6257606800091953" lat="41.03114409913167">
+  <tag k="addr:street" v="Calle Callejones"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526012VL4472N"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-3.6244162009360936" lat="41.03057167847726">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626504VL4472N"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-3.6256418017852234" lat="41.03157663989981">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627712VL4472N"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-3.624809218584471" lat="41.03088376487697">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626708VL4472N"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-3.625284681994584" lat="41.03072282823617">
+  <tag k="addr:street" v="Calle Puerta del Sol"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526406VL4472N"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-3.624969383417335" lat="41.03054013278623">
+  <tag k="addr:street" v="Avenida Braojos"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7625803VL4472N"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-3.625542392126888" lat="41.03083856731899">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526412VL4472N"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-3.625504290086714" lat="41.03141576873996">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626735VL4472N"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-3.6249537822481144" lat="41.03226681800518">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627004VL4472N"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-3.624505348094569" lat="41.030568214520216">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626505VL4472N"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-3.6255564527604385" lat="41.03030020980059">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525001VL4472N"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-3.6259640464969327" lat="41.03109650670601">
+  <tag k="addr:street" v="Calle Callejones"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526503VL4472N"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-3.6257178314397365" lat="41.03188115836694">
+  <tag k="addr:street" v="Calle Fuente Honda"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627718VL4472N"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-3.625228554798527" lat="41.03118842067344">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626724VL4472N"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-3.624775305218762" lat="41.03079817801733">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626501VL4472N"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-3.625996529526651" lat="41.029664713963136">
+  <tag k="addr:street" v="Calle Arroyo"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525505VL4472S"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-3.6259877694680385" lat="41.03073486070912">
+  <tag k="addr:street" v="Avenida Braojos"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525102VL4472N"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-3.6256633172884536" lat="41.031027868545095">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526003VL4472N"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-3.6253020364627235" lat="41.03156950900547">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626736VL4472N"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-3.624930356414" lat="41.03169769557654">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626701VL4472N"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-3.6250393175065794" lat="41.03098189150505">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626716VL4472N"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-3.6245604022022784" lat="41.030562505402116">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626506VL4472N"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-3.6257794362587195" lat="41.03095808827152">
+  <tag k="addr:street" v="Calle Callejones"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526004VL4472N"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-3.625685855641364" lat="41.03212542727386">
+  <tag k="addr:street" v="Calle Fuente Honda"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627717VL4472N"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-3.6252186173439873" lat="41.03123886890331">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626725VL4472N"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-3.6247657576013617" lat="41.030970084999815">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626707VL4472N"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-3.62581582953967" lat="41.03006699828182">
+  <tag k="addr:street" v="Calle Arroyo"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7424601VL4472S"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-3.625010327935041" lat="41.031529202038726">
+  <tag k="addr:street" v="Plaza Corral"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626742VL4472N"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-3.625643512087937" lat="41.03019675739191">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525002VL4472N"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-3.625278854216264" lat="41.03084318401572">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526404VL4472N"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-3.6246630467415253" lat="41.03062848983016">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626508VL4472N"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-3.6246190281518933" lat="41.03055642886409">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626507VL4472N"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-3.6253879438219387" lat="41.0310208233415">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526401VL4472N"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-3.625890518781025" lat="41.031033893127876">
+  <tag k="addr:street" v="Calle Callejones"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526009VL4472N"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-3.62557090320543" lat="41.03068449620378">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526007VL4472N"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-3.6252467173958625" lat="41.03125280236429">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626726VL4472N"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-3.6246350139010723" lat="41.03109832032466">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627026VL4472N"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-3.625400908154257" lat="41.02967713128058">
+  <tag k="addr:street" v="Calle C&#225;rcava"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524612VL4472S"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-3.6250408792363005" lat="41.03130889101354">
+  <tag k="addr:street" v="Plaza Corral"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626744VL4472N"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-3.6255680043385308" lat="41.030195647570764">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525307VL4472N"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-3.625230975302051" lat="41.03158364360279">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626738VL4472N"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-3.6252637814915416" lat="41.03320466926391">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627704VL4472N"/>
+</node>
+<node id="-13" action="modify" visible="true" lon="-3.6253935117421467" lat="41.029498270202545">
+  <tag k="addr:street" v="Calle C&#225;rcava"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524611VL4472S"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-3.6251186576871164" lat="41.03005790423192">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524614VL4472S"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-3.6250423119795165" lat="41.0310240271974">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626719VL4472N"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-3.6253293116304643" lat="41.030163946384356">
+  <tag k="addr:street" v="Calle Jard&#237;n"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525303VL4472N"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-3.625507536795504" lat="41.0308859595722">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526413VL4472N"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-3.6252724851574603" lat="41.03081818056832">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526405VL4472N"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-3.624750080188743" lat="41.03111169488081">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626706VL4472N"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-3.6253581585774475" lat="41.03074253995638">
+  <tag k="addr:street" v="Calle Puerta del Sol"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526407VL4472N"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-3.6260769291244728" lat="41.02974946513449">
+  <tag k="addr:street" v="Calle Arroyo"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7424604VL4472S"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-3.6251837670478153" lat="41.03150104242774">
+  <tag k="addr:street" v="Plaza Corral"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626737VL4472N"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-3.6257199916229053" lat="41.02995582819822">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525501VL4472S"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-3.625240620644328" lat="41.0316270612269">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626739VL4472N"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-3.6253113669063373" lat="41.03344420702818">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627702VL4472N"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-3.6236963133060316" lat="41.03060375039913">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627029VL4472N"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-3.625529518094932" lat="41.031148455994305">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526001VL4472N"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-3.62538838644585" lat="41.030147139175575">
+  <tag k="addr:street" v="Calle Jard&#237;n"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525304VL4472N"/>
+</node>
+<node id="-53" action="modify" visible="true" lon="-3.6256329846733175" lat="41.03104737094086">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526013VL4472N"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-3.6254428524480518" lat="41.031195009927636">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626730VL4472N"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-3.6246290552659945" lat="41.03133221212102">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627023VL4472N"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-3.625588006455495" lat="41.028430198544754">
+  <tag k="addr:street" v="Calle C&#225;rcava"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524405VL4472S"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-3.6251130193711223" lat="41.03150259122936">
+  <tag k="addr:street" v="Plaza Corral"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626743VL4472N"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-3.625736247339658" lat="41.02989087989714">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525502VL4472S"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-3.6251067092382967" lat="41.031702414039">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626740VL4472N"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-3.625235172922563" lat="41.03370216230307">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7628402VL4472N"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-3.6253998652584474" lat="41.029959693206095">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525401VL4472S"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-3.6250958594994263" lat="41.03109422869514">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626721VL4472N"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-3.625432956785714" lat="41.03012996105936">
+  <tag k="addr:street" v="Calle Jard&#237;n"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525305VL4472N"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-3.6255497329838535" lat="41.0310650301284">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526002VL4472N"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-3.6254845918873073" lat="41.03118275572927">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626731VL4472N"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-3.6248607440349994" lat="41.03143359421988">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626801VL4472N"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-3.626017605646149" lat="41.02986616905971">
+  <tag k="addr:street" v="Calle Arroyo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7424603VL4472S"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-3.6244148134627694" lat="41.02891214415146">
+  <tag k="addr:street" v="Calle Prado Egido"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524608VL4472S"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-3.625764823750379" lat="41.02982092634343">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525503VL4472S"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-3.6250878967906295" lat="41.03097179743394">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626714VL4472N"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-3.624950935082837" lat="41.03080633773086">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626746VL4472N"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-3.625498760278262" lat="41.02990383832797">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525404VL4472S"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-3.6257468004756164" lat="41.03138779505903">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526101VL4472N"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-3.6255151110922412" lat="41.030099196860476">
+  <tag k="addr:street" v="Calle Jard&#237;n"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525306VL4472N"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-3.6255158669161225" lat="41.03103962681804">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526414VL4472N"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-3.6255554710329596" lat="41.03131100788789">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626732VL4472N"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-3.6249137548479466" lat="41.031529472240905">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626704VL4472N"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-3.6254775101448953" lat="41.02938213393853">
+  <tag k="addr:street" v="Calle C&#225;rcava"/>
+  <tag k="addr:housenumber" v="2Z"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524001VL4472S"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-3.6259920136683634" lat="41.02929765455854">
+  <tag k="addr:street" v="Plaza del Parque"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7524005VL4472S"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-3.6254460161217317" lat="41.030483511999215">
+  <tag k="addr:street" v="Calle Delicias"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525201VL4472N"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-3.6253207861094636" lat="41.03095171087885">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526402VL4472N"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-3.624772858830388" lat="41.030664138301745">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626509VL4472N"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-3.6255944260028685" lat="41.02983221091586">
+  <tag k="addr:street" v="Calle Carlos Ruiz"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7525402VL4472S"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-3.6251478451308774" lat="41.03109494940322">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626722VL4472N"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-3.625866622135967" lat="41.031121544752466">
+  <tag k="addr:street" v="Calle Callejones"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526010VL4472N"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-3.6243560171442284" lat="41.03086305893832">
+  <tag k="addr:street" v="Calle Callejuela"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7627027VL4472N"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-3.625614316260879" lat="41.03079673199751">
+  <tag k="addr:street" v="Calle Corral&#243;n"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7526006VL4472N"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-3.6254332148314155" lat="41.031307947446635">
+  <tag k="addr:street" v="Calle Huertas"/>
+  <tag k="addr:housenumber" v="38D"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626747VL4472N"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-3.624901843807911" lat="41.03160558229275">
+  <tag k="addr:street" v="Calle Peligros"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="28737"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="image" v="http://ovc.catastro.meh.es/OVCServWeb/OVCWcfLibres/OVCFotoFachada.svc/RecuperarFotoFachadaGet?ReferenciaCatastral=7626703VL4472N"/>
+</node>
+</osm>
