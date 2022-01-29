@@ -1,0 +1,1134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 2.4.0'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.4.0"/>
+  <tag k="source:date" v="2021-09-10"/>
+</changeset>
+<node id="-7" action="modify" visible="true" lon="-3.711562033016094" lat="40.39422685551188">
+  <tag k="addr:street" v="Calle del Conde de Vistahermosa"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-3.71414216738231" lat="40.389160320557615">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-3.711601176976292" lat="40.39638933269714">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-148" action="modify" visible="true" lon="-3.7131232146721707" lat="40.39144978021982">
+  <tag k="addr:street" v="Calle de Baleares"/>
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-180" action="modify" visible="true" lon="-3.7159681750299076" lat="40.38743523565991">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-3.7130463366982456" lat="40.3909635838712">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-3.714530781619877" lat="40.39577774872124">
+  <tag k="addr:street" v="Calle Jacinto Verdaguer"/>
+  <tag k="addr:housenumber" v="3D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-3.7094718609605835" lat="40.395014479448456">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-159" action="modify" visible="true" lon="-3.7163305741117254" lat="40.388136519561115">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-191" action="modify" visible="true" lon="-3.713288953653998" lat="40.390305140928426">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-3.714057209870294" lat="40.39119258198098">
+  <tag k="addr:street" v="Calle Enrique Moyano"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-3.7152017257603056" lat="40.3887027818566">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="11B"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-3.706121533983137" lat="40.39457264175293">
+  <tag k="addr:street" v="Avenida del Manzanares"/>
+  <tag k="addr:housenumber" v="180"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-3.7073511343227694" lat="40.393370612958655">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="96"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-138" action="modify" visible="true" lon="-3.7076103760417833" lat="40.393057763179634">
+  <tag k="addr:street" v="Calle de Trif&#243;n Pedrero"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-170" action="modify" visible="true" lon="-3.7165034704805358" lat="40.38734012201265">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-3.7125631297238817" lat="40.482231019277606">
+  <tag k="addr:street" v="Calle Fermin Caballero"/>
+  <tag k="addr:housenumber" v="70"/>
+  <tag k="addr:postcode" v="28034"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-3.7076103760417833" lat="40.393057763179634">
+  <tag k="addr:street" v="Traves&#237;a de Trif&#243;n Pedrero"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-3.715856360230878" lat="40.388504679939665">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-3.711601176976292" lat="40.39638933269714">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-149" action="modify" visible="true" lon="-3.7130106761395796" lat="40.39129137387915">
+  <tag k="addr:street" v="Calle de Baleares"/>
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-181" action="modify" visible="true" lon="-3.7159228711015024" lat="40.387574616407996">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-3.7148110409740536" lat="40.390801349383345">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-3.708631724213605" lat="40.392171051288436">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-3.711514219469099" lat="40.391436808893985">
+  <tag k="addr:street" v="Calle Joaqu&#237;n Mart&#237;nez Borreguero"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-3.7100914682112065" lat="40.39476112470937">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-128" action="modify" visible="true" lon="-3.709310978619997" lat="40.39387746261957">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="82"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-160" action="modify" visible="true" lon="-3.7128145062723363" lat="40.39498076841316">
+  <tag k="addr:street" v="Calle Padre Oltra"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-192" action="modify" visible="true" lon="-3.7156191790993747" lat="40.389954218161506">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-3.7137329485341923" lat="40.39122539045877">
+  <tag k="addr:street" v="Calle Enrique Moyano"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-3.7149070521195746" lat="40.38953024132555">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-3.7126414302556108" lat="40.39259073662017">
+  <tag k="addr:street" v="Calle Mar&#237;a Guerrero"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-3.7072753130684983" lat="40.39334260807071">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="98"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-139" action="modify" visible="true" lon="-3.712711288809991" lat="40.39600915964193">
+  <tag k="addr:street" v="Calle Vicente Mart&#237;n Arias"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-171" action="modify" visible="true" lon="-3.7164512997023595" lat="40.38749792404624">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-3.709771858005899" lat="40.39539915916406">
+  <tag k="addr:street" v="Calle de Esteban de Arteaga"/>
+  <tag k="addr:housenumber" v="6D"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-3.7157794550477794" lat="40.388399700198384">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="21T"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-3.711601176976292" lat="40.39638933269714">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-150" action="modify" visible="true" lon="-3.7153053390941144" lat="40.388116640687066">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-182" action="modify" visible="true" lon="-3.714157782120211" lat="40.390081947701155">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-3.7150386375303186" lat="40.39036356764563">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-3.712559270526348" lat="40.39396463601812">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-3.7114607943111895" lat="40.391325114225204">
+  <tag k="addr:street" v="Calle Joaqu&#237;n Mart&#237;nez Borreguero"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-109" action="modify" visible="true" lon="-3.7143892935568745" lat="40.39676160265892">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-129" action="modify" visible="true" lon="-3.7131648947549643" lat="40.39597068691416">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-161" action="modify" visible="true" lon="-3.71261803923146" lat="40.395256215571365">
+  <tag k="addr:street" v="Calle Padre Oltra"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-193" action="modify" visible="true" lon="-3.713514502310341" lat="40.3897859615049">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-3.7115945373146966" lat="40.394048406433605">
+  <tag k="addr:street" v="Calle del Conde de Vistahermosa"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-3.7114140557587847" lat="40.39266108772171">
+  <tag k="addr:street" v="Calle Fern&#225;n Caballero"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-3.715212551215192" lat="40.38946381561649">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="12B"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-3.7083269819070135" lat="40.39316779094893">
+  <tag k="addr:street" v="Calle del Marqu&#233;s de Jura Real"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-3.7081833899914796" lat="40.3928893935639">
+  <tag k="addr:street" v="Calle Pedro Yag&#252;e"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-140" action="modify" visible="true" lon="-3.7130822323147537" lat="40.39600396721731">
+  <tag k="addr:street" v="Calle Vicente Mart&#237;n Arias"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-172" action="modify" visible="true" lon="-3.716473659943841" lat="40.38770734128749">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-3.7137029115460516" lat="40.39090196974169">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-3.715821500199386" lat="40.388929498273974">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-3.7094410269519464" lat="40.39387294855101">
+  <tag k="addr:street" v="Calle del Parador del Sol"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-151" action="modify" visible="true" lon="-3.7152136715173874" lat="40.388461534839365">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-183" action="modify" visible="true" lon="-3.714611091309941" lat="40.389787388080215">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-3.714651911067647" lat="40.39081728804393">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-3.7126212919860957" lat="40.393921771510115">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="8D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-3.710672385187891" lat="40.39486287188559">
+  <tag k="addr:street" v="Calle Jos&#233; Inzenga"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-3.7069462176176455" lat="40.39390764734036">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="67A"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-130" action="modify" visible="true" lon="-3.7084480338335077" lat="40.39211496920806">
+  <tag k="addr:street" v="Paseo de Santa Mar&#237;a de la Cabeza"/>
+  <tag k="addr:housenumber" v="112B"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-162" action="modify" visible="true" lon="-3.7124105864331587" lat="40.394813706954345">
+  <tag k="addr:street" v="Calle Padre Oltra"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-194" action="modify" visible="true" lon="-3.713314020099498" lat="40.39012363351484">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-13" action="modify" visible="true" lon="-3.7149760778249528" lat="40.39078690552384">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-3.71279342059601" lat="40.39289178404707">
+  <tag k="addr:street" v="Calle Fern&#225;n Caballero"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-3.715622216777775" lat="40.388947213863126">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="13T"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-3.7135905212264513" lat="40.39175276453249">
+  <tag k="addr:street" v="Calle de Miguel Soriano"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-3.7081525157820288" lat="40.3922389605233">
+  <tag k="addr:street" v="Calle Pedro Yag&#252;e"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-141" action="modify" visible="true" lon="-3.7127116687642774" lat="40.395776993520016">
+  <tag k="addr:street" v="Calle Vicente Mart&#237;n Arias"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-173" action="modify" visible="true" lon="-3.7165245427047005" lat="40.387549727412">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-3.714017512724671" lat="40.39050074514919">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-3.7140806557767077" lat="40.38932736843972">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-3.715007376983545" lat="40.39695481065867">
+  <tag k="addr:street" v="Calle de Antonio Leyva"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-152" action="modify" visible="true" lon="-3.715418738651978" lat="40.388501167522904">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-184" action="modify" visible="true" lon="-3.71388297925612" lat="40.390212650098476">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-3.714486827139765" lat="40.390860736461654">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-3.7145449979730736" lat="40.39686225836949">
+  <tag k="addr:street" v="Calle de Fuenlabrada"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-3.7153823059716116" lat="40.39079578051129">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-3.7069513536894245" lat="40.393983008396816">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="67B"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-131" action="modify" visible="true" lon="-3.713514502310341" lat="40.3897859615049">
+  <tag k="addr:street" v="Paseo de Santa Mar&#237;a de la Cabeza"/>
+  <tag k="addr:housenumber" v="140"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-163" action="modify" visible="true" lon="-3.7121838360357464" lat="40.3950444747761">
+  <tag k="addr:street" v="Calle Padre Oltra"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-195" action="modify" visible="true" lon="-3.7147609501768373" lat="40.39013011773098">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-3.708007222530196" lat="40.39329861060623">
+  <tag k="addr:street" v="Traves&#237;a de Trif&#243;n Pedrero"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-3.714525466081287" lat="40.39045815222778">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-3.711463668554807" lat="40.393367094078954">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="22D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-3.7148811796461225" lat="40.389454589863625">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-3.712479930733789" lat="40.39694329456122">
+  <tag k="addr:street" v="Pasaje Montserrat"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-122" action="modify" visible="true" lon="-3.7077450156954077" lat="40.39264729639091">
+  <tag k="addr:street" v="Calle Pedro Yag&#252;e"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-142" action="modify" visible="true" lon="-3.7133081154637844" lat="40.39617113370815">
+  <tag k="addr:street" v="Calle Vicente Mart&#237;n Arias"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-174" action="modify" visible="true" lon="-3.7165787179910983" lat="40.38739208860249">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-3.7135384698556693" lat="40.39091703874783">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-3.7145232276747078" lat="40.388783729281094">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-3.715061980174183" lat="40.39302946789188">
+  <tag k="addr:street" v="Calle de Antonio Leyva"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-153" action="modify" visible="true" lon="-3.7155607959491737" lat="40.388163438944325">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-185" action="modify" visible="true" lon="-3.7138224849024333" lat="40.39030992071695">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="13D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-3.7147801531324784" lat="40.39043135274877">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-3.714605514687744" lat="40.39689226566766">
+  <tag k="addr:street" v="Calle de Fuenlabrada"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-3.7153823059716116" lat="40.39079578051129">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-3.706853994542991" lat="40.394102235115696">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="67C"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-132" action="modify" visible="true" lon="-3.713514502310341" lat="40.3897859615049">
+  <tag k="addr:street" v="Paseo de Santa Mar&#237;a de la Cabeza"/>
+  <tag k="addr:housenumber" v="142"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-164" action="modify" visible="true" lon="-3.7163286627246586" lat="40.38706480633642">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-196" action="modify" visible="true" lon="-3.7150108758640785" lat="40.38997631914773">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-3.707615005118278" lat="40.39318368175753">
+  <tag k="addr:street" v="Traves&#237;a de Trif&#243;n Pedrero"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-3.7107336940493427" lat="40.39238968390626">
+  <tag k="addr:street" v="Calle de Eduardo Marquina"/>
+  <tag k="addr:housenumber" v="32B"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-3.7093297365553037" lat="40.39220542047354">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="52D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-3.7157064255027157" lat="40.38884389906989">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-3.7133579863582473" lat="40.3970724763423">
+  <tag k="addr:street" v="Pasaje Montserrat"/>
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-123" action="modify" visible="true" lon="-3.7134830518330464" lat="40.39613881545312">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-143" action="modify" visible="true" lon="-3.7133632582284832" lat="40.39632153780483">
+  <tag k="addr:street" v="Calle Vicente Mart&#237;n Arias"/>
+  <tag k="addr:housenumber" v="3B"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-175" action="modify" visible="true" lon="-3.7166940533666577" lat="40.38713506538834">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-3.714268268648616" lat="40.3904809981533">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-3.7140317956903806" lat="40.38948695071662">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-3.714257479442275" lat="40.39354302493479">
+  <tag k="addr:street" v="Calle de Antonio Leyva"/>
+  <tag k="addr:housenumber" v="35D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-154" action="modify" visible="true" lon="-3.7150663446956584" lat="40.388289557182375">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-186" action="modify" visible="true" lon="-3.714611091309941" lat="40.389787388080215">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-3.714319562126963" lat="40.39087564384169">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-3.714842349535481" lat="40.39706069657972">
+  <tag k="addr:street" v="Calle de Fuenlabrada"/>
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-3.7156191790993747" lat="40.389954218161506">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-3.7067518841780718" lat="40.394072480668264">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="67D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-133" action="modify" visible="true" lon="-3.7108413970231098" lat="40.39621663901029">
+  <tag k="addr:street" v="Calle de Tomasa Ruiz"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-165" action="modify" visible="true" lon="-3.7159260853086606" lat="40.38773351673994">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-197" action="modify" visible="true" lon="-3.7145567044398766" lat="40.39011345198113">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-3.7095671478714523" lat="40.391843614223696">
+  <tag k="addr:street" v="Calle de Eduardo Marquina"/>
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-3.712735051922962" lat="40.393949268766804">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-3.7149070521195746" lat="40.38953024132555">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-3.7113787590769047" lat="40.396287421283475">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-124" action="modify" visible="true" lon="-3.712733582404091" lat="40.39547496443862">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-144" action="modify" visible="true" lon="-3.7134373989202327" lat="40.396173583866684">
+  <tag k="addr:street" v="Calle Vicente Mart&#237;n Arias"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-176" action="modify" visible="true" lon="-3.7161606404645813" lat="40.38764242843237">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-3.7139856467040455" lat="40.390875539434205">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-3.7147302141977994" lat="40.388837135217514">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-3.715181208984098" lat="40.39167838257531">
+  <tag k="addr:street" v="Calle de Antonio Leyva"/>
+  <tag k="addr:housenumber" v="37A"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-155" action="modify" visible="true" lon="-3.715001798330386" lat="40.38846960192186">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-187" action="modify" visible="true" lon="-3.713603530547758" lat="40.390114284107646">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-3.714228492313014" lat="40.391702829871534">
+  <tag k="addr:street" v="Calle Enrique Moyano"/>
+  <tag k="addr:housenumber" v="2D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-3.7149714666393763" lat="40.39667809390889">
+  <tag k="addr:street" v="Calle de Fuenlabrada"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-3.7148030328595936" lat="40.39162744578303">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-3.706584264005548" lat="40.394100554817406">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="67E"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-134" action="modify" visible="true" lon="-3.710776107055637" lat="40.39629131566041">
+  <tag k="addr:street" v="Calle de Tomasa Ruiz"/>
+  <tag k="addr:housenumber" v="4A"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-166" action="modify" visible="true" lon="-3.7158731935004896" lat="40.38789069683884">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-198" action="modify" visible="true" lon="-3.714360104373374" lat="40.39009556295195">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-3.7129494101776657" lat="40.393629980996565">
+  <tag k="addr:street" v="Calle de Eduardo Marquina"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-3.709562004934958" lat="40.39303913693269">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-3.7157357640313693" lat="40.38867650891969">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-3.711180716217722" lat="40.39610660221557">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-125" action="modify" visible="true" lon="-3.7117205475658124" lat="40.39499431342194">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-145" action="modify" visible="true" lon="-3.712895685378322" lat="40.39384052999396">
+  <tag k="addr:street" v="Calle de Baleares"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-177" action="modify" visible="true" lon="-3.716046944538995" lat="40.387408171124505">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-3.7141576351610097" lat="40.39086105832327">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-3.7145283958626236" lat="40.38925100292285">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-3.7153823059716116" lat="40.39079578051129">
+  <tag k="addr:street" v="Calle de Antonio Leyva"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-156" action="modify" visible="true" lon="-3.716038540873202" lat="40.38803976440608">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-188" action="modify" visible="true" lon="-3.714611091309941" lat="40.389787388080215">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-3.713953532442551" lat="40.39153980141081">
+  <tag k="addr:street" v="Calle Enrique Moyano"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-3.7085792903466652" lat="40.3937221952322">
+  <tag k="addr:street" v="Calle General Serrano Orive"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-3.714862258517543" lat="40.39145590717474">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-3.708230971216683" lat="40.39411433209558">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="78D"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-135" action="modify" visible="true" lon="-3.7109554199218424" lat="40.39629717819415">
+  <tag k="addr:street" v="Calle de Tomasa Ruiz"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-167" action="modify" visible="true" lon="-3.7156736614627928" lat="40.38768372751396">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-199" action="modify" visible="true" lon="-3.708690869575319" lat="40.39511530547222">
+  <tag k="addr:street" v="Calle de San Delf&#237;n"/>
+  <tag k="addr:housenumber" v="4D"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-3.71127133049697" lat="40.392770196287294">
+  <tag k="addr:street" v="Calle de Eduardo Marquina"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-3.709562004934958" lat="40.39303913693269">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-3.715271095062477" lat="40.38903488249687">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-3.711601176976292" lat="40.39638933269714">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-126" action="modify" visible="true" lon="-3.711244192098444" lat="40.39512890758459">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-146" action="modify" visible="true" lon="-3.712895685378322" lat="40.39384052999396">
+  <tag k="addr:street" v="Calle de Baleares"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-178" action="modify" visible="true" lon="-3.7161174897886244" lat="40.38722755258709">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-3.713383632162133" lat="40.3909601520923">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-3.7149456607797395" lat="40.38888833080018">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-3.7128508653726806" lat="40.39622730976796">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-157" action="modify" visible="true" lon="-3.716277972702136" lat="40.388086394540935">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-189" action="modify" visible="true" lon="-3.7135712615164724" lat="40.390238448189066">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-3.714171164482813" lat="40.3913509785542">
+  <tag k="addr:street" v="Calle Enrique Moyano"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-3.714466367878422" lat="40.389435441722995">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-3.714752770381409" lat="40.39129720890461">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-3.7073530723672348" lat="40.39348825965224">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="92"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-136" action="modify" visible="true" lon="-3.707756834535432" lat="40.39290001878398">
+  <tag k="addr:street" v="Calle de Trif&#243;n Pedrero"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-168" action="modify" visible="true" lon="-3.7156213687705764" lat="40.38784134974195">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-200" action="modify" visible="true" lon="-3.708145106065444" lat="40.39499477436613">
+  <tag k="addr:street" v="Calle de San Delf&#237;n"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-3.712790636067884" lat="40.39441559619271">
+  <tag k="addr:street" v="Calle del Conde de Vistahermosa"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-3.7086900895258013" lat="40.39220700468336">
+  <tag k="addr:street" v="Calle Fernando D&#237;az de Mendoza"/>
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-3.7158084820191513" lat="40.38853398557378">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-3.711180716217722" lat="40.39610660221557">
+  <tag k="addr:street" v="Calle de Orgaz"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-127" action="modify" visible="true" lon="-3.7100914682112065" lat="40.39476112470937">
+  <tag k="addr:street" v="Calle Antonio Vicent"/>
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-147" action="modify" visible="true" lon="-3.713070352657916" lat="40.391621278705415">
+  <tag k="addr:street" v="Calle de Baleares"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-179" action="modify" visible="true" lon="-3.7162997764046866" lat="40.38726300494385">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-3.7132125373209566" lat="40.390947693898546">
+  <tag k="addr:street" v="Calle de Eduardo Rivas"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-3.7116463662782357" lat="40.394816881331366">
+  <tag k="addr:street" v="Calle Inmaculada Concepci&#243;n"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-3.714842349535481" lat="40.39706069657972">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-158" action="modify" visible="true" lon="-3.7158166333392617" lat="40.388212761328">
+  <tag k="addr:street" v="Calle del Z&#250;jar"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-190" action="modify" visible="true" lon="-3.7135158047318266" lat="40.38983959353593">
+  <tag k="addr:street" v="Calle del Sorbe"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-3.713845714990564" lat="40.39138235773934">
+  <tag k="addr:street" v="Calle Enrique Moyano"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-53" action="modify" visible="true" lon="-3.7149966427164802" lat="40.388662247980825">
+  <tag k="addr:street" v="Calle del Guadalete"/>
+  <tag k="addr:housenumber" v="11A"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-3.714809724979163" lat="40.39112262126521">
+  <tag k="addr:street" v="Calle Juan P&#233;rez Almeida"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-3.7074193330811487" lat="40.39340208787985">
+  <tag k="addr:street" v="Calle de Antonio L&#243;pez"/>
+  <tag k="addr:housenumber" v="94"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-137" action="modify" visible="true" lon="-3.7076103760417833" lat="40.393057763179634">
+  <tag k="addr:street" v="Calle de Trif&#243;n Pedrero"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="28019"/>
+</node>
+<node id="-169" action="modify" visible="true" lon="-3.7165121308780424" lat="40.38710060689966">
+  <tag k="addr:street" v="Calle del Arlanza"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28019"/>
+  <tag k="entrance" v="yes"/>
+</node>
+</osm>
