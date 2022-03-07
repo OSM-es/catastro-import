@@ -1,0 +1,1241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='Overpass API 0.7.57 93a4d346'>
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-03-07T10:46:26Z" areas="2022-03-07T09:28:27Z"/>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 28045 Colmenar Viejo current_address"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.7.0"/>
+  <tag k="source:date" v="2021-09-11"/>
+  <tag k="source:date:addr" v="2021-09-10"/>
+</changeset>
+<node id="3012964158" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.771713" lat="40.666265"/>
+<node id="6646018943" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7751686" lat="40.6501687"/>
+<node id="7831393703" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.7662742" lat="40.6586982"/>
+<node id="9171664832" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7762771" lat="40.6518371"/>
+<node id="9171710953" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7752009" lat="40.6516024"/>
+<node id="6646018953" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7745732" lat="40.6502094"/>
+<node id="6707881638" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7760173" lat="40.6500387"/>
+<node id="9171664750" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756025" lat="40.6519978"/>
+<node id="9171692575" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7752226" lat="40.6516477"/>
+<node id="3012964159" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7713987" lat="40.6662715"/>
+<node id="6707881610" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765782" lat="40.6502879"/>
+<node id="7831393704" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.766262" lat="40.6587009"/>
+<node id="9552302875" action="modify" visible="true" version="1" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm" lon="-3.7594804" lat="40.6627653"/>
+<node id="6707881619" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7757196" lat="40.6503058"/>
+<node id="6707881639" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758412" lat="40.6500366"/>
+<node id="9171664821" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7764528" lat="40.6518971"/>
+<node id="2876634054" action="modify" visible="true" version="2" timestamp="2014-05-23T19:03:15Z" changeset="22511051" uid="316694" user="Luiyo" lon="-3.7864933" lat="40.6421837"/>
+<node id="3012964160" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7713906" lat="40.6663026"/>
+<node id="6707881634" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7757466" lat="40.6499313"/>
+<node id="7831393705" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7660998" lat="40.6589902"/>
+<node id="9171645713" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7767505" lat="40.651777"/>
+<node id="9171692568" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753283" lat="40.6517917"/>
+<node id="6707881598" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7760891" lat="40.6502515"/>
+<node id="6707881640" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758391" lat="40.6500254"/>
+<node id="9171664847" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.77597" lat="40.651947"/>
+<node id="3012964161" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7720636" lat="40.6664128"/>
+<node id="6707881595" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7763612" lat="40.65027"/>
+<node id="7831393706" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7660344" lat="40.6588295"/>
+<node id="9171645714" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7766875" lat="40.6518208"/>
+<node id="9171692571" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7752456" lat="40.6517177"/>
+<node id="9171698303" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7748741" lat="40.6511354"/>
+<node id="5416402130" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7682482" lat="40.6702753"/>
+<node id="6707881641" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7760884" lat="40.650047"/>
+<node id="9171710956" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751385" lat="40.6515531"/>
+<node id="2876634055" action="modify" visible="true" version="2" timestamp="2014-05-23T19:03:15Z" changeset="22511051" uid="316694" user="Luiyo" lon="-3.7860542" lat="40.6421816"/>
+<node id="3012964166" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7719819" lat="40.6664213"/>
+<node id="6707881596" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.77627" lat="40.6502708"/>
+<node id="7831393707" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7660385" lat="40.6588277"/>
+<node id="9171664838" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7761886" lat="40.6518686"/>
+<node id="9171692566" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7754043" lat="40.6517228"/>
+<node id="6707881615" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer" lon="-3.7771969" lat="40.6504274"/>
+<node id="6707881642" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7760894" lat="40.6499497"/>
+<node id="9171664755" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7755247" lat="40.6519754"/>
+<node id="9171710967" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7750802" lat="40.6514039"/>
+<node id="9171664844" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7760437" lat="40.6519307"/>
+<node id="2876634086" action="modify" visible="true" version="2" timestamp="2014-05-23T19:03:16Z" changeset="22511051" uid="316694" user="Luiyo" lon="-3.786496" lat="40.6426866"/>
+<node id="3012964167" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7722164" lat="40.6665033"/>
+<node id="6707881605" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7768543" lat="40.6504219"/>
+<node id="7831393708" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.7659756" lat="40.6586729"/>
+<node id="6707881633" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7757461" lat="40.6499233"/>
+<node id="6707881643" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7761711" lat="40.6499505"/>
+<node id="3012964168" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:57Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7726172" lat="40.6665044"/>
+<node id="6707881606" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7768523" lat="40.650318"/>
+<node id="7831393709" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7662221" lat="40.6589623"/>
+<node id="9171664746" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756446" lat="40.6519214"/>
+<node id="6707881625" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7759762" lat="40.6502275"/>
+<node id="6707881644" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7761721" lat="40.6499619"/>
+<node id="9171664831" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7762878" lat="40.651948"/>
+<node id="9171710954" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751846" lat="40.6515747"/>
+<node id="3012964169" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7725858" lat="40.6665083"/>
+<node id="6707881631" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7756754" lat="40.650025"/>
+<node id="7831393710" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.7662113" lat="40.6589637"/>
+<node id="9171664760" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7754537" lat="40.6519074"/>
+<node id="6707881629" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758008" lat="40.6502278"/>
+<node id="6707881645" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7762669" lat="40.6499619"/>
+<node id="9171692563" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753351" lat="40.6518586"/>
+<node id="9171698290" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7750246" lat="40.6513288"/>
+<node id="9171664822" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7764032" lat="40.6518981"/>
+<node id="3012964170" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7720769" lat="40.6665136"/>
+<node id="6707881630" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7757186" lat="40.6502254"/>
+<node id="8012992123" action="modify" visible="true" version="1" timestamp="2020-10-16T10:37:09Z" changeset="92577432" uid="6389" user="Jes&#250;s G&#243;mez" lon="-3.7539461" lat="40.6572566">
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:country" v="ES"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:province" v="Madrid"/>
+  <tag k="addr:street" v="Avenida de los Reyes"/>
+  <tag k="email" v="pharmamar@pharmamar.com"/>
+  <tag k="entrance" v="main"/>
+  <tag k="name" v="PharmaMar"/>
+  <tag k="office" v="research"/>
+  <tag k="phone" v="+34 91 846 6000"/>
+  <tag k="website" v="https://pharmamar.com"/>
+</node>
+<node id="6707881613" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7770064" lat="40.6504109"/>
+<node id="6707881646" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7762657" lat="40.6499757"/>
+<node id="9171664858" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7758399" lat="40.6520314"/>
+<node id="3012964171" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7719958" lat="40.666519"/>
+<node id="6707881628" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7757995" lat="40.6502186"/>
+<node id="8820033157" action="modify" visible="true" version="1" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.7662659" lat="40.6587349"/>
+<node id="9171664856" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7758841" lat="40.651949"/>
+<node id="9171710966" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7750517" lat="40.6514121"/>
+<node id="6707881632" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7756727" lat="40.6499245"/>
+<node id="6707881647" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7764309" lat="40.6499745"/>
+<node id="9171664743" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.775687" lat="40.652008"/>
+<node id="3012964172" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7718581" lat="40.66653"/>
+<node id="6707881626" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758938" lat="40.6502272"/>
+<node id="9171664841" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.776092" lat="40.6520182"/>
+<node id="6707881608" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766726" lat="40.6502988"/>
+<node id="6707881648" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7764324" lat="40.6500763"/>
+<node id="9171664748" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756416" lat="40.6520111"/>
+<node id="3012964173" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7727311" lat="40.6665604"/>
+<node id="6707881624" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7759771" lat="40.6503223"/>
+<node id="9171655817" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7765976" lat="40.6517964"/>
+<node id="9171698302" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7750246" lat="40.6511189"/>
+<node id="6707881590" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7763618" lat="40.6503584"/>
+<node id="6707881649" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7762659" lat="40.6500719"/>
+<node id="9171664837" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7761913" lat="40.651951"/>
+<node id="3012964174" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:57Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7726247" lat="40.6665669"/>
+<node id="6707881621" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758003" lat="40.6503211"/>
+<node id="9171645709" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7766821" lat="40.6518045"/>
+<node id="9171664749" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756012" lat="40.6520151"/>
+<node id="6707881587" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7762693" lat="40.6503583"/>
+<node id="6707881650" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7762659" lat="40.6500581"/>
+<node id="9171664753" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756414" lat="40.6519022"/>
+<node id="9171698297" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749595" lat="40.6512125"/>
+<node id="3012964175" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.772592" lat="40.6665702"/>
+<node id="6707881618" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7772637" lat="40.6503338"/>
+<node id="9171692560" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7754843" lat="40.651837"/>
+<node id="9171698291" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7750137" lat="40.6512989"/>
+<node id="6707881637" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.77602" lat="40.6499398"/>
+<node id="6707881651" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.776171" lat="40.6500584"/>
+<node id="9171664829" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763254" lat="40.6519246"/>
+<node id="3012964176" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:57Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7723351" lat="40.6665874"/>
+<node id="6707881614" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7770081" lat="40.6504274"/>
+<node id="9171664842" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.776092" lat="40.6520426"/>
+<node id="9171692574" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753283" lat="40.6516055"/>
+<node id="6707881594" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7763612" lat="40.6502821"/>
+<node id="6707881652" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7761713" lat="40.650048"/>
+<node id="9171664752" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7755743" lat="40.6519012"/>
+<node id="3098749344" action="modify" visible="true" version="2" timestamp="2018-06-09T17:38:35Z" changeset="59696047" uid="1773299" user="Iv&#225;n_" lon="-3.7745586" lat="40.6664246"/>
+<node id="6707881612" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7769242" lat="40.6504112"/>
+<node id="9171664827" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.776371" lat="40.6519185"/>
+<node id="9171710957" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7752687" lat="40.6515037"/>
+<node id="6707881603" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766721" lat="40.6504115"/>
+<node id="6707881653" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7768463" lat="40.6501291"/>
+<node id="9171645707" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7767639" lat="40.6516875"/>
+<node id="9171664745" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756454" lat="40.6520324"/>
+<node id="9171710964" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7750883" lat="40.6514769"/>
+<node id="3098749352" action="modify" visible="true" version="2" timestamp="2018-06-09T17:38:35Z" changeset="59696047" uid="1773299" user="Iv&#225;n_" lon="-3.7743982" lat="40.666548"/>
+<node id="6707881601" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765776" lat="40.6504013"/>
+<node id="9171664850" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7760035" lat="40.6520446"/>
+<node id="9171710961" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751222" lat="40.6515273"/>
+<node id="6707881600" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765088" lat="40.6504011"/>
+<node id="6707881654" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7768488" lat="40.6500381"/>
+<node id="9171664836" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7762382" lat="40.651948"/>
+<node id="9171710955" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751575" lat="40.6515839"/>
+<node id="3098749353" action="modify" visible="true" version="2" timestamp="2018-06-09T17:38:35Z" changeset="59696047" uid="1773299" user="Iv&#225;n_" lon="-3.774737" lat="40.666558"/>
+<node id="6707881599" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765078" lat="40.6502885"/>
+<node id="9171664742" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7757326" lat="40.652005"/>
+<node id="6646018939" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer" lon="-3.7755035" lat="40.6502581"/>
+<node id="6707881655" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7767663" lat="40.6500418"/>
+<node id="9171664854" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7759311" lat="40.6520589"/>
+<node id="9171698289" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7751249" lat="40.6512887"/>
+<node id="3098749354" action="modify" visible="true" version="2" timestamp="2018-06-09T17:38:35Z" changeset="59696047" uid="1773299" user="Iv&#225;n_" lon="-3.7745766" lat="40.6666814"/>
+<node id="6707881597" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.776268" lat="40.6502505"/>
+<node id="9171664817" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7764917" lat="40.6518747"/>
+<node id="9171698299" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749432" lat="40.6511837"/>
+<node id="6646018954" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7745802" lat="40.6503051"/>
+<node id="6707881656" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7767658" lat="40.6500304"/>
+<node id="9171664818" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7764474" lat="40.6518717"/>
+<node id="9171710962" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751982" lat="40.6513936"/>
+<node id="4314667691" action="modify" visible="true" version="2" timestamp="2016-10-17T15:23:11Z" changeset="42962129" uid="369657" user="fpedrera" lon="-3.7779179" lat="40.6468752"/>
+<node id="6707881591" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7763618" lat="40.6503795"/>
+<node id="9171645712" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7767505" lat="40.6517862"/>
+<node id="9171698296" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749771" lat="40.6512403"/>
+<node id="6707881609" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765769" lat="40.6502983"/>
+<node id="6707881657" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766714" lat="40.6500316"/>
+<node id="9171655819" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7766775" lat="40.651715"/>
+<node id="9171698304" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749053" lat="40.651123"/>
+<node id="4314667692" action="modify" visible="true" version="1" timestamp="2016-07-21T17:41:18Z" changeset="40927909" uid="2791750" user="Alvaro Fern&#225;ndez-Llebrez Panizzoli" lon="-3.7778186" lat="40.6468751"/>
+<node id="6646018956" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7749328" lat="40.6502041"/>
+<node id="9171664758" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7754845" lat="40.6519267"/>
+<node id="9171692577" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7752212" lat="40.6516878"/>
+<node id="6707881627" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758935" lat="40.6502188"/>
+<node id="6707881658" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766695" lat="40.6500196"/>
+<node id="9171645701" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7768444" lat="40.6516855"/>
+<node id="9171664833" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763671" lat="40.6518403"/>
+<node id="4314667693" action="modify" visible="true" version="2" timestamp="2016-10-17T15:23:11Z" changeset="42962129" uid="369657" user="fpedrera" lon="-3.7778106" lat="40.646635"/>
+<node id="6646018944" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7750425" lat="40.6501669"/>
+<node id="9171664744" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7756937" lat="40.6520334"/>
+<node id="6707881586" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7762706" lat="40.6503459"/>
+<node id="6707881659" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765728" lat="40.6500216"/>
+<node id="9171655818" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7765949" lat="40.6517119"/>
+<node id="9171710959" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751263" lat="40.6514893"/>
+<node id="4314667694" action="modify" visible="true" version="2" timestamp="2016-10-17T15:23:11Z" changeset="42962129" uid="369657" user="fpedrera" lon="-3.7779165" lat="40.646636"/>
+<node id="5416402131" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7682769" lat="40.6702843"/>
+<node id="9171664849" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7760048" lat="40.6520192"/>
+<node id="9171698294" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7750951" lat="40.6512352"/>
+<node id="6707836583" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7760902" lat="40.6503249"/>
+<node id="6707881660" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765731" lat="40.6500004"/>
+<node id="9171645706" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7767639" lat="40.651776"/>
+<node id="9171645711" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7767264" lat="40.6517862"/>
+<node id="4314667695" action="modify" visible="true" version="2" timestamp="2016-10-17T15:23:11Z" changeset="42962129" uid="369657" user="fpedrera" lon="-3.7779178" lat="40.6467144"/>
+<node id="5416402129" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7682717" lat="40.6702319"/>
+<node id="9171645715" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7766405" lat="40.6518198"/>
+<node id="2876634087" action="modify" visible="true" version="2" timestamp="2014-05-23T19:03:16Z" changeset="22511051" uid="316694" user="Luiyo" lon="-3.7860542" lat="40.6426845"/>
+<node id="6707881593" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7764339" lat="40.6502828"/>
+<node id="6707881661" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765051" lat="40.6500046"/>
+<node id="9171645705" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.776772" lat="40.6517709"/>
+<node id="9171692561" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753867" lat="40.651871"/>
+<node id="9171698305" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7748808" lat="40.6510942"/>
+<node id="4314667696" action="modify" visible="true" version="2" timestamp="2016-10-17T15:23:11Z" changeset="42962129" uid="369657" user="fpedrera" lon="-3.7779179" lat="40.6468039"/>
+<node id="5416402128" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7681531" lat="40.6701949"/>
+<node id="9171664848" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7759713" lat="40.6520182"/>
+<node id="9171692572" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7752633" lat="40.6517475"/>
+<node id="9171710952" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7753039" lat="40.6515654"/>
+<node id="3012964140" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7725323" lat="40.6660626"/>
+<node id="6707836584" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7761738" lat="40.6503261"/>
+<node id="6707881662" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765062" lat="40.6501012"/>
+<node id="9171664857" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7758426" lat="40.6520609"/>
+<node id="9171692573" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7752917" lat="40.6517362"/>
+<node id="4555932706" action="modify" visible="true" version="2" timestamp="2022-03-05T14:00:53Z" changeset="118127427" uid="491515" user="robertogeb" lon="-3.7657009" lat="40.6589817"/>
+<node id="4692647542" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7857473" lat="40.6481121"/>
+<node id="9171645708" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7766767" lat="40.6517007"/>
+<node id="9171664757" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7754832" lat="40.6519572"/>
+<node id="3012964141" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:56Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7722736" lat="40.6660757"/>
+<node id="6707881636" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758392" lat="40.6499394"/>
+<node id="6707881663" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765766" lat="40.6501014"/>
+<node id="9171710968" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7750571" lat="40.651371"/>
+<node id="4555932707" action="modify" visible="true" version="1" timestamp="2016-12-15T18:23:09Z" changeset="44429886" uid="2245342" user="cirdancarpintero" lon="-3.7655119" lat="40.6590637"/>
+<node id="4692647543" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7859846" lat="40.6480195"/>
+<node id="9171645702" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7769315" lat="40.6516824"/>
+<node id="9171645703" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7768028" lat="40.6517943"/>
+<node id="9171664819" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7764407" lat="40.6517547"/>
+<node id="9171710965" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751087" lat="40.6514636"/>
+<node id="3012964142" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7716879" lat="40.6661416"/>
+<node id="6646018941" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7750425" lat="40.6504486"/>
+<node id="6707881664" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765766" lat="40.6501106"/>
+<node id="9171664855" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7758935" lat="40.6520609"/>
+<node id="4555932709" action="modify" visible="true" version="2" timestamp="2022-03-05T14:00:53Z" changeset="118127427" uid="491515" user="robertogeb" lon="-3.7658131" lat="40.6590878"/>
+<node id="4692647545" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7856661" lat="40.6479961"/>
+<node id="9171692562" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753663" lat="40.6518473"/>
+<node id="3012964143" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7721107" lat="40.6661569"/>
+<node id="6707881620" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758003" lat="40.650306"/>
+<node id="6707881665" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766742" lat="40.6501099"/>
+<node id="9171664826" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7764429" lat="40.6517923"/>
+<node id="9171698306" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749934" lat="40.65105"/>
+<node id="9171692576" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.775247" lat="40.6516734"/>
+<node id="4555932710" action="modify" visible="true" version="1" timestamp="2016-12-15T18:23:09Z" changeset="44429886" uid="2245342" user="cirdancarpintero" lon="-3.7654425" lat="40.6592327"/>
+<node id="4776670485" action="modify" visible="true" version="2" timestamp="2017-05-17T02:48:02Z" changeset="48749580" uid="220932" user="mor" lon="-3.7761065" lat="40.6643458"/>
+<node id="9171664846" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7760443" lat="40.6519459"/>
+<node id="3012964144" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:56Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7722833" lat="40.6661567"/>
+<node id="6646018955" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7749421" lat="40.650298"/>
+<node id="6707881666" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766733" lat="40.6501217"/>
+<node id="9171664835" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7762422" lat="40.6519785"/>
+<node id="9171698298" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7750626" lat="40.6511724"/>
+<node id="4555932711" action="modify" visible="true" version="1" timestamp="2016-12-15T18:23:09Z" changeset="44429886" uid="2245342" user="cirdancarpintero" lon="-3.7653947" lat="40.6591356"/>
+<node id="4692647544" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7859068" lat="40.647902"/>
+<node id="9171664828" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763415" lat="40.6519205"/>
+<node id="9171710958" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7752307" lat="40.6514471"/>
+<node id="3012964145" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7718632" lat="40.6661756"/>
+<node id="6707881607" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766731" lat="40.6503207"/>
+<node id="6707881667" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.776765" lat="40.6501207"/>
+<node id="9171664754" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7755618" lat="40.6519764"/>
+<node id="9171692569" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7752999" lat="40.6517979"/>
+<node id="4555932712" action="modify" visible="true" version="1" timestamp="2016-12-15T18:23:09Z" changeset="44429886" uid="2245342" user="cirdancarpintero" lon="-3.7655116" lat="40.6590955"/>
+<node id="4776670483" action="modify" visible="true" version="3" timestamp="2021-11-11T15:03:05Z" changeset="113656503" uid="14172572" user="zollejm" lon="-3.7759789" lat="40.6650672"/>
+<node id="9171664824" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763723" lat="40.6518768"/>
+<node id="3012964146" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7715168" lat="40.6661808"/>
+<node id="6707881592" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7764334" lat="40.6503798"/>
+<node id="6707881668" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7767663" lat="40.6501297"/>
+<node id="9171645704" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7768041" lat="40.651774"/>
+<node id="9171664825" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763602" lat="40.6517923"/>
+<node id="9171692570" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.775369" lat="40.6516683"/>
+<node id="4555932713" action="modify" visible="true" version="1" timestamp="2016-12-15T18:23:09Z" changeset="44429886" uid="2245342" user="cirdancarpintero" lon="-3.7654872" lat="40.6590754"/>
+<node id="4776670486" action="modify" visible="true" version="3" timestamp="2021-11-11T15:03:05Z" changeset="113656503" uid="14172572" user="zollejm" lon="-3.7762685" lat="40.6643847"/>
+<node id="9171664845" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7761322" lat="40.6519307"/>
+<node id="3012964147" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7726896" lat="40.6661785"/>
+<node id="6707881604" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7766731" lat="40.6504241"/>
+<node id="6707881669" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7769218" lat="40.650144"/>
+<node id="9171664839" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7762801" lat="40.6518687"/>
+<node id="4557513211" action="modify" visible="true" version="1" timestamp="2016-12-16T17:54:13Z" changeset="44453238" uid="2245342" user="cirdancarpintero" lon="-3.765403" lat="40.6591525"/>
+<node id="5416402125" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7680853" lat="40.6702603"/>
+<node id="9171664853" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7759338" lat="40.6520416"/>
+<node id="3012964148" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7725987" lat="40.666186"/>
+<node id="6707881635" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7758387" lat="40.6499277"/>
+<node id="6707881670" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7772612" lat="40.6501434"/>
+<node id="9171664759" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7754551" lat="40.6519287"/>
+<node id="4570848380" action="modify" visible="true" version="2" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm" lon="-3.7593488" lat="40.6623834"/>
+<node id="5416402124" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7681116" lat="40.6702685"/>
+<node id="9171630116" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.776493" lat="40.6518483"/>
+<node id="9171664859" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7757943" lat="40.6520355"/>
+<node id="9171710963" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7750707" lat="40.6514461"/>
+<node id="3012964149" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7714772" lat="40.6661962"/>
+<node id="6707881617" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7772651" lat="40.6504349"/>
+<node id="6707881671" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7772631" lat="40.6500448"/>
+<node id="9171664761" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7755703" lat="40.6518616"/>
+<node id="9171692565" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7754423" lat="40.6517794"/>
+<node id="9171698301" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7748958" lat="40.6511621"/>
+<node id="4570848381" action="modify" visible="true" version="2" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm" lon="-3.758967" lat="40.6624759"/>
+<node id="5416402127" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7681443" lat="40.6702112"/>
+<node id="9171692564" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753121" lat="40.6518267"/>
+<node id="9171710969" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751643" lat="40.6513288"/>
+<node id="3012964150" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7721781" lat="40.6662045"/>
+<node id="6707881611" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7769208" lat="40.6503305"/>
+<node id="6707881672" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7769207" lat="40.650048"/>
+<node id="9171664751" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7755609" lat="40.6519958"/>
+<node id="9171692567" action="modify" visible="true" version="1" timestamp="2021-10-14T12:09:29Z" changeset="112501120" uid="14172572" user="zollejm" lon="-3.7753053" lat="40.6517588"/>
+<node id="9171710960" action="modify" visible="true" version="1" timestamp="2021-10-14T12:11:20Z" changeset="112501193" uid="14172572" user="zollejm" lon="-3.7751507" lat="40.651515"/>
+<node id="9171664851" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7759485" lat="40.6520212"/>
+<node id="4570848382" action="modify" visible="true" version="2" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm" lon="-3.759083" lat="40.6627578"/>
+<node id="5416402126" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7681167" lat="40.6702025"/>
+<node id="9171630115" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7765332" lat="40.6518483"/>
+<node id="3012964151" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7721199" lat="40.6662107"/>
+<node id="6707881602" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7765776" lat="40.6504129"/>
+<node id="7831393688" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.766223" lat="40.6589954"/>
+<node id="9171664820" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7765292" lat="40.6517547"/>
+<node id="4570848383" action="modify" visible="true" version="2" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm" lon="-3.7593406" lat="40.6628963"/>
+<node id="4692647547" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7861442" lat="40.6478145"/>
+<node id="9171664747" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7757339" lat="40.6519246"/>
+<node id="3012964152" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:57Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7714456" lat="40.6662106"/>
+<node id="6646018942" action="modify" visible="true" version="1" timestamp="2019-07-25T08:16:31Z" changeset="72632284" uid="435046" user="escaiguolquer" lon="-3.7751616" lat="40.6504415"/>
+<node id="7831393689" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7662171" lat="40.6588804"/>
+<node id="9171664852" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7759485" lat="40.6520426"/>
+<node id="9171698295" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749514" lat="40.6512506"/>
+<node id="4570848384" action="modify" visible="true" version="2" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm" lon="-3.7594839" lat="40.6626903"/>
+<node id="5416402123" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7680919" lat="40.6703047"/>
+<node id="9171698292" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.774988" lat="40.6513113"/>
+<node id="3012964153" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7718696" lat="40.6662272"/>
+<node id="6646018937" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer" lon="-3.7753706" lat="40.6505236"/>
+<node id="7831393690" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7662714" lat="40.6588724"/>
+<node id="9171664840" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7761282" lat="40.6520161"/>
+<node id="9171698300" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749161" lat="40.651195"/>
+<node id="9171664843" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7760478" lat="40.6520436"/>
+<node id="4692647538" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7855347" lat="40.6482296"/>
+<node id="4776670484" action="modify" visible="true" version="2" timestamp="2017-05-17T02:48:02Z" changeset="48749580" uid="220932" user="mor" lon="-3.7758246" lat="40.6650352"/>
+<node id="9171645700" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7768471" lat="40.6517943"/>
+<node id="3012964154" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7718212" lat="40.6662326"/>
+<node id="6707881616" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer" lon="-3.7771969" lat="40.6504367"/>
+<node id="7831393691" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7662691" lat="40.6588206"/>
+<node id="9171664830" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763267" lat="40.651947"/>
+<node id="4692647539" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7854555" lat="40.6481157"/>
+<node id="4776670487" action="modify" visible="true" version="3" timestamp="2021-11-11T15:03:05Z" changeset="113656503" uid="14172572" user="zollejm" lon="-3.7761392" lat="40.6646903"/>
+<node id="9171645698" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7768873" lat="40.6517669"/>
+<node id="9171645716" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7766392" lat="40.6517933"/>
+<node id="3012964155" action="modify" visible="true" version="1" timestamp="2014-08-12T19:16:57Z" changeset="24708957" uid="436572" user="Pelanas" lon="-3.7714178" lat="40.666236"/>
+<node id="6646018940" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer" lon="-3.7753633" lat="40.6502598"/>
+<node id="7831393700" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.7662273" lat="40.6586191"/>
+<node id="9171664860" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7757997" lat="40.6519531"/>
+<node id="4692647540" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7856855" lat="40.6480256"/>
+<node id="5416402122" action="modify" visible="true" version="1" timestamp="2018-02-16T12:13:08Z" changeset="56412115" uid="7526377" user="Rub&#233;n Corral Garc&#237;a" lon="-3.7682407" lat="40.6703511"/>
+<node id="9171645699" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7768927" lat="40.6517943"/>
+<node id="9171645710" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7767264" lat="40.6518045"/>
+<node id="3012964156" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7726072" lat="40.6662468"/>
+<node id="6707881585" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer" lon="-3.7761734" lat="40.6503459"/>
+<node id="7831393701" action="modify" visible="true" version="2" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited" lon="-3.766238" lat="40.6586676"/>
+<node id="9171664834" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7762892" lat="40.6519765"/>
+<node id="4692647541" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7857673" lat="40.6481401"/>
+<node id="4692647546" action="modify" visible="true" version="1" timestamp="2017-02-18T19:41:09Z" changeset="46200432" uid="435046" user="escaiguolquer" lon="-3.7862247" lat="40.6479305"/>
+<node id="9171645697" action="modify" visible="true" version="1" timestamp="2021-10-14T11:40:38Z" changeset="112500049" uid="14172572" user="zollejm" lon="-3.7769315" lat="40.6517648"/>
+<node id="9171664756" action="modify" visible="true" version="1" timestamp="2021-10-14T11:45:31Z" changeset="112500241" uid="14172572" user="zollejm" lon="-3.7755247" lat="40.651952"/>
+<node id="3012964157" action="modify" visible="true" version="2" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm" lon="-3.7725553" lat="40.6662498"/>
+<node id="6646018938" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer" lon="-3.7755062" lat="40.650523"/>
+<node id="7831393702" action="modify" visible="true" version="1" timestamp="2020-08-21T06:41:03Z" changeset="89726422" uid="1744151" user="Adri&#225;n Benedited" lon="-3.7662667" lat="40.6586656"/>
+<node id="9171664823" action="modify" visible="true" version="1" timestamp="2021-10-14T11:43:57Z" changeset="112500189" uid="14172572" user="zollejm" lon="-3.7763991" lat="40.6518788"/>
+<node id="9171698293" action="modify" visible="true" version="1" timestamp="2021-10-14T12:12:31Z" changeset="112501244" uid="14172572" user="zollejm" lon="-3.7749676" lat="40.6512784"/>
+<way id="713427829" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer">
+  <nd ref="6707881619"/>
+  <nd ref="6707881620"/>
+  <nd ref="6707881621"/>
+  <nd ref="6707881624"/>
+  <nd ref="6707881625"/>
+  <nd ref="6707881626"/>
+  <nd ref="6707881627"/>
+  <nd ref="6707881628"/>
+  <nd ref="6707881629"/>
+  <nd ref="6707881630"/>
+  <nd ref="6707881619"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="17,18,19"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="713427832" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6707881653"/>
+  <nd ref="6707881654"/>
+  <nd ref="6707881655"/>
+  <nd ref="6707881656"/>
+  <nd ref="6707881657"/>
+  <nd ref="6707881658"/>
+  <nd ref="6707881659"/>
+  <nd ref="6707881660"/>
+  <nd ref="6707881661"/>
+  <nd ref="6707881662"/>
+  <nd ref="6707881663"/>
+  <nd ref="6707881664"/>
+  <nd ref="6707881665"/>
+  <nd ref="6707881666"/>
+  <nd ref="6707881667"/>
+  <nd ref="6707881668"/>
+  <nd ref="6707881653"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="5,6,7,8"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="992692770" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171645700"/>
+  <nd ref="9171645703"/>
+  <nd ref="9171645704"/>
+  <nd ref="9171645705"/>
+  <nd ref="9171645707"/>
+  <nd ref="9171645701"/>
+  <nd ref="9171645700"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="707208251" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6646018937"/>
+  <nd ref="6646018938"/>
+  <nd ref="6646018939"/>
+  <nd ref="6646018940"/>
+  <nd ref="6646018937"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Pepe Colmenar"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way id="461614046" action="modify" visible="true" version="4" timestamp="2022-03-03T16:29:41Z" changeset="118062335" uid="14172572" user="zollejm">
+  <nd ref="4570848380"/>
+  <nd ref="4570848381"/>
+  <nd ref="4570848382"/>
+  <nd ref="4570848383"/>
+  <nd ref="9552302875"/>
+  <nd ref="4570848384"/>
+  <nd ref="4570848380"/>
+  <tag k="addr:country" v="ES"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:province" v="Madrid"/>
+  <tag k="addr:street" v="Calle del Cerro de San Pedro"/>
+  <tag k="brand" v="Hyundai"/>
+  <tag k="brand:wikidata" v="Q55931"/>
+  <tag k="brand:wikipedia" v="en:Hyundai Motor Company"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Merodigar Motor"/>
+  <tag k="shop" v="car_repair"/>
+  <tag k="website" v="http://www.hyundaicolmenar.com/"/>
+</way>
+<way id="992693727" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664754"/>
+  <nd ref="9171664755"/>
+  <nd ref="9171664756"/>
+  <nd ref="9171664757"/>
+  <nd ref="9171664758"/>
+  <nd ref="9171664759"/>
+  <nd ref="9171664760"/>
+  <nd ref="9171664761"/>
+  <nd ref="9171664754"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693463" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664840"/>
+  <nd ref="9171664841"/>
+  <nd ref="9171664842"/>
+  <nd ref="9171664843"/>
+  <nd ref="9171664846"/>
+  <nd ref="9171664844"/>
+  <nd ref="9171664845"/>
+  <nd ref="9171664840"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693461" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664824"/>
+  <nd ref="9171664827"/>
+  <nd ref="9171664828"/>
+  <nd ref="9171664829"/>
+  <nd ref="9171664830"/>
+  <nd ref="9171664831"/>
+  <nd ref="9171664839"/>
+  <nd ref="9171664832"/>
+  <nd ref="9171664833"/>
+  <nd ref="9171664824"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="713427826" action="modify" visible="true" version="2" timestamp="2020-01-03T12:38:52Z" changeset="79155306" uid="435046" user="escaiguolquer">
+  <nd ref="6707836583"/>
+  <nd ref="6707836584"/>
+  <nd ref="6707881585"/>
+  <nd ref="6707881586"/>
+  <nd ref="6707881587"/>
+  <nd ref="6707881590"/>
+  <nd ref="6707881591"/>
+  <nd ref="6707881592"/>
+  <nd ref="6707881593"/>
+  <nd ref="6707881594"/>
+  <nd ref="6707881595"/>
+  <nd ref="6707881596"/>
+  <nd ref="6707881597"/>
+  <nd ref="6707881598"/>
+  <nd ref="6707836583"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="20,21,22,23"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="475528224" action="modify" visible="true" version="2" timestamp="2019-08-14T20:56:25Z" changeset="73364941" uid="435046" user="escaiguolquer">
+  <nd ref="4692647538"/>
+  <nd ref="4692647539"/>
+  <nd ref="4692647540"/>
+  <nd ref="4692647542"/>
+  <nd ref="4692647541"/>
+  <nd ref="4692647538"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="6-8"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle del Transcant&#225;brico"/>
+  <tag k="addr:unit" v="Portal 6"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="4"/>
+</way>
+<way id="713427833" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6707881669"/>
+  <nd ref="6707881670"/>
+  <nd ref="6707881671"/>
+  <nd ref="6707881672"/>
+  <nd ref="6707881669"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="1,2,3,4"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="992698610" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171692566"/>
+  <nd ref="9171692570"/>
+  <nd ref="9171692571"/>
+  <nd ref="9171692572"/>
+  <nd ref="9171692573"/>
+  <nd ref="9171692567"/>
+  <nd ref="9171692566"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693725" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664742"/>
+  <nd ref="9171664743"/>
+  <nd ref="9171664744"/>
+  <nd ref="9171664745"/>
+  <nd ref="9171664748"/>
+  <nd ref="9171664746"/>
+  <nd ref="9171664747"/>
+  <nd ref="9171664742"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="283845401" action="modify" visible="true" version="2" timestamp="2014-05-23T19:03:14Z" changeset="22511051" uid="316694" user="Luiyo">
+  <nd ref="2876634086"/>
+  <nd ref="2876634087"/>
+  <nd ref="2876634055"/>
+  <nd ref="2876634054"/>
+  <nd ref="2876634086"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:country" v="ES"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle del Oro"/>
+  <tag k="building" v="industrial"/>
+</way>
+<way id="297413630" action="modify" visible="true" version="4" timestamp="2021-11-11T15:06:19Z" changeset="113656621" uid="14172572" user="zollejm">
+  <nd ref="3012964167"/>
+  <nd ref="3012964170"/>
+  <nd ref="3012964161"/>
+  <nd ref="3012964166"/>
+  <nd ref="3012964171"/>
+  <nd ref="3012964172"/>
+  <nd ref="3012964154"/>
+  <nd ref="3012964153"/>
+  <nd ref="3012964145"/>
+  <nd ref="3012964143"/>
+  <nd ref="3012964151"/>
+  <nd ref="3012964150"/>
+  <nd ref="3012964167"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Padre Claret"/>
+  <tag k="building" v="public"/>
+  <tag k="name" v="Administraci&#243;n de Hacienda"/>
+  <tag k="phone" v="+34 918 45 85 10"/>
+  <tag k="website" v="https://www.agenciatributaria.gob.es/"/>
+</way>
+<way id="992692771" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171645706"/>
+  <nd ref="9171645707"/>
+  <nd ref="9171645708"/>
+  <nd ref="9171655819"/>
+  <nd ref="9171645709"/>
+  <nd ref="9171645710"/>
+  <nd ref="9171645711"/>
+  <nd ref="9171645712"/>
+  <nd ref="9171645713"/>
+  <nd ref="9171645706"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="713427831" action="modify" visible="true" version="2" timestamp="2020-11-29T11:44:28Z" changeset="94980372" uid="1773299" user="Iv&#225;n_">
+  <nd ref="6707881641"/>
+  <nd ref="6707881642"/>
+  <nd ref="6707881643"/>
+  <nd ref="6707881644"/>
+  <nd ref="6707881645"/>
+  <nd ref="6707881646"/>
+  <nd ref="6707881647"/>
+  <nd ref="6707881648"/>
+  <nd ref="6707881649"/>
+  <nd ref="6707881650"/>
+  <nd ref="6707881651"/>
+  <nd ref="6707881652"/>
+  <nd ref="6707881641"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:country" v="ES"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="9,10,11,12"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="992698881" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171710957"/>
+  <nd ref="9171710958"/>
+  <nd ref="9171710959"/>
+  <nd ref="9171710960"/>
+  <nd ref="9171710961"/>
+  <nd ref="9171710956"/>
+  <nd ref="9171710957"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="297413631" action="modify" visible="true" version="3" timestamp="2017-08-26T18:40:23Z" changeset="51465644" uid="2153421" user="OpenSourceForEver">
+  <nd ref="3012964158"/>
+  <nd ref="3012964160"/>
+  <nd ref="3012964159"/>
+  <nd ref="3012964155"/>
+  <nd ref="3012964152"/>
+  <nd ref="3012964149"/>
+  <nd ref="3012964146"/>
+  <nd ref="3012964142"/>
+  <nd ref="3012964158"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Padre Claret"/>
+  <tag k="building" v="public"/>
+  <tag k="name" v="Oficina de Empleo"/>
+  <tag k="office" v="employment_agency"/>
+  <tag k="phone" v="+34 918 45 99 03;+34 910 50 45 98"/>
+  <tag k="website" v="http://www.sepe.es/contenidos/personas/index.html"/>
+</way>
+<way id="992693464" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664846"/>
+  <nd ref="9171664847"/>
+  <nd ref="9171664848"/>
+  <nd ref="9171664849"/>
+  <nd ref="9171664850"/>
+  <nd ref="9171664843"/>
+  <nd ref="9171664846"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="713427828" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6707881611"/>
+  <nd ref="6707881612"/>
+  <nd ref="6707881613"/>
+  <nd ref="6707881614"/>
+  <nd ref="6707881615"/>
+  <nd ref="6707881616"/>
+  <nd ref="6707881617"/>
+  <nd ref="6707881618"/>
+  <nd ref="6707881611"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="28,29,30,31"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="992698882" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171710958"/>
+  <nd ref="9171710962"/>
+  <nd ref="9171710963"/>
+  <nd ref="9171710964"/>
+  <nd ref="9171710965"/>
+  <nd ref="9171710959"/>
+  <nd ref="9171710958"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="297413628" action="modify" visible="true" version="3" timestamp="2017-08-26T18:40:23Z" changeset="51465644" uid="2153421" user="OpenSourceForEver">
+  <nd ref="3012964173"/>
+  <nd ref="3012964174"/>
+  <nd ref="3012964168"/>
+  <nd ref="3012964169"/>
+  <nd ref="3012964175"/>
+  <nd ref="3012964176"/>
+  <nd ref="3012964144"/>
+  <nd ref="3012964141"/>
+  <nd ref="3012964140"/>
+  <nd ref="3012964157"/>
+  <nd ref="3012964156"/>
+  <nd ref="3012964148"/>
+  <nd ref="3012964147"/>
+  <nd ref="3012964173"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Padre Claret"/>
+  <tag k="amenity" v="courthouse"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Juzgados"/>
+  <tag k="phone" v="+34 918 47 44 30"/>
+  <tag k="website" v="http://www.mjusticia.gob.es/BUSCADIR/ServletControlador?apartado=buscadorMunicipioDesdeListado&amp;municipio=28045&amp;lang="/>
+</way>
+<way id="459866594" action="modify" visible="true" version="5" timestamp="2021-11-25T09:41:42Z" changeset="114213573" uid="3392826" user="Hugoren Martinako">
+  <nd ref="4555932706"/>
+  <nd ref="4555932709"/>
+  <nd ref="4555932710"/>
+  <nd ref="4557513211"/>
+  <nd ref="4555932711"/>
+  <nd ref="4555932712"/>
+  <nd ref="4555932713"/>
+  <nd ref="4555932707"/>
+  <nd ref="4555932706"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle del Estanco"/>
+  <tag k="addr:unit" v="2"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="description" v="Cigarrillos Electr&#243;nicos y Vapeo"/>
+  <tag k="min_age" v="18"/>
+  <tag k="name" v="NoMasHumos"/>
+  <tag k="opening_hours" v="Mo-Fr 10:00-14:00,17:00-20:30"/>
+  <tag k="payment:cash" v="yes"/>
+  <tag k="payment:credit_cards" v="yes"/>
+  <tag k="shop" v="e-cigarette"/>
+</way>
+<way id="475528225" action="modify" visible="true" version="2" timestamp="2019-08-14T20:56:25Z" changeset="73364941" uid="435046" user="escaiguolquer">
+  <nd ref="4692647542"/>
+  <nd ref="4692647543"/>
+  <nd ref="4692647544"/>
+  <nd ref="4692647545"/>
+  <nd ref="4692647542"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="6-8"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle del Transcant&#225;brico"/>
+  <tag k="addr:unit" v="Portal 5"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="4"/>
+</way>
+<way id="992699035" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171698289"/>
+  <nd ref="9171698290"/>
+  <nd ref="9171698291"/>
+  <nd ref="9171698292"/>
+  <nd ref="9171698293"/>
+  <nd ref="9171698294"/>
+  <nd ref="9171698289"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693465" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664848"/>
+  <nd ref="9171664851"/>
+  <nd ref="9171664852"/>
+  <nd ref="9171664853"/>
+  <nd ref="9171664854"/>
+  <nd ref="9171664855"/>
+  <nd ref="9171664856"/>
+  <nd ref="9171664847"/>
+  <nd ref="9171664848"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693459" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171630115"/>
+  <nd ref="9171630116"/>
+  <nd ref="9171664817"/>
+  <nd ref="9171664818"/>
+  <nd ref="9171664826"/>
+  <nd ref="9171664819"/>
+  <nd ref="9171664820"/>
+  <nd ref="9171630115"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992699038" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171698301"/>
+  <nd ref="9171698303"/>
+  <nd ref="9171698304"/>
+  <nd ref="9171698305"/>
+  <nd ref="9171698306"/>
+  <nd ref="9171698302"/>
+  <nd ref="9171698301"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992698880" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171710952"/>
+  <nd ref="9171710953"/>
+  <nd ref="9171710954"/>
+  <nd ref="9171710955"/>
+  <nd ref="9171710956"/>
+  <nd ref="9171710957"/>
+  <nd ref="9171710952"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992698611" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171692570"/>
+  <nd ref="9171692574"/>
+  <nd ref="9171692575"/>
+  <nd ref="9171692576"/>
+  <nd ref="9171692577"/>
+  <nd ref="9171692571"/>
+  <nd ref="9171692570"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="839225195" action="modify" visible="true" version="3" timestamp="2021-06-10T07:39:23Z" changeset="106137128" uid="12357943" user="adrianbenedited">
+  <nd ref="7831393688"/>
+  <nd ref="7831393705"/>
+  <nd ref="7831393706"/>
+  <nd ref="7831393707"/>
+  <nd ref="7831393708"/>
+  <nd ref="7831393700"/>
+  <nd ref="7831393701"/>
+  <nd ref="7831393702"/>
+  <nd ref="7831393703"/>
+  <nd ref="7831393704"/>
+  <nd ref="8820033157"/>
+  <nd ref="7831393691"/>
+  <nd ref="7831393690"/>
+  <nd ref="7831393689"/>
+  <nd ref="7831393709"/>
+  <nd ref="7831393710"/>
+  <nd ref="7831393688"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:country" v="ES"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Plaza del Pueblo"/>
+  <tag k="amenity" v="townhall"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Ayuntamiento de Colmenar Viejo"/>
+</way>
+<way id="707208255" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6646018953"/>
+  <nd ref="6646018954"/>
+  <nd ref="6646018955"/>
+  <nd ref="6646018956"/>
+  <nd ref="6646018953"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Pepe Colmenar"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+</way>
+<way id="992698883" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171710963"/>
+  <nd ref="9171710966"/>
+  <nd ref="9171710967"/>
+  <nd ref="9171710968"/>
+  <nd ref="9171710969"/>
+  <nd ref="9171710962"/>
+  <nd ref="9171710963"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="707208252" action="modify" visible="true" version="2" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6646018941"/>
+  <nd ref="6646018942"/>
+  <nd ref="6646018943"/>
+  <nd ref="6646018944"/>
+  <nd ref="6646018941"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Pepe Colmenar"/>
+  <tag k="building" v="yes"/>
+  <tag k="height" v="2"/>
+</way>
+<way id="992699036" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171698293"/>
+  <nd ref="9171698295"/>
+  <nd ref="9171698296"/>
+  <nd ref="9171698297"/>
+  <nd ref="9171698298"/>
+  <nd ref="9171698294"/>
+  <nd ref="9171698293"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="561768875" action="modify" visible="true" version="2" timestamp="2018-02-25T12:37:50Z" changeset="56660077" uid="616774" user="mueschel">
+  <nd ref="5416402122"/>
+  <nd ref="5416402123"/>
+  <nd ref="5416402124"/>
+  <nd ref="5416402125"/>
+  <nd ref="5416402126"/>
+  <nd ref="5416402127"/>
+  <nd ref="5416402128"/>
+  <nd ref="5416402129"/>
+  <nd ref="5416402130"/>
+  <nd ref="5416402131"/>
+  <nd ref="5416402122"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Avenida S&#233;ptima"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992692769" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171645697"/>
+  <nd ref="9171645698"/>
+  <nd ref="9171645699"/>
+  <nd ref="9171645700"/>
+  <nd ref="9171645701"/>
+  <nd ref="9171645702"/>
+  <nd ref="9171645697"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="484919068" action="modify" visible="true" version="3" timestamp="2020-11-29T11:20:27Z" changeset="94979675" uid="1773299" user="Iv&#225;n_">
+  <nd ref="4776670483"/>
+  <nd ref="4776670484"/>
+  <nd ref="4776670485"/>
+  <nd ref="4776670486"/>
+  <nd ref="4776670487"/>
+  <nd ref="4776670483"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:country" v="ES"/>
+  <tag k="addr:housenumber" v="11-35"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel de Cervantes"/>
+  <tag k="building" v="terrace"/>
+</way>
+<way id="475528226" action="modify" visible="true" version="2" timestamp="2019-08-14T20:56:25Z" changeset="73364941" uid="435046" user="escaiguolquer">
+  <nd ref="4692647543"/>
+  <nd ref="4692647546"/>
+  <nd ref="4692647547"/>
+  <nd ref="4692647544"/>
+  <nd ref="4692647543"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="6-8"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle del Transcant&#225;brico"/>
+  <tag k="addr:unit" v="Portal 4"/>
+  <tag k="building" v="apartments"/>
+  <tag k="building:levels" v="4"/>
+</way>
+<way id="713427827" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6707881599"/>
+  <nd ref="6707881600"/>
+  <nd ref="6707881601"/>
+  <nd ref="6707881602"/>
+  <nd ref="6707881603"/>
+  <nd ref="6707881604"/>
+  <nd ref="6707881605"/>
+  <nd ref="6707881606"/>
+  <nd ref="6707881607"/>
+  <nd ref="6707881608"/>
+  <nd ref="6707881609"/>
+  <nd ref="6707881610"/>
+  <nd ref="6707881599"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="24,25,26,27"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="432403257" action="modify" visible="true" version="2" timestamp="2017-02-18T20:26:43Z" changeset="46201357" uid="435046" user="escaiguolquer">
+  <nd ref="4314667691"/>
+  <nd ref="4314667692"/>
+  <nd ref="4314667693"/>
+  <nd ref="4314667694"/>
+  <nd ref="4314667695"/>
+  <nd ref="4314667696"/>
+  <nd ref="4314667691"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Avenida de Juan Pablo II"/>
+  <tag k="amenity" v="cafe"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="+Dos"/>
+  <tag k="outdoor_seating" v="yes"/>
+  <tag k="smoking" v="isolated"/>
+</way>
+<way id="992698609" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171692565"/>
+  <nd ref="9171692566"/>
+  <nd ref="9171692567"/>
+  <nd ref="9171692568"/>
+  <nd ref="9171692569"/>
+  <nd ref="9171692564"/>
+  <nd ref="9171692565"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992699037" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171698297"/>
+  <nd ref="9171698299"/>
+  <nd ref="9171698300"/>
+  <nd ref="9171698301"/>
+  <nd ref="9171698302"/>
+  <nd ref="9171698298"/>
+  <nd ref="9171698297"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992692772" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171645709"/>
+  <nd ref="9171645714"/>
+  <nd ref="9171645715"/>
+  <nd ref="9171645716"/>
+  <nd ref="9171655817"/>
+  <nd ref="9171655818"/>
+  <nd ref="9171655819"/>
+  <nd ref="9171645709"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693460" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664818"/>
+  <nd ref="9171664821"/>
+  <nd ref="9171664822"/>
+  <nd ref="9171664823"/>
+  <nd ref="9171664824"/>
+  <nd ref="9171664833"/>
+  <nd ref="9171664825"/>
+  <nd ref="9171664826"/>
+  <nd ref="9171664818"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693462" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664831"/>
+  <nd ref="9171664834"/>
+  <nd ref="9171664835"/>
+  <nd ref="9171664836"/>
+  <nd ref="9171664837"/>
+  <nd ref="9171664838"/>
+  <nd ref="9171664839"/>
+  <nd ref="9171664831"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="305274576" action="modify" visible="true" version="2" timestamp="2017-08-26T18:40:24Z" changeset="51465644" uid="2153421" user="OpenSourceForEver">
+  <nd ref="3098749344"/>
+  <nd ref="3098749352"/>
+  <nd ref="3098749354"/>
+  <nd ref="3098749353"/>
+  <nd ref="3098749344"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Coraz&#243;n de Mar&#237;a"/>
+  <tag k="building" v="apartments"/>
+</way>
+<way id="713427830" action="modify" visible="true" version="1" timestamp="2019-08-13T15:28:12Z" changeset="73314530" uid="435046" user="escaiguolquer">
+  <nd ref="6707881631"/>
+  <nd ref="6707881632"/>
+  <nd ref="6707881633"/>
+  <nd ref="6707881634"/>
+  <nd ref="6707881635"/>
+  <nd ref="6707881636"/>
+  <nd ref="6707881637"/>
+  <nd ref="6707881638"/>
+  <nd ref="6707881639"/>
+  <nd ref="6707881640"/>
+  <nd ref="6707881631"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Santiago Garc&#237;a &quot;El Tranquilo&quot;"/>
+  <tag k="addr:unit" v="13,14,15,16"/>
+  <tag k="building" v="house"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Alexia"/>
+</way>
+<way id="992698608" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171692560"/>
+  <nd ref="9171692561"/>
+  <nd ref="9171692562"/>
+  <nd ref="9171692563"/>
+  <nd ref="9171692564"/>
+  <nd ref="9171692565"/>
+  <nd ref="9171692560"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693726" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664748"/>
+  <nd ref="9171664749"/>
+  <nd ref="9171664750"/>
+  <nd ref="9171664751"/>
+  <nd ref="9171664754"/>
+  <nd ref="9171664752"/>
+  <nd ref="9171664753"/>
+  <nd ref="9171664746"/>
+  <nd ref="9171664748"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+<way id="992693466" action="modify" visible="true" version="2" timestamp="2021-12-10T12:04:26Z" changeset="114782737" uid="5151" user="demonodojo">
+  <nd ref="9171664855"/>
+  <nd ref="9171664857"/>
+  <nd ref="9171664858"/>
+  <nd ref="9171664859"/>
+  <nd ref="9171664860"/>
+  <nd ref="9171664856"/>
+  <nd ref="9171664855"/>
+  <tag k="addr:city" v="Colmenar Viejo"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="28770"/>
+  <tag k="addr:street" v="Calle Miguel Cancela"/>
+  <tag k="building" v="house"/>
+</way>
+</osm>
