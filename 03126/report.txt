@@ -1,0 +1,93 @@
+Municipality: els Poblets
+Cadastre name: ELS POBLETS
+Code: 03126
+Date: 12/3/22
+Options: 03126
+
+=System info=
+Application version: CatAtom2Osm 2.8.1
+Platform: Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64
+Language: ca_ES
+QGIS version: 3.10.4-A Coruña
+GDAL version: 3.0.4
+CPU count: 4
+CPU frequency: 0.0 Mhz
+Execution time: 26.0 seconds
+Total memory: 12693.30 MB
+Physical memory usage: 167.32 MB
+Virtual memory usage: 638.12 MB
+
+=Addresses=
+
+==Input data==
+Source date: 2021-09-10
+Feature count: 3244
+  Type entrance: 2454
+  Type parcel: 790
+Postal codes: 2
+Street names: 285
+
+==Process==
+Addresses without associated building excluded: 361
+Addresses deleted by street name: 183
+Addresses without house number deleted: 3
+Addresses belonging to multiple buildings deleted: 563
+'Parcel' addresses not unique for its building deleted: 161
+
+==Conflation==
+OSM addresses : 149
+Addresses rejected because they exist in OSM: 144
+
+==Output data==
+Addresses: 1829
+  In entrance nodes: 907
+  In parcels: 922
+  Type addr:street: 440
+  Type addr:place: 1389
+
+=Buildings=
+
+==Input data==
+Source date: 2021-09-11
+Feature count: 9594
+  Buildings: 2298
+  Building parts: 6447
+  Swimming pools: 849
+
+==Process==
+Parts outside outline deleted: 16
+Parts with no floors above ground: 9
+Buildings with multipart geometries: 431
+Buildings resulting from splitting multiparts: 994
+Parts merged to the outline: 2181
+Adjacent parts merged: 905
+Invalid geometry parts deleted: 1
+Invalid geometries deleted: 1
+Spike vertices deleted: 4
+Close vertices merged: 3672
+Topological points created: 253
+Simplified vertices: 12491
+
+==Output data==
+Nodes: 98302
+Ways: 7128
+Relations: 38
+Feature count: 7045
+  Buildings: 2860
+  Buildings parts: 3336
+  Swimming pools: 849
+Building types counter: industrial: 88, residential: 2713, yes: 14, public: 21, barn: 2, retail: 20, office: 2
+Max. levels above ground (level: # of buildings): 2: 932, 1: 1278, 3: 61, 4: 9, 6: 2
+Min. levels below ground (level: # of buildings): 1: 117
+
+=Project=
+Tasks files: 430
+  Rustic: 16
+  Urban: 414
+
+=Problems=
+Fixmes: 8
+  Building parts don't fill the building outline: 7
+  Check, area too small: 1
+
+https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar
