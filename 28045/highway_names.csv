@@ -42,8 +42,9 @@ CL ALPES (UR CIUDALCAMPO)	Calle Alpes
 CL ALTO EUGENIO	Calle Alto Eugenio
 CL DEL ALTO MOGOTE	Calle Alto Mogote
 CL DEL ALTO DE LA CABAÑA	Calle Alto de la Cabaña
+CL DEL ALTO DE LA CAMORCHA	Calle Alto de la Camorcha
 CL ALTO CERCA DE NEGRETE	Calle Alto de la Cerca de Negrete
-CL DEL ALTO DE MARMOTA	Calle Alto de la Marmota
+CL ALTO DE LA MARMOTA	Calle Alto de la Marmota
 CL ALTO LEONES	Calle Alto de los Leones
 CL AMPURIAS	Calle Ampurias
 CL ANDRES SANCHEZ PASTOR	Calle Andrés Sánchez Pastor
@@ -62,11 +63,11 @@ CL ARROYO TRIGOS	Calle Arroyo de los Trigos
 CL ARROYO POZANCO	Calle Arroyo del Pozanco
 CL AREVALO	Calle Arévalo
 CL ASCENSION LOPEZ PEREIRA	Calle Ascensión López Pereira
-CL AVILA	Calle Ávila
+CL AVILA	Calle de Ávila
 CL BATANES	Calle Batanes
 CL BERRUGUETE	Calle Berruguete
 CL CADENA	Calle Cadena
-CL CADIZ	Calle Cádiz
+CL CADIZ	Calle de Cádiz
 CL CAMILO JOSE CELA	Calle Camilo José Cela
 CL CANDELARIA	Calle Candelaria
 CL CANTEROS	Calle Canteros
@@ -74,6 +75,7 @@ CL CANTO VIRGEN	Calle Canto de la Virgen
 CL CARLOS ARAGON CANCELA	Calle Carlos Aragón Cancela
 CL CARRILEJOS	Calle Carrilejos
 CL CARTAGO NOVA	Calle Cartago Nova
+CL LANCHA MAJALCIELO	Calle Cañada de la Lancha Majalcielo
 CL CAÑADA LAS MERINAS	Calle Cañada de las Merinas
 CL CEBREROS	Calle Cebreros
 CL CERQUILLA ALTA	Calle Cerquilla Alta
@@ -96,8 +98,9 @@ CL DOCTOR FLEMING	Calle Doctor Fleming
 CL DR FLEMING	Calle Doctor Fleming
 CL DR GARAIZABAL	Calle Doctor Garayzabal
 CL DOCTOR GONZALEZ SERRANO	Calle Doctor González Serrano
-CL DRA. NOGALES DE LA MORENA	Calle Doctora Nogales de la Morena
+CL DOCTOR JAVIER DE LA SERNA	Calle Doctora Nogales de la Morena
 CL GRECO	Calle El Greco
+CL EMIGDIO DIAZ MARTIN	Calle Emigdio Díaz Martín
 CL ENRIQUE GRANADOS	Calle Enrique Granados
 CL ERMITAÑOS	Calle Ermitaños
 CL FEDERIC G LORCA	Calle Federico García Lorca
@@ -111,7 +114,6 @@ CL FUENTE PRADERA	Calle Fuente de la Pradera
 CL FUENTE MOLINERAS	Calle Fuente de los Molineros
 CL FUENTE MORALEJO	Calle Fuente del Moralejo
 CL FUENTE MORO	Calle Fuente del Moro
-CL ISLA FUERTEVENTURA	Calle Isla de Fuerteventura
 CL FELIX GOMEZ	Calle Félix Gómez
 CL FELIX RODRIGO	Calle Félix Rodrigo
 CL GALGO	Calle Galgo
@@ -143,6 +145,7 @@ CL ISAAC ALBENIZ	Calle Isaac Albéniz
 CL ISLA CABRERA	Calle Isla Cabrera
 CL ISLA GRACIOSA	Calle Isla Graciosa
 CL ISLA FORMENTERA	Calle Isla de Formentera
+CL ISLA FUERTEVENTURA	Calle Isla de Fuerteventura
 CL ISLA IBIZA	Calle Isla de Ibiza
 CL MALLORCA	Calle Isla de Mallorca
 CL ISLA MENORCA	Calle Isla de Menorca
@@ -174,6 +177,7 @@ CL LIRIOS	Calle Lirios
 CL TILOS	Calle de los Tilos
 CL LOIRA (UR CIUDALCAMPO)	Calle Loira
 CL LUIS BOLLAIN	Calle Luis Bollaín
+CL LUIS CANCELA	Calle Luis Cancela
 CL LUIS VCTE FDEZ SALCEDO	Calle Luis Vicente Fernández Salcedo
 CL MADROÑO	Calle Madroño
 CL MAESTRO SERRANO	Calle Maestro Serrano
@@ -182,7 +186,7 @@ CL MANUEL RODRIGUEZ	Calle Manuel Rodríguez
 CL MANUEL FALLA	Calle Manuel de Falla
 CL MANUEL ALVAREZ BARTOLOME	Calle Manuel Álvarez Bartolomé
 CL MANUELA HOYO	Calle Manuela Hoyo
-CL MANZANA 305	Calle Manzana 305
+CL MANZANA 305	
 CL MARIANO JOSE DE LARRA	Calle Mariano José de Larra
 CL MARQUES DE SANTILLANA	Calle Marqués de Santillana
 CL MARIA DE LA TORRE	Calle María de la Torre
@@ -237,6 +241,7 @@ CL PICO DE LA MIEL	Calle Pico de la Miel
 CL PILAR ZARAGOZA	Calle Pilar de Zaragoza
 CL PILON NAVALAOSA	Calle Pilón de Navalosa
 CL PIRINEOS (UR CIUDALCAMPO)	Calle Pirineos
+CL TINTES	Calle de los Tintes
 CL PIRINEOS	Calle Pirineos
 AV PRADILLO	Calle Pradillo
 CL PRADOTITO	Calle Prado Tito
@@ -288,6 +293,7 @@ CL SAN SEBASTIAN	Calle San Sebastián
 CL SANTIAGO G."EL TRANQUILO"	Calle Santiago García "El Tranquilo"
 CL SANTO DOMINGO DE GUZMAN	Calle Santo Domingo de Guzmán
 CL SANTO TOMAS DE AQUINO	Calle Santo Tomás de Aquino
+CL SIERRA DE CAZORLA	Calle Sierra de Cazorla
 CL SIERRA GREDOS	Calle Sierra de Gredos
 CL SRRA GUADARRAMA	Calle Sierra de Guadarrama
 CL TARTESSOS	Calle Tartessos
@@ -353,6 +359,7 @@ CL JAEN	Calle de Jaén
 CL JOSE ESPRONCEDA	Calle de José de Espronceda
 CL JUAN MANUEL PUENTE	Calle de Juan Manuel Puente
 CL JUAN RAMON JIMENEZ	Calle de Juan Ramón Jiménez
+CL DE JUAN DE LA COSA	Calle de Juan de la Cosa
 CL HABANA	Calle de La Habana
 CL LA MAQUINILLA	Calle de La Maquinilla
 CL LIMA	Calle de Lima
@@ -388,7 +395,6 @@ CL SANTA GEMA	Calle de Santa Gema
 CL SANTA INES	Calle de Santa Inés
 CL SANTA ISABEL	Calle de Santa Isabel
 CL SANTA MARGARITA	Calle de Santa Margarita
-PZ SANTA RITA	Plaza de Santa Rita
 CL SANTA MARTA	Calle de Santa Marta
 CL SANTA TECLA	Calle de Santa Tecla
 CL SANTA TERESA	Calle de Santa Teresa
@@ -404,7 +410,7 @@ CL ARGENTINA	Calle de la Argentina
 CT CUESTA	Calle de la Cuesta
 CL ESCORIA	Calle de la Escoria
 CL ESTACION DE ATOCHA	Calle de la Estación de Atocha
-CL 27-LA ESTACION	Calle de La Estación
+CL 27-LA ESTACION	Calle de la Estación
 CL ESTACION DE CHAMARTIN	Calle de la Estación de Chamartín
 CL ESTACION DE PRINCIPE PIO	Calle de la Estación de Príncipe Pío
 CL ESTACION DE LAS DELICIAS	Calle de la Estación de las Delicias
@@ -435,8 +441,8 @@ CL GANADEROS DE LOS	Calle de los Ganaderos
 CL HERMANOS PINZON DE LOS	Calle de los Hermanos Pinzón
 CL INDUSTRIALES DE LOS	Calle de los Industriales
 CL JUNCOS	Calle de los Juncos
-CL TINTES	Calle de los Tintes
 CL TULIPANES	Calle de los Tulipanes
+CL DEL 12 DE OCTUBRE	Calle del 12 de Octubre
 CL DEL 2 DE FEBRERO	Calle del 2 de Febrero
 CL DEL 6 DE DICIEMBRE	Calle del 6 de Diciembre
 CL DEL AVE	Calle del AVE
@@ -522,8 +528,6 @@ CM POZO ESCALO	Camino del Pozo Escalo
 AV CIRCUNVALACION	Carretera de Circunvalación
 CR HOYO MANZANARES	Carretera de Hoyo de Manzanares
 CR MIRAFLORES	Carretera de Miraflores
-CL LANCHA MAJALCIELO	Calle Cañada de la Lancha Majalcielo
-CL EMIGDIO DIAZ MARTIN	Calle Emigdio Díaz Martín
 GL MUSICOS	Glorieta de los Músicos
 LG ROCINA	
 PJ ROBLE	Calle del Roble
@@ -533,29 +537,29 @@ PS MAGDALENA	Paseo de la Magdalena
 PS CRISTO DE	Paseo del Cristo
 PS DUQUE DE AHUMADA DEL	Paseo del Duque de Ahumada
 PS REDONDILLO	Paseo del Redondillo
-PZ AMERICAS	Plaza de las Américas
+PZ AMERICAS	Plaza Americas
 PZ MAESTRO ALMEIDA	Plaza Maestro Almeida
 PZ MIRASIERRA	Plaza Mirasierra
 PZ SAN FRANCISCO	Plaza San Francisco
 PZ SORDO ARROYO	Plaza Sordo Arroyo
 PZ VAQUILLA	Plaza Vaquilla
 PZ VICENTE ALEIXANDRE	Plaza Vicente Aleixandre
-PZ ZAMORANO	Plaza Zamorano
 PZ ALMAGRO	Plaza de Almagro
 PZ EULOGIO CARRASCO	Plaza de Eulogio Carrasco
 PZ MOSQUILONA	Plaza de La Mosquilona
 PZ LANCHAS LAS	Plaza de Las Lanchas
 PZ LUIS GUTIERREZ	Plaza de Luis Gutiérrez
+PZ SANTA RITA	Plaza de Santa Rita
 PZ BERENGENA	Plaza de la Berenjena
 PZ MARINA	Plaza de la Marina
 UR RESIDENCIALES LOS	Plaza de los Residenciales
 PZ PUEBLO	Plaza del Pueblo
 PZ TINTE	Plaza del Tinte
-PL VP SUP-10 CASTILLEJOS	Polígono Vp Sup-10 Castillejos
-PL VP SUP-5 LAS AMAPOLAS	Polígono Vp Sup-5 las Amapolas
-PL VP SUP-6 ALTO EUGENIO	Polígono Vp Sup-6 Alto Eugenio
+PZ ZAMORANO	Plaza del Zamorano
+PL VP SUP-10 CASTILLEJOS	
+PL VP SUP-5 LAS AMAPOLAS	
+PL VP SUP-6 ALTO EUGENIO	
 RD PUERTOS	Ronda de los Puertos
-CL SIERRA DE CAZORLA	Sierra de Cazorla
 TR DOCTOR FLEMING	Travesía Doctor Fleming
 TR HONDURAS	Travesía Honduras
 TR RIO JUCAR	Travesía Río Júcar
@@ -568,7 +572,7 @@ TR TINTES LOS	Travesía de los Tintes
 TR DEL 2 DE FEBRERO	Travesía del 2 de Febrero
 TR GUINDO	Travesía del Guindo
 TR MONCAYO	Travesía del Moncayo
-TR PARQUE	Travesía/Transversal Parque
+TR PARQUE	Travesía del Parque
 TR PINO	Travesía/Transversal Pino
-UB VALDELAGUA	Valdelagua
+UB VALDELAGUA	Urbanización Valdelagua
 UR PUNTA GALEA	Urbanización Punta Galea

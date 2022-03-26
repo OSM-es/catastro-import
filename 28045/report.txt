@@ -1,94 +1,94 @@
 Municipio: Colmenar Viejo
 Nombre en Catastro: COLMENAR VIEJO
 Código: 28045
-Fecha: 07/03/22
+Fecha: 20/03/22
 Opciones: 28045
 
 =Información del sistema=
-Versión de la aplicación: CatAtom2Osm 2.7.0
-Plataforma: Linux 5.13.0-30-generic #33~20.04.1-Ubuntu SMP Mon Feb 7 14:25:10 UTC 2022 x86_64 x86_64
+Versión de la aplicación: CatAtom2Osm 2.8.2
+Plataforma: Linux 5.13.0-35-generic #40~20.04.1-Ubuntu SMP Mon Mar 7 09:18:32 UTC 2022 x86_64 x86_64
 Idioma: es_ES
 Versión de QGIS: 3.10.4-A Coruña
 Versión de GDAL: 3.0.4
 Número de CPUs: 2
 Frecuencia de CPU: 2400.0 Mhz
-Tiempo de ejecución: 167.2 segundos
+Tiempo de ejecución: 168.9 segundos
 Memoria total: 3924.10 MB
-Memoria física usada: 164.61 MB
-Memoria virtual usada: 638.32 MB
+Memoria física usada: 163.80 MB
+Memoria virtual usada: 638.07 MB
 
 =Direcciones=
 
 ==Datos de entrada==
-Fecha de origen: 2021-09-10
-Número de características: 10607
-  Tipo entrada: 9244
-  Tipo parcela: 1363
+Fecha de origen: 2022-03-11
+Número de características: 10652
+  Tipo entrada: 9275
+  Tipo parcela: 1377
 Códigos postales: 3
-Nombres de viales: 574
+Nombres de viales: 578
 
 ==Procesado==
-Direcciones sin edificio asociado excluidas: 1174
-Direcciones eliminadas por nombre de vía: 131
-Direcciones sin número de portal eliminadas: 5
-Direcciones correspondientes a edificios múltiples eliminadas: 1133
+Direcciones sin edificio asociado excluidas: 1170
+Direcciones eliminadas por nombre de vía: 134
+Direcciones sin número de portal eliminadas: 4
+Direcciones correspondientes a edificios múltiples eliminadas: 1140
 Direcciones tipo parcela no únicas para su edificio eliminadas: 162
 
 ==Combinación==
-Direcciones OSM: 53
-Direcciones rechazadas por existir en OSM: 37
+Direcciones OSM: 52
+Direcciones rechazadas por existir en OSM: 35
 
 ==Datos de salida==
-Direcciones: 7965
-  En nodos de entrada: 5209
-  En parcelas: 2756
-  Tipo addr:street: 7886
-  Tipo addr:place: 79
+Direcciones: 8007
+  En nodos de entrada: 5239
+  En parcelas: 2768
+  Tipo addr:street: 7910
+  Tipo addr:place: 97
 
 =Edificios=
 
 ==Datos de entrada==
-Fecha de origen: 2021-09-11
-Número de características: 52849
-  Edificios: 8933
-  Partes de edificios: 42703
-  Piscinas: 1213
+Fecha de origen: 2022-03-11
+Número de características: 53348
+  Edificios: 8951
+  Partes de edificios: 43172
+  Piscinas: 1225
 
 ==Procesado==
 Partes sin edificio asociado eliminadas: 6
 Partes fuera de contorno eliminadas: 1019
-Partes bajo rasante eliminadas: 1476
-Edificios con geometrías multiparte: 1487
-Edificios resultantes de dividir multipartes: 4350
-Partes fusionadas al contorno: 8244
-Partes adyacentes fusionadas: 9120
+Partes bajo rasante eliminadas: 1512
+Edificios con geometrías multiparte: 1490
+Edificios resultantes de dividir multipartes: 4388
+Partes fusionadas al contorno: 8250
+Partes adyacentes fusionadas: 9261
 Geometrías no válidas eliminadas: 1
 Vértices en punta eliminados: 9
-Vértices próximos fusionados: 17378
-Puntos topológicos creados: 4926
-Vértices simplificados: 33260
+Vértices próximos fusionados: 17802
+Puntos topológicos creados: 4991
+Vértices simplificados: 33425
 
 ==Datos de salida==
-Nodos: 351870
-Vías: 36458
-Relaciones: 461
-Número de características: 35846
-  Edificios: 11796
-  Partes de edificios: 22837
-  Piscinas: 1213
+Nodos: 356251
+Vías: 36834
+Relaciones: 471
+Número de características: 36197
+  Edificios: 11849
+  Partes de edificios: 23123
+  Piscinas: 1225
     Sobre edificios: 1
-Recuento de tipos de edificios: barn: 1700, residential: 8908, industrial: 566, yes: 162, public: 299, ruins: 5, office: 57, retail: 99
-Plantas sobre rasante (nivel: nº de edificios): 1: 2281, 2: 2970, 3: 2695, 6: 25, 4: 772, 5: 161, 7: 7, 8: 2
-Plantas bajo rasante (nivel: nº de edificios): 1: 1632, 2: 23, 3: 3, 4: 1
+Recuento de tipos de edificios: barn: 1702, residential: 8945, yes: 176, industrial: 565, public: 298, ruins: 5, office: 59, retail: 99
+Plantas sobre rasante (nivel: nº de edificios): 1: 2279, 2: 2980, 3: 2699, 6: 25, 4: 776, 5: 162, 7: 7, 8: 2
+Plantas bajo rasante (nivel: nº de edificios): 1: 1645, 2: 23, 3: 3, 4: 1
 
 =Proyecto=
-Archivos de tareas: 1647
-  Rústica: 192
-  Urbana: 1455
+Archivos de tareas: 1656
+  Rústica: 185
+  Urbana: 1471
 
 =Problemas=
-Correcciones (fixmes): 131
+Correcciones (fixmes): 129
   Comprobar, área demasiado grande: 2
-  Las partes de edificio no cubren todo el contorno: 129
+  Las partes de edificio no cubren todo el contorno: 127
 
 https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar
