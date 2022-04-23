@@ -1,0 +1,80 @@
+Municipio: Cillaperlata
+Nombre en Catastro: CILLAPERLATA
+Código: 09105
+Fecha: 18/04/22
+Opciones: 09105
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.4
+Plataforma: Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 12
+Frecuencia de CPU: 0.0 Mhz
+Tiempo de ejecución: 8.2 segundos
+Memoria total: 25566.10 MB
+Memoria física usada: 167.72 MB
+Memoria virtual usada: 639.14 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 236
+  Tipo entrada: 192
+  Tipo parcela: 44
+Códigos postales: 1
+Nombres de viales: 17
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 26
+Direcciones eliminadas por nombre de vía: 33
+Direcciones correspondientes a edificios múltiples eliminadas: 2
+
+==Combinación==
+Direcciones OSM: 0
+
+==Datos de salida==
+Direcciones: 175
+  En nodos de entrada: 160
+  En parcelas: 15
+  Tipo addr:street: 175
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 474
+  Edificios: 212
+  Partes de edificios: 262
+  Piscinas: 0
+
+==Procesado==
+Edificios con geometrías multiparte: 6
+Edificios resultantes de dividir multipartes: 13
+Partes fusionadas al contorno: 209
+Partes adyacentes fusionadas: 8
+Vértices próximos fusionados: 8
+Puntos topológicos creados: 39
+Vértices simplificados: 174
+
+==Datos de salida==
+Nodos: 1827
+Vías: 264
+Relaciones: 0
+Número de características: 264
+  Edificios: 219
+  Partes de edificios: 45
+Recuento de tipos de edificios: residential: 90, industrial: 48, yes: 74, barn: 1, public: 3, ruins: 3
+Plantas sobre rasante (nivel: nº de edificios): 2: 67, 1: 72, 4: 5, 3: 68
+Plantas bajo rasante (nivel: nº de edificios): 1: 3
+
+=Proyecto=
+Archivos de tareas: 29
+  Rústica: 4
+  Urbana: 25
+
+=Problemas=
+Avisos: 1
+  No se obtuvieron datos OSM de 'current_address.osm'
