@@ -1,0 +1,92 @@
+Municipio: San Lorenzo de El Escorial
+Nombre en Catastro: SAN LORENZO DE EL ESCORIAL
+Código: 28131
+Fecha: 23/04/22
+Opciones: 28131
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.7
+Plataforma: Linux 5.13.0-39-generic #44~20.04.1-Ubuntu SMP Thu Mar 24 16:43:35 UTC 2022 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 2
+Frecuencia de CPU: 2400.0 Mhz
+Tiempo de ejecución: 76.3 segundos
+Memoria total: 3924.09 MB
+Memoria física usada: 164.98 MB
+Memoria virtual usada: 639.15 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 3706
+  Tipo entrada: 3378
+  Tipo parcela: 328
+Códigos postales: 1
+Nombres de viales: 241
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 373
+Direcciones sin número de portal eliminadas: 2
+Direcciones correspondientes a edificios múltiples eliminadas: 376
+Direcciones tipo parcela no únicas para su edificio eliminadas: 21
+
+==Combinación==
+Direcciones OSM: 743
+Direcciones rechazadas por existir en OSM: 685
+
+==Datos de salida==
+Direcciones: 2249
+  En nodos de entrada: 1255
+  En parcelas: 994
+  Tipo addr:street: 2248
+  Tipo addr:place: 1
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-12
+Número de características: 21041
+  Edificios: 3222
+  Partes de edificios: 17120
+  Piscinas: 699
+
+==Procesado==
+Partes sin edificio asociado eliminadas: 1
+Partes fuera de contorno eliminadas: 341
+Partes bajo rasante eliminadas: 640
+Edificios con geometrías multiparte: 576
+Edificios resultantes de dividir multipartes: 1552
+Partes fusionadas al contorno: 1625
+Partes adyacentes fusionadas: 2361
+Geometrías no válidas eliminadas: 1
+Vértices en punta eliminados: 9
+Vértices próximos fusionados: 3285
+Puntos topológicos creados: 3196
+Vértices simplificados: 8436
+
+==Datos de salida==
+Nodos: 163807
+Vías: 17502
+Relaciones: 287
+Número de características: 17048
+  Edificios: 4198
+  Partes de edificios: 12151
+  Piscinas: 699
+Recuento de tipos de edificios: industrial: 120, residential: 3693, public: 199, retail: 82, barn: 52, yes: 33, office: 19
+Plantas sobre rasante (nivel: nº de edificios): 1: 506, 2: 849, 3: 1215, 4: 439, 5: 168, 6: 34, 7: 7
+Plantas bajo rasante (nivel: nº de edificios): 1: 932, 3: 5, 2: 30
+
+=Proyecto=
+Archivos de tareas: 967
+  Rústica: 32
+  Urbana: 935
+
+=Problemas=
+Correcciones (fixmes): 156
+  Las partes de edificio no cubren todo el contorno: 150
+  Comprobar, área demasiado pequeña: 6
+
+https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar
