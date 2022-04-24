@@ -1,0 +1,1235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 2.9.4'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.9.4"/>
+  <tag k="source:date" v="2022-03-11"/>
+</changeset>
+<node id="-33" action="modify" visible="true" lon="-3.3553045964512065" lat="42.78191251552232">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-3.3574572098663356" lat="42.78188807683204">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-3.358492489909301" lat="42.78231963946304">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-149" action="modify" visible="true" lon="-3.3583304492637454" lat="42.782160609277746">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-201" action="modify" visible="true" lon="-3.3578840355072708" lat="42.78242682043837">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-3.358028197014023" lat="42.78144583707325">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-3.357319355620461" lat="42.781858202902995">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-128" action="modify" visible="true" lon="-3.3581294334950686" lat="42.78228183056998">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-160" action="modify" visible="true" lon="-3.357463082820551" lat="42.781694233016935">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-3.355913594442534" lat="42.78307295402846">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-3.3579522263981545" lat="42.78278569843405">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-3.3575784428895448" lat="42.78215830404624">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-3.35853777070104" lat="42.78167462672165">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-139" action="modify" visible="true" lon="-3.355957394939275" lat="42.782824430409086">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-171" action="modify" visible="true" lon="-3.3568294032587294" lat="42.78222936710393">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-191" action="modify" visible="true" lon="-3.3574693681806473" lat="42.782052141965686">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-3.355307859603916" lat="42.78186315568938">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-3.357281438635482" lat="42.781741545205406">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-3.358539362946047" lat="42.782208636895405">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-150" action="modify" visible="true" lon="-3.357628545457751" lat="42.7824346140009">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-202" action="modify" visible="true" lon="-3.3578155265729657" lat="42.78243823996092">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-13" action="modify" visible="true" lon="-3.3570408318171974" lat="42.78272926269283">
+  <tag k="addr:street" v="CL TRASERA SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-3.3589517650383383" lat="42.782091066096186">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-3.357301852720334" lat="42.781918645166435">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-3.357457948040474" lat="42.78220128216544">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-129" action="modify" visible="true" lon="-3.357466080933658" lat="42.782421944513416">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-161" action="modify" visible="true" lon="-3.3578598722140023" lat="42.78209386919489">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-181" action="modify" visible="true" lon="-3.3574183529874517" lat="42.78210094668029">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-3.358950246071134" lat="42.782259640623025">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-3.3551835565999943" lat="42.78300200653917">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-3.3578136764711513" lat="42.78276936782953">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-3.357523039057437" lat="42.78186762984954">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-3.3585716467123072" lat="42.78175076415585">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-140" action="modify" visible="true" lon="-3.358401062132838" lat="42.78225755409319">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-172" action="modify" visible="true" lon="-3.358018089548698" lat="42.78189957711274">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-192" action="modify" visible="true" lon="-3.3581179894758493" lat="42.78235125582366">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-3.355327522131965" lat="42.78181680681655">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-3.3569569138870565" lat="42.78209279605291">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-3.358500590629321" lat="42.78251331979218">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-151" action="modify" visible="true" lon="-3.357941405642947" lat="42.7821810984414">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-203" action="modify" visible="true" lon="-3.3577569305232253" lat="42.782448026410705">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-3.356919409210705" lat="42.78271974513903">
+  <tag k="addr:street" v="CL TRASERA SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-3.359159108968344" lat="42.78266189996844">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-3.3572098044947722" lat="42.78195503145375">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-3.35837663261464" lat="42.78195310143824">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-130" action="modify" visible="true" lon="-3.3583203471027483" lat="42.7819981830967">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-162" action="modify" visible="true" lon="-3.357921996729742" lat="42.78211876864967">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-182" action="modify" visible="true" lon="-3.3580870942968932" lat="42.78186632227447">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-3.3569704687005713" lat="42.78291576995929">
+  <tag k="addr:street" v="CL TRASERA SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-3.355556729041221" lat="42.78294546519045">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-3.357646715124144" lat="42.782725596222896">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-3.35755847282585" lat="42.78198925720455">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-109" action="modify" visible="true" lon="-3.3585368772014284" lat="42.78188547614742">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-141" action="modify" visible="true" lon="-3.3561434478260384" lat="42.782556501743684">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-173" action="modify" visible="true" lon="-3.3579522190640403" lat="42.78191707793493">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-193" action="modify" visible="true" lon="-3.3577434209246264" lat="42.78231037663776">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-3.35510283987088" lat="42.78175653703484">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-3.357001191118749" lat="42.781767436253936">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-3.358627280179236" lat="42.78230492582973">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-152" action="modify" visible="true" lon="-3.357770604403641" lat="42.781927736940744">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-204" action="modify" visible="true" lon="-3.3577016402406086" lat="42.782324016179636">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-3.3584310260103383" lat="42.78068307845852">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-3.3590141729941334" lat="42.782651187712574">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-3.357380511219305" lat="42.78174596391691">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-3.358410268381103" lat="42.78189878804129">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-131" action="modify" visible="true" lon="-3.3573812810015937" lat="42.78243161264233">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-163" action="modify" visible="true" lon="-3.3578498078891528" lat="42.78207535668206">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-183" action="modify" visible="true" lon="-3.357266677537245" lat="42.782151911559794">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-3.359001827685455" lat="42.782338470877676">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-3.3554240051210193" lat="42.78222706455599">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-3.358220539813719" lat="42.7826397956432">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-3.357463474041617" lat="42.781821317202066">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-3.358425982083306" lat="42.78202960023453">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-142" action="modify" visible="true" lon="-3.3558307402389658" lat="42.78264891304767">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-174" action="modify" visible="true" lon="-3.3578994124513777" lat="42.78193771410407">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-194" action="modify" visible="true" lon="-3.3578578556747876" lat="42.782292890789186">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-3.356653974591138" lat="42.781558820597915">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-3.356976914574397" lat="42.7818301437358">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-3.3583189766116153" lat="42.78277369095274">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-153" action="modify" visible="true" lon="-3.357737960169114" lat="42.78189042229678">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-205" action="modify" visible="true" lon="-3.3569348413818685" lat="42.7823449085642">
+  <tag k="addr:street" v="CL TRASERA CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-3.3585487314269336" lat="42.77722525692372">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-3.358321911903851" lat="42.78264986625213">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-3.357107393805092" lat="42.78204055744197">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-3.3582984868488217" lat="42.781727473790575">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-132" action="modify" visible="true" lon="-3.357179369229665" lat="42.782481658919515">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-164" action="modify" visible="true" lon="-3.3578787057617783" lat="42.78205567688591">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-184" action="modify" visible="true" lon="-3.3571952490568133" lat="42.782168600786626">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-3.359079308014167" lat="42.782263262338226">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-3.35546031955433" lat="42.78216373378946">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-3.3582150507689756" lat="42.78261715247503">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-3.3574691639360794" lat="42.782320314124334">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-3.3586489059000746" lat="42.78198782497295">
+  <tag k="addr:street" v="CJ NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-143" action="modify" visible="true" lon="-3.3583226201647656" lat="42.782035553884235">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-175" action="modify" visible="true" lon="-3.3581282384822675" lat="42.782009160075305">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-195" action="modify" visible="true" lon="-3.357925213696977" lat="42.78228799566321">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-3.3565484122000004" lat="42.78157022597848">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-3.357057743818145" lat="42.78195530754554">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-122" action="modify" visible="true" lon="-3.358566735870785" lat="42.78241411612158">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-154" action="modify" visible="true" lon="-3.3576790213999095" lat="42.78186861786017">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-206" action="modify" visible="true" lon="-3.356947362890985" lat="42.782414721880436">
+  <tag k="addr:street" v="CL TRASERA CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-3.3574287853303364" lat="42.78323123300108">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-3.3579080312724665" lat="42.782627701395334">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-3.3580703300982915" lat="42.78152401648903">
+  <tag k="addr:street" v="TR CALLE BAJA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-3.358334139999272" lat="42.78169736877953">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-133" action="modify" visible="true" lon="-3.357317655862154" lat="42.78243852562288">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-165" action="modify" visible="true" lon="-3.357794336052634" lat="42.78203274255202">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-185" action="modify" visible="true" lon="-3.3571372030504896" lat="42.78218217018236">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-3.3590531020591508" lat="42.78225028394424">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-3.3561040033957763" lat="42.78190913195705">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-3.358106589903241" lat="42.782636495828214">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-3.3575220433686925" lat="42.782362184550536">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-3.3586590959989917" lat="42.782042067829984">
+  <tag k="addr:street" v="CJ NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-144" action="modify" visible="true" lon="-3.358825949856489" lat="42.782241866220225">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-176" action="modify" visible="true" lon="-3.3581832505137057" lat="42.78178406412682">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-196" action="modify" visible="true" lon="-3.3580418094539604" lat="42.782298449397885">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-3.356732462382916" lat="42.781260766827614">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-3.3574119383469325" lat="42.781814669057205">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-123" action="modify" visible="true" lon="-3.3585698284694643" lat="42.78247504701713">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-155" action="modify" visible="true" lon="-3.357726804933376" lat="42.78181980150958">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-207" action="modify" visible="true" lon="-3.356897319184692" lat="42.78231926009989">
+  <tag k="addr:street" v="CL TRASERA CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-3.357831873883354" lat="42.783890161419">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-3.3578295343124873" lat="42.78262202113112">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-3.357938346205649" lat="42.78161348820902">
+  <tag k="addr:street" v="TR CALLE BAJA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-3.3583889962456657" lat="42.781610983716796">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-134" action="modify" visible="true" lon="-3.3569721460514677" lat="42.78251229400412">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-166" action="modify" visible="true" lon="-3.357840113723294" lat="42.782000114263376">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-186" action="modify" visible="true" lon="-3.3570384309089545" lat="42.78220356076056">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-3.35892822890793" lat="42.78228692311206">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-3.3560235602781723" lat="42.78180257777601">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-3.3576505165714337" lat="42.782519228754666">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-3.3573667882640343" lat="42.782255094895085">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-3.3586732424732006" lat="42.78211751956811">
+  <tag k="addr:street" v="CJ NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-145" action="modify" visible="true" lon="-3.3583031395289926" lat="42.782260208226326">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-177" action="modify" visible="true" lon="-3.357667393992293" lat="42.78203114439029">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-197" action="modify" visible="true" lon="-3.358116178189288" lat="42.78239207855539">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-3.3550399724904163" lat="42.783356274704936">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-3.3567919540418427" lat="42.78212017238725">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-124" action="modify" visible="true" lon="-3.3584520603625605" lat="42.782224358091">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-156" action="modify" visible="true" lon="-3.357646495173403" lat="42.78180952230938">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-208" action="modify" visible="true" lon="-3.356812491221634" lat="42.78238088196672">
+  <tag k="addr:street" v="CL TRASERA CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-3.355768995205643" lat="42.78314247490612">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-3.3577416062436605" lat="42.782610138524504">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-3.3576255223764666" lat="42.782297660903936">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-3.3583756088390624" lat="42.781396161654754">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-135" action="modify" visible="true" lon="-3.3572555520529224" lat="42.782446372186904">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-167" action="modify" visible="true" lon="-3.357685908782095" lat="42.781925454776115">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-187" action="modify" visible="true" lon="-3.358093954565097" lat="42.78181995712468">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-3.3589894644844325" lat="42.78242363156779">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-3.355737480673224" lat="42.78178068308643">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-3.3580339680610063" lat="42.78263306219523">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-3.357467988984774" lat="42.78229118795836">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-3.3586900444912815" lat="42.782206969116466">
+  <tag k="addr:street" v="CJ NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-146" action="modify" visible="true" lon="-3.3583258355912546" lat="42.78208751320607">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-178" action="modify" visible="true" lon="-3.35760342741519" lat="42.78204917939046">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-198" action="modify" visible="true" lon="-3.358076719913255" lat="42.78239481441284">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-3.35874992634819" lat="42.782369132160845">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-3.355380316851326" lat="42.78262568999452">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-3.3567154979054625" lat="42.78213785406711">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-125" action="modify" visible="true" lon="-3.358887656543806" lat="42.78217676358542">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-157" action="modify" visible="true" lon="-3.357965843748567" lat="42.78218605248254">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-209" action="modify" visible="true" lon="-3.3566785474402" lat="42.78247799222461">
+  <tag k="addr:street" v="TR CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-3.3587959858877663" lat="42.782509854245916">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-3.357478216994649" lat="42.783259355722336">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-3.3578393849841603" lat="42.78272548513857">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-3.35763177009036" lat="42.78221574609871">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-3.358445410197628" lat="42.781389443983876">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-136" action="modify" visible="true" lon="-3.3562476446615768" lat="42.782542240864025">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-168" action="modify" visible="true" lon="-3.35819415296152" lat="42.78181265285718">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-188" action="modify" visible="true" lon="-3.356925604692486" lat="42.78223334128124">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-3.3590427042914683" lat="42.78244008326303">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-3.3557774011580435" lat="42.781749400313444">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-3.3575602212183617" lat="42.782659148761546">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-3.3571874566694517" lat="42.78211036001938">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-3.3585252343907204" lat="42.782125460235925">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-147" action="modify" visible="true" lon="-3.358190529428737" lat="42.78230215383844">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-179" action="modify" visible="true" lon="-3.3575171425842036" lat="42.7820662799283">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-199" action="modify" visible="true" lon="-3.3580214080627218" lat="42.782398927220086">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-3.3590358391385604" lat="42.78250432243732">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-3.355871603031265" lat="42.78199567605038">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-3.356700710555674" lat="42.78207749086396">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-126" action="modify" visible="true" lon="-3.3582323749574927" lat="42.782210295534576">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-158" action="modify" visible="true" lon="-3.3575886015221132" lat="42.78177152551606">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-210" action="modify" visible="true" lon="-3.356649841437427" lat="42.78239999472841">
+  <tag k="addr:street" v="TR CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-3.3573974505967565" lat="42.783267352473175">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-53" action="modify" visible="true" lon="-3.3582957929754773" lat="42.78257226271891">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-3.3576052544468546" lat="42.78223982024273">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-3.358476519643299" lat="42.78149572855425">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-137" action="modify" visible="true" lon="-3.357179740022685" lat="42.7823704894516">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-169" action="modify" visible="true" lon="-3.3570607248301982" lat="42.782174729739296">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-189" action="modify" visible="true" lon="-3.356444313436634" lat="42.78247337501078">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-3.359074225356399" lat="42.78228920037764">
+  <tag k="addr:street" v="PZ VIRGEN ENCINILLAS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-3.355416930620966" lat="42.78188794235703">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-3.3579705061804406" lat="42.782629077569304">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-3.357226033926701" lat="42.78205966614623">
+  <tag k="addr:street" v="CL DEL HORNO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-3.358562482015357" lat="42.78254028637099">
+  <tag k="addr:street" v="CL NORTE (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-148" action="modify" visible="true" lon="-3.358253528484467" lat="42.78229695516246">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-180" action="modify" visible="true" lon="-3.357462651027667" lat="42.78208542985818">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-200" action="modify" visible="true" lon="-3.357965743740699" lat="42.782409130567565">
+  <tag k="addr:street" v="PZ NTRA.SRA.COVADONGA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-3.3585658364917994" lat="42.78110086826388">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-3.357382753746116" lat="42.78189545951867">
+  <tag k="addr:street" v="CL MORAL (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-127" action="modify" visible="true" lon="-3.358171790752529" lat="42.782213622524175">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-159" action="modify" visible="true" lon="-3.3575224614933252" lat="42.781738565054766">
+  <tag k="addr:street" v="CL RINCONADA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-3.3559617798558694" lat="42.78358791422714">
+  <tag k="addr:street" v="DS DISEMINADOS (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09213"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-3.357998657774467" lat="42.782770536755905">
+  <tag k="addr:street" v="CL LA REN (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-3.3576175202497924" lat="42.782180321849204">
+  <tag k="addr:street" v="CL BAO (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-3.358502977623514" lat="42.78158615742143">
+  <tag k="addr:street" v="PZ MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-138" action="modify" visible="true" lon="-3.356170013115203" lat="42.78262158684734">
+  <tag k="addr:street" v="CL SANTA MARIA (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-170" action="modify" visible="true" lon="-3.356940480857203" lat="42.78220313486072">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-190" action="modify" visible="true" lon="-3.3579867493563795" lat="42.781863061746336">
+  <tag k="addr:street" v="CL MAYOR (Cillaperlata)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09213"/>
+  <tag k="entrance" v="yes"/>
+</node>
+</osm>
