@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-04-24T22:13:11Z" areas="2022-04-24T21:23:23Z"/>
+
+  <node id="2102773452" lat="42.9861873" lon="-3.9600598" version="2" timestamp="2017-04-21T17:27:03Z" changeset="48010047" uid="6389" user="Jesús Gómez"/>
+  <node id="2102773456" lat="42.9862702" lon="-3.9602447" version="2" timestamp="2017-04-21T17:27:03Z" changeset="48010047" uid="6389" user="Jesús Gómez"/>
+  <node id="2102773458" lat="42.9862902" lon="-3.9599744" version="2" timestamp="2017-04-21T17:27:03Z" changeset="48010047" uid="6389" user="Jesús Gómez"/>
+  <node id="2102773460" lat="42.9863735" lon="-3.9601564" version="2" timestamp="2017-04-21T17:27:03Z" changeset="48010047" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479657" lat="42.9924515" lon="-3.9463083" version="1" timestamp="2017-03-25T12:35:11Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479660" lat="42.9925393" lon="-3.9461324" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479661" lat="42.9926108" lon="-3.9462006" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479662" lat="42.9925546" lon="-3.9463133" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479663" lat="42.9924834" lon="-3.9462451" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479664" lat="42.9925000" lon="-3.9464203" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479665" lat="42.9924293" lon="-3.9463524" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479666" lat="42.9923744" lon="-3.9464679" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479667" lat="42.9924415" lon="-3.9465347" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479668" lat="42.9923795" lon="-3.9466561" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479669" lat="42.9923124" lon="-3.9465921" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479672" lat="42.9923224" lon="-3.9465707" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479698" lat="42.9918088" lon="-3.9465084" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479699" lat="42.9918076" lon="-3.9465496" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479700" lat="42.9917912" lon="-3.9465488" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479701" lat="42.9917899" lon="-3.9465963" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479702" lat="42.9918047" lon="-3.9465970" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479703" lat="42.9918034" lon="-3.9466425" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479704" lat="42.9917889" lon="-3.9466418" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479705" lat="42.9917874" lon="-3.9466941" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479706" lat="42.9917996" lon="-3.9466948" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479707" lat="42.9917984" lon="-3.9467357" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479708" lat="42.9918903" lon="-3.9467405" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479715" lat="42.9918387" lon="-3.9465099" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479716" lat="42.9918661" lon="-3.9465114" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754479719" lat="42.9918967" lon="-3.9465130" version="1" timestamp="2017-03-25T12:35:12Z" changeset="47149857" uid="6389" user="Jesús Gómez"/>
+  <node id="4754485412" lat="42.9940128" lon="-3.9449393" version="1" timestamp="2017-03-25T12:40:23Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754485415" lat="42.9940886" lon="-3.9448231" version="1" timestamp="2017-03-25T12:40:23Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754485416" lat="42.9940857" lon="-3.9449427" version="1" timestamp="2017-03-25T12:40:23Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754487249" lat="42.9936932" lon="-3.9457308" version="1" timestamp="2017-03-25T12:40:23Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754487253" lat="42.9936456" lon="-3.9456402" version="1" timestamp="2017-03-25T12:40:24Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754487254" lat="42.9935793" lon="-3.9457023" version="1" timestamp="2017-03-25T12:40:24Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754487255" lat="42.9935780" lon="-3.9457084" version="1" timestamp="2017-03-25T12:40:24Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4754487256" lat="42.9936227" lon="-3.9457950" version="1" timestamp="2017-03-25T12:40:24Z" changeset="47150003" uid="6389" user="Jesús Gómez"/>
+  <node id="4756527217" lat="42.9940156" lon="-3.9448210" version="1" timestamp="2017-03-26T16:15:41Z" changeset="47178908" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566284" lat="42.9905698" lon="-3.9462976" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566285" lat="42.9906511" lon="-3.9463108" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566286" lat="42.9905599" lon="-3.9464088" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566287" lat="42.9906412" lon="-3.9464222" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566288" lat="42.9905501" lon="-3.9465199" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566289" lat="42.9906313" lon="-3.9465336" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566290" lat="42.9905400" lon="-3.9466320" version="2" timestamp="2017-03-26T17:15:02Z" changeset="47180315" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566291" lat="42.9906214" lon="-3.9466450" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566292" lat="42.9905303" lon="-3.9467423" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566293" lat="42.9906114" lon="-3.9467564" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566294" lat="42.9905204" lon="-3.9468535" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566295" lat="42.9906015" lon="-3.9468677" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566296" lat="42.9905797" lon="-3.9461864" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566297" lat="42.9906610" lon="-3.9461994" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566298" lat="42.9905009" lon="-3.9470748" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566299" lat="42.9905817" lon="-3.9470889" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566300" lat="42.9904912" lon="-3.9471850" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566301" lat="42.9905718" lon="-3.9471986" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566302" lat="42.9904815" lon="-3.9472951" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566303" lat="42.9905620" lon="-3.9473083" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566304" lat="42.9904719" lon="-3.9474052" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566305" lat="42.9905521" lon="-3.9474180" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566306" lat="42.9904622" lon="-3.9475153" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566307" lat="42.9905422" lon="-3.9475278" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566308" lat="42.9904525" lon="-3.9476255" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566309" lat="42.9905324" lon="-3.9476375" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566310" lat="42.9904428" lon="-3.9477356" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566311" lat="42.9905106" lon="-3.9469647" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566312" lat="42.9905916" lon="-3.9469791" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756566313" lat="42.9905225" lon="-3.9477472" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756567321" lat="42.9926966" lon="-3.9441320" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756567326" lat="42.9926195" lon="-3.9441129" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756567327" lat="42.9926096" lon="-3.9441340" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756567329" lat="42.9927005" lon="-3.9441565" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez"/>
+  <node id="4756601773" lat="42.9905379" lon="-3.9466575" version="1" timestamp="2017-03-26T17:14:58Z" changeset="47180315" uid="6389" user="Jesús Gómez"/>
+  <node id="4762215403" lat="42.9929110" lon="-3.9457149" version="1" timestamp="2017-03-29T16:23:48Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4762215404" lat="42.9930452" lon="-3.9456073" version="1" timestamp="2017-03-29T16:23:48Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4762215405" lat="42.9932173" lon="-3.9456010" version="1" timestamp="2017-03-29T16:23:48Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4762215406" lat="42.9933426" lon="-3.9454965" version="1" timestamp="2017-03-29T16:23:48Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4807977039" lat="42.9863442" lon="-3.9601841" version="1" timestamp="2017-04-21T17:26:59Z" changeset="48010047" uid="6389" user="Jesús Gómez"/>
+  <way id="200280479" version="6" timestamp="2020-04-08T20:39:07Z" changeset="83271333" uid="461005" user="cronoser">
+    <nd ref="2102773456"/>
+    <nd ref="2102773452"/>
+    <nd ref="2102773458"/>
+    <nd ref="2102773460"/>
+    <nd ref="4807977039"/>
+    <nd ref="2102773456"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Calle Mayor"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="building" v="public"/>
+    <tag k="historic" v="manor"/>
+    <tag k="name" v="Ayuntamiento"/>
+  </way>
+  <way id="482642600" version="2" timestamp="2017-03-29T16:23:49Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <nd ref="4754479663"/>
+    <nd ref="4754479662"/>
+    <nd ref="4754479661"/>
+    <nd ref="4754479660"/>
+    <nd ref="4754479663"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482642601" version="2" timestamp="2017-03-29T16:23:49Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <nd ref="4754479664"/>
+    <nd ref="4754479662"/>
+    <nd ref="4754479663"/>
+    <nd ref="4754479657"/>
+    <nd ref="4754479665"/>
+    <nd ref="4754479664"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482642602" version="2" timestamp="2017-03-29T16:23:49Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <nd ref="4754479667"/>
+    <nd ref="4754479664"/>
+    <nd ref="4754479665"/>
+    <nd ref="4754479666"/>
+    <nd ref="4754479667"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482642603" version="2" timestamp="2017-03-29T16:23:49Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <nd ref="4754479669"/>
+    <nd ref="4754479668"/>
+    <nd ref="4754479667"/>
+    <nd ref="4754479666"/>
+    <nd ref="4754479672"/>
+    <nd ref="4754479669"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482642612" version="2" timestamp="2017-03-29T16:23:49Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <nd ref="4754479719"/>
+    <nd ref="4754479708"/>
+    <nd ref="4754479707"/>
+    <nd ref="4754479706"/>
+    <nd ref="4754479705"/>
+    <nd ref="4754479704"/>
+    <nd ref="4754479703"/>
+    <nd ref="4754479702"/>
+    <nd ref="4754479701"/>
+    <nd ref="4754479700"/>
+    <nd ref="4754479699"/>
+    <nd ref="4754479698"/>
+    <nd ref="4754479715"/>
+    <nd ref="4754479716"/>
+    <nd ref="4754479719"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Arsenio Brachott"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482643327" version="2" timestamp="2017-03-29T16:23:49Z" changeset="47265040" uid="6389" user="Jesús Gómez">
+    <nd ref="4754487256"/>
+    <nd ref="4754487255"/>
+    <nd ref="4754487254"/>
+    <nd ref="4754487253"/>
+    <nd ref="4754487249"/>
+    <nd ref="4754487256"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:street" v="Calle Paseo de la Playa"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482872523" version="1" timestamp="2017-03-26T16:15:43Z" changeset="47178908" uid="6389" user="Jesús Gómez">
+    <nd ref="4754485412"/>
+    <nd ref="4756527217"/>
+    <nd ref="4754485415"/>
+    <nd ref="4754485416"/>
+    <nd ref="4754485412"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Gran Vía"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877313" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566285"/>
+    <nd ref="4756566297"/>
+    <nd ref="4756566296"/>
+    <nd ref="4756566284"/>
+    <nd ref="4756566285"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877314" version="1" timestamp="2017-03-26T16:48:20Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566287"/>
+    <nd ref="4756566285"/>
+    <nd ref="4756566284"/>
+    <nd ref="4756566286"/>
+    <nd ref="4756566287"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877315" version="1" timestamp="2017-03-26T16:48:21Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566289"/>
+    <nd ref="4756566287"/>
+    <nd ref="4756566286"/>
+    <nd ref="4756566288"/>
+    <nd ref="4756566289"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877316" version="1" timestamp="2017-03-26T16:48:21Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566291"/>
+    <nd ref="4756566289"/>
+    <nd ref="4756566288"/>
+    <nd ref="4756566290"/>
+    <nd ref="4756566291"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877317" version="2" timestamp="2017-03-26T17:15:03Z" changeset="47180315" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566293"/>
+    <nd ref="4756566291"/>
+    <nd ref="4756566290"/>
+    <nd ref="4756601773"/>
+    <nd ref="4756566292"/>
+    <nd ref="4756566293"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877318" version="1" timestamp="2017-03-26T16:48:21Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566295"/>
+    <nd ref="4756566293"/>
+    <nd ref="4756566292"/>
+    <nd ref="4756566294"/>
+    <nd ref="4756566295"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877319" version="1" timestamp="2017-03-26T16:48:21Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566312"/>
+    <nd ref="4756566295"/>
+    <nd ref="4756566294"/>
+    <nd ref="4756566311"/>
+    <nd ref="4756566312"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877320" version="1" timestamp="2017-03-26T16:48:21Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566299"/>
+    <nd ref="4756566312"/>
+    <nd ref="4756566311"/>
+    <nd ref="4756566298"/>
+    <nd ref="4756566299"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877322" version="1" timestamp="2017-03-26T16:48:21Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566301"/>
+    <nd ref="4756566299"/>
+    <nd ref="4756566298"/>
+    <nd ref="4756566300"/>
+    <nd ref="4756566301"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877325" version="1" timestamp="2017-03-26T16:48:22Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566303"/>
+    <nd ref="4756566301"/>
+    <nd ref="4756566300"/>
+    <nd ref="4756566302"/>
+    <nd ref="4756566303"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877326" version="1" timestamp="2017-03-26T16:48:22Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566305"/>
+    <nd ref="4756566303"/>
+    <nd ref="4756566302"/>
+    <nd ref="4756566304"/>
+    <nd ref="4756566305"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877327" version="1" timestamp="2017-03-26T16:48:22Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566307"/>
+    <nd ref="4756566305"/>
+    <nd ref="4756566304"/>
+    <nd ref="4756566306"/>
+    <nd ref="4756566307"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877328" version="1" timestamp="2017-03-26T16:48:22Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566309"/>
+    <nd ref="4756566307"/>
+    <nd ref="4756566306"/>
+    <nd ref="4756566308"/>
+    <nd ref="4756566309"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877329" version="1" timestamp="2017-03-26T16:48:22Z" changeset="47179665" uid="6389" user="Jesús Gómez">
+    <nd ref="4756566313"/>
+    <nd ref="4756566309"/>
+    <nd ref="4756566308"/>
+    <nd ref="4756566310"/>
+    <nd ref="4756566313"/>
+    <tag k="addr:city" v="Arija"/>
+    <tag k="addr:country" v="ES"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="09570"/>
+    <tag k="addr:province" v="Burgos"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="482877332" version="2" timestamp="2017-10-27T08:58:16Z" changeset="53284244" uid="170106" user="sanchi">
+    <nd ref="4756567327"/>
+    <nd ref="4756567326"/>
+    <nd ref="4756567321"/>
+    <nd ref="4756567329"/>
+    <nd ref="4756567327"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Calle Talgo"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="man_made" v="silo"/>
+  </way>
+  <area id="3600348921">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Arija"/>
+    <tag k="ine:municipio" v="09025"/>
+    <tag k="name" v="Arija"/>
+    <tag k="population" v="181"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1623158"/>
+    <tag k="wikipedia" v="es:Arija"/>
+  </area>
+
+</osm>

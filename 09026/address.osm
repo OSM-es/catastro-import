@@ -1,0 +1,2131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 2.9.8'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.9.8"/>
+  <tag k="source:date" v="2022-03-11"/>
+</changeset>
+<node id="-53" action="modify" visible="true" lon="-3.9423375738402373" lat="42.99614200793695">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-137" action="modify" visible="true" lon="-3.9494069630251083" lat="42.9894896572142">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-221" action="modify" visible="true" lon="-3.9611813423981994" lat="42.98397721890175">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-305" action="modify" visible="true" lon="-3.945623449992441" lat="42.993035237187335">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-3.9431153073542164" lat="42.99655659937447">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-3.9459812230518048" lat="42.99133258405873">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-179" action="modify" visible="true" lon="-3.9481278387137126" lat="42.99007370034726">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="113"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-263" action="modify" visible="true" lon="-3.9600403776280015" lat="42.984488537093036">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-347" action="modify" visible="true" lon="-3.9433246360731062" lat="42.98986638230194">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-3.9421239770039787" lat="42.995835520439236">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-138" action="modify" visible="true" lon="-3.9492797806490816" lat="42.989594630070826">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-222" action="modify" visible="true" lon="-3.956441341983792" lat="42.987899645724156">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-306" action="modify" visible="true" lon="-3.9455964933958323" lat="42.994513403063024">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-3.9446688026865164" lat="42.9963080632001">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-3.9444935807301245" lat="42.991844446132504">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-180" action="modify" visible="true" lon="-3.9483014084596877" lat="42.989977799703865">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="114"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-264" action="modify" visible="true" lon="-3.958458293803228" lat="42.98578895240029">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-348" action="modify" visible="true" lon="-3.9435359092732374" lat="42.990855913141274">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-3.9419423304282297" lat="42.99579828952577">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-139" action="modify" visible="true" lon="-3.948695308199409" lat="42.989867465646384">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1E"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-223" action="modify" visible="true" lon="-3.9608796249273635" lat="42.98438857595489">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-307" action="modify" visible="true" lon="-3.9465630875149205" lat="42.992056292485366">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-13" action="modify" visible="true" lon="-3.943109870663612" lat="42.99625686743221">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-3.945453201569616" lat="42.99173019169371">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-181" action="modify" visible="true" lon="-3.9488669847554756" lat="42.98968846352041">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="117"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-265" action="modify" visible="true" lon="-3.9596289750729627" lat="42.98436906417342">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-349" action="modify" visible="true" lon="-3.9437991670599293" lat="42.99060107075011">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-3.9419383717974905" lat="42.99585235216549">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-140" action="modify" visible="true" lon="-3.9483424251146184" lat="42.99004463727822">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1G"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-224" action="modify" visible="true" lon="-3.9590702105094855" lat="42.986474795181564">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-308" action="modify" visible="true" lon="-3.945617968818429" lat="42.99320619762842">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-3.942933778164506" lat="42.99655089110835">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-3.94483861181117" lat="42.99155290197022">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-182" action="modify" visible="true" lon="-3.949059281657464" lat="42.98957412627633">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="118"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-266" action="modify" visible="true" lon="-3.958302776893844" lat="42.98601123788782">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-350" action="modify" visible="true" lon="-3.943706088472202" lat="42.99058670983901">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-3.942383622137456" lat="42.99571902367798">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-141" action="modify" visible="true" lon="-3.9481694942607835" lat="42.99013422917773">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1H"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-225" action="modify" visible="true" lon="-3.9564041342074296" lat="42.98778622325843">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-309" action="modify" visible="true" lon="-3.9455049662222703" lat="42.993341215876725">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-3.942936941069128" lat="42.99625189425348">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-3.944830896409917" lat="42.991457242343685">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-183" action="modify" visible="true" lon="-3.949247100126228" lat="42.989455773593356">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="119"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-267" action="modify" visible="true" lon="-3.9595289438531007" lat="42.98450704486007">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-351" action="modify" visible="true" lon="-3.943749047034909" lat="42.990532235459426">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-3.9419312954624592" lat="42.99591112306876">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-142" action="modify" visible="true" lon="-3.9478252752155716" lat="42.99029268704706">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1J"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-226" action="modify" visible="true" lon="-3.960789534032738" lat="42.98448694673351">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-310" action="modify" visible="true" lon="-3.945342879098417" lat="42.99473369859526">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-3.942784412247628" lat="42.996546984260924">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-3.9446515819170167" lat="42.991547507464354">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-184" action="modify" visible="true" lon="-3.949045366837525" lat="42.98970616517601">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="123"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-268" action="modify" visible="true" lon="-3.9594249781072395" lat="42.984589231793514">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-352" action="modify" visible="true" lon="-3.9436315073729418" lat="42.99048250186522">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-3.9419257422082197" lat="42.99596519883094">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-143" action="modify" visible="true" lon="-3.9470463155596818" lat="42.99060159136907">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-227" action="modify" visible="true" lon="-3.9608515281549894" lat="42.9846435504509">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="21A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-311" action="modify" visible="true" lon="-3.9455915749023966" lat="42.99351736330107">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-3.94280610001812" lat="42.99624756915948">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-3.946433642247816" lat="42.99177424081349">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-185" action="modify" visible="true" lon="-3.9488676047624724" lat="42.989792556387904">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="124"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-269" action="modify" visible="true" lon="-3.9593075886911646" lat="42.98468332772733">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-353" action="modify" visible="true" lon="-3.9436959890488197" lat="42.99045577010543">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-3.9423763130970726" lat="42.99578662143534">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-144" action="modify" visible="true" lon="-3.9447031473693968" lat="42.990832038505246">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-228" action="modify" visible="true" lon="-3.956029072439676" lat="42.98767777562033">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-312" action="modify" visible="true" lon="-3.9452250673695297" lat="42.9947716732372">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-3.9425902308270784" lat="42.996540204519036">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-3.944625293230786" lat="42.99139247796506">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-186" action="modify" visible="true" lon="-3.9485195039912564" lat="42.98996158440262">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="126"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-270" action="modify" visible="true" lon="-3.9612579064809443" lat="42.98317294943345">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-354" action="modify" visible="true" lon="-3.9496910726000753" lat="42.989283696619175">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="80"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-3.942367970256982" lat="42.99585882025871">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-145" action="modify" visible="true" lon="-3.944508025828277" lat="42.990942537582804">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="21A"/>
+</node>
+<node id="-229" action="modify" visible="true" lon="-3.960752370386234" lat="42.98470318566367">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="23A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-313" action="modify" visible="true" lon="-3.9455207811696975" lat="42.99366103332925">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-3.9425966440508318" lat="42.99623704309996">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-3.9443028382505854" lat="42.99148966456756">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-187" action="modify" visible="true" lon="-3.9479850093543445" lat="42.99023031007915">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="129"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-271" action="modify" visible="true" lon="-3.9610498122171203" lat="42.982594061892016">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-355" action="modify" visible="true" lon="-3.9498621107503884" lat="42.98903166758293">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="80A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-3.942365553023142" lat="42.99599004315303">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-146" action="modify" visible="true" lon="-3.9469354611797716" lat="42.99061195936773">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-230" action="modify" visible="true" lon="-3.9598080595318237" lat="42.98582296332143">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-314" action="modify" visible="true" lon="-3.9453319857181044" lat="42.9936077028393">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="26A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-3.942361790609891" lat="42.996531365233174">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-3.9467685095852914" lat="42.99122036872503">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-188" action="modify" visible="true" lon="-3.9477568143882946" lat="42.98933738302431">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-272" action="modify" visible="true" lon="-3.9590385305818954" lat="42.98502641822461">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-356" action="modify" visible="true" lon="-3.949952706061595" lat="42.98909989411532">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="80B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-3.940213726663215" lat="42.983026910070514">
+  <tag k="addr:street" v="DS DISEMINADO (Arija)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-147" action="modify" visible="true" lon="-3.9468285962733507" lat="42.99061851665036">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-231" action="modify" visible="true" lon="-3.9597616281272745" lat="42.9859053839387">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-315" action="modify" visible="true" lon="-3.9454619021550217" lat="42.99377372219467">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-3.9424363419166433" lat="42.996231514914555">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-3.946301084003722" lat="42.991777318013376">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-189" action="modify" visible="true" lon="-3.947544334206474" lat="42.98943721511023">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-273" action="modify" visible="true" lon="-3.9586255745492576" lat="42.98565284078138">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-357" action="modify" visible="true" lon="-3.943320239202255" lat="42.9899963609616">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-3.9631508765372896" lat="42.98860660386978">
+  <tag k="addr:street" v="DS DISEMINADO (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-148" action="modify" visible="true" lon="-3.946714180855249" lat="42.99062864824641">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-232" action="modify" visible="true" lon="-3.960250231997903" lat="42.98611443445584">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-316" action="modify" visible="true" lon="-3.9450318904368493" lat="42.994859233932694">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-3.9445169202002637" lat="42.99660477107037">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-3.946734142045767" lat="42.99128296772904">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-190" action="modify" visible="true" lon="-3.9472588630215477" lat="42.98952723213047">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-274" action="modify" visible="true" lon="-3.9585723604895175" lat="42.98572550675853">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-358" action="modify" visible="true" lon="-3.9452326985267496" lat="42.992404192363395">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-3.951787431100435" lat="42.988911754700105">
+  <tag k="addr:street" v="DS DISEMINADO (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-149" action="modify" visible="true" lon="-3.946674604472587" lat="42.99045655654417">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="26A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-233" action="modify" visible="true" lon="-3.9596614468473907" lat="42.98564750970526">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="2A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-317" action="modify" visible="true" lon="-3.9466930291596625" lat="42.992128455513296">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="2B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-3.944551982221141" lat="42.99630605572785">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-3.946115831541449" lat="42.991783887876274">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-191" action="modify" visible="true" lon="-3.9485859998560495" lat="42.98863690562815">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-275" action="modify" visible="true" lon="-3.958523528284272" lat="42.9857956101039">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-359" action="modify" visible="true" lon="-3.9447323061066553" lat="42.993970914409545">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-3.9500729445325424" lat="42.98924504751632">
+  <tag k="addr:street" v="DS DISEMINADO (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-150" action="modify" visible="true" lon="-3.9466096904204178" lat="42.99063806278638">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-234" action="modify" visible="true" lon="-3.9618677143499514" lat="42.981872925870825">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-318" action="modify" visible="true" lon="-3.9465785140578995" lat="42.99222818769496">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="2C"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-276" action="modify" visible="true" lon="-3.960680990671215" lat="42.98321724436988">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-3.9443247162397816" lat="42.99659896850391">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-3.9467382159080504" lat="42.99134858059631">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-192" action="modify" visible="true" lon="-3.9465932853990173" lat="42.98957360635041">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-360" action="modify" visible="true" lon="-3.944798900794794" lat="42.997932131980896">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-3.9438284628774505" lat="42.99658180120638">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-3.9616535106162307" lat="42.98733859136083">
+  <tag k="addr:street" v="DS DISEMINADO (Arija)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-151" action="modify" visible="true" lon="-3.9465044724027747" lat="42.99064802805161">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-235" action="modify" visible="true" lon="-3.9598602941409484" lat="42.98616120412754">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-319" action="modify" visible="true" lon="-3.94639795309991" lat="42.992132877000394">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="2T"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-3.9443381546947878" lat="42.996298090337774">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-109" action="modify" visible="true" lon="-3.9466200413896453" lat="42.99140919829791">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="8A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-193" action="modify" visible="true" lon="-3.9457712713665263" lat="42.98953841164607">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-277" action="modify" visible="true" lon="-3.958489263790896" lat="42.98584020176989">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-361" action="modify" visible="true" lon="-3.9447362100925027" lat="42.994049585990325">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-3.959156095468628" lat="42.98893399005081">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-152" action="modify" visible="true" lon="-3.9463993846149186" lat="42.99065888814241">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-236" action="modify" visible="true" lon="-3.960128258956243" lat="42.986379493972066">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-320" action="modify" visible="true" lon="-3.946840204282391" lat="42.99196836706465">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-278" action="modify" visible="true" lon="-3.9585778357623598" lat="42.9859124952115">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-3.944162333358314" lat="42.99659382460938">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-3.959839464201783" lat="42.98700767517049">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-194" action="modify" visible="true" lon="-3.9457135163850157" lat="42.98963660955501">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-362" action="modify" visible="true" lon="-3.9448432034400494" lat="42.99620045900697">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-3.957710324937216" lat="42.9889705638263">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-153" action="modify" visible="true" lon="-3.946282522921068" lat="42.990669489786164">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-237" action="modify" visible="true" lon="-3.958861033959549" lat="42.986733190922564">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-321" action="modify" visible="true" lon="-3.945400325436933" lat="42.99390210203325">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-3.9441917139394183" lat="42.99629290048933">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-3.960034489516187" lat="42.98672292160016">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-195" action="modify" visible="true" lon="-3.9484098436623722" lat="42.98903069528299">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-279" action="modify" visible="true" lon="-3.958401325482845" lat="42.98594368548706">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-363" action="modify" visible="true" lon="-3.9448463073998568" lat="42.996347395123706">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-3.9578029596601785" lat="42.98903725872712">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="11A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-154" action="modify" visible="true" lon="-3.9448926906285573" lat="42.990773431533896">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-238" action="modify" visible="true" lon="-3.9587540954479676" lat="42.9868134165197">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-322" action="modify" visible="true" lon="-3.945029458522827" lat="42.99498360510705">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-280" action="modify" visible="true" lon="-3.9583355342052124" lat="42.986059500674656">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-3.9440641323069565" lat="42.99659003763132">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-3.9589271029013986" lat="42.98645259024084">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-196" action="modify" visible="true" lon="-3.9482507440975327" lat="42.98909350794004">
+  <tag k="addr:street" v="CL DEL ACEBO (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-364" action="modify" visible="true" lon="-3.9449730744782636" lat="42.99661461221783">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-3.944673923180069" lat="42.99661068377108">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-3.9565866298310555" lat="42.98858470848413">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-155" action="modify" visible="true" lon="-3.9440979318514713" lat="42.99079843248667">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="40"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-239" action="modify" visible="true" lon="-3.958663775052622" lat="42.98688207094791">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-323" action="modify" visible="true" lon="-3.9453435368669103" lat="42.99402314822701">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-281" action="modify" visible="true" lon="-3.958296976258078" lat="42.986190936640895">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-3.9445809355627284" lat="42.99496622702451">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-3.95875013236968" lat="42.98655014290972">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-197" action="modify" visible="true" lon="-3.949144839948067" lat="42.98922765738201">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-365" action="modify" visible="true" lon="-3.9443825079274455" lat="42.9939288257657">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-3.9559347278641734" lat="42.988310990664985">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-156" action="modify" visible="true" lon="-3.947283326337184" lat="42.99064231821261">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-240" action="modify" visible="true" lon="-3.9583908151037246" lat="42.98696656831179">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-324" action="modify" visible="true" lon="-3.944956103227518" lat="42.99504796176258">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-282" action="modify" visible="true" lon="-3.9609996604497684" lat="42.98267399738633">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-3.943940704801089" lat="42.99509612505403">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-3.958616113400582" lat="42.98651371005481">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-198" action="modify" visible="true" lon="-3.94847611296329" lat="42.989569560246274">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-366" action="modify" visible="true" lon="-3.9451355920569275" lat="42.99656410289902">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-3.9558513622691414" lat="42.98826638718439">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-157" action="modify" visible="true" lon="-3.9477493866719082" lat="42.990782377963974">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-241" action="modify" visible="true" lon="-3.9589534672643767" lat="42.98702022594971">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-325" action="modify" visible="true" lon="-3.944873237005285" lat="42.99516454040411">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-3.9439376065778977" lat="42.99516620958956">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-3.9584701777756552" lat="42.9867290716775">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-199" action="modify" visible="true" lon="-3.9482404971589014" lat="42.989756833166865">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-283" action="modify" visible="true" lon="-3.958201480297366" lat="42.98621064672806">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-367" action="modify" visible="true" lon="-3.9443825079274455" lat="42.9939288257657">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-3.9440363539731935" lat="42.996289679578325">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-3.958811909413395" lat="42.988958567070235">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-158" action="modify" visible="true" lon="-3.9471473692630066" lat="42.990655955888876">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-242" action="modify" visible="true" lon="-3.9585384362769562" lat="42.98701000147426">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-326" action="modify" visible="true" lon="-3.94508783288806" lat="42.99527852794907">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-3.9440245338459383" lat="42.99525029279681">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-3.960262550573478" lat="42.987048795605126">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-200" action="modify" visible="true" lon="-3.9482820249427464" lat="42.989664246193385">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-284" action="modify" visible="true" lon="-3.95820767561284" lat="42.986284548599755">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="41B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-368" action="modify" visible="true" lon="-3.9446996377632786" lat="42.99306194340745">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-3.9588957378521505" lat="42.98900118340311">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-159" action="modify" visible="true" lon="-3.947688099951738" lat="42.99054432905186">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-243" action="modify" visible="true" lon="-3.9583209884988895" lat="42.987747257872165">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-327" action="modify" visible="true" lon="-3.945044303472817" lat="42.99519982340279">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="35A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-3.9439352533937524" lat="42.99530941316629">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="15A"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-3.9604016712710215" lat="42.98700979368851">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="4A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-201" action="modify" visible="true" lon="-3.948088266253823" lat="42.9897587696936">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-285" action="modify" visible="true" lon="-3.960548396712614" lat="42.98331920903382">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-369" action="modify" visible="true" lon="-3.9447168303030598" lat="42.99351241236011">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-3.955621718556407" lat="42.98805884360006">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-160" action="modify" visible="true" lon="-3.9469597753750842" lat="42.990838171333735">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-244" action="modify" visible="true" lon="-3.959565826801995" lat="42.98763797075114">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="45B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-328" action="modify" visible="true" lon="-3.9451576012006466" lat="42.995236258606404">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="35B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-3.9422752111351413" lat="42.99537330894056">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-3.9582834316183413" lat="42.98645642803044">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-202" action="modify" visible="true" lon="-3.9491339799091594" lat="42.9891096403189">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-286" action="modify" visible="true" lon="-3.9604902572215943" lat="42.98330330781121">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-370" action="modify" visible="true" lon="-3.9447208554113717" lat="42.993582978436265">
+  <tag k="addr:street" v="CL GRAN VIA (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-3.9585328739523145" lat="42.989071031205455">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-161" action="modify" visible="true" lon="-3.9601033175493243" lat="42.985379474909514">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-245" action="modify" visible="true" lon="-3.959598978574304" lat="42.988050122664">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="45C"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-329" action="modify" visible="true" lon="-3.9450754068404805" lat="42.99534823928689">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-3.9439092037703953" lat="42.995282608476764">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-3.960411214007355" lat="42.98688294093895">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-203" action="modify" visible="true" lon="-3.9470279861556854" lat="42.99029541486447">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-287" action="modify" visible="true" lon="-3.9606964624465655" lat="42.982932456627154">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="6B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-3.9583271649524936" lat="42.98911039481631">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-162" action="modify" visible="true" lon="-3.9605268054840805" lat="42.98530175174231">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-246" action="modify" visible="true" lon="-3.9581455420362848" lat="42.988187631405246">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-330" action="modify" visible="true" lon="-3.9457762677518797" lat="42.99507698203332">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="37A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-3.9438992910307444" lat="42.99514752502306">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-3.9574337555390433" lat="42.986273789751756">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-204" action="modify" visible="true" lon="-3.9461625881609104" lat="42.990167905921446">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-288" action="modify" visible="true" lon="-3.9604740485262715" lat="42.98337341288318">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-3.958063054900689" lat="42.9891588107159">
+  <tag k="addr:street" v="CR A BIMON (Arija)"/>
+  <tag k="addr:housenumber" v="9A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-163" action="modify" visible="true" lon="-3.9605268054840805" lat="42.98530175174231">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-247" action="modify" visible="true" lon="-3.958278879531619" lat="42.98867819356921">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-331" action="modify" visible="true" lon="-3.9466874719849936" lat="42.99236819245426">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-3.9439001352359817" lat="42.99500190703761">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-3.959801184035261" lat="42.9867058687607">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-205" action="modify" visible="true" lon="-3.945946202084839" lat="42.99018425658868">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-289" action="modify" visible="true" lon="-3.960537024066038" lat="42.98376018601452">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="7A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-3.9466664755353915" lat="42.99177430079765">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-164" action="modify" visible="true" lon="-3.9605268054840805" lat="42.98530175174231">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-248" action="modify" visible="true" lon="-3.958283115617796" lat="42.988408831519145">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="49B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-332" action="modify" visible="true" lon="-3.946845525915279" lat="42.99211564508138">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-3.9442399038657583" lat="42.99496705102594">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-122" action="modify" visible="true" lon="-3.9563075614752314" lat="42.98652889827864">
+  <tag k="addr:street" v="CR A REINOSA (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-206" action="modify" visible="true" lon="-3.9456985874531605" lat="42.990204040959846">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-290" action="modify" visible="true" lon="-3.9587918951777272" lat="42.98531294879168">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-3.9467469600931944" lat="42.99148709545686">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-165" action="modify" visible="true" lon="-3.9605268054840805" lat="42.98530175174231">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-249" action="modify" visible="true" lon="-3.961628287474294" lat="42.98196678455573">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-333" action="modify" visible="true" lon="-3.9463943511604" lat="42.99235581241357">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-3.9444218775152393" lat="42.99536294966799">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-123" action="modify" visible="true" lon="-3.9483060389451072" lat="42.99054066496724">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-207" action="modify" visible="true" lon="-3.945502304630255" lat="42.990218134609954">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-291" action="modify" visible="true" lon="-3.9591241395967334" lat="42.984522783776875">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="8C"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-3.9461713930269213" lat="42.992055654668334">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-166" action="modify" visible="true" lon="-3.9605268054840805" lat="42.98530175174231">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-250" action="modify" visible="true" lon="-3.958024070327855" lat="42.98849409848358">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-334" action="modify" visible="true" lon="-3.9470458579850947" lat="42.992106445863605">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-3.9443108693360367" lat="42.995363861135516">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-124" action="modify" visible="true" lon="-3.9475967039244853" lat="42.99055210971603">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-208" action="modify" visible="true" lon="-3.945315410055999" lat="42.99023155334826">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-292" action="modify" visible="true" lon="-3.959774110655334" lat="42.98372012026484">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="8G"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-3.9463896255794952" lat="42.99193393503139">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="11A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-167" action="modify" visible="true" lon="-3.9605268054840805" lat="42.98530175174231">
+  <tag k="addr:street" v="CL LA CERRADA (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-251" action="modify" visible="true" lon="-3.9579169383960338" lat="42.9885226405973">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-335" action="modify" visible="true" lon="-3.9462696648447175" lat="42.99242190461057">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-3.943940872198387" lat="42.99501850048099">
+  <tag k="addr:street" v="CL JUEGO DE BOLOS (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-125" action="modify" visible="true" lon="-3.9460534734960357" lat="42.99073990702118">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-209" action="modify" visible="true" lon="-3.949051156943667" lat="42.98922187230106">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-293" action="modify" visible="true" lon="-3.959774110655334" lat="42.98372012026484">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="8G"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-3.94675124141498" lat="42.99159818643622">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-168" action="modify" visible="true" lon="-3.951033382669734" lat="42.98977183375753">
+  <tag k="addr:street" v="CL LA CAMPA (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-252" action="modify" visible="true" lon="-3.957776599592292" lat="42.98856172172319">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-336" action="modify" visible="true" lon="-3.945933505389726" lat="42.99321575591772">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-3.9626304639959478" lat="42.98382503874672">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-126" action="modify" visible="true" lon="-3.946193537967836" lat="42.99089043416434">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="11B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-210" action="modify" visible="true" lon="-3.948881735277957" lat="42.98937167345713">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-294" action="modify" visible="true" lon="-3.9600546278251314" lat="42.98348426725556">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="8I"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-3.945750657815142" lat="42.9917931149946">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-169" action="modify" visible="true" lon="-3.9491577214262454" lat="42.99084402142863">
+  <tag k="addr:street" v="CL LA CAMPA (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-253" action="modify" visible="true" lon="-3.957495404671119" lat="42.988384149771036">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-337" action="modify" visible="true" lon="-3.943887536129804" lat="42.990957755635165">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-3.962742773089685" lat="42.98371981590297">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-127" action="modify" visible="true" lon="-3.9474852116516783" lat="42.990560867128025">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-211" action="modify" visible="true" lon="-3.948671574969157" lat="42.98947420431357">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-295" action="modify" visible="true" lon="-3.959728395223769" lat="42.98417606331899">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-3.946005304747298" lat="42.99157543489205">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-170" action="modify" visible="true" lon="-3.9500496682425843" lat="42.990590081560896">
+  <tag k="addr:street" v="CL LA CAMPA (Arija)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-254" action="modify" visible="true" lon="-3.957372759372767" lat="42.98841686891502">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-338" action="modify" visible="true" lon="-3.9436422992086535" lat="42.990377684529534">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-3.961852652033805" lat="42.9847431476562">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-128" action="modify" visible="true" lon="-3.945899891960241" lat="42.99075576005252">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-212" action="modify" visible="true" lon="-3.9484730191731945" lat="42.98964876070695">
+  <tag k="addr:street" v="CL DEL TEJO (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-296" action="modify" visible="true" lon="-3.946833428805312" lat="42.99182227172337">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-3.945269867729289" lat="42.99196399040378">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-171" action="modify" visible="true" lon="-3.949500834318838" lat="42.99026990167396">
+  <tag k="addr:street" v="CL LA CAMPA (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-255" action="modify" visible="true" lon="-3.958360454827018" lat="42.98705723294232">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-339" action="modify" visible="true" lon="-3.9432443932583188" lat="42.98987352275934">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-297" action="modify" visible="true" lon="-3.946166602885745" lat="42.99247345940843">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-3.964024130587927" lat="42.98308988980148">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="20A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-129" action="modify" visible="true" lon="-3.945979714967455" lat="42.99091354358363">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="13A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-213" action="modify" visible="true" lon="-3.9617493072822763" lat="42.981909040516705">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-3.9436644293968413" lat="42.99627598847518">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-3.9450197695605995" lat="42.991909594296374">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="15A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-172" action="modify" visible="true" lon="-3.9494052666864237" lat="42.9903409336097">
+  <tag k="addr:street" v="CL LA CAMPA (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-256" action="modify" visible="true" lon="-3.9571109977172267" lat="42.988464709167246">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-340" action="modify" visible="true" lon="-3.9435838945580706" lat="42.99028847607834">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-3.964464585654603" lat="42.983294645364865">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="20B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-130" action="modify" visible="true" lon="-3.947355749008677" lat="42.99057364083567">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-214" action="modify" visible="true" lon="-3.956945803256426" lat="42.98811849228248">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-298" action="modify" visible="true" lon="-3.9457283544679305" lat="42.99347733148507">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-3.9435282292601332" lat="42.99657166523378">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-3.946000796756143" lat="42.99129712260932">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-173" action="modify" visible="true" lon="-3.946365500209848" lat="42.990345649648056">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="106"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-257" action="modify" visible="true" lon="-3.9614596148522643" lat="42.98298340941791">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-341" action="modify" visible="true" lon="-3.9435328724670202" lat="42.99020875205363">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-299" action="modify" visible="true" lon="-3.9460346847424557" lat="42.99254195694054">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-3.9637392461265333" lat="42.98321781905932">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="20C"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-131" action="modify" visible="true" lon="-3.9457336890339536" lat="42.99078048805849">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-215" action="modify" visible="true" lon="-3.961147798767874" lat="42.982467353293565">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-3.943507151023104" lat="42.996267649808225">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-3.9459901385768203" lat="42.99153836503148">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-174" action="modify" visible="true" lon="-3.946592717660837" lat="42.99032422973071">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="107"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-258" action="modify" visible="true" lon="-3.9615273437371994" lat="42.98199806962986">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-342" action="modify" visible="true" lon="-3.9434754472153193" lat="42.990110976199965">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-300" action="modify" visible="true" lon="-3.9456703827077404" lat="42.99358515025686">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-3.9639018475325956" lat="42.983435361926134">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="20D"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-132" action="modify" visible="true" lon="-3.947264846863464" lat="42.990581237046435">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-216" action="modify" visible="true" lon="-3.9567370495650573" lat="42.988064226297936">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-3.943327723761063" lat="42.99626336113661">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-3.944807190638432" lat="42.99182439243507">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-175" action="modify" visible="true" lon="-3.9468080709953455" lat="42.99030506871438">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="108"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-259" action="modify" visible="true" lon="-3.9573522587151633" lat="42.988154634156935">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-343" action="modify" visible="true" lon="-3.9434238287693635" lat="42.99002432317559">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-301" action="modify" visible="true" lon="-3.945844593141432" lat="42.99285664590458">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-3.961981054921419" lat="42.984529279787445">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-133" action="modify" visible="true" lon="-3.9451843658697876" lat="42.99082766918447">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-217" action="modify" visible="true" lon="-3.961404613609199" lat="42.98323098826145">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-3.943816882689096" lat="42.99628166971633">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-3.948012363727238" lat="42.991283760491115">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="1A"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-176" action="modify" visible="true" lon="-3.9472375746581596" lat="42.99027630074117">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="110"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-260" action="modify" visible="true" lon="-3.961230785133774" lat="42.982132840009385">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-344" action="modify" visible="true" lon="-3.9432765613543252" lat="42.99094224783054">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-302" action="modify" visible="true" lon="-3.945541837859292" lat="42.99388265732682">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-3.9622432505989447" lat="42.98421136407851">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-134" action="modify" visible="true" lon="-3.9454679240475117" lat="42.99092011389379">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="17D"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-218" action="modify" visible="true" lon="-3.956759876248595" lat="42.98797758729603">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-3.9436403090567267" lat="42.9965765043903">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-3.9476940560969456" lat="42.99150837027643">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="1B"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-177" action="modify" visible="true" lon="-3.947457268784005" lat="42.99026025433341">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="111"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-261" action="modify" visible="true" lon="-3.961000167740858" lat="42.982801054049844">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-345" action="modify" visible="true" lon="-3.9440991626675554" lat="42.9908788416396">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-3.9625358067569816" lat="42.98392137365319">
+  <tag k="addr:street" v="CL LA TEJERA (Arija)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-135" action="modify" visible="true" lon="-3.947160360749823" lat="42.99059092220389">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-219" action="modify" visible="true" lon="-3.961368857294394" lat="42.983400402988615">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-303" action="modify" visible="true" lon="-3.9457330292971178" lat="42.99290142225794">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-3.9432833698450818" lat="42.99656413379911">
+  <tag k="addr:street" v="CL DEL CAMPO DE FUTBOL (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-3.946874765355314" lat="42.9913977935155">
+  <tag k="addr:street" v="CL ARSENIO BRACHOTT (Arija)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-178" action="modify" visible="true" lon="-3.94792094989824" lat="42.99016465378097">
+  <tag k="addr:street" v="UR VILLAS DE ARIJA (Arija)"/>
+  <tag k="addr:housenumber" v="112"/>
+  <tag k="addr:postcode" v="09570"/>
+</node>
+<node id="-262" action="modify" visible="true" lon="-3.958520658948579" lat="42.985681990752894">
+  <tag k="addr:street" v="CL LEON ARGUESO (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-346" action="modify" visible="true" lon="-3.943377688240138" lat="42.98995095240181">
+  <tag k="addr:street" v="CL VISTALEGRE (Arija)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-304" action="modify" visible="true" lon="-3.9456338481571134" lat="42.99401940367074">
+  <tag k="addr:street" v="PS DE LA PLAYA (Arija)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-3.9423526539585723" lat="42.996053094378574">
+  <tag k="addr:street" v="CL VILLARROBLEDO (Arija)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-136" action="modify" visible="true" lon="-3.9448764141261554" lat="42.990823971492844">
+  <tag k="addr:street" v="CL DEL TALGO (Arija)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-220" action="modify" visible="true" lon="-3.9565293052564248" lat="42.988011747996985">
+  <tag k="addr:street" v="CL MAYOR (Arija)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09570"/>
+  <tag k="entrance" v="yes"/>
+</node>
+</osm>

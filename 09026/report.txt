@@ -1,0 +1,90 @@
+Municipio: Arija
+Nombre en Catastro: ARIJA
+Código: 09026
+Fecha: 24/04/22
+Opciones: 09026
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.8
+Plataforma: Linux 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 12
+Frecuencia de CPU: 0.0 Mhz
+Tiempo de ejecución: 6.5 segundos
+Memoria total: 25566.10 MB
+Memoria física usada: 170.24 MB
+Memoria virtual usada: 639.23 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 761
+  Tipo entrada: 508
+  Tipo parcela: 253
+Códigos postales: 2
+Nombres de viales: 19
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 391
+Direcciones eliminadas por nombre de vía: 5
+Direcciones correspondientes a edificios múltiples eliminadas: 75
+Direcciones tipo parcela no únicas para su edificio eliminadas: 3
+
+==Combinación==
+Direcciones OSM: 27
+Direcciones rechazadas por existir en OSM: 14
+
+==Datos de salida==
+Direcciones: 273
+  En nodos de entrada: 141
+  En parcelas: 132
+  Tipo addr:street: 258
+  Tipo addr:place: 15
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 1293
+  Edificios: 355
+  Partes de edificios: 936
+  Piscinas: 2
+
+==Procesado==
+Partes sin edificio asociado eliminadas: 1
+Partes fuera de contorno eliminadas: 1
+Partes bajo rasante eliminadas: 2
+Edificios con geometrías multiparte: 100
+Edificios resultantes de dividir multipartes: 244
+Partes fusionadas al contorno: 457
+Partes adyacentes fusionadas: 69
+Vértices en punta eliminados: 1
+Vértices próximos fusionados: 141
+Puntos topológicos creados: 42
+Vértices simplificados: 748
+
+==Datos de salida==
+Nodos: 7366
+Vías: 911
+Relaciones: 1
+Número de características: 907
+  Edificios: 499
+  Partes de edificios: 406
+  Piscinas: 2
+Recuento de tipos de edificios: public: 6, residential: 410, industrial: 66, barn: 1, ruins: 1, yes: 9, retail: 6
+Plantas sobre rasante (nivel: nº de edificios): 1: 165, 2: 126, 3: 56, 4: 8
+Plantas bajo rasante (nivel: nº de edificios): 1: 16
+
+=Proyecto=
+Archivos de tareas: 80
+  Rústica: 4
+  Urbana: 76
+
+=Problemas=
+Correcciones (fixmes): 2
+  Las partes de edificio no cubren todo el contorno: 2
+
+https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar
