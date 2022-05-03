@@ -1,0 +1,82 @@
+Municipio: Partido de la Sierra en Tobalina
+Nombre en Catastro: PARTIDO DE LA SIERRA EN TOBALI
+Código: 09263
+Fecha: 03/05/22
+Opciones: 09263
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.8
+Plataforma: Linux 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 12
+Frecuencia de CPU: 0.0 Mhz
+Tiempo de ejecución: 6.5 segundos
+Memoria total: 25558.40 MB
+Memoria física usada: 165.88 MB
+Memoria virtual usada: 639.30 MB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 318
+  Tipo entrada: 262
+  Tipo parcela: 56
+Códigos postales: 1
+Nombres de viales: 14
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 57
+Direcciones eliminadas por nombre de vía: 40
+Direcciones correspondientes a edificios múltiples eliminadas: 2
+
+==Combinación==
+Direcciones OSM: 0
+
+==Datos de salida==
+Direcciones: 219
+  En nodos de entrada: 178
+  En parcelas: 41
+  Tipo addr:street: 219
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-11
+Número de características: 635
+  Edificios: 257
+  Partes de edificios: 376
+  Piscinas: 2
+
+==Procesado==
+Partes sin edificio asociado eliminadas: 3
+Edificios con geometrías multiparte: 10
+Edificios resultantes de dividir multipartes: 23
+Partes fusionadas al contorno: 253
+Partes adyacentes fusionadas: 10
+Vértices próximos fusionados: 21
+Puntos topológicos creados: 97
+Vértices simplificados: 284
+
+==Datos de salida==
+Nodos: 2726
+Vías: 382
+Relaciones: 0
+Número de características: 382
+  Edificios: 270
+  Partes de edificios: 110
+  Piscinas: 2
+Recuento de tipos de edificios: industrial: 65, residential: 155, yes: 24, barn: 1, public: 8, ruins: 15, retail: 2
+Plantas sobre rasante (nivel: nº de edificios): 1: 73, 2: 89, 3: 87, 4: 8
+Plantas bajo rasante (nivel: nº de edificios): 1: 4
+
+=Proyecto=
+Archivos de tareas: 80
+  Rústica: 6
+  Urbana: 74
+
+=Problemas=
+Avisos: 1
+  No se obtuvieron datos OSM de 'current_address.osm'

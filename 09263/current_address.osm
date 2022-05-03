@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-05-03T10:50:58Z" areas="2022-05-03T10:11:23Z"/>
+
+  <area id="3600345054">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Partido de la Sierra en Tobalina"/>
+    <tag k="ine:municipio" v="09255"/>
+    <tag k="name" v="Partido de la Sierra en Tobalina"/>
+    <tag k="population" v="87"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q425805"/>
+    <tag k="wikipedia" v="es:Partido de la Sierra en Tobalina"/>
+  </area>
+
+</osm>

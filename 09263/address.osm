@@ -1,0 +1,1526 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 2.9.8'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.9.8"/>
+  <tag k="source:date" v="2022-03-11"/>
+</changeset>
+<node id="-23" action="modify" visible="true" lon="-3.252375999602757" lat="42.73169755458757">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-3.2532485572195298" lat="42.73195563558392">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-3.253339041081372" lat="42.73204169922605">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-159" action="modify" visible="true" lon="-3.1780848881510133" lat="42.71960469680342">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-191" action="modify" visible="true" lon="-3.2542928367329624" lat="42.73213183705738">
+  <tag k="addr:street" v="TR NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-243" action="modify" visible="true" lon="-3.2972149459465125" lat="42.72645697032652">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-3.2531279194198004" lat="42.73228117215175">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-3.254599152396812" lat="42.73403780744501">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-3.2539152608299085" lat="42.732174465694044">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-170" action="modify" visible="true" lon="-3.1788304116998267" lat="42.72003425619801">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-202" action="modify" visible="true" lon="-3.255300279534311" lat="42.733878848561794">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-254" action="modify" visible="true" lon="-3.2986793194079778" lat="42.727449701914196">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-3.2948173324503855" lat="42.72729938276165">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-3.2536016424827596" lat="42.73234153276083">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-3.253881198516816" lat="42.7321613076114">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-3.2527693600848178" lat="42.73146543922506">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-129" action="modify" visible="true" lon="-3.178843600954259" lat="42.71924496846867">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-149" action="modify" visible="true" lon="-3.178776427280148" lat="42.718634129120815">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-181" action="modify" visible="true" lon="-3.177947067671776" lat="42.72029722907533">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-213" action="modify" visible="true" lon="-3.297375976449038" lat="42.72719835888982">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-233" action="modify" visible="true" lon="-3.298397651367909" lat="42.72687238581286">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-3.252136404959699" lat="42.73139827993527">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-3.254531489684384" lat="42.73426989456773">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-3.2524755382007284" lat="42.73126369751214">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-160" action="modify" visible="true" lon="-3.178818656272819" lat="42.71979180067596">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-192" action="modify" visible="true" lon="-3.2570296839206345" lat="42.73783632008628">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-244" action="modify" visible="true" lon="-3.297541541502501" lat="42.72661818556407">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-3.253671045106697" lat="42.73231122863419">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-55" action="modify" visible="true" lon="-3.2546122062182192" lat="42.73441878324946">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-3.252925568607026" lat="42.7317123090613">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-3.1788694985098087" lat="42.71783092451151">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-139" action="modify" visible="true" lon="-3.1787258988421603" lat="42.71926295612474">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-171" action="modify" visible="true" lon="-3.1789718327217957" lat="42.720041460366794">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-203" action="modify" visible="true" lon="-3.2520654520208985" lat="42.73384656932973">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-223" action="modify" visible="true" lon="-3.297909277795907" lat="42.726793436021374">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-255" action="modify" visible="true" lon="-3.297249324558794" lat="42.72672059403446">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-3.296499778021977" lat="42.72653227288191">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-3.252523665734089" lat="42.73201302972416">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-3.253607164357661" lat="42.73216022168305">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-3.253806212007878" lat="42.73233203809245">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-130" action="modify" visible="true" lon="-3.1791838902060188" lat="42.719163792102314">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-150" action="modify" visible="true" lon="-3.179311763864852" lat="42.720540681510066">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-182" action="modify" visible="true" lon="-3.178427717301317" lat="42.71711815920941">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-214" action="modify" visible="true" lon="-3.2960293629037074" lat="42.72605598586533">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-234" action="modify" visible="true" lon="-3.2990557730814096" lat="42.72740501135254">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-3.2529073896041987" lat="42.731982383831244">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-3.253152746300089" lat="42.731882776710805">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-109" action="modify" visible="true" lon="-3.2532749394586515" lat="42.73201177160828">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-161" action="modify" visible="true" lon="-3.1784462551818327" lat="42.71916791550583">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-193" action="modify" visible="true" lon="-3.2549243403096635" lat="42.7318681262406">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-245" action="modify" visible="true" lon="-3.2978556182760514" lat="42.72680101413113">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-3.253052442124576" lat="42.73224007570685">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-56" action="modify" visible="true" lon="-3.2541905458834592" lat="42.73456380337836">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-3.2528813839108337" lat="42.73167305706207">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-3.178891899395191" lat="42.71962592602437">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-140" action="modify" visible="true" lon="-3.179301509639318" lat="42.7198043785088">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-172" action="modify" visible="true" lon="-3.178509757524215" lat="42.71919979969563">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-204" action="modify" visible="true" lon="-3.250698051576242" lat="42.73210412351044">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-224" action="modify" visible="true" lon="-3.2979899958249455" lat="42.726836245375">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-256" action="modify" visible="true" lon="-3.2985376100042676" lat="42.72747152249575">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-3.29476831745925" lat="42.727480336883374">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-3.253544156472706" lat="42.732563816856896">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-3.2550150222002054" lat="42.73470783723112">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-3.25270579945744" lat="42.73142713496944">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="46"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-131" action="modify" visible="true" lon="-3.1789769381678084" lat="42.71925963733092">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-151" action="modify" visible="true" lon="-3.1788691829127584" lat="42.71956435467275">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-183" action="modify" visible="true" lon="-3.1777363492595914" lat="42.72028431812703">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-215" action="modify" visible="true" lon="-3.2942515498188283" lat="42.72378460312546">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-235" action="modify" visible="true" lon="-3.2983715339171464" lat="42.72704009595815">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-3.2529612243701305" lat="42.731962876088254">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-3.25448134507206" lat="42.73427952481121">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-3.252408963904086" lat="42.73121714168268">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="58"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-162" action="modify" visible="true" lon="-3.1788357592277974" lat="42.71985709107811">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-194" action="modify" visible="true" lon="-3.2524591440397743" lat="42.737302103573796">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-246" action="modify" visible="true" lon="-3.2977675164228177" lat="42.72672113467711">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-6" action="modify" visible="true" lon="-3.2950871110159543" lat="42.72708348781806">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-3.252996401950856" lat="42.732208428082274">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-3.254054045728459" lat="42.734024537025896">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-3.2543908093546925" lat="42.733693269541114">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-3.1787796748114068" lat="42.718997468409775">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-141" action="modify" visible="true" lon="-3.1795305705588253" lat="42.71994840535292">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-173" action="modify" visible="true" lon="-3.178496488141608" lat="42.719647296157824">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-205" action="modify" visible="true" lon="-3.2529353155020204" lat="42.730949921779676">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-225" action="modify" visible="true" lon="-3.2987704036984917" lat="42.7272521085764">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-257" action="modify" visible="true" lon="-3.2986560769441975" lat="42.72755585734699">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-3.2948239941729107" lat="42.72735453337719">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-3.2531548506493935" lat="42.732132877492276">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-3.2534423701415767" lat="42.73208278338663">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-3.2536256226260747" lat="42.73223074345504">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="47"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-132" action="modify" visible="true" lon="-3.179034270452217" lat="42.719424384953655">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-152" action="modify" visible="true" lon="-3.178764618348314" lat="42.71880258250384">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-184" action="modify" visible="true" lon="-3.177886347914531" lat="42.72046158423463">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-216" action="modify" visible="true" lon="-3.2941248645430616" lat="42.72367587170479">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-236" action="modify" visible="true" lon="-3.298482461151126" lat="42.72706920542562">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-3.2528328783809566" lat="42.731944423525185">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-3.2531123286916963" lat="42.73185074339485">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-3.2532191112988684" lat="42.731990178270706">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="59"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-163" action="modify" visible="true" lon="-3.178393010271566" lat="42.719885797714674">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-195" action="modify" visible="true" lon="-3.254368847691861" lat="42.73203641342639">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-247" action="modify" visible="true" lon="-3.297000897282349" lat="42.72637255855994">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-3.294894293917141" lat="42.727360444626655">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-13" action="modify" visible="true" lon="-3.295325984480217" lat="42.72720876919405">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-3.2529499144424574" lat="42.7321827660061">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-3.254209906778606" lat="42.73469795590255">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-3.252864445943134" lat="42.73157659144265">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="36"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-122" action="modify" visible="true" lon="-3.1790445002121617" lat="42.7199727696931">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-142" action="modify" visible="true" lon="-3.17923550139233" lat="42.71978058114568">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-174" action="modify" visible="true" lon="-3.1782778295729" lat="42.71930462957762">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-206" action="modify" visible="true" lon="-3.252009965747022" lat="42.73218085309628">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-226" action="modify" visible="true" lon="-3.298095739682248" lat="42.72689389816573">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-1" action="modify" visible="true" lon="-3.294856847757475" lat="42.727184712923076">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-3.2524538465330277" lat="42.73173736747749">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-49" action="modify" visible="true" lon="-3.253615065210008" lat="42.732597281919915">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-3.254820410201426" lat="42.73419583926628">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-3.252784026802551" lat="42.731300457475285">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="48"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-133" action="modify" visible="true" lon="-3.1789143938932685" lat="42.71822436913387">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-153" action="modify" visible="true" lon="-3.1785276070967585" lat="42.71932972618042">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-185" action="modify" visible="true" lon="-3.1800142591627516" lat="42.71981427429683">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-217" action="modify" visible="true" lon="-3.294059445936483" lat="42.72368621591257">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-237" action="modify" visible="true" lon="-3.2986226932774554" lat="42.72702098009989">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-3.252704804828442" lat="42.7318922581024">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-3.2545054085841723" lat="42.734222191840246">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-3.2538826035287176" lat="42.73223772972603">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-164" action="modify" visible="true" lon="-3.1788416065097853" lat="42.71989010072151">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-196" action="modify" visible="true" lon="-3.2534130567026254" lat="42.731758280779225">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-248" action="modify" visible="true" lon="-3.29786489453563" lat="42.72689786230001">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-19" action="modify" visible="true" lon="-3.2529902785296643" lat="42.73192658726458">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-3.253559932769885" lat="42.73239577521459">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-3.254750272821696" lat="42.734696169915054">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-3.253035617532441" lat="42.73143235943377">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="38"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-123" action="modify" visible="true" lon="-3.1791237935885" lat="42.71886602367196">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-143" action="modify" visible="true" lon="-3.17910427266534" lat="42.719845468638724">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-175" action="modify" visible="true" lon="-3.177678109022682" lat="42.719477242890925">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-207" action="modify" visible="true" lon="-3.2543463036957365" lat="42.733096231400005">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-227" action="modify" visible="true" lon="-3.2988083830313637" lat="42.727268124861986">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-259" action="modify" visible="true" lon="-3.297703333371909" lat="42.727000625486475">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-3.252543755830458" lat="42.731525593879155">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-3.254196047700066" lat="42.734108752111894">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-3.253371718959782" lat="42.732037398855724">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-3.253534271641718" lat="42.73219887709905">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="49"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-134" action="modify" visible="true" lon="-3.179213542376505" lat="42.71941791329308">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-154" action="modify" visible="true" lon="-3.1783176868217056" lat="42.71940677759907">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-186" action="modify" visible="true" lon="-3.2541531219861892" lat="42.73221090572734">
+  <tag k="addr:street" v="TR NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-218" action="modify" visible="true" lon="-3.2941586298003642" lat="42.72373909377806">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-238" action="modify" visible="true" lon="-3.297243629797582" lat="42.72644883595585">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-3.252658539359128" lat="42.73163229463661">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-3.2530679383683463" lat="42.73182106027415">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-3.253173730774384" lat="42.7319723666388">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-165" action="modify" visible="true" lon="-3.1784806963229837" lat="42.71984330810601">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-197" action="modify" visible="true" lon="-3.252118942060824" lat="42.730917050519885">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-249" action="modify" visible="true" lon="-3.2980180976286317" lat="42.72709946640718">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-3.294997710875892" lat="42.7274314074045">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-3.2525154887843715" lat="42.73208265131276">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-3.254229131705371" lat="42.73441448304905">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-3.254384152358522" lat="42.733207734552416">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-124" action="modify" visible="true" lon="-3.1790197576796357" lat="42.7201475606582">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-144" action="modify" visible="true" lon="-3.179100844471308" lat="42.71996780060606">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-176" action="modify" visible="true" lon="-3.178336264464044" lat="42.71989767882255">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-208" action="modify" visible="true" lon="-3.2539833417133024" lat="42.732790309352566">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-228" action="modify" visible="true" lon="-3.298219995715873" lat="42.72695804516325">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-260" action="modify" visible="true" lon="-3.2975070736343297" lat="42.72679111789642">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-3.252502331671733" lat="42.73152233966417">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-51" action="modify" visible="true" lon="-3.254832717040078" lat="42.73455813478151">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-3.254738145375128" lat="42.73418955180974">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-3.252896531529572" lat="42.731294260978146">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-135" action="modify" visible="true" lon="-3.1790689881683756" lat="42.71945677760601">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-155" action="modify" visible="true" lon="-3.1783511197086267" lat="42.71946403943951">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-187" action="modify" visible="true" lon="-3.2542913989248263" lat="42.73230526468635">
+  <tag k="addr:street" v="TR NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-219" action="modify" visible="true" lon="-3.297511423799747" lat="42.72739982064778">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-239" action="modify" visible="true" lon="-3.298757219463506" lat="42.72707299632793">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-258" action="modify" visible="true" lon="-3.2987979041659576" lat="42.72761072634121">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-3.252566752886601" lat="42.73187812228205">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-3.2545350889734865" lat="42.734158272363814">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-3.2529534678983314" lat="42.731861696538125">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="63"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-166" action="modify" visible="true" lon="-3.178960716428789" lat="42.72022346596698">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-198" action="modify" visible="true" lon="-3.2515406689953257" lat="42.73064716611539">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-250" action="modify" visible="true" lon="-3.29815803294737" lat="42.72727865860428">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-3.294937557356723" lat="42.727130679174834">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-3.252495825975118" lat="42.73211839699252">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-3.2542061145836203" lat="42.734461894076475">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="7A"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-3.2539253745196253" lat="42.732271554148745">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-125" action="modify" visible="true" lon="-3.1790435098951817" lat="42.71894652806264">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-145" action="modify" visible="true" lon="-3.179180877752553" lat="42.72011606403689">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="57"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-177" action="modify" visible="true" lon="-3.261066816228154" lat="42.74044508633438">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-209" action="modify" visible="true" lon="-3.2516879906864014" lat="42.73128245125281">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-229" action="modify" visible="true" lon="-3.297152984395204" lat="42.726423099264586">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-261" action="modify" visible="true" lon="-3.2976632696151995" lat="42.72688961060309">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-16" action="modify" visible="true" lon="-3.2952422482063897" lat="42.72731867670765">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-52" action="modify" visible="true" lon="-3.254500925558733" lat="42.73441197926747">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-3.253299621553314" lat="42.73199381858059">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-3.2534670203024025" lat="42.73213799112823">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="51"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-136" action="modify" visible="true" lon="-3.1791400760009445" lat="42.71964165803922">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-156" action="modify" visible="true" lon="-3.178799704896209" lat="42.71975693383473">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-188" action="modify" visible="true" lon="-3.2538340207875853" lat="42.73206831775507">
+  <tag k="addr:street" v="TR NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-220" action="modify" visible="true" lon="-3.298903060431304" lat="42.72808746033879">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-240" action="modify" visible="true" lon="-3.298947028412401" lat="42.72722137568144">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-3.252578378293684" lat="42.731549008398915">
+  <tag k="addr:street" v="CL CONSISTORIO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-3.2530210104760475" lat="42.73178316071405">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-3.252917886813014" lat="42.73180746920642">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="65"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-167" action="modify" visible="true" lon="-3.178732763475315" lat="42.72035259646307">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-199" action="modify" visible="true" lon="-3.2614255130764995" lat="42.74058925658263">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-251" action="modify" visible="true" lon="-3.2981677987390854" lat="42.72743424841491">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-3.295385631495622" lat="42.727363717304975">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-3.252464901379651" lat="42.73210473176552">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-3.2547358852495845" lat="42.734544715856664">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-3.2538896586252104" lat="42.73237711481896">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="41"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-126" action="modify" visible="true" lon="-3.179053316162408" lat="42.719080019725546">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-146" action="modify" visible="true" lon="-3.179702066766762" lat="42.72008254844088">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="61"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-178" action="modify" visible="true" lon="-3.175969395728881" lat="42.721524315856826">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-210" action="modify" visible="true" lon="-3.2521776634938595" lat="42.73112548161083">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-230" action="modify" visible="true" lon="-3.2989551781916253" lat="42.727411406717835">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-17" action="modify" visible="true" lon="-3.2950214030562273" lat="42.727637941810904">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-53" action="modify" visible="true" lon="-3.2548886713210026" lat="42.734547181154994">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-3.2546636051505713" lat="42.734184237724186">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-3.25265703482732" lat="42.731248077976126">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-137" action="modify" visible="true" lon="-3.1791411957570146" lat="42.71969338405014">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-157" action="modify" visible="true" lon="-3.1778803942587994" lat="42.71951038446087">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-189" action="modify" visible="true" lon="-3.254207446417957" lat="42.73228891243672">
+  <tag k="addr:street" v="TR NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-221" action="modify" visible="true" lon="-3.2971588631485167" lat="42.72631763396035">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-241" action="modify" visible="true" lon="-3.2991059942090355" lat="42.72732364149684">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-3.2536033783287808" lat="42.73238080643191">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-3.2545601831027398" lat="42.734097573534314">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-3.2527985214473496" lat="42.73172478300468">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-168" action="modify" visible="true" lon="-3.1787741804438254" lat="42.72002543751061">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-200" action="modify" visible="true" lon="-3.2546196805282133" lat="42.73318198677511">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-252" action="modify" visible="true" lon="-3.298284454368634" lat="42.727441486783874">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="18A"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-3.294765345331251" lat="42.727194692411175">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-3.2949277399420867" lat="42.7274253062562">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-3.2524859128730848" lat="42.732055146157016">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-3.254418785522144" lat="42.73442432819255">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-3.252827580819899" lat="42.731500306123394">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-127" action="modify" visible="true" lon="-3.1789324392941527" lat="42.71900247288286">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-147" action="modify" visible="true" lon="-3.1790997537063928" lat="42.720274364024476">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="67"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-179" action="modify" visible="true" lon="-3.1759930250247095" lat="42.721241956278526">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-211" action="modify" visible="true" lon="-3.299238547259742" lat="42.727872163130115">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-231" action="modify" visible="true" lon="-3.2982605516494656" lat="42.72681845318523">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-3.2539765400534164" lat="42.73230892612132">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-18" action="modify" visible="true" lon="-3.295199661826546" lat="42.727371590292215">
+  <tag k="addr:street" v="CL RIO RANERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-54" action="modify" visible="true" lon="-3.254564761682761" lat="42.73441656529076">
+  <tag k="addr:street" v="CL LA LOMA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-3.253388901651065" lat="42.73207672391213">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-138" action="modify" visible="true" lon="-3.1794374397332086" lat="42.71969270420103">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-158" action="modify" visible="true" lon="-3.1788291004339566" lat="42.719717988558365">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-190" action="modify" visible="true" lon="-3.2542385623747476" lat="42.73213846042234">
+  <tag k="addr:street" v="TR NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-222" action="modify" visible="true" lon="-3.297764965553443" lat="42.726572149610035">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-242" action="modify" visible="true" lon="-3.2973502017215948" lat="42.726456371612706">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="3A"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-3.2528337939808796" lat="42.7324119378646">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-3.252969284282037" lat="42.73175035984391">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-3.25510541523031" lat="42.73470608248142">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-169" action="modify" visible="true" lon="-3.1784393731530023" lat="42.71956989346841">
+  <tag k="addr:street" v="TR CR. FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-201" action="modify" visible="true" lon="-3.254159829539049" lat="42.73535540563291">
+  <tag k="addr:street" v="DS DISEMINADO (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-253" action="modify" visible="true" lon="-3.2983792992930128" lat="42.72745357729029">
+  <tag k="addr:street" v="CL CARRETERA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="18B"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-3.294608219442097" lat="42.72713635822772">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-3.296689951463534" lat="42.72640618053494">
+  <tag k="addr:street" v="CL REVILLA (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-3.2534901756756143" lat="42.73248755614403">
+  <tag k="addr:street" v="CL CUBILLA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="3B"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-3.255038897956788" lat="42.734992330915944">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-3.2538537167634383" lat="42.73235840449783">
+  <tag k="addr:street" v="CL NOCEDA (VALDERRAMA) (Valderrama)"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-128" action="modify" visible="true" lon="-3.1786466108893765" lat="42.71924602334368">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-148" action="modify" visible="true" lon="-3.1790906358970465" lat="42.72043769354162">
+  <tag k="addr:street" v="CR FRIAS (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-180" action="modify" visible="true" lon="-3.1783277644481758" lat="42.72055464538181">
+  <tag k="addr:street" v="DS DISEMINADO (CUBILLA) (Cubilla)"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-212" action="modify" visible="true" lon="-3.2989094562230226" lat="42.72774046133722">
+  <tag k="addr:street" v="DS DISEMINADO (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="09211"/>
+</node>
+<node id="-232" action="modify" visible="true" lon="-3.2990228295117645" lat="42.72743929579263">
+  <tag k="addr:street" v="CL BURGOS (RANERA) (Ranera)"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="09211"/>
+  <tag k="entrance" v="yes"/>
+</node>
+</osm>
