@@ -1,0 +1,1124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm upload='never' version='0.6' generator='CatAtom2Osm 2.9.13'>
+<changeset>
+  <tag k="comment" v="#Spanish_Cadastre_Buildings_Import"/>
+  <tag k="source" v="Direcci&#243;n General del Catastro"/>
+  <tag k="type" v="import"/>
+  <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+  <tag k="generator" v="CatAtom2Osm 2.9.13"/>
+  <tag k="source:date" v="2022-06-01"/>
+</changeset>
+<node id="-49" action="modify" visible="true" lon="-6.545050232961956" lat="37.918257136021396">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-81" action="modify" visible="true" lon="-6.544297694899396" lat="37.91762103375837">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-133" action="modify" visible="true" lon="-6.544908926703436" lat="37.91781060730407">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="17A"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-165" action="modify" visible="true" lon="-6.542629245927705" lat="37.918745598292844">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-15" action="modify" visible="true" lon="-6.544397515988303" lat="37.91807829199875">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-60" action="modify" visible="true" lon="-6.544731333295496" lat="37.91757179463853">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-92" action="modify" visible="true" lon="-6.544634743008626" lat="37.91851203597661">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-144" action="modify" visible="true" lon="-6.545067891735915" lat="37.91757891437087">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-176" action="modify" visible="true" lon="-6.542794961949115" lat="37.91818495202069">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-22" action="modify" visible="true" lon="-6.545060353213886" lat="37.917333775405915">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-39" action="modify" visible="true" lon="-6.544158516952794" lat="37.918319568014375">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-71" action="modify" visible="true" lon="-6.543986186235727" lat="37.91805038167774">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-103" action="modify" visible="true" lon="-6.544708737984474" lat="37.918519878990324">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-123" action="modify" visible="true" lon="-6.544619080012991" lat="37.91855200900807">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-155" action="modify" visible="true" lon="-6.544431394976806" lat="37.91782332696688">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-187" action="modify" visible="true" lon="-6.543738577008103" lat="37.91874726304138"/>
+<node id="-1" action="modify" visible="true" lon="-6.543762554003603" lat="37.91749288803347">
+  <tag k="addr:street" v="AL CARBONERAS"/>
+  <tag k="addr:housenumber" v="110"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-50" action="modify" visible="true" lon="-6.544553929636023" lat="37.91749554831526">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-82" action="modify" visible="true" lon="-6.543852252596062" lat="37.91844478443416">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-134" action="modify" visible="true" lon="-6.544779601719933" lat="37.91781663492336">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-166" action="modify" visible="true" lon="-6.542830053003073" lat="37.918695397991875">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-7" action="modify" visible="true" lon="-6.544542150053583" lat="37.91809371896727">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-29" action="modify" visible="true" lon="-6.54442815703015" lat="37.91838536901844">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-61" action="modify" visible="true" lon="-6.544708931039187" lat="37.91773234875627">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="8A"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-93" action="modify" visible="true" lon="-6.544669232049381" lat="37.918918035976006">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-113" action="modify" visible="true" lon="-6.544690439975315" lat="37.91911421098005">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-145" action="modify" visible="true" lon="-6.544078254024205" lat="37.9185969079653">
+  <tag k="addr:street" v="CL CARB RELOJ"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-177" action="modify" visible="true" lon="-6.543071300038745" lat="37.91838086500826">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-197" action="modify" visible="true" lon="-6.544719465511111" lat="37.91796585765452"/>
+<node id="-16" action="modify" visible="true" lon="-6.544485123955771" lat="37.918087615965014">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-40" action="modify" visible="true" lon="-6.5442056150461365" lat="37.91825570497125">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-72" action="modify" visible="true" lon="-6.544264563261539" lat="37.91763566068405">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-104" action="modify" visible="true" lon="-6.544806320134669" lat="37.91801858812195">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-124" action="modify" visible="true" lon="-6.544669674971019" lat="37.91895852101982">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-156" action="modify" visible="true" lon="-6.544320093993106" lat="37.917911072020516">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-188" action="modify" visible="true" lon="-6.543833981003948" lat="37.918821673985164"/>
+<node id="-51" action="modify" visible="true" lon="-6.544601271985574" lat="37.917670241359914">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="10A"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-83" action="modify" visible="true" lon="-6.544368561231055" lat="37.91753547173461">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-135" action="modify" visible="true" lon="-6.545055215058485" lat="37.917566935504084">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-167" action="modify" visible="true" lon="-6.542980031020298" lat="37.918720970034954">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-8" action="modify" visible="true" lon="-6.544579698955375" lat="37.91809771703564">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-30" action="modify" visible="true" lon="-6.5443916910085065" lat="37.91830110898415">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-62" action="modify" visible="true" lon="-6.544896702589458" lat="37.917596242169054">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-94" action="modify" visible="true" lon="-6.544651365946231" lat="37.918472153990884">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-114" action="modify" visible="true" lon="-6.545145473942521" lat="37.91777363902153">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-146" action="modify" visible="true" lon="-6.544042226993106" lat="37.91863454304283">
+  <tag k="addr:street" v="CL CARB RELOJ"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-178" action="modify" visible="true" lon="-6.542888502612544" lat="37.917973236474076">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-198" action="modify" visible="true" lon="-6.544833396165573" lat="37.91767366887686"/>
+<node id="-17" action="modify" visible="true" lon="-6.544917723054526" lat="37.91722751595669">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-41" action="modify" visible="true" lon="-6.544245004051847" lat="37.91834067898087">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-73" action="modify" visible="true" lon="-6.544082544675667" lat="37.91790975438902">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-105" action="modify" visible="true" lon="-6.544752325007729" lat="37.91840765396741">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-125" action="modify" visible="true" lon="-6.544855339870663" lat="37.917780203059344">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-157" action="modify" visible="true" lon="-6.544399357047734" lat="37.91786374799496">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-189" action="modify" visible="true" lon="-6.543823162967735" lat="37.917745849037544"/>
+<node id="-52" action="modify" visible="true" lon="-6.544970136775607" lat="37.91761129144436">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-84" action="modify" visible="true" lon="-6.544581697902215" lat="37.917273020571336">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="32"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-136" action="modify" visible="true" lon="-6.544721411190167" lat="37.91785966413922">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-168" action="modify" visible="true" lon="-6.543210436100134" lat="37.9187959056259">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-9" action="modify" visible="true" lon="-6.544610821963541" lat="37.91808674197387">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-31" action="modify" visible="true" lon="-6.54449944405094" lat="37.91840275799468">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-63" action="modify" visible="true" lon="-6.543841600291819" lat="37.9185051157773">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-95" action="modify" visible="true" lon="-6.544670174969422" lat="37.918878747034064">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-115" action="modify" visible="true" lon="-6.545214553005453" lat="37.917711012678424">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="33"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-147" action="modify" visible="true" lon="-6.544222765050409" lat="37.91861825300923">
+  <tag k="addr:street" v="CL CARB RELOJ"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-179" action="modify" visible="true" lon="-6.542888502612544" lat="37.917973236474076">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-199" action="modify" visible="true" lon="-6.544556238145415" lat="37.9179949248793"/>
+<node id="-18" action="modify" visible="true" lon="-6.544906002980918" lat="37.917295044973685">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-42" action="modify" visible="true" lon="-6.544907677977422" lat="37.91837809098778">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-74" action="modify" visible="true" lon="-6.544269377539931" lat="37.91746667461872">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-106" action="modify" visible="true" lon="-6.544947700225781" lat="37.91790250866116">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-126" action="modify" visible="true" lon="-6.545173079269157" lat="37.91721752108625">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-158" action="modify" visible="true" lon="-6.544334093999656" lat="37.917956230028885">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-190" action="modify" visible="true" lon="-6.54388363302284" lat="37.917742391027765"/>
+<node id="-53" action="modify" visible="true" lon="-6.544502099863366" lat="37.917511497046604">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-85" action="modify" visible="true" lon="-6.5446681832873645" lat="37.917200034848626">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-137" action="modify" visible="true" lon="-6.545128543279417" lat="37.917379956206474">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-169" action="modify" visible="true" lon="-6.54296441701708" lat="37.91837464903764">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-4" action="modify" visible="true" lon="-6.542137366321616" lat="37.918597051510076">
+  <tag k="addr:street" v="AL CARBONERAS"/>
+  <tag k="addr:housenumber" v="79"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-32" action="modify" visible="true" lon="-6.544464026034464" lat="37.918318761959185">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-64" action="modify" visible="true" lon="-6.543956781876637" lat="37.91851755473543">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-96" action="modify" visible="true" lon="-6.544701342971053" lat="37.918344340015246">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-116" action="modify" visible="true" lon="-6.545269064495686" lat="37.91765204709737">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="35"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-148" action="modify" visible="true" lon="-6.544108291016151" lat="37.91864770904083">
+  <tag k="addr:street" v="CL CARB RELOJ"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-180" action="modify" visible="true" lon="-6.542815998994704" lat="37.91826512803058">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-3" action="modify" visible="true" lon="-6.543892476917171" lat="37.918927707360425">
+  <tag k="addr:street" v="AL CARBONERAS"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-23" action="modify" visible="true" lon="-6.5450902662034816" lat="37.917251922206965">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-43" action="modify" visible="true" lon="-6.545130297639354" lat="37.918316333137824">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-75" action="modify" visible="true" lon="-6.544119106246421" lat="37.91786041674481">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="22"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-107" action="modify" visible="true" lon="-6.544874740795999" lat="37.91794755901908">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="24A"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-127" action="modify" visible="true" lon="-6.544700413772674" lat="37.91783435550432">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-159" action="modify" visible="true" lon="-6.542995106282208" lat="37.918215155499624">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-191" action="modify" visible="true" lon="-6.544012744966021" lat="37.9179440340266"/>
+<node id="-54" action="modify" visible="true" lon="-6.5446381380131005" lat="37.917508123931654">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-86" action="modify" visible="true" lon="-6.543852538469411" lat="37.91829962800861">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-138" action="modify" visible="true" lon="-6.544809549579514" lat="37.917613201844425">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-170" action="modify" visible="true" lon="-6.542933989043301" lat="37.91803750000603">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="31"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-11" action="modify" visible="true" lon="-6.544210375053368" lat="37.91805308398751">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-33" action="modify" visible="true" lon="-6.5445952879819576" lat="37.9184079860397">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-65" action="modify" visible="true" lon="-6.54395256595798" lat="37.917881922197076">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-97" action="modify" visible="true" lon="-6.544656436987662" lat="37.91875444900775">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-117" action="modify" visible="true" lon="-6.545315935777121" lat="37.917607339614264">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="37"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-149" action="modify" visible="true" lon="-6.544380577005894" lat="37.91863526697703">
+  <tag k="addr:street" v="CL CARB RELOJ"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-181" action="modify" visible="true" lon="-6.543134273984429" lat="37.91838450297526">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-24" action="modify" visible="true" lon="-6.544844039020323" lat="37.91883333300344">
+  <tag k="addr:street" v="CR CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-44" action="modify" visible="true" lon="-6.5448716889688265" lat="37.91828050698462">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-76" action="modify" visible="true" lon="-6.5444608271964135" lat="37.91737763329076">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-108" action="modify" visible="true" lon="-6.544770696053478" lat="37.91818840599632">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-128" action="modify" visible="true" lon="-6.5450287793510755" lat="37.91762973094886">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-160" action="modify" visible="true" lon="-6.542823655954602" lat="37.918074854978066">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="80"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-192" action="modify" visible="true" lon="-6.544429503828245" lat="37.91799337705963"/>
+<node id="-55" action="modify" visible="true" lon="-6.544589239923298" lat="37.91752142610178">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-87" action="modify" visible="true" lon="-6.543650628651552" lat="37.91861505797221">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="6C"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-139" action="modify" visible="true" lon="-6.545109603276388" lat="37.9174466927319">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-171" action="modify" visible="true" lon="-6.543013056019545" lat="37.9184840199788">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="21"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-5" action="modify" visible="true" lon="-6.545284066442931" lat="37.918359596253254">
+  <tag k="addr:street" v="AL CARBONERAS"/>
+  <tag k="addr:housenumber" v="95"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-10" action="modify" visible="true" lon="-6.544623114943095" lat="37.918054904958176">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-34" action="modify" visible="true" lon="-6.543958634002162" lat="37.91819762300024">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-66" action="modify" visible="true" lon="-6.543877845302754" lat="37.91845505072944">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-98" action="modify" visible="true" lon="-6.544719027025464" lat="37.91827032096323">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-118" action="modify" visible="true" lon="-6.5453440697999286" lat="37.91756170492009">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="39"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-150" action="modify" visible="true" lon="-6.544207051020514" lat="37.91865863400474">
+  <tag k="addr:street" v="CL CARB RELOJ"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-182" action="modify" visible="true" lon="-6.542888502612544" lat="37.917973236474076">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-25" action="modify" visible="true" lon="-6.543924288944559" lat="37.91825507600219">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-45" action="modify" visible="true" lon="-6.544965388046237" lat="37.9183550420204">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-77" action="modify" visible="true" lon="-6.544201972364963" lat="37.917745819694204">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="24"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-109" action="modify" visible="true" lon="-6.545012208110853" lat="37.917861052948496">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-129" action="modify" visible="true" lon="-6.544650014686833" lat="37.91789277589196">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-161" action="modify" visible="true" lon="-6.54254063990796" lat="37.91822618344867">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-193" action="modify" visible="true" lon="-6.544443911260935" lat="37.9179681576574"/>
+<node id="-56" action="modify" visible="true" lon="-6.544524629452605" lat="37.91765470135874">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="4A"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-88" action="modify" visible="true" lon="-6.543886488889218" lat="37.918198873325046">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-140" action="modify" visible="true" lon="-6.544821662329831" lat="37.91772506472651">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-172" action="modify" visible="true" lon="-6.543132679034498" lat="37.91848491802706">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="23"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-14" action="modify" visible="true" lon="-6.544311977889789" lat="37.91818955999445">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="5B"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-35" action="modify" visible="true" lon="-6.544025865004905" lat="37.91828720197848">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-67" action="modify" visible="true" lon="-6.544002674882007" lat="37.9183894757982">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-99" action="modify" visible="true" lon="-6.544665999953639" lat="37.918665536981095">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-119" action="modify" visible="true" lon="-6.544597220992139" lat="37.918791242976575">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-151" action="modify" visible="true" lon="-6.544530111038983" lat="37.91770923796345">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-183" action="modify" visible="true" lon="-6.542695578945357" lat="37.91834391200077">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="7A"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-26" action="modify" visible="true" lon="-6.544268500952763" lat="37.91827104999571">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-46" action="modify" visible="true" lon="-6.544979630959372" lat="37.9182821049813">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-78" action="modify" visible="true" lon="-6.544532344989221" lat="37.917289741904426">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-110" action="modify" visible="true" lon="-6.544862177324181" lat="37.91805255406444">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-130" action="modify" visible="true" lon="-6.544985174544099" lat="37.91767625462559">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-162" action="modify" visible="true" lon="-6.5433395930145" lat="37.918397826973134">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-194" action="modify" visible="true" lon="-6.544537997302228" lat="37.91794203003725"/>
+<node id="-6" action="modify" visible="true" lon="-6.544121226040296" lat="37.918040283038636">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-57" action="modify" visible="true" lon="-6.544701853933624" lat="37.917521078191385">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-89" action="modify" visible="true" lon="-6.543977649012511" lat="37.91799587169684">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-141" action="modify" visible="true" lon="-6.545090148939549" lat="37.917508372367145">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-173" action="modify" visible="true" lon="-6.543340254042763" lat="37.91847537000543">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-12" action="modify" visible="true" lon="-6.5443185999565525" lat="37.91806858596077">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-36" action="modify" visible="true" lon="-6.5440721859482345" lat="37.91822314999253">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-68" action="modify" visible="true" lon="-6.544145860683101" lat="37.91778789631295">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-100" action="modify" visible="true" lon="-6.54473087295644" lat="37.91819935699811">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-120" action="modify" visible="true" lon="-6.54468348195299" lat="37.91904934801518">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-152" action="modify" visible="true" lon="-6.544465210974263" lat="37.917719320987786">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-184" action="modify" visible="true" lon="-6.543197250055612" lat="37.918388159041946">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-27" action="modify" visible="true" lon="-6.544322122956124" lat="37.91835948802792">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-47" action="modify" visible="true" lon="-6.545072491970811" lat="37.91820806098585">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-79" action="modify" visible="true" lon="-6.544244821090381" lat="37.91769571218085">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-111" action="modify" visible="true" lon="-6.545231634009316" lat="37.91768307468075">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="28"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-131" action="modify" visible="true" lon="-6.544612625136038" lat="37.91793623928236">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-163" action="modify" visible="true" lon="-6.542877461012105" lat="37.918606665042">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-195" action="modify" visible="true" lon="-6.544449545271235" lat="37.91795829702244"/>
+<node id="-13" action="modify" visible="true" lon="-6.5442698433489355" lat="37.91817750666319">
+  <tag k="addr:street" v="CL CARB ALTOZANO"/>
+  <tag k="addr:housenumber" v="5A"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-58" action="modify" visible="true" lon="-6.544672392089857" lat="37.91754848732752">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-90" action="modify" visible="true" lon="-6.544790003990516" lat="37.91836293113383">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="S-N"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-142" action="modify" visible="true" lon="-6.544738658658261" lat="37.91778117807723">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="8"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-174" action="modify" visible="true" lon="-6.542867911484877" lat="37.91827501390495">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="14"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-21" action="modify" visible="true" lon="-6.545006963995894" lat="37.9173731529671">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-37" action="modify" visible="true" lon="-6.544107060984038" lat="37.91830701496551">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-69" action="modify" visible="true" lon="-6.543873286024897" lat="37.91835295121872">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-101" action="modify" visible="true" lon="-6.544674355050333" lat="37.91860746399924">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-121" action="modify" visible="true" lon="-6.544595135963743" lat="37.91862250800549">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-153" action="modify" visible="true" lon="-6.544476021971607" lat="37.917769133044835">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-185" action="modify" visible="true" lon="-6.543211317162031" lat="37.91835591790131">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="8B"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-28" action="modify" visible="true" lon="-6.5443137000180895" lat="37.9182820770063">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-48" action="modify" visible="true" lon="-6.544989850400574" lat="37.91826344481159">
+  <tag k="addr:street" v="CM CARB CASTA&#209;UELO"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-80" action="modify" visible="true" lon="-6.544602042027837" lat="37.91718802115106">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-112" action="modify" visible="true" lon="-6.544921689411506" lat="37.917949273394896">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="29"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-132" action="modify" visible="true" lon="-6.544907642490602" lat="37.917725417694896">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-164" action="modify" visible="true" lon="-6.543495864044038" lat="37.918409925033565">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-196" action="modify" visible="true" lon="-6.544522819732367" lat="37.91793479694202"/>
+<node id="-19" action="modify" visible="true" lon="-6.544914981961692" lat="37.91735735596998">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-59" action="modify" visible="true" lon="-6.544746255369218" lat="37.917530114951">
+  <tag k="addr:street" v="CL CARB CORTA"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-91" action="modify" visible="true" lon="-6.544678833038595" lat="37.919200324000556">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="1"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-143" action="modify" visible="true" lon="-6.544617929879984" lat="37.917739834006326">
+  <tag k="addr:street" v="CL CARB REAL"/>
+  <tag k="addr:housenumber" v="8B"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-175" action="modify" visible="true" lon="-6.542888502612544" lat="37.917973236474076">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="3"/>
+  <tag k="addr:postcode" v="21208"/>
+</node>
+<node id="-2" action="modify" visible="true" lon="-6.543772355864396" lat="37.91897908456569">
+  <tag k="addr:street" v="AL CARBONERAS"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-20" action="modify" visible="true" lon="-6.5449348100069535" lat="37.91738833498603">
+  <tag k="addr:street" v="CL CARB BARRANCO"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-38" action="modify" visible="true" lon="-6.544133633969016" lat="37.918238142960746">
+  <tag k="addr:street" v="CL CARB ENCARNACIO"/>
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-70" action="modify" visible="true" lon="-6.544202188973478" lat="37.917715547316696">
+  <tag k="addr:street" v="CL CARB LARGA"/>
+  <tag k="addr:housenumber" v="17"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-102" action="modify" visible="true" lon="-6.544743204961642" lat="37.918121301980555">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-122" action="modify" visible="true" lon="-6.544672771962409" lat="37.918993656971736">
+  <tag k="addr:street" v="CL CARB S ANTONIO"/>
+  <tag k="addr:housenumber" v="7"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-154" action="modify" visible="true" lon="-6.544307855010804" lat="37.91792730697241">
+  <tag k="addr:street" v="CL CARB SEVILLA"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+<node id="-186" action="modify" visible="true" lon="-6.542870968001744" lat="37.91850149300337">
+  <tag k="addr:street" v="CL CARB TRIANA"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="entrance" v="yes"/>
+</node>
+</osm>
