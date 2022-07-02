@@ -1,0 +1,88 @@
+Municipio: Aracena
+Nombre en Catastro: ARACENA
+Código: 21007
+División (identificador OSM): 188425863
+División (nombre): 188425863
+Fecha: 02/07/22
+Opciones: -s 188425863 21007
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.13
+Plataforma: Linux 5.15.0-39-generic #42-Ubuntu SMP Thu Jun 9 23:42:32 UTC 2022 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 8
+Frecuencia de CPU: 4600.0 Mhz
+Tiempo de ejecución: 2.0 segundos
+Memoria total: 31825.30 MB
+Memoria física usada: 170.66 MB
+Memoria virtual usada: 644.46 MB
+
+=Direcciones=
+
+==CDAU==
+Número de características: 4494
+Direcciones reemplazadas: 92
+Direcciones añadidas: 30
+
+==Datos de entrada==
+Fecha de origen: 2022-06-01
+Número de características: 217
+  Tipo entrada: 197
+  Tipo parcela: 20
+Códigos postales: 2
+Nombres de viales: 14
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 18
+Direcciones eliminadas por nombre de vía: 13
+Direcciones sin número de portal eliminadas: 3
+Direcciones correspondientes a edificios múltiples eliminadas: 1
+Direcciones tipo parcela no únicas para su edificio eliminadas: 5
+
+==Combinación==
+Direcciones OSM: 1
+Direcciones rechazadas por existir en OSM: 1
+
+==Datos de salida==
+Direcciones: 176
+  En nodos de entrada: 151
+  En parcelas: 25
+  Tipo addr:street: 176
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-12
+Número de características: 479
+  Edificios: 182
+  Partes de edificios: 296
+  Piscinas: 1
+
+==Procesado==
+Partes bajo rasante eliminadas: 2
+Edificios con geometrías multiparte: 7
+Edificios resultantes de dividir multipartes: 15
+Partes fusionadas al contorno: 158
+Partes adyacentes fusionadas: 13
+Vértices próximos fusionados: 24
+Puntos topológicos creados: 170
+Vértices simplificados: 362
+
+==Datos de salida==
+Nodos: 2715
+Vías: 315
+Relaciones: 1
+Número de características: 314
+  Edificios: 190
+  Partes de edificios: 123
+  Piscinas: 1
+Recuento de tipos de edificios: residential: 141, yes: 28, industrial: 17, public: 3, ruins: 1
+Plantas sobre rasante (nivel: nº de edificios): 1: 107, 2: 64, 3: 11
+Plantas bajo rasante (nivel: nº de edificios): 1: 11
+
+=Proyecto=
+Archivos de tareas: 28
+  Rústica: 2
+  Urbana: 26

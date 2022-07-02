@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-07-02T15:05:39Z" areas="2022-07-02T15:04:39Z"/>
+
+  <node id="8088156242" lat="37.9188285" lon="-6.5445804" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156243" lat="37.9187511" lon="-6.5446092" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156244" lat="37.9187435" lon="-6.5445686" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156245" lat="37.9187166" lon="-6.5445772" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156246" lat="37.9186762" lon="-6.5443969" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156247" lat="37.9186905" lon="-6.5443927" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156248" lat="37.9186813" lon="-6.5443127" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156249" lat="37.9187822" lon="-6.5442796" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156250" lat="37.9188436" lon="-6.5444812" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <node id="8088156251" lat="37.9188083" lon="-6.5444961" version="1" timestamp="2020-11-06T12:32:26Z" changeset="93664348" uid="10751207" user="barchindelhoyo"/>
+  <way id="867721868" version="3" timestamp="2022-06-09T10:33:07Z" changeset="122158277" uid="6590204" user="xiroux">
+    <nd ref="8088156242"/>
+    <nd ref="8088156243"/>
+    <nd ref="8088156244"/>
+    <nd ref="8088156245"/>
+    <nd ref="8088156246"/>
+    <nd ref="8088156247"/>
+    <nd ref="8088156248"/>
+    <nd ref="8088156249"/>
+    <nd ref="8088156250"/>
+    <nd ref="8088156251"/>
+    <nd ref="8088156242"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Calle San Antonio"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="Iglesia de San Antonio Abad"/>
+    <tag k="religion" v="christian"/>
+  </way>
+  <area id="3600348878">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Aracena"/>
+    <tag k="ine:municipio" v="21007"/>
+    <tag k="name" v="Aracena"/>
+    <tag k="name:ar" v="أراثينا"/>
+    <tag k="population" v="7739"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q624511"/>
+    <tag k="wikipedia" v="es:Aracena (Huelva)"/>
+  </area>
+
+</osm>
