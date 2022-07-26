@@ -1,0 +1,100 @@
+Municipio: Barbate
+Nombre en Catastro: BARBATE
+Código: 11007
+Fecha: 26/07/22
+Opciones: -f config.yaml 11007
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.13
+Plataforma: Linux 5.13.0-48-generic #54~20.04.1-Ubuntu SMP Thu Jun 2 23:37:17 UTC 2022 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 2
+Frecuencia de CPU: 2400.0 Mhz
+Tiempo de ejecución: 87.8 segundos
+Memoria total: 3924.09 MB
+Memoria física usada: 164.29 MB
+Memoria virtual usada: 639.37 MB
+
+=Direcciones=
+
+==CDAU==
+Número de características: 5499
+Direcciones reemplazadas: 3398
+Direcciones añadidas: 638
+
+==Datos de entrada==
+Fecha de origen: 2022-07-01
+Número de características: 6558
+  Tipo entrada: 4241
+  Tipo parcela: 2317
+Códigos postales: 6
+Nombres de viales: 284
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 413
+Direcciones eliminadas por nombre de vía: 804
+Direcciones sin número de portal eliminadas: 545
+Direcciones correspondientes a edificios múltiples eliminadas: 241
+Direcciones tipo parcela no únicas para su edificio eliminadas: 306
+
+==Combinación==
+Direcciones OSM: 3
+
+==Datos de salida==
+Direcciones: 4249
+  En nodos de entrada: 3352
+  En parcelas: 897
+  Tipo addr:street: 3982
+  Tipo addr:place: 267
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-12
+Número de características: 26200
+  Edificios: 5702
+  Partes de edificios: 20002
+  Piscinas: 496
+
+==Procesado==
+Partes sin edificio asociado eliminadas: 15
+Partes fuera de contorno eliminadas: 118
+Partes bajo rasante eliminadas: 174
+Edificios con geometrías multiparte: 1015
+Edificios resultantes de dividir multipartes: 4168
+Partes fusionadas al contorno: 7175
+Partes adyacentes fusionadas: 2058
+Anillos de geometrías no válidos eliminados: 1
+Geometrías no válidas eliminadas: 3
+Vértices en punta eliminados: 8
+Vértices próximos fusionados: 1529
+Puntos topológicos creados: 2705
+Vértices simplificados: 19118
+
+==Datos de salida==
+Nodos: 184557
+Vías: 20553
+Relaciones: 435
+Número de características: 19810
+  Edificios: 8855
+  Partes de edificios: 10459
+  Piscinas: 496
+    Sobre edificios: 3
+Recuento de tipos de edificios: barn: 3375, public: 117, residential: 4628, retail: 316, yes: 104, industrial: 267, ruins: 30, office: 18
+Plantas sobre rasante (nivel: nº de edificios): 1: 2165, 2: 1700, 3: 1455, 4: 267, 5: 71, 6: 35, 8: 1, 16: 1, 7: 2
+Plantas bajo rasante (nivel: nº de edificios): 1: 129, 2: 2
+
+=Proyecto=
+Archivos de tareas: 742
+  Rústica: 69
+  Urbana: 673
+
+=Problemas=
+Correcciones (fixmes): 50
+  Las partes de edificio no cubren todo el contorno: 48
+  Comprobar, área demasiado grande: 1
+  Comprobar, área demasiado pequeña: 1
+
+https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar

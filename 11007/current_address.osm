@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-07-26T01:37:07Z" areas="2022-07-20T11:06:24Z"/>
+
+  <node id="3405418387" lat="36.1830718" lon="-6.0019022" version="2" timestamp="2015-03-18T15:54:57Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405418389" lat="36.1830834" lon="-6.0018336" version="2" timestamp="2015-03-18T15:54:57Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489383" lat="36.1826035" lon="-6.0015340" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489384" lat="36.1826072" lon="-6.0013691" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489388" lat="36.1826383" lon="-6.0013702" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489389" lat="36.1826391" lon="-6.0013353" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489391" lat="36.1826702" lon="-6.0015363" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489392" lat="36.1826712" lon="-6.0014876" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489796" lat="36.1826889" lon="-6.0013370" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489797" lat="36.1826892" lon="-6.0013225" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489803" lat="36.1827312" lon="-6.0014228" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489805" lat="36.1827334" lon="-6.0013240" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489808" lat="36.1827615" lon="-6.0014907" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489810" lat="36.1827630" lon="-6.0014238" version="1" timestamp="2015-03-18T15:54:50Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489832" lat="36.1829015" lon="-6.0018582" version="1" timestamp="2015-03-18T15:54:51Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489836" lat="36.1829346" lon="-6.0016618" version="1" timestamp="2015-03-18T15:54:51Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489842" lat="36.1829872" lon="-6.0018803" version="1" timestamp="2015-03-18T15:54:51Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489848" lat="36.1830311" lon="-6.0018201" version="1" timestamp="2015-03-18T15:54:51Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489851" lat="36.1830521" lon="-6.0018971" version="1" timestamp="2015-03-18T15:54:51Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3405489852" lat="36.1830526" lon="-6.0016923" version="1" timestamp="2015-03-18T15:54:51Z" changeset="29572232" uid="164214" user="Notch"/>
+  <node id="3742653258" lat="36.2099598" lon="-5.9730088" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653259" lat="36.2097867" lon="-5.9725627" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653260" lat="36.2093377" lon="-5.9728303" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653261" lat="36.2095163" lon="-5.9732904" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653262" lat="36.2095660" lon="-5.9732608" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653263" lat="36.2094853" lon="-5.9730530" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653264" lat="36.2095665" lon="-5.9730045" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653265" lat="36.2096398" lon="-5.9731932" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653266" lat="36.2097372" lon="-5.9731350" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653267" lat="36.2096824" lon="-5.9729936" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653268" lat="36.2098258" lon="-5.9729081" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <node id="3742653269" lat="36.2098827" lon="-5.9730548" version="2" timestamp="2019-07-14T11:30:35Z" changeset="72230359" uid="4123522" user="OttoR"/>
+  <way id="333437347" version="2" timestamp="2015-10-12T16:06:51Z" changeset="34593699" uid="5735" user="ColinMarquardt">
+    <nd ref="3405489391"/>
+    <nd ref="3405489383"/>
+    <nd ref="3405489384"/>
+    <nd ref="3405489388"/>
+    <nd ref="3405489389"/>
+    <nd ref="3405489796"/>
+    <nd ref="3405489797"/>
+    <nd ref="3405489805"/>
+    <nd ref="3405489803"/>
+    <nd ref="3405489810"/>
+    <nd ref="3405489808"/>
+    <nd ref="3405489392"/>
+    <nd ref="3405489391"/>
+    <tag k="addr:city" v="Los Caños de Meca"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="11160"/>
+    <tag k="addr:street" v="Avenida Trafalgar"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hostal Mar de Frente"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.hostalmardefrente.com/"/>
+  </way>
+  <way id="333437364" version="2" timestamp="2015-10-12T16:06:51Z" changeset="34593699" uid="5735" user="ColinMarquardt">
+    <nd ref="3405489851"/>
+    <nd ref="3405418387"/>
+    <nd ref="3405418389"/>
+    <nd ref="3405489848"/>
+    <nd ref="3405489852"/>
+    <nd ref="3405489836"/>
+    <nd ref="3405489832"/>
+    <nd ref="3405489842"/>
+    <nd ref="3405489851"/>
+    <tag k="addr:city" v="Los Caños de Meca"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="11160"/>
+    <tag k="addr:street" v="Avenida Trafalgar"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hotel - Restaurante La Breña"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.hotelbrena.com/"/>
+  </way>
+  <way id="370568916" version="2" timestamp="2019-03-19T07:39:22Z" changeset="68284106" uid="9451067" user="b-jazz-bot">
+    <nd ref="3742653258"/>
+    <nd ref="3742653259"/>
+    <nd ref="3742653260"/>
+    <nd ref="3742653261"/>
+    <nd ref="3742653262"/>
+    <nd ref="3742653263"/>
+    <nd ref="3742653264"/>
+    <nd ref="3742653265"/>
+    <nd ref="3742653266"/>
+    <nd ref="3742653267"/>
+    <nd ref="3742653268"/>
+    <nd ref="3742653269"/>
+    <nd ref="3742653258"/>
+    <tag k="addr:city" v="Barbate"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="11160"/>
+    <tag k="addr:street" v="Pago de la Porquera, San Ambrosio"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="El Palomar de la Breña"/>
+    <tag k="phone" v="+34 956 43 50 03"/>
+    <tag k="source" v="Bing;http://www.palomardelabrena.com"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.palomardelabrena.com/"/>
+  </way>
+  <area id="3600342443">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Barbate"/>
+    <tag k="ine:municipio" v="11007"/>
+    <tag k="name" v="Barbate"/>
+    <tag k="name:ar" v="برباط"/>
+    <tag k="place" v="municipality"/>
+    <tag k="population" v="22977"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q13154"/>
+    <tag k="wikipedia" v="es:Barbate"/>
+  </area>
+
+</osm>
