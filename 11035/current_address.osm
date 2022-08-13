@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-08-13T13:30:11Z" areas="2022-07-20T10:48:09Z"/>
+
+  <node id="392108367" lat="36.0886152" lon="-5.7744755" version="2" timestamp="2015-03-27T04:35:50Z" changeset="29769643" uid="2774935" user="Ib7_Arq"/>
+  <node id="929123682" lat="36.0130685" lon="-5.6000904" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123707" lat="36.0131743" lon="-5.6001668" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123711" lat="36.0130152" lon="-5.6000569" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123719" lat="36.0129626" lon="-5.6003473" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123726" lat="36.0130195" lon="-5.6003790" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123730" lat="36.0129093" lon="-5.6003138" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123739" lat="36.0130735" lon="-5.6004174" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="929123742" lat="36.0131208" lon="-5.6001260" version="3" timestamp="2015-12-29T20:37:10Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1969165214" lat="36.0193486" lon="-5.6121567" version="2" timestamp="2012-10-17T10:58:55Z" changeset="13530204" uid="50884" user="holger_1"/>
+  <node id="1969165229" lat="36.0193185" lon="-5.6123535" version="1" timestamp="2012-10-16T22:13:08Z" changeset="13525303" uid="50884" user="holger_1"/>
+  <node id="1969165232" lat="36.0194118" lon="-5.6122355" version="1" timestamp="2012-10-16T22:13:08Z" changeset="13525303" uid="50884" user="holger_1"/>
+  <node id="1969165233" lat="36.0192597" lon="-5.6122733" version="2" timestamp="2012-10-17T10:58:55Z" changeset="13530204" uid="50884" user="holger_1"/>
+  <node id="1970395878" lat="36.0170927" lon="-5.6068683" version="1" timestamp="2012-10-17T18:55:50Z" changeset="13535546" uid="50884" user="holger_1"/>
+  <node id="1970395881" lat="36.0172346" lon="-5.6070169" version="1" timestamp="2012-10-17T18:55:50Z" changeset="13535546" uid="50884" user="holger_1"/>
+  <node id="1970395883" lat="36.0170753" lon="-5.6072813" version="1" timestamp="2012-10-17T18:55:50Z" changeset="13535546" uid="50884" user="holger_1"/>
+  <node id="1970395884" lat="36.0169178" lon="-5.6071188" version="1" timestamp="2012-10-17T18:55:50Z" changeset="13535546" uid="50884" user="holger_1"/>
+  <node id="1973749898" lat="36.0129410" lon="-5.6004054" version="2" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1973749899" lat="36.0127838" lon="-5.6004283" version="2" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1973749900" lat="36.0129356" lon="-5.6004220" version="2" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1973749901" lat="36.0130605" lon="-5.6004827" version="2" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1973749902" lat="36.0128062" lon="-5.6003580" version="2" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1973749903" lat="36.0130388" lon="-5.6005514" version="2" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="1976449398" lat="36.0131213" lon="-5.6031455" version="2" timestamp="2014-11-04T21:02:12Z" changeset="26558055" uid="50884" user="holger_1"/>
+  <node id="1976449403" lat="36.0130627" lon="-5.6032286" version="2" timestamp="2014-11-04T21:02:12Z" changeset="26558055" uid="50884" user="holger_1"/>
+  <node id="1976449405" lat="36.0129672" lon="-5.6031267" version="2" timestamp="2014-11-04T21:02:12Z" changeset="26558055" uid="50884" user="holger_1"/>
+  <node id="1976449411" lat="36.0130264" lon="-5.6030447" version="2" timestamp="2014-11-04T21:02:12Z" changeset="26558055" uid="50884" user="holger_1"/>
+  <node id="1979627241" lat="36.0188282" lon="-5.6118331" version="1" timestamp="2012-10-23T16:56:42Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627244" lat="36.0189713" lon="-5.6117741" version="1" timestamp="2012-10-23T16:56:42Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627247" lat="36.0191128" lon="-5.6120996" version="1" timestamp="2012-10-23T16:56:42Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627250" lat="36.0193098" lon="-5.6123535" version="1" timestamp="2012-10-23T16:56:42Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627269" lat="36.0192190" lon="-5.6124940" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627274" lat="36.0191847" lon="-5.6122024" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627277" lat="36.0191948" lon="-5.6118948" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627280" lat="36.0190733" lon="-5.6119914" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627282" lat="36.0189587" lon="-5.6117886" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627292" lat="36.0191170" lon="-5.6117081" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627296" lat="36.0190801" lon="-5.6123167" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627301" lat="36.0190494" lon="-5.6120021" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627303" lat="36.0189413" lon="-5.6120890" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979627307" lat="36.0190039" lon="-5.6122086" version="1" timestamp="2012-10-23T16:56:43Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979646048" lat="36.0208305" lon="-5.6122126" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646049" lat="36.0203316" lon="-5.6124392" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646050" lat="36.0204845" lon="-5.6123614" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646051" lat="36.0206298" lon="-5.6122541" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646052" lat="36.0208349" lon="-5.6120248" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646053" lat="36.0203847" lon="-5.6124151" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646054" lat="36.0202762" lon="-5.6124567" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646055" lat="36.0209797" lon="-5.6119781" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646056" lat="36.0209466" lon="-5.6120476" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646057" lat="36.0207991" lon="-5.6120731" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646058" lat="36.0207589" lon="-5.6121241" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646059" lat="36.0208956" lon="-5.6119122" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646060" lat="36.0207177" lon="-5.6121683" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646061" lat="36.0209140" lon="-5.6120986" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646062" lat="36.0208706" lon="-5.6121603" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646063" lat="36.0206743" lon="-5.6122139" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646064" lat="36.0208674" lon="-5.6119671" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646065" lat="36.0205355" lon="-5.6123292" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646066" lat="36.0205875" lon="-5.6122917" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979646067" lat="36.0204335" lon="-5.6123923" version="2" timestamp="2019-04-23T15:11:30Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="1979653895" lat="36.0196941" lon="-5.6126281" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653897" lat="36.0196483" lon="-5.6123883" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653899" lat="36.0198913" lon="-5.6124795" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653901" lat="36.0198329" lon="-5.6126657" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653904" lat="36.0201256" lon="-5.6124956" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653907" lat="36.0197741" lon="-5.6124581" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653909" lat="36.0199857" lon="-5.6126890" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653911" lat="36.0201401" lon="-5.6126960" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653914" lat="36.0195882" lon="-5.6125680" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979653917" lat="36.0200215" lon="-5.6124956" version="1" timestamp="2012-10-23T17:14:01Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661853" lat="36.0191971" lon="-5.6106717" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661854" lat="36.0189541" lon="-5.6114549" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661856" lat="36.0190756" lon="-5.6114442" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661858" lat="36.0190929" lon="-5.6116212" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661859" lat="36.0191060" lon="-5.6109453" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661861" lat="36.0189454" lon="-5.6112725" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661863" lat="36.0190712" lon="-5.6112993" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661865" lat="36.0189845" lon="-5.6116641" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661867" lat="36.0191407" lon="-5.6107951" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661868" lat="36.0190799" lon="-5.6106073" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661870" lat="36.0189584" lon="-5.6110794" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661872" lat="36.0190756" lon="-5.6111062" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="1979661881" lat="36.0189888" lon="-5.6108916" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1"/>
+  <node id="2001260705" lat="36.0186958" lon="-5.6122301" version="1" timestamp="2012-11-07T13:24:10Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260706" lat="36.0187739" lon="-5.6124366" version="1" timestamp="2012-11-07T13:24:10Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260707" lat="36.0185635" lon="-5.6119726" version="1" timestamp="2012-11-07T13:24:10Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260708" lat="36.0186134" lon="-5.6120343" version="1" timestamp="2012-11-07T13:24:10Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260709" lat="36.0187218" lon="-5.6118706" version="1" timestamp="2012-11-07T13:24:10Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260710" lat="36.0186546" lon="-5.6121281" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260711" lat="36.0186351" lon="-5.6121469" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260712" lat="36.0187132" lon="-5.6123454" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260713" lat="36.0187284" lon="-5.6123293" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260714" lat="36.0186785" lon="-5.6122515" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260715" lat="36.0188281" lon="-5.6121496" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260716" lat="36.0189149" lon="-5.6123052" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260717" lat="36.0185982" lon="-5.6120504" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001260718" lat="36.0187609" lon="-5.6119994" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262468" lat="36.0188479" lon="-5.6124487" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262469" lat="36.0191362" lon="-5.6128014" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262470" lat="36.0188715" lon="-5.6124876" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262471" lat="36.0190798" lon="-5.6127504" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262472" lat="36.0189412" lon="-5.6123441" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262473" lat="36.0191167" lon="-5.6125948" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262474" lat="36.0189822" lon="-5.6124178" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262475" lat="36.0192100" lon="-5.6128497" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262476" lat="36.0190299" lon="-5.6127075" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262477" lat="36.0192642" lon="-5.6127075" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262478" lat="36.0191948" lon="-5.6126619" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262479" lat="36.0189019" lon="-5.6125358" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262480" lat="36.0189822" lon="-5.6126431" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262481" lat="36.0189410" lon="-5.6125895" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001262482" lat="36.0190646" lon="-5.6125251" version="1" timestamp="2012-11-07T13:27:52Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275239" lat="36.0196135" lon="-5.6130374" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275240" lat="36.0193965" lon="-5.6128014" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275241" lat="36.0193315" lon="-5.6127585" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275242" lat="36.0195614" lon="-5.6128792" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275243" lat="36.0194011" lon="-5.6129610" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275244" lat="36.0192774" lon="-5.6128912" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275245" lat="36.0194703" lon="-5.6129891" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275246" lat="36.0194464" lon="-5.6128336" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275247" lat="36.0196265" lon="-5.6128845" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275248" lat="36.0196853" lon="-5.6128904" version="2" timestamp="2012-11-07T13:39:14Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275249" lat="36.0196788" lon="-5.6130461" version="2" timestamp="2012-11-07T13:39:14Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275250" lat="36.0195310" lon="-5.6130133" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275251" lat="36.0194963" lon="-5.6128550" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2001275252" lat="36.0193358" lon="-5.6129274" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1"/>
+  <node id="2018191766" lat="36.0192881" lon="-5.6117661" version="1" timestamp="2012-11-17T14:28:13Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191767" lat="36.0195961" lon="-5.6118466" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191768" lat="36.0195484" lon="-5.6117822" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191769" lat="36.0194328" lon="-5.6119930" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191770" lat="36.0194414" lon="-5.6115800" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191771" lat="36.0196699" lon="-5.6119324" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191772" lat="36.0193575" lon="-5.6118841" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191773" lat="36.0195022" lon="-5.6120735" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191774" lat="36.0192490" lon="-5.6116535" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191776" lat="36.0195050" lon="-5.6117125" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191777" lat="36.0195629" lon="-5.6121271" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018191779" lat="36.0194790" lon="-5.6116588" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192366" lat="36.0193850" lon="-5.6112152" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192367" lat="36.0193879" lon="-5.6113531" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192368" lat="36.0192013" lon="-5.6114818" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192369" lat="36.0192881" lon="-5.6107522" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192370" lat="36.0191796" lon="-5.6113423" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192371" lat="36.0194616" lon="-5.6108864" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192372" lat="36.0192332" lon="-5.6109201" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192373" lat="36.0192100" lon="-5.6110580" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192374" lat="36.0191883" lon="-5.6111868" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192375" lat="36.0194226" lon="-5.6109775" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192376" lat="36.0194009" lon="-5.6110956" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192377" lat="36.0194052" lon="-5.6114764" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018192378" lat="36.0192288" lon="-5.6115692" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247004" lat="36.0150880" lon="-5.6049934" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247005" lat="36.0151162" lon="-5.6049398" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247006" lat="36.0151986" lon="-5.6050202" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247008" lat="36.0150402" lon="-5.6049451" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247009" lat="36.0150532" lon="-5.6052429" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247010" lat="36.0146360" lon="-5.6045445" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247011" lat="36.0145239" lon="-5.6046286" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247012" lat="36.0146172" lon="-5.6044221" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247013" lat="36.0149311" lon="-5.6051185" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018247014" lat="36.0145065" lon="-5.6044462" version="1" timestamp="2012-11-17T15:14:18Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018253418" lat="36.0146302" lon="-5.6048244" version="1" timestamp="2012-11-17T15:19:49Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018253422" lat="36.0147158" lon="-5.6046979" version="2" timestamp="2015-10-31T14:34:15Z" changeset="34993025" uid="50884" user="holger_1"/>
+  <node id="2018253438" lat="36.0150176" lon="-5.6049647" version="2" timestamp="2015-10-29T20:31:39Z" changeset="34958895" uid="50884" user="holger_1"/>
+  <node id="2018253439" lat="36.0146432" lon="-5.6045428" version="1" timestamp="2012-11-17T15:19:49Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018253440" lat="36.0150044" lon="-5.6050021" version="1" timestamp="2012-11-17T15:19:49Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018253444" lat="36.0145564" lon="-5.6047225" version="1" timestamp="2012-11-17T15:19:49Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018253445" lat="36.0147191" lon="-5.6046930" version="1" timestamp="2012-11-17T15:19:49Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018253446" lat="36.0145282" lon="-5.6046340" version="1" timestamp="2012-11-17T15:19:49Z" changeset="13906007" uid="50884" user="holger_1"/>
+  <node id="2018327436" lat="36.0159174" lon="-5.6050018" version="2" timestamp="2015-04-09T21:49:52Z" changeset="30105114" uid="2163609" user="CarlosMG"/>
+  <node id="2018327437" lat="36.0158014" lon="-5.6048784" version="2" timestamp="2015-04-09T21:49:52Z" changeset="30105114" uid="2163609" user="CarlosMG"/>
+  <node id="2018327438" lat="36.0158848" lon="-5.6047514" version="1" timestamp="2012-11-17T16:07:35Z" changeset="13907175" uid="50884" user="holger_1"/>
+  <node id="2018327440" lat="36.0159559" lon="-5.6049452" version="1" timestamp="2012-11-17T16:07:35Z" changeset="13907175" uid="50884" user="holger_1"/>
+  <node id="2018327441" lat="36.0159363" lon="-5.6048111" version="1" timestamp="2012-11-17T16:07:35Z" changeset="13907175" uid="50884" user="holger_1"/>
+  <node id="2018338132" lat="36.0153815" lon="-5.6051584" version="2" timestamp="2015-10-31T14:33:06Z" changeset="34993002" uid="50884" user="holger_1"/>
+  <node id="2018338134" lat="36.0154685" lon="-5.6052564" version="2" timestamp="2015-10-31T14:33:06Z" changeset="34993002" uid="50884" user="holger_1"/>
+  <node id="2018338136" lat="36.0154683" lon="-5.6050223" version="1" timestamp="2012-11-17T16:12:27Z" changeset="13907175" uid="50884" user="holger_1"/>
+  <node id="2018338144" lat="36.0155632" lon="-5.6051222" version="1" timestamp="2012-11-17T16:12:28Z" changeset="13907175" uid="50884" user="holger_1"/>
+  <node id="2018338596" lat="36.0152964" lon="-5.6052741" version="2" timestamp="2015-10-31T14:33:06Z" changeset="34993002" uid="50884" user="holger_1"/>
+  <node id="2018338597" lat="36.0153834" lon="-5.6053720" version="2" timestamp="2015-10-31T14:33:06Z" changeset="34993002" uid="50884" user="holger_1"/>
+  <node id="2018379162" lat="36.0156056" lon="-5.6027312" version="3" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018379164" lat="36.0156942" lon="-5.6025752" version="2" timestamp="2015-10-29T19:53:08Z" changeset="34957854" uid="50884" user="holger_1"/>
+  <node id="2018379165" lat="36.0156873" lon="-5.6028032" version="3" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018379166" lat="36.0157785" lon="-5.6026507" version="2" timestamp="2015-10-29T19:53:08Z" changeset="34957854" uid="50884" user="holger_1"/>
+  <node id="2018382854" lat="36.0158698" lon="-5.6026979" version="3" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="2018382856" lat="36.0158099" lon="-5.6026472" version="3" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="2018382858" lat="36.0157718" lon="-5.6028663" version="3" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="2018382861" lat="36.0157186" lon="-5.6028015" version="3" timestamp="2015-12-29T20:37:06Z" changeset="36250178" uid="220932" user="mor"/>
+  <node id="2018391389" lat="36.0157500" lon="-5.6030455" version="1" timestamp="2012-11-17T16:55:26Z" changeset="13907872" uid="50884" user="holger_1"/>
+  <node id="2018391391" lat="36.0156500" lon="-5.6030335" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018391393" lat="36.0157777" lon="-5.6030029" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018391395" lat="36.0157106" lon="-5.6029361" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018391397" lat="36.0156952" lon="-5.6030730" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018391399" lat="36.0157218" lon="-5.6030294" version="1" timestamp="2012-11-17T16:55:26Z" changeset="13907872" uid="50884" user="holger_1"/>
+  <node id="2018395948" lat="36.0155719" lon="-5.6031616" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018395952" lat="36.0156588" lon="-5.6031365" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018395953" lat="36.0156180" lon="-5.6032053" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018395954" lat="36.0156134" lon="-5.6030949" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018397452" lat="36.0155993" lon="-5.6032429" version="3" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018397454" lat="36.0155480" lon="-5.6032035" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018411994" lat="36.0155184" lon="-5.6032625" version="2" timestamp="2015-10-29T19:59:31Z" changeset="34958015" uid="50884" user="holger_1"/>
+  <node id="2018412015" lat="36.0155648" lon="-5.6033029" version="3" timestamp="2015-10-29T20:23:39Z" changeset="34958676" uid="50884" user="holger_1"/>
+  <node id="2068236018" lat="36.0182858" lon="-5.6048807" version="1" timestamp="2012-12-15T14:09:44Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236061" lat="36.0182337" lon="-5.6047924" version="1" timestamp="2012-12-15T14:09:45Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236074" lat="36.0181795" lon="-5.6047626" version="1" timestamp="2012-12-15T14:09:45Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236085" lat="36.0172564" lon="-5.6057169" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068236101" lat="36.0177631" lon="-5.6054951" version="2" timestamp="2012-12-15T14:16:35Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236117" lat="36.0173681" lon="-5.6053047" version="1" timestamp="2012-12-15T14:09:46Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236130" lat="36.0179843" lon="-5.6046232" version="1" timestamp="2012-12-15T14:09:46Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236136" lat="36.0174788" lon="-5.6054144" version="1" timestamp="2012-12-15T14:09:46Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236163" lat="36.0180753" lon="-5.6047361" version="1" timestamp="2012-12-15T14:09:46Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068236179" lat="36.0176504" lon="-5.6053441" version="2" timestamp="2012-12-15T14:16:35Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068243480" lat="36.0176697" lon="-5.6056183" version="1" timestamp="2012-12-15T14:16:34Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068243482" lat="36.0175828" lon="-5.6055059" version="1" timestamp="2012-12-15T14:16:34Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068243483" lat="36.0176765" lon="-5.6053791" version="1" timestamp="2012-12-15T14:16:35Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068262245" lat="36.0169875" lon="-5.6064381" version="1" timestamp="2012-12-15T14:35:24Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068262246" lat="36.0169396" lon="-5.6064786" version="2" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068262262" lat="36.0169298" lon="-5.6063830" version="1" timestamp="2012-12-15T14:35:25Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068262269" lat="36.0168822" lon="-5.6064605" version="1" timestamp="2012-12-15T14:35:25Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068262279" lat="36.0171230" lon="-5.6065678" version="1" timestamp="2012-12-15T14:35:25Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068264174" lat="36.0169798" lon="-5.6065546" version="1" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068264176" lat="36.0170288" lon="-5.6064777" version="1" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068264178" lat="36.0169249" lon="-5.6065018" version="1" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068264180" lat="36.0169576" lon="-5.6064935" version="1" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068274335" lat="36.0173063" lon="-5.6069248" version="1" timestamp="2012-12-15T14:41:17Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068274337" lat="36.0173931" lon="-5.6068416" version="1" timestamp="2012-12-15T14:41:17Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068296176" lat="36.0168289" lon="-5.6063517" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068296178" lat="36.0168692" lon="-5.6062164" version="1" timestamp="2012-12-15T14:51:15Z" changeset="14280566" uid="50884" user="holger_1"/>
+  <node id="2068296184" lat="36.0168043" lon="-5.6062890" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068296186" lat="36.0168932" lon="-5.6062520" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068302737" lat="36.0171029" lon="-5.6059445" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068302739" lat="36.0170008" lon="-5.6060932" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068302742" lat="36.0169494" lon="-5.6060403" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068302743" lat="36.0170524" lon="-5.6058959" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068305709" lat="36.0171476" lon="-5.6058785" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068305711" lat="36.0170873" lon="-5.6058200" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068305712" lat="36.0171467" lon="-5.6057448" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068305713" lat="36.0172007" lon="-5.6057991" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068305886" lat="36.0171994" lon="-5.6056663" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2068306487" lat="36.0168476" lon="-5.6062142" version="2" timestamp="2016-01-05T13:28:51Z" changeset="36380672" uid="220932" user="mor"/>
+  <node id="2317620763" lat="36.0886421" lon="-5.7743569" version="3" timestamp="2015-07-11T13:46:31Z" changeset="32564584" uid="2093638" user="DiegoOSM"/>
+  <node id="2317620767" lat="36.0885240" lon="-5.7743392" version="3" timestamp="2015-07-11T13:46:32Z" changeset="32564584" uid="2093638" user="DiegoOSM"/>
+  <node id="2317620769" lat="36.0885019" lon="-5.7742429" version="2" timestamp="2015-03-27T04:35:50Z" changeset="29769643" uid="2774935" user="Ib7_Arq"/>
+  <node id="2317620773" lat="36.0885706" lon="-5.7742532" version="2" timestamp="2015-03-27T04:35:50Z" changeset="29769643" uid="2774935" user="Ib7_Arq"/>
+  <node id="2898943451" lat="36.1087118" lon="-5.7639882" version="1" timestamp="2014-06-04T11:11:29Z" changeset="22732454" uid="2093638" user="DiegoOSM"/>
+  <node id="2898943452" lat="36.1087196" lon="-5.7640812" version="1" timestamp="2014-06-04T11:11:29Z" changeset="22732454" uid="2093638" user="DiegoOSM"/>
+  <node id="2898943458" lat="36.1087787" lon="-5.7639746" version="1" timestamp="2014-06-04T11:11:29Z" changeset="22732454" uid="2093638" user="DiegoOSM"/>
+  <node id="2898943459" lat="36.1087905" lon="-5.7640622" version="1" timestamp="2014-06-04T11:11:29Z" changeset="22732454" uid="2093638" user="DiegoOSM"/>
+  <node id="3157883100" lat="36.0140974" lon="-5.6044513" version="1" timestamp="2014-10-30T13:45:37Z" changeset="26436252" uid="50884" user="holger_1"/>
+  <node id="3157883101" lat="36.0141162" lon="-5.6044187" version="1" timestamp="2014-10-30T13:45:37Z" changeset="26436252" uid="50884" user="holger_1"/>
+  <node id="3157883102" lat="36.0140780" lon="-5.6043850" version="1" timestamp="2014-10-30T13:45:37Z" changeset="26436252" uid="50884" user="holger_1"/>
+  <node id="3157883103" lat="36.0140592" lon="-5.6044175" version="1" timestamp="2014-10-30T13:45:37Z" changeset="26436252" uid="50884" user="holger_1"/>
+  <node id="3157884849" lat="36.0140679" lon="-5.6044025" version="1" timestamp="2014-10-30T13:47:33Z" changeset="26436298" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Peso"/>
+  </node>
+  <node id="3157927362" lat="36.0145341" lon="-5.6030134" version="1" timestamp="2014-10-30T14:21:57Z" changeset="26437292" uid="50884" user="holger_1"/>
+  <node id="3157927363" lat="36.0146084" lon="-5.6028812" version="1" timestamp="2014-10-30T14:21:57Z" changeset="26437292" uid="50884" user="holger_1"/>
+  <node id="3157927364" lat="36.0145607" lon="-5.6028383" version="1" timestamp="2014-10-30T14:21:57Z" changeset="26437292" uid="50884" user="holger_1"/>
+  <node id="3157927365" lat="36.0144877" lon="-5.6029685" version="1" timestamp="2014-10-30T14:21:57Z" changeset="26437292" uid="50884" user="holger_1"/>
+  <node id="3157927369" lat="36.0145693" lon="-5.6029508" version="1" timestamp="2014-10-30T14:21:57Z" changeset="26437292" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Silos"/>
+  </node>
+  <node id="3167404319" lat="36.0130403" lon="-5.6030594" version="1" timestamp="2014-11-04T21:02:12Z" changeset="26558055" uid="50884" user="holger_1"/>
+  <node id="3168875005" lat="36.0134301" lon="-5.6033426" version="1" timestamp="2014-11-05T17:31:32Z" changeset="26575982" uid="50884" user="holger_1"/>
+  <node id="3168875016" lat="36.0132463" lon="-5.6030482" version="2" timestamp="2014-11-06T12:44:53Z" changeset="26592012" uid="50884" user="holger_1"/>
+  <node id="3170251266" lat="36.0136823" lon="-5.6025191" version="2" timestamp="2016-02-29T12:32:26Z" changeset="37520707" uid="50884" user="holger_1"/>
+  <node id="3170251267" lat="36.0137115" lon="-5.6024596" version="2" timestamp="2016-02-29T12:32:26Z" changeset="37520707" uid="50884" user="holger_1"/>
+  <node id="3170274948" lat="36.0131586" lon="-5.6029682" version="1" timestamp="2014-11-06T12:44:52Z" changeset="26592012" uid="50884" user="holger_1"/>
+  <node id="3170274949" lat="36.0132112" lon="-5.6028803" version="1" timestamp="2014-11-06T12:44:52Z" changeset="26592012" uid="50884" user="holger_1"/>
+  <node id="3170274950" lat="36.0132399" lon="-5.6029065" version="1" timestamp="2014-11-06T12:44:52Z" changeset="26592012" uid="50884" user="holger_1"/>
+  <node id="3170274951" lat="36.0132111" lon="-5.6029547" version="1" timestamp="2014-11-06T12:44:52Z" changeset="26592012" uid="50884" user="holger_1"/>
+  <node id="3170274952" lat="36.0132700" lon="-5.6030085" version="1" timestamp="2014-11-06T12:44:52Z" changeset="26592012" uid="50884" user="holger_1"/>
+  <node id="3171994457" lat="36.0133528" lon="-5.6035060" version="1" timestamp="2014-11-07T10:07:40Z" changeset="26611414" uid="50884" user="holger_1"/>
+  <node id="3171994458" lat="36.0133206" lon="-5.6034817" version="1" timestamp="2014-11-07T10:07:40Z" changeset="26611414" uid="50884" user="holger_1"/>
+  <node id="3171994459" lat="36.0133930" lon="-5.6033187" version="2" timestamp="2015-10-26T18:25:23Z" changeset="34888155" uid="50884" user="holger_1"/>
+  <node id="3646220943" lat="36.0886246" lon="-5.7743766" version="1" timestamp="2015-07-11T13:46:29Z" changeset="32564584" uid="2093638" user="DiegoOSM"/>
+  <node id="3646220946" lat="36.0886550" lon="-5.7744313" version="1" timestamp="2015-07-11T13:46:29Z" changeset="32564584" uid="2093638" user="DiegoOSM"/>
+  <node id="3803898779" lat="36.0132011" lon="-5.6038158" version="1" timestamp="2015-10-26T18:12:39Z" changeset="34887910" uid="50884" user="holger_1"/>
+  <node id="3803898780" lat="36.0132204" lon="-5.6038047" version="3" timestamp="2022-07-30T19:28:51Z" changeset="124280570" uid="491515" user="robertogeb"/>
+  <node id="3803898781" lat="36.0132573" lon="-5.6037228" version="2" timestamp="2022-07-30T19:28:51Z" changeset="124280570" uid="491515" user="robertogeb"/>
+  <node id="3803898782" lat="36.0132293" lon="-5.6037327" version="1" timestamp="2015-10-26T18:12:39Z" changeset="34887910" uid="50884" user="holger_1"/>
+  <node id="3804036502" lat="36.0132432" lon="-5.6037573" version="2" timestamp="2022-07-30T19:28:51Z" changeset="124280570" uid="491515" user="robertogeb">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Plaza la Paz"/>
+  </node>
+  <node id="3804057785" lat="36.0133868" lon="-5.6033326" version="1" timestamp="2015-10-26T19:54:24Z" changeset="34889930" uid="50884" user="holger_1"/>
+  <node id="3809023283" lat="36.0155294" lon="-5.6032405" version="2" timestamp="2015-10-29T20:12:20Z" changeset="34958359" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+  </node>
+  <node id="3809023284" lat="36.0155577" lon="-5.6031865" version="2" timestamp="2015-10-29T20:12:20Z" changeset="34958359" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+  </node>
+  <node id="3809023285" lat="36.0155937" lon="-5.6031266" version="2" timestamp="2015-10-29T20:12:20Z" changeset="34958359" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+  </node>
+  <node id="3809023286" lat="36.0156316" lon="-5.6030644" version="2" timestamp="2015-10-29T20:12:20Z" changeset="34958359" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+  </node>
+  <node id="3809023287" lat="36.0156812" lon="-5.6029834" version="2" timestamp="2015-10-29T20:12:19Z" changeset="34958359" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+  </node>
+  <node id="3809023288" lat="36.0157625" lon="-5.6029878" version="3" timestamp="2015-12-29T20:36:58Z" changeset="36250178" uid="220932" user="mor">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Echegaray"/>
+  </node>
+  <node id="3809023289" lat="36.0157199" lon="-5.6028174" version="3" timestamp="2015-12-29T20:37:01Z" changeset="36250178" uid="220932" user="mor">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Echegaray"/>
+  </node>
+  <node id="3809035680" lat="36.0155929" lon="-5.6032537" version="1" timestamp="2015-10-29T20:23:37Z" changeset="34958676" uid="50884" user="holger_1"/>
+  <node id="3809035683" lat="36.0156276" lon="-5.6031891" version="1" timestamp="2015-10-29T20:23:37Z" changeset="34958676" uid="50884" user="holger_1"/>
+  <node id="3809073316" lat="36.0150262" lon="-5.6052154" version="2" timestamp="2015-10-29T20:32:04Z" changeset="34958909" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Batalla del Salado"/>
+  </node>
+  <node id="3809093942" lat="36.0140173" lon="-5.6053924" version="1" timestamp="2015-10-29T20:38:29Z" changeset="34959108" uid="50884" user="holger_1"/>
+  <node id="3809093943" lat="36.0139403" lon="-5.6053240" version="1" timestamp="2015-10-29T20:38:29Z" changeset="34959108" uid="50884" user="holger_1"/>
+  <node id="3809093945" lat="36.0141191" lon="-5.6052183" version="1" timestamp="2015-10-29T20:38:29Z" changeset="34959108" uid="50884" user="holger_1"/>
+  <node id="3809093946" lat="36.0140401" lon="-5.6051429" version="1" timestamp="2015-10-29T20:38:29Z" changeset="34959108" uid="50884" user="holger_1"/>
+  <node id="3811136820" lat="36.0170157" lon="-5.6072198" version="2" timestamp="2015-10-31T13:56:25Z" changeset="34992319" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Batalla del Salado"/>
+  </node>
+  <node id="3811189086" lat="36.0153270" lon="-5.6052324" version="1" timestamp="2015-10-31T14:33:06Z" changeset="34993002" uid="50884" user="holger_1"/>
+  <node id="3902785581" lat="36.0139867" lon="-5.6052398" version="1" timestamp="2015-12-21T11:26:10Z" changeset="36083145" uid="50884" user="holger_1">
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Avenida de Andalucía"/>
+  </node>
+  <node id="4032828913" lat="36.0137824" lon="-5.6025126" version="1" timestamp="2016-02-29T12:32:26Z" changeset="37520707" uid="50884" user="holger_1"/>
+  <node id="4032828914" lat="36.0137102" lon="-5.6025399" version="1" timestamp="2016-02-29T12:32:26Z" changeset="37520707" uid="50884" user="holger_1"/>
+  <node id="4032828915" lat="36.0136908" lon="-5.6025877" version="2" timestamp="2016-02-29T12:36:06Z" changeset="37520768" uid="50884" user="holger_1"/>
+  <node id="4032828916" lat="36.0137288" lon="-5.6026157" version="2" timestamp="2016-02-29T12:36:06Z" changeset="37520768" uid="50884" user="holger_1"/>
+  <node id="4453629920" lat="36.0720661" lon="-5.6938571" version="1" timestamp="2016-10-18T16:32:47Z" changeset="42988184" uid="50884" user="holger_1"/>
+  <node id="4453629921" lat="36.0720851" lon="-5.6937663" version="1" timestamp="2016-10-18T16:32:47Z" changeset="42988184" uid="50884" user="holger_1"/>
+  <node id="4453629922" lat="36.0720268" lon="-5.6937476" version="1" timestamp="2016-10-18T16:32:47Z" changeset="42988184" uid="50884" user="holger_1"/>
+  <node id="4453629923" lat="36.0720078" lon="-5.6938384" version="1" timestamp="2016-10-18T16:32:47Z" changeset="42988184" uid="50884" user="holger_1"/>
+  <node id="6423640876" lat="36.0202426" lon="-5.6125988" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640877" lat="36.0203012" lon="-5.6125841" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640878" lat="36.0203543" lon="-5.6125666" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640879" lat="36.0204129" lon="-5.6125398" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640880" lat="36.0204726" lon="-5.6125063" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640881" lat="36.0205355" lon="-5.6124714" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640882" lat="36.0205940" lon="-5.6124379" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640883" lat="36.0206418" lon="-5.6124030" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640884" lat="36.0206938" lon="-5.6123574" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640885" lat="36.0207383" lon="-5.6123145" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640886" lat="36.0207882" lon="-5.6122635" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <node id="6423640887" lat="36.0202307" lon="-5.6124687" version="1" timestamp="2019-04-23T15:11:23Z" changeset="69493125" uid="4123522" user="OttoR"/>
+  <way id="79619176" version="3" timestamp="2015-12-29T20:36:55Z" changeset="36250178" uid="220932" user="mor">
+    <nd ref="929123719"/>
+    <nd ref="929123682"/>
+    <nd ref="929123711"/>
+    <nd ref="929123730"/>
+    <nd ref="929123719"/>
+    <tag k="addr:housenumber" v="17 - 20"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Barriada de Antonio Ordóñez"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="79619181" version="4" timestamp="2015-12-29T20:36:55Z" changeset="36250178" uid="220932" user="mor">
+    <nd ref="929123726"/>
+    <nd ref="929123742"/>
+    <nd ref="929123707"/>
+    <nd ref="929123739"/>
+    <nd ref="929123726"/>
+    <tag k="addr:housenumber" v="25 - 27"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Barriada de Antonio Ordóñez"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="186228707" version="3" timestamp="2015-06-22T06:47:25Z" changeset="32131565" uid="1151930" user="Ludovic Drouard">
+    <nd ref="1969165229"/>
+    <nd ref="1969165232"/>
+    <nd ref="1969165214"/>
+    <nd ref="1969165233"/>
+    <nd ref="1969165229"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="186362293" version="4" timestamp="2015-10-31T13:56:25Z" changeset="34992319" uid="50884" user="holger_1">
+    <nd ref="1970395883"/>
+    <nd ref="1970395881"/>
+    <nd ref="1970395878"/>
+    <nd ref="1970395884"/>
+    <nd ref="3811136820"/>
+    <nd ref="1970395883"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Batalla del Salado"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="186631940" version="2" timestamp="2015-12-29T20:36:55Z" changeset="36250178" uid="220932" user="mor">
+    <nd ref="1973749903"/>
+    <nd ref="1973749901"/>
+    <nd ref="1973749900"/>
+    <nd ref="1973749898"/>
+    <nd ref="1973749902"/>
+    <nd ref="1973749899"/>
+    <nd ref="1973749903"/>
+    <tag k="addr:housenumber" v="33 - 36"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Barriada de Antonio Ordóñez"/>
+    <tag k="building" v="residential"/>
+  </way>
+  <way id="186897631" version="5" timestamp="2019-03-19T08:34:05Z" changeset="68285334" uid="9451067" user="b-jazz-bot">
+    <nd ref="1976449403"/>
+    <nd ref="1976449398"/>
+    <nd ref="3167404319"/>
+    <nd ref="1976449411"/>
+    <nd ref="1976449405"/>
+    <nd ref="1976449403"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Sancho IV El Bravo"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@misiana.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Hotel Misiana"/>
+    <tag k="note" v="Pets allowed"/>
+    <tag k="phone" v="+34 956 627 083"/>
+    <tag k="rooms" v="15"/>
+    <tag k="stars" v="1"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.misiana.com/"/>
+  </way>
+  <way id="187218024" version="2" timestamp="2012-10-23T17:04:11Z" changeset="13607482" uid="50884" user="holger_1">
+    <nd ref="1979627277"/>
+    <nd ref="1979627292"/>
+    <nd ref="1979627244"/>
+    <nd ref="1979627280"/>
+    <nd ref="1979627277"/>
+    <tag k="addr:housenumber" v="50 - 56"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="187218026" version="2" timestamp="2012-11-07T13:19:38Z" changeset="13785243" uid="50884" user="holger_1">
+    <nd ref="1979627250"/>
+    <nd ref="1979627274"/>
+    <nd ref="1979627296"/>
+    <nd ref="1979627269"/>
+    <nd ref="1979627250"/>
+    <tag k="addr:housenumber" v="35 - 41"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Jónico"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="187218029" version="2" timestamp="2012-11-07T13:22:11Z" changeset="13785243" uid="50884" user="holger_1">
+    <nd ref="1979627301"/>
+    <nd ref="1979627282"/>
+    <nd ref="1979627241"/>
+    <nd ref="1979627303"/>
+    <nd ref="1979627301"/>
+    <tag k="addr:housenumber" v="51 - 55"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Jónico"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="187218030" version="2" timestamp="2012-11-07T13:20:47Z" changeset="13785243" uid="50884" user="holger_1">
+    <nd ref="1979627296"/>
+    <nd ref="1979627307"/>
+    <nd ref="1979627303"/>
+    <nd ref="1979627301"/>
+    <nd ref="1979627247"/>
+    <nd ref="1979627274"/>
+    <nd ref="1979627296"/>
+    <tag k="addr:housenumber" v="43 - 49"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Jónico"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="187225256" version="2" timestamp="2019-04-23T15:11:35Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="1979646056"/>
+    <nd ref="1979646061"/>
+    <nd ref="1979646052"/>
+    <nd ref="1979646064"/>
+    <nd ref="1979646056"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="187228494" version="2" timestamp="2012-11-17T14:24:04Z" changeset="13906007" uid="50884" user="holger_1">
+    <nd ref="1979653911"/>
+    <nd ref="1979653904"/>
+    <nd ref="1979653917"/>
+    <nd ref="1979653899"/>
+    <nd ref="1979653907"/>
+    <nd ref="1979653897"/>
+    <nd ref="1979653914"/>
+    <nd ref="1979653895"/>
+    <nd ref="1979653901"/>
+    <nd ref="1979653909"/>
+    <nd ref="1979653911"/>
+    <tag k="addr:housenumber" v="32 - 44"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="187231551" version="1" timestamp="2012-10-23T17:22:52Z" changeset="13607482" uid="50884" user="holger_1">
+    <nd ref="1979661858"/>
+    <nd ref="1979661856"/>
+    <nd ref="1979661863"/>
+    <nd ref="1979661872"/>
+    <nd ref="1979661859"/>
+    <nd ref="1979661867"/>
+    <nd ref="1979661853"/>
+    <nd ref="1979661868"/>
+    <nd ref="1979661881"/>
+    <nd ref="1979661870"/>
+    <nd ref="1979661861"/>
+    <nd ref="1979661854"/>
+    <nd ref="1979661865"/>
+    <nd ref="1979661858"/>
+    <tag k="addr:housenumber" v="60 - 86"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="189528115" version="1" timestamp="2012-11-07T13:24:11Z" changeset="13785243" uid="50884" user="holger_1">
+    <nd ref="2001260716"/>
+    <nd ref="2001260706"/>
+    <nd ref="2001260712"/>
+    <nd ref="2001260713"/>
+    <nd ref="2001260714"/>
+    <nd ref="2001260705"/>
+    <nd ref="2001260711"/>
+    <nd ref="2001260710"/>
+    <nd ref="2001260717"/>
+    <nd ref="2001260708"/>
+    <nd ref="2001260707"/>
+    <nd ref="2001260709"/>
+    <nd ref="2001260718"/>
+    <nd ref="2001260715"/>
+    <nd ref="2001260716"/>
+    <tag k="addr:housenumber" v="64 - 80"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Jónico"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="189528308" version="1" timestamp="2012-11-07T13:27:53Z" changeset="13785243" uid="50884" user="holger_1">
+    <nd ref="2001262477"/>
+    <nd ref="2001262475"/>
+    <nd ref="2001262469"/>
+    <nd ref="2001262471"/>
+    <nd ref="2001262476"/>
+    <nd ref="2001262480"/>
+    <nd ref="2001262481"/>
+    <nd ref="2001262479"/>
+    <nd ref="2001262470"/>
+    <nd ref="2001262468"/>
+    <nd ref="2001262472"/>
+    <nd ref="2001262474"/>
+    <nd ref="2001262482"/>
+    <nd ref="2001262473"/>
+    <nd ref="2001262478"/>
+    <nd ref="2001262477"/>
+    <tag k="addr:housenumber" v="58 - 62"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Jónico"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="189529408" version="1" timestamp="2012-11-07T13:39:02Z" changeset="13785243" uid="50884" user="holger_1">
+    <nd ref="2001275248"/>
+    <nd ref="2001275249"/>
+    <nd ref="2001275239"/>
+    <nd ref="2001275250"/>
+    <nd ref="2001275245"/>
+    <nd ref="2001275243"/>
+    <nd ref="2001275252"/>
+    <nd ref="2001275244"/>
+    <nd ref="2001275241"/>
+    <nd ref="2001275240"/>
+    <nd ref="2001275246"/>
+    <nd ref="2001275251"/>
+    <nd ref="2001275242"/>
+    <nd ref="2001275247"/>
+    <nd ref="2001275248"/>
+    <tag k="addr:housenumber" v="44 -56"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Jónico"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191227890" version="1" timestamp="2012-11-17T14:28:14Z" changeset="13906007" uid="50884" user="holger_1">
+    <nd ref="2018191771"/>
+    <nd ref="2018191767"/>
+    <nd ref="2018191768"/>
+    <nd ref="2018191776"/>
+    <nd ref="2018191779"/>
+    <nd ref="2018191770"/>
+    <nd ref="2018191774"/>
+    <nd ref="2018191766"/>
+    <nd ref="2018191772"/>
+    <nd ref="2018191769"/>
+    <nd ref="2018191773"/>
+    <nd ref="2018191777"/>
+    <nd ref="2018191771"/>
+    <tag k="addr:housenumber" v="39 - 53"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191228019" version="1" timestamp="2012-11-17T14:29:39Z" changeset="13906007" uid="50884" user="holger_1">
+    <nd ref="2018192377"/>
+    <nd ref="2018192367"/>
+    <nd ref="2018192366"/>
+    <nd ref="2018192376"/>
+    <nd ref="2018192375"/>
+    <nd ref="2018192371"/>
+    <nd ref="2018192369"/>
+    <nd ref="2018192372"/>
+    <nd ref="2018192373"/>
+    <nd ref="2018192374"/>
+    <nd ref="2018192370"/>
+    <nd ref="2018192368"/>
+    <nd ref="2018192378"/>
+    <nd ref="2018192377"/>
+    <tag k="addr:housenumber" v="55 - 81"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191235240" version="4" timestamp="2015-10-29T20:32:04Z" changeset="34958909" uid="50884" user="holger_1">
+    <nd ref="2018247009"/>
+    <nd ref="2018247006"/>
+    <nd ref="2018247005"/>
+    <nd ref="2018247004"/>
+    <nd ref="2018247008"/>
+    <nd ref="2018253438"/>
+    <nd ref="2018253440"/>
+    <nd ref="2018247013"/>
+    <nd ref="3809073316"/>
+    <nd ref="2018247009"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Batalla del Salado"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191235241" version="1" timestamp="2012-11-17T15:14:19Z" changeset="13906007" uid="50884" user="holger_1">
+    <nd ref="2018247011"/>
+    <nd ref="2018247010"/>
+    <nd ref="2018247012"/>
+    <nd ref="2018247014"/>
+    <nd ref="2018247011"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Batalla del Salado"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191236037" version="3" timestamp="2015-10-31T14:34:15Z" changeset="34993025" uid="50884" user="holger_1">
+    <nd ref="2018253445"/>
+    <nd ref="2018253439"/>
+    <nd ref="2018253446"/>
+    <nd ref="2018253444"/>
+    <nd ref="2018253418"/>
+    <nd ref="2018253422"/>
+    <nd ref="2018253445"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Batalla del Salado"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191245829" version="2" timestamp="2015-04-09T21:49:57Z" changeset="30105114" uid="2163609" user="CarlosMG">
+    <nd ref="2018327436"/>
+    <nd ref="2018327440"/>
+    <nd ref="2018327441"/>
+    <nd ref="2018327438"/>
+    <nd ref="2018327437"/>
+    <nd ref="2018327436"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Antonio Maura"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Las Margaritas"/>
+    <tag k="tourism" v="hotel"/>
+  </way>
+  <way id="191247175" version="1" timestamp="2012-11-17T16:12:28Z" changeset="13907175" uid="50884" user="holger_1">
+    <nd ref="2018338134"/>
+    <nd ref="2018338144"/>
+    <nd ref="2018338136"/>
+    <nd ref="2018338132"/>
+    <nd ref="2018338134"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Antonio Maura"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191247250" version="2" timestamp="2015-10-31T14:33:06Z" changeset="34993002" uid="50884" user="holger_1">
+    <nd ref="2018338597"/>
+    <nd ref="2018338134"/>
+    <nd ref="2018338132"/>
+    <nd ref="3811189086"/>
+    <nd ref="2018338596"/>
+    <nd ref="2018338597"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Antonio Maura"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191252477" version="1" timestamp="2012-11-17T16:45:45Z" changeset="13907645" uid="50884" user="holger_1">
+    <nd ref="2018379165"/>
+    <nd ref="2018379166"/>
+    <nd ref="2018379164"/>
+    <nd ref="2018379162"/>
+    <nd ref="2018379165"/>
+    <tag k="addr:housenumber" v="18 - 20"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191252705" version="2" timestamp="2015-10-29T20:12:21Z" changeset="34958359" uid="50884" user="holger_1">
+    <nd ref="2018382858"/>
+    <nd ref="2018382854"/>
+    <nd ref="2018382856"/>
+    <nd ref="2018382861"/>
+    <nd ref="3809023289"/>
+    <nd ref="2018382858"/>
+    <tag k="addr:housenumber" v="27 - 29"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191253475" version="2" timestamp="2015-10-29T20:12:21Z" changeset="34958359" uid="50884" user="holger_1">
+    <nd ref="2018391397"/>
+    <nd ref="2018391399"/>
+    <nd ref="2018391389"/>
+    <nd ref="2018391393"/>
+    <nd ref="3809023288"/>
+    <nd ref="2018391395"/>
+    <nd ref="3809023287"/>
+    <nd ref="2018391391"/>
+    <nd ref="2018391397"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191253604" version="2" timestamp="2015-10-29T20:12:21Z" changeset="34958359" uid="50884" user="holger_1">
+    <nd ref="2018395954"/>
+    <nd ref="3809023286"/>
+    <nd ref="2018391391"/>
+    <nd ref="2018391397"/>
+    <nd ref="2018395952"/>
+    <nd ref="2018395954"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191253605" version="3" timestamp="2015-10-29T20:23:39Z" changeset="34958676" uid="50884" user="holger_1">
+    <nd ref="2018395948"/>
+    <nd ref="2018395953"/>
+    <nd ref="3809035683"/>
+    <nd ref="2018395952"/>
+    <nd ref="2018395954"/>
+    <nd ref="3809023285"/>
+    <nd ref="2018395948"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191253736" version="2" timestamp="2015-10-29T20:12:21Z" changeset="34958359" uid="50884" user="holger_1">
+    <nd ref="2018397452"/>
+    <nd ref="2018395953"/>
+    <nd ref="2018395948"/>
+    <nd ref="3809023284"/>
+    <nd ref="2018397454"/>
+    <nd ref="2018397452"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="191254957" version="3" timestamp="2015-10-29T20:23:39Z" changeset="34958676" uid="50884" user="holger_1">
+    <nd ref="2018411994"/>
+    <nd ref="3809023283"/>
+    <nd ref="2018397454"/>
+    <nd ref="2018397452"/>
+    <nd ref="3809035680"/>
+    <nd ref="2018412015"/>
+    <nd ref="2018411994"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Doctor Fleming"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196494925" version="4" timestamp="2014-10-24T09:06:28Z" changeset="26295110" uid="1803492" user="ambmapper">
+    <nd ref="2068236018"/>
+    <nd ref="2068236061"/>
+    <nd ref="2068236074"/>
+    <nd ref="2068236179"/>
+    <nd ref="2068243483"/>
+    <nd ref="2068236101"/>
+    <nd ref="2068236018"/>
+    <tag k="addr:housenumber" v="13 - 41"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Canovas del Castillo"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Urbanización Las Gaviotas"/>
+  </way>
+  <way id="196494931" version="3" timestamp="2014-10-24T09:06:28Z" changeset="26295110" uid="1803492" user="ambmapper">
+    <nd ref="2068236136"/>
+    <nd ref="2068236163"/>
+    <nd ref="2068236130"/>
+    <nd ref="2068236117"/>
+    <nd ref="2068236136"/>
+    <tag k="addr:housenumber" v="22 - 52"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Canovas del Castillo"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Urbanización Las Gaviotas"/>
+  </way>
+  <way id="196495882" version="2" timestamp="2016-01-05T13:28:29Z" changeset="36380672" uid="220932" user="mor">
+    <nd ref="2068236101"/>
+    <nd ref="2068243480"/>
+    <nd ref="2068243482"/>
+    <nd ref="2068243483"/>
+    <nd ref="2068236101"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Cánovas del Castillo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196497787" version="2" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1">
+    <nd ref="2068262262"/>
+    <nd ref="2068262269"/>
+    <nd ref="2068264178"/>
+    <nd ref="2068262246"/>
+    <nd ref="2068264180"/>
+    <nd ref="2068262245"/>
+    <nd ref="2068262262"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Braille"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196498087" version="1" timestamp="2012-12-15T14:37:30Z" changeset="14280566" uid="50884" user="holger_1">
+    <nd ref="2068264178"/>
+    <nd ref="2068264174"/>
+    <nd ref="2068264176"/>
+    <nd ref="2068262245"/>
+    <nd ref="2068264180"/>
+    <nd ref="2068262246"/>
+    <nd ref="2068264178"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Braille"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196498532" version="1" timestamp="2012-12-15T14:41:17Z" changeset="14280566" uid="50884" user="holger_1">
+    <nd ref="2068264176"/>
+    <nd ref="2068262279"/>
+    <nd ref="2068274337"/>
+    <nd ref="2068274335"/>
+    <nd ref="2068264174"/>
+    <nd ref="2068264176"/>
+    <tag k="addr:housenumber" v="38 - 52"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Braille"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196500994" version="2" timestamp="2012-12-15T14:57:55Z" changeset="14280566" uid="50884" user="holger_1">
+    <nd ref="2068296176"/>
+    <nd ref="2068296186"/>
+    <nd ref="2068296178"/>
+    <nd ref="2068306487"/>
+    <nd ref="2068296184"/>
+    <nd ref="2068296176"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Braille"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196501107" version="3" timestamp="2016-01-05T13:28:29Z" changeset="36380672" uid="220932" user="mor">
+    <nd ref="2068302739"/>
+    <nd ref="2068302737"/>
+    <nd ref="2068302743"/>
+    <nd ref="2068302742"/>
+    <nd ref="2068302739"/>
+    <tag k="addr:housenumber" v="12 - 14"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Cánovas del Castillo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196503239" version="2" timestamp="2016-01-05T13:28:30Z" changeset="36380672" uid="220932" user="mor">
+    <nd ref="2068305709"/>
+    <nd ref="2068305713"/>
+    <nd ref="2068305712"/>
+    <nd ref="2068305711"/>
+    <nd ref="2068305709"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Cánovas del Castillo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196503240" version="2" timestamp="2016-01-05T13:28:30Z" changeset="36380672" uid="220932" user="mor">
+    <nd ref="2068302737"/>
+    <nd ref="2068305709"/>
+    <nd ref="2068305711"/>
+    <nd ref="2068302743"/>
+    <nd ref="2068302737"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Cánovas del Castillo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="196503348" version="2" timestamp="2016-01-05T13:28:30Z" changeset="36380672" uid="220932" user="mor">
+    <nd ref="2068305713"/>
+    <nd ref="2068236085"/>
+    <nd ref="2068305886"/>
+    <nd ref="2068305712"/>
+    <nd ref="2068305713"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Cánovas del Castillo"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="222817589" version="4" timestamp="2015-07-11T13:46:30Z" changeset="32564584" uid="2093638" user="DiegoOSM">
+    <nd ref="2317620763"/>
+    <nd ref="3646220943"/>
+    <nd ref="3646220946"/>
+    <nd ref="392108367"/>
+    <nd ref="2317620767"/>
+    <nd ref="2317620769"/>
+    <nd ref="2317620773"/>
+    <nd ref="2317620763"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housename" v="Barriada Bolonia"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="11391"/>
+    <tag k="addr:street" v="Bda. Bolonia"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="building" v="yes"/>
+    <tag k="cuisine" v="regional;spanish"/>
+    <tag k="name" v="Restaurante Otero Bolonia"/>
+    <tag k="phone" v="+34 956688594"/>
+    <tag k="website" v="www.resturanteoterobolonia.com"/>
+  </way>
+  <way id="286245919" version="3" timestamp="2019-03-16T10:08:51Z" changeset="68199051" uid="9451067" user="b-jazz-bot">
+    <nd ref="2898943451"/>
+    <nd ref="2898943458"/>
+    <nd ref="2898943459"/>
+    <nd ref="2898943452"/>
+    <nd ref="2898943451"/>
+    <tag k="addr:city" v="Bolonia"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="El Realillo"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="La Semilla"/>
+    <tag k="website" v="https://www.lasemillabolonia.com/"/>
+  </way>
+  <way id="310367438" version="3" timestamp="2014-10-30T14:29:13Z" changeset="26437688" uid="50884" user="holger_1">
+    <nd ref="3157883100"/>
+    <nd ref="3157883101"/>
+    <nd ref="3157883102"/>
+    <nd ref="3157884849"/>
+    <nd ref="3157883103"/>
+    <nd ref="3157883100"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Peso"/>
+    <tag k="building" v="house"/>
+  </way>
+  <way id="310372052" version="1" timestamp="2014-10-30T14:21:57Z" changeset="26437292" uid="50884" user="holger_1">
+    <nd ref="3157927362"/>
+    <nd ref="3157927369"/>
+    <nd ref="3157927363"/>
+    <nd ref="3157927364"/>
+    <nd ref="3157927365"/>
+    <nd ref="3157927362"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Silos"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Hotel room"/>
+  </way>
+  <way id="311391968" version="4" timestamp="2019-03-19T08:34:04Z" changeset="68285334" uid="9451067" user="b-jazz-bot">
+    <nd ref="3168875016"/>
+    <nd ref="3170274948"/>
+    <nd ref="3170274949"/>
+    <nd ref="3170274950"/>
+    <nd ref="3170274951"/>
+    <nd ref="3170274952"/>
+    <nd ref="3168875016"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle de la Luz"/>
+    <tag k="building" v="yes"/>
+    <tag k="email" v="info@hotelcasablanco.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Casa Blanco"/>
+    <tag k="phone" v="+34956 681 515"/>
+    <tag k="stars" v="3"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://hotelcasablanco.com/"/>
+  </way>
+  <way id="311526571" version="3" timestamp="2015-10-26T19:54:25Z" changeset="34889930" uid="50884" user="holger_1">
+    <nd ref="3168875005"/>
+    <nd ref="3171994457"/>
+    <nd ref="3171994458"/>
+    <nd ref="3804057785"/>
+    <nd ref="3171994459"/>
+    <nd ref="3168875005"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Calderon de la Barca"/>
+    <tag k="building" v="house"/>
+    <tag k="name" v="Hotel Aristoy"/>
+  </way>
+  <way id="377022919" version="3" timestamp="2015-10-26T19:38:49Z" changeset="34889585" uid="50884" user="holger_1">
+    <nd ref="3803898779"/>
+    <nd ref="3803898780"/>
+    <nd ref="3804036502"/>
+    <nd ref="3803898781"/>
+    <nd ref="3803898782"/>
+    <nd ref="3803898779"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Plaza la Paz"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="Little Amsterdam"/>
+  </way>
+  <way id="377532143" version="4" timestamp="2020-08-17T09:46:20Z" changeset="89509368" uid="9190440" user="Ripense">
+    <nd ref="3809093942"/>
+    <nd ref="3809093945"/>
+    <nd ref="3809093946"/>
+    <nd ref="3902785581"/>
+    <nd ref="3809093943"/>
+    <nd ref="3809093942"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Avenida de Andalucía"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Foto M. Rojas"/>
+    <tag k="shop" v="photo"/>
+  </way>
+  <way id="400767927" version="1" timestamp="2016-02-29T12:32:26Z" changeset="37520707" uid="50884" user="holger_1">
+    <nd ref="4032828913"/>
+    <nd ref="3170251267"/>
+    <nd ref="3170251266"/>
+    <nd ref="4032828914"/>
+    <nd ref="4032828915"/>
+    <nd ref="4032828916"/>
+    <nd ref="4032828913"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Justino Pertiñez"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Hostel la Calazada"/>
+  </way>
+  <way id="448340625" version="1" timestamp="2016-10-18T16:32:47Z" changeset="42988184" uid="50884" user="holger_1">
+    <nd ref="4453629920"/>
+    <nd ref="4453629921"/>
+    <nd ref="4453629922"/>
+    <nd ref="4453629923"/>
+    <nd ref="4453629920"/>
+    <tag k="addr:city" v="Tarifa"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Playa Valdevaqueros"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462508" version="1" timestamp="2019-04-23T15:11:26Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="1979646064"/>
+    <nd ref="1979646059"/>
+    <nd ref="1979646055"/>
+    <nd ref="1979646056"/>
+    <nd ref="1979646064"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462511" version="1" timestamp="2019-04-23T15:11:26Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="1979646061"/>
+    <nd ref="1979646062"/>
+    <nd ref="1979646057"/>
+    <nd ref="1979646052"/>
+    <nd ref="1979646061"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462513" version="1" timestamp="2019-04-23T15:11:26Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="1979646062"/>
+    <nd ref="1979646048"/>
+    <nd ref="1979646058"/>
+    <nd ref="1979646057"/>
+    <nd ref="1979646062"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462517" version="1" timestamp="2019-04-23T15:11:26Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="1979646048"/>
+    <nd ref="6423640886"/>
+    <nd ref="1979646060"/>
+    <nd ref="1979646058"/>
+    <nd ref="1979646048"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462519" version="1" timestamp="2019-04-23T15:11:26Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640886"/>
+    <nd ref="6423640885"/>
+    <nd ref="1979646063"/>
+    <nd ref="1979646060"/>
+    <nd ref="6423640886"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462521" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640885"/>
+    <nd ref="6423640884"/>
+    <nd ref="1979646051"/>
+    <nd ref="1979646063"/>
+    <nd ref="6423640885"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462524" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640884"/>
+    <nd ref="6423640883"/>
+    <nd ref="1979646066"/>
+    <nd ref="1979646051"/>
+    <nd ref="6423640884"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462525" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640883"/>
+    <nd ref="6423640882"/>
+    <nd ref="1979646065"/>
+    <nd ref="1979646066"/>
+    <nd ref="6423640883"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462527" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640882"/>
+    <nd ref="6423640881"/>
+    <nd ref="1979646050"/>
+    <nd ref="1979646065"/>
+    <nd ref="6423640882"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462529" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640881"/>
+    <nd ref="6423640880"/>
+    <nd ref="1979646067"/>
+    <nd ref="1979646050"/>
+    <nd ref="6423640881"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462532" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640880"/>
+    <nd ref="6423640879"/>
+    <nd ref="1979646053"/>
+    <nd ref="1979646067"/>
+    <nd ref="6423640880"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462534" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640879"/>
+    <nd ref="6423640878"/>
+    <nd ref="1979646049"/>
+    <nd ref="1979646053"/>
+    <nd ref="6423640879"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462535" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640878"/>
+    <nd ref="6423640877"/>
+    <nd ref="1979646054"/>
+    <nd ref="1979646049"/>
+    <nd ref="6423640878"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="685462536" version="1" timestamp="2019-04-23T15:11:27Z" changeset="69493125" uid="4123522" user="OttoR">
+    <nd ref="6423640877"/>
+    <nd ref="6423640876"/>
+    <nd ref="6423640887"/>
+    <nd ref="1979646054"/>
+    <nd ref="6423640877"/>
+    <tag k="addr:housenumber" v="2 - 30"/>
+    <tag k="addr:postcode" v="11380"/>
+    <tag k="addr:street" v="Calle Mar Tirreno"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <area id="3600346648">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Tarifa"/>
+    <tag k="ine:municipio" v="11035"/>
+    <tag k="name" v="Tarifa"/>
+    <tag k="name:ar" v="طريف"/>
+    <tag k="name:es" v="Tarifa"/>
+    <tag k="name:ru" v="Тарифа"/>
+    <tag k="population" v="17768"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="postal_code" v="11380"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q222702"/>
+    <tag k="wikipedia" v="es:Tarifa"/>
+  </area>
+
+</osm>

@@ -1,0 +1,101 @@
+Municipio: Tarifa
+Nombre en Catastro: TARIFA
+Código: 11035
+Fecha: 13/08/22
+Opciones: 11035
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 2.9.15
+Plataforma: Linux 5.15.0-41-generic #44~20.04.1-Ubuntu SMP Fri Jun 24 13:27:29 UTC 2022 x86_64 x86_64
+Idioma: es_ES
+Versión de QGIS: 3.10.4-A Coruña
+Versión de GDAL: 3.0.4
+Número de CPUs: 2
+Frecuencia de CPU: 2400.0 Mhz
+Tiempo de ejecución: 102.2 segundos
+Memoria total: 3923.93 MB
+Memoria física usada: 164.49 MB
+Memoria virtual usada: 639.48 MB
+
+=Direcciones=
+
+==CDAU==
+Número de características: 4316
+Direcciones reemplazadas: 1646
+Direcciones añadidas: 1550
+
+==Datos de entrada==
+Fecha de origen: 2022-07-01
+Número de características: 6667
+  Tipo entrada: 3254
+  Tipo parcela: 3413
+Códigos postales: 7
+Nombres de viales: 341
+
+==Procesado==
+Direcciones sin edificio asociado excluidas: 967
+Direcciones eliminadas por nombre de vía: 1637
+Direcciones sin número de portal eliminadas: 588
+Direcciones correspondientes a edificios múltiples eliminadas: 834
+Direcciones tipo parcela no únicas para su edificio eliminadas: 208
+
+==Combinación==
+Direcciones OSM: 79
+Direcciones rechazadas por existir en OSM: 21
+
+==Datos de salida==
+Direcciones: 2412
+  En nodos de entrada: 1721
+  En parcelas: 691
+  Tipo addr:street: 1806
+  Tipo addr:place: 606
+
+=Edificios=
+
+==Datos de entrada==
+Fecha de origen: 2022-03-12
+Número de características: 23228
+  Edificios: 4369
+  Partes de edificios: 18234
+  Piscinas: 625
+
+==Procesado==
+Partes sin edificio asociado eliminadas: 2
+Partes fuera de contorno eliminadas: 235
+Partes bajo rasante eliminadas: 638
+Edificios con geometrías multiparte: 1402
+Edificios resultantes de dividir multipartes: 5355
+Partes fusionadas al contorno: 7762
+Partes adyacentes fusionadas: 2107
+Edificios conincidentes con una piscina eliminados: 1
+Geometrías no válidas eliminadas: 13
+Vértices en punta eliminados: 11
+Vértices próximos fusionados: 515
+Puntos topológicos creados: 1782
+Vértices simplificados: 17093
+
+==Datos de salida==
+Nodos: 168084
+Vías: 17537
+Relaciones: 484
+Número de características: 16423
+  Edificios: 8318
+  Partes de edificios: 7480
+  Piscinas: 625
+    Sobre edificios: 10
+Recuento de tipos de edificios: barn: 3950, retail: 353, ruins: 30, residential: 3534, yes: 100, industrial: 214, office: 22, public: 115
+Plantas sobre rasante (nivel: nº de edificios): 1: 2201, 2: 1259, 3: 574, 4: 225, 5: 65, 7: 3, 8: 1, 6: 14, 10: 1, 9: 2
+Plantas bajo rasante (nivel: nº de edificios): 1: 335, 2: 10, 4: 1
+
+=Proyecto=
+Archivos de tareas: 624
+  Rústica: 45
+  Urbana: 579
+
+=Problemas=
+Correcciones (fixmes): 53
+  Las partes de edificio no cubren todo el contorno: 49
+  Comprobar, área demasiado pequeña: 3
+  Comprobar, área demasiado grande: 1
+
+https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios/Gesti%C3%B3n_de_proyectos#Generar_y_corregir_los_archivos_a_importar
