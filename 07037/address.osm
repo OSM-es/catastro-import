@@ -1,0 +1,2916 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm upload="never" version="0.6" generator="CatAtom2Osm 2.15.1">
+  <changeset>
+    <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 07037 es Mercadal address"/>
+    <tag k="source" v="Dirección General del Catastro"/>
+    <tag k="type" v="import"/>
+    <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+    <tag k="generator" v="CatAtom2Osm 2.15.1"/>
+    <tag k="source:date" v="2023-04-03"/>
+    <tag k="source:date:addr" v="2023-04-03"/>
+  </changeset>
+  <node id="-407" action="modify" visible="true" lon="4.1326671097931555" lat="40.06047627193192">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-299" action="modify" visible="true" lon="4.129370938198768" lat="40.05456238781342">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-216" action="modify" visible="true" lon="4.1315964681638295" lat="40.05633503746961">
+    <tag k="addr:street" v="Plaça Pere Maria Cardona"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-219" action="modify" visible="true" lon="4.131082514921259" lat="40.056827746148215">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-438" action="modify" visible="true" lon="4.132623965147941" lat="40.05792554031468">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-22" action="modify" visible="true" lon="4.128932631912704" lat="40.05445890282754">
+    <tag k="addr:street" v="Travessera de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-368" action="modify" visible="true" lon="4.131882681950926" lat="40.05608175931162">
+    <tag k="addr:street" v="Carrer Sant Antoni"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-208" action="modify" visible="true" lon="4.131400919077904" lat="40.055661446708726">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-48" action="modify" visible="true" lon="4.130322373701011" lat="40.05573464310902">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-183" action="modify" visible="true" lon="4.131124227654291" lat="40.05556315868968">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-481" action="modify" visible="true" lon="4.132596590165373" lat="40.060154154512105">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-491" action="modify" visible="true" lon="4.1290551906681054" lat="40.05502101645821">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-503" action="modify" visible="true" lon="4.128154068157998" lat="40.05507978168794">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-384" action="modify" visible="true" lon="4.129959025953243" lat="40.05485395897619">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-215" action="modify" visible="true" lon="4.131849334618777" lat="40.0562324329561">
+    <tag k="addr:street" v="Plaça Pere Maria Cardona"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-430" action="modify" visible="true" lon="4.132488108886806" lat="40.05791599980297">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-270" action="modify" visible="true" lon="4.129336934577844" lat="40.052324627454574">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-106" action="modify" visible="true" lon="4.1314512678755095" lat="40.05859916512951">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-445" action="modify" visible="true" lon="4.132480006026174" lat="40.05847715258564">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-452" action="modify" visible="true" lon="4.132339871325158" lat="40.058639614848815">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-332" action="modify" visible="true" lon="4.129304961036873" lat="40.05353398471855">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-131" action="modify" visible="true" lon="4.126281410305046" lat="40.049786972413585">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-99" action="modify" visible="true" lon="4.132150147696182" lat="40.05831727993965">
+    <tag k="addr:street" v="Carrer des Misous"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-16" action="modify" visible="true" lon="4.1327069602054465" lat="40.05689856775451">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-281" action="modify" visible="true" lon="4.129778208551722" lat="40.05498050320754">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-79" action="modify" visible="true" lon="4.13246244701849" lat="40.057322886363394">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-382" action="modify" visible="true" lon="4.1297751549031005" lat="40.052808949062545">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-301" action="modify" visible="true" lon="4.12936624848833" lat="40.05449846669728">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-388" action="modify" visible="true" lon="4.129806967315782" lat="40.052150307124336">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-186" action="modify" visible="true" lon="4.130677527119545" lat="40.05556883232428">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-190" action="modify" visible="true" lon="4.130939034551339" lat="40.05554251962407">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-68" action="modify" visible="true" lon="4.130401329730628" lat="40.055782927978356">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-75" action="modify" visible="true" lon="4.131705179707375" lat="40.05754659190582">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-82" action="modify" visible="true" lon="4.131899574753812" lat="40.057422728709625">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-171" action="modify" visible="true" lon="4.132155141249307" lat="40.05717914783015">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-15" action="modify" visible="true" lon="4.132459291721041" lat="40.056645801028516">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-101" action="modify" visible="true" lon="4.132044793472071" lat="40.05857178227073">
+    <tag k="addr:street" v="Carrer des Misous"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-29" action="modify" visible="true" lon="4.130327078970418" lat="40.055615750081884">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-497" action="modify" visible="true" lon="4.128679354256849" lat="40.055025080716625">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-298" action="modify" visible="true" lon="4.12937479390739" lat="40.05462550170727">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-182" action="modify" visible="true" lon="4.131073717083116" lat="40.055557180498454">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-479" action="modify" visible="true" lon="4.132561107338019" lat="40.0600658962344">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-274" action="modify" visible="true" lon="4.129248904539441" lat="40.051906101707445">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-152" action="modify" visible="true" lon="4.1267749461828025" lat="40.04881835879536">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="9A"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-159" action="modify" visible="true" lon="4.131877121133566" lat="40.05666334948042">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-457" action="modify" visible="true" lon="4.132392437599523" lat="40.05894532986341">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-507" action="modify" visible="true" lon="4.129317590923264" lat="40.05439638688102">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-476" action="modify" visible="true" lon="4.132447632796863" lat="40.05752809686142">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-57" action="modify" visible="true" lon="4.131075278185536" lat="40.05607994405869">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-113" action="modify" visible="true" lon="4.131258258044907" lat="40.05769723539226">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-119" action="modify" visible="true" lon="4.130028260905656" lat="40.056390750460515">
+    <tag k="addr:street" v="Avinguda de sa Punta Petita"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-508" action="modify" visible="true" lon="4.1279307533495775" lat="40.05158108523945">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-344" action="modify" visible="true" lon="4.129282405351743" lat="40.05317608484368">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-12" action="modify" visible="true" lon="4.133008820371273" lat="40.0577532974317">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-311" action="modify" visible="true" lon="4.129229649922423" lat="40.05417943959377">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-358" action="modify" visible="true" lon="4.129378291543138" lat="40.052943653612466">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-236" action="modify" visible="true" lon="4.131245028592176" lat="40.05665622304893">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-243" action="modify" visible="true" lon="4.1307278693080285" lat="40.055783310580274">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-416" action="modify" visible="true" lon="4.1327400759539445" lat="40.06091884401681">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-509" action="modify" visible="true" lon="4.127578524045278" lat="40.051413515285525">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-392" action="modify" visible="true" lon="4.129853865205108" lat="40.0518087621741">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-226" action="modify" visible="true" lon="4.130930698420878" lat="40.05692876412856">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-197" action="modify" visible="true" lon="4.132118144459189" lat="40.056160343714254">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-205" action="modify" visible="true" lon="4.131907020489364" lat="40.0559004749376">
+    <tag k="addr:street" v="Plaça des Forn"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-424" action="modify" visible="true" lon="4.132828793238142" lat="40.06134905482424">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-385" action="modify" visible="true" lon="4.129829106652526" lat="40.052454613052085">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-265" action="modify" visible="true" lon="4.129107872704902" lat="40.05214809589569">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="108"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-143" action="modify" visible="true" lon="4.125755147732324" lat="40.048576738749865">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="35A"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-442" action="modify" visible="true" lon="4.132288764543385" lat="40.057464569884715">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-320" action="modify" visible="true" lon="4.129331715013464" lat="40.0539405845717">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-327" action="modify" visible="true" lon="4.12932373804859" lat="40.05381246287217">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-166" action="modify" visible="true" lon="4.132196425969668" lat="40.05705121317349">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-425" action="modify" visible="true" lon="4.132843038860603" lat="40.06142227135812">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="133"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-350" action="modify" visible="true" lon="4.129392178502008" lat="40.053170648614476">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-309" action="modify" visible="true" lon="4.1293509679796445" lat="40.0542475233043">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-7" action="modify" visible="true" lon="4.132824317012248" lat="40.05740585692237">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-365" action="modify" visible="true" lon="4.131946358274185" lat="40.05610905154074">
+    <tag k="addr:street" v="Carrer Sant Antoni"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-288" action="modify" visible="true" lon="4.1297445376754025" lat="40.0550887111149">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-340" action="modify" visible="true" lon="4.129290163880974" lat="40.05329808679188">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="74"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-93" action="modify" visible="true" lon="4.131943324452793" lat="40.05794007767828">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-269" action="modify" visible="true" lon="4.129341798868322" lat="40.052362984247324">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-64" action="modify" visible="true" lon="4.131413254164826" lat="40.05618566582816">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-404" action="modify" visible="true" lon="4.128429411259686" lat="40.05064812249185">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-411" action="modify" visible="true" lon="4.132694271902613" lat="40.06071001705864">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-333" action="modify" visible="true" lon="4.129270529671073" lat="40.053569601222925">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="66"/>
+  </node>
+  <node id="-212" action="modify" visible="true" lon="4.131595125100769" lat="40.055805364954985">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-434" action="modify" visible="true" lon="4.132570841839063" lat="40.058136829991085">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-187" action="modify" visible="true" lon="4.130747782005479" lat="40.05555786429488">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-449" action="modify" visible="true" lon="4.1326958201137165" lat="40.05828149412535">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-77" action="modify" visible="true" lon="4.132161184603919" lat="40.05732479941836">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-45" action="modify" visible="true" lon="4.131399819285481" lat="40.05613337370436">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-8" action="modify" visible="true" lon="4.1328505397458475" lat="40.05746183101821">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-302" action="modify" visible="true" lon="4.129468403003425" lat="40.054365843248206">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-185" action="modify" visible="true" lon="4.130593138729705" lat="40.05557858233685">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-148" action="modify" visible="true" lon="4.125822230777678" lat="40.04765390916979">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-488" action="modify" visible="true" lon="4.129349017236086" lat="40.054822856430015">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-495" action="modify" visible="true" lon="4.128843690573916" lat="40.05503461837156">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-500" action="modify" visible="true" lon="4.128500317619039" lat="40.05505669052425">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-129" action="modify" visible="true" lon="4.126099270311815" lat="40.049461345089085">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-56" action="modify" visible="true" lon="4.131641316355753" lat="40.05614820486101">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-395" action="modify" visible="true" lon="4.1295042132718915" lat="40.0515300367161">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-72" action="modify" visible="true" lon="4.131914333288351" lat="40.05749893094198">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="10B"/>
+  </node>
+  <node id="-121" action="modify" visible="true" lon="4.130862727372659" lat="40.05841041959643">
+    <tag k="addr:street" v="Calle P"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-339" action="modify" visible="true" lon="4.129293535494645" lat="40.053353191546464">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-134" action="modify" visible="true" lon="4.126601526402511" lat="40.050161890699">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-263" action="modify" visible="true" lon="4.129232911852874" lat="40.052286720774084">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-394" action="modify" visible="true" lon="4.129569968127781" lat="40.0515988281449">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-232" action="modify" visible="true" lon="4.131367324787819" lat="40.056577871374905">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-278" action="modify" visible="true" lon="4.129790527222663" lat="40.05516209271722">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-285" action="modify" visible="true" lon="4.129738504035783" lat="40.0548945577147">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-81" action="modify" visible="true" lon="4.132122627217848" lat="40.05742021518485">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-128" action="modify" visible="true" lon="4.126042465162767" lat="40.0492262553382">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-140" action="modify" visible="true" lon="4.12599429026717" lat="40.0494578562522">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-59" action="modify" visible="true" lon="4.131146159940196" lat="40.05610316787964">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-255" action="modify" visible="true" lon="4.131302878966381" lat="40.05581444798211">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-156" action="modify" visible="true" lon="4.1319971403839855" lat="40.05669456417633">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-286" action="modify" visible="true" lon="4.129738504035783" lat="40.0548945577147">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="19A"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-84" action="modify" visible="true" lon="4.131843304698405" lat="40.057968222188116">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-91" action="modify" visible="true" lon="4.132031507885908" lat="40.05791405679259">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-139" action="modify" visible="true" lon="4.126049553367484" lat="40.04967717601165">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-58" action="modify" visible="true" lon="4.130751383558533" lat="40.05589438568102">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-316" action="modify" visible="true" lon="4.1292236700594325" lat="40.054060674047115">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-24" action="modify" visible="true" lon="4.1300313761408605" lat="40.05549764526601">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-33" action="modify" visible="true" lon="4.130985846712216" lat="40.05598752033981">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-291" action="modify" visible="true" lon="4.129624012276328" lat="40.05470166747089">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-172" action="modify" visible="true" lon="4.132282200096086" lat="40.05715892758259">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-224" action="modify" visible="true" lon="4.131014316108145" lat="40.056870437983235">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-17" action="modify" visible="true" lon="4.132508118948558" lat="40.056747189608274">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-240" action="modify" visible="true" lon="4.131341976545172" lat="40.055872474756804">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-245" action="modify" visible="true" lon="4.130808096632604" lat="40.05579159376318">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-44" action="modify" visible="true" lon="4.130788287578748" lat="40.05597867921093">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-511" action="modify" visible="true" lon="4.127338701863591" lat="40.051110074058485">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-390" action="modify" visible="true" lon="4.129829058313745" lat="40.052023265886575">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-184" action="modify" visible="true" lon="4.131181908252362" lat="40.05557060786434">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-400" action="modify" visible="true" lon="4.128921487967629" lat="40.05092141122217">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-110" action="modify" visible="true" lon="4.1303381202661384" lat="40.05757647710337">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-117" action="modify" visible="true" lon="4.129523358285673" lat="40.05607299940267">
+    <tag k="addr:street" v="Avinguda de sa Punta Petita"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-248" action="modify" visible="true" lon="4.130910974728864" lat="40.05579607412478">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-464" action="modify" visible="true" lon="4.132414550223266" lat="40.05937142229852">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-267" action="modify" visible="true" lon="4.129346877765998" lat="40.05243223494338">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-102" action="modify" visible="true" lon="4.129672670689933" lat="40.057128089323975">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-324" action="modify" visible="true" lon="4.129325654735525" lat="40.05384334647923">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-35" action="modify" visible="true" lon="4.131050568634574" lat="40.056011530823994">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-468" action="modify" visible="true" lon="4.132484539358584" lat="40.05957831290065">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="67B"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-387" action="modify" visible="true" lon="4.129819757115702" lat="40.05221257912667">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-393" action="modify" visible="true" lon="4.129628950944243" lat="40.05166176873815">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-484" action="modify" visible="true" lon="4.132619785868415" lat="40.06025951793147">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-194" action="modify" visible="true" lon="4.132237317537433" lat="40.056184015469775">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-201" action="modify" visible="true" lon="4.1317126459951625" lat="40.055908038293126">
+    <tag k="addr:street" v="Plaça des Forn"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-80" action="modify" visible="true" lon="4.131964842036817" lat="40.05740281408363">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-88" action="modify" visible="true" lon="4.132369834270676" lat="40.05781932476548">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-308" action="modify" visible="true" lon="4.129448088533931" lat="40.05425739228006">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-352" action="modify" visible="true" lon="4.12926414538582" lat="40.05285823496969">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-408" action="modify" visible="true" lon="4.132658155092539" lat="40.060531393703556">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-162" action="modify" visible="true" lon="4.13198520931085" lat="40.05684131736993">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-132" action="modify" visible="true" lon="4.127197801798337" lat="40.04999347959621">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-343" action="modify" visible="true" lon="4.129416604724045" lat="40.053367453105544">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-52" action="modify" visible="true" lon="4.130950812578904" lat="40.056038445854355">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="33"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-104" action="modify" visible="true" lon="4.131401411298602" lat="40.057570910808806">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-23" action="modify" visible="true" lon="4.129995889691279" lat="40.05545061771063">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-466" action="modify" visible="true" lon="4.13246743168053" lat="40.05947681134669">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-362" action="modify" visible="true" lon="4.1293704284577215" lat="40.052815530500816">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-369" action="modify" visible="true" lon="4.132024183911736" lat="40.05623511118262">
+    <tag k="addr:street" v="Carrer Sant Antoni"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-206" action="modify" visible="true" lon="4.131295493330306" lat="40.05560110882436">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-473" action="modify" visible="true" lon="4.132533998029097" lat="40.05977295243782">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-229" action="modify" visible="true" lon="4.1305948439189635" lat="40.05672674311398">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-492" action="modify" visible="true" lon="4.128983892631265" lat="40.05502560590668">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-287" action="modify" visible="true" lon="4.129956577122461" lat="40.05539830729962">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-83" action="modify" visible="true" lon="4.1319828907493426" lat="40.05746340189784">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-43" action="modify" visible="true" lon="4.131368046278139" lat="40.056120584762574">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-176" action="modify" visible="true" lon="4.1319042634166765" lat="40.05651367893034">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-472" action="modify" visible="true" lon="4.132527025692902" lat="40.05972716724089">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-107" action="modify" visible="true" lon="4.132227171734572" lat="40.05872914008182">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-446" action="modify" visible="true" lon="4.132702658972886" lat="40.05822056957527">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-453" action="modify" visible="true" lon="4.1324018849418085" lat="40.05742364862525">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-38" action="modify" visible="true" lon="4.131175687023835" lat="40.05605727066884">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-46" action="modify" visible="true" lon="4.130832760960558" lat="40.05597953393956">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-138" action="modify" visible="true" lon="4.127047550903669" lat="40.049824843518316">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-61" action="modify" visible="true" lon="4.131255919159168" lat="40.05613678182629">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-30" action="modify" visible="true" lon="4.130263596392342" lat="40.055695338036074">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-78" action="modify" visible="true" lon="4.132161184603919" lat="40.05732479941836">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="3A"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-168" action="modify" visible="true" lon="4.132221527876045" lat="40.057074320528606">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-379" action="modify" visible="true" lon="4.129679677312335" lat="40.053456574420025">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-133" action="modify" visible="true" lon="4.12648729382652" lat="40.04992562177302">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-470" action="modify" visible="true" lon="4.132338049030569" lat="40.057578155197014">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-191" action="modify" visible="true" lon="4.130998533361313" lat="40.05554473458298">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-69" action="modify" visible="true" lon="4.130871889595313" lat="40.05594218465799">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-76" action="modify" visible="true" lon="4.132637831255233" lat="40.05727084332115">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-290" action="modify" visible="true" lon="4.129641661467303" lat="40.05496832065405">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-47" action="modify" visible="true" lon="4.131441562177768" lat="40.05614007289131">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-475" action="modify" visible="true" lon="4.132534957664204" lat="40.0599049196261">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-227" action="modify" visible="true" lon="4.130683834349083" lat="40.05678324274025">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-114" action="modify" visible="true" lon="4.132124757374001" lat="40.05628713307709">
+    <tag k="addr:street" v="Calle F"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-371" action="modify" visible="true" lon="4.129755462853442" lat="40.05460774516438">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-41" action="modify" visible="true" lon="4.131291208994737" lat="40.056094865451925">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-506" action="modify" visible="true" lon="4.129211302049384" lat="40.05501092385836">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-92" action="modify" visible="true" lon="4.13203439270698" lat="40.057843674608144">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-474" action="modify" visible="true" lon="4.132525604475471" lat="40.05984599817553">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-275" action="modify" visible="true" lon="4.129807278870278" lat="40.05502709354294">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-89" action="modify" visible="true" lon="4.132118796297659" lat="40.05788840224494">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-153" action="modify" visible="true" lon="4.130517301321507" lat="40.054550809526404">
+    <tag k="addr:street" v="Calle Q"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-160" action="modify" visible="true" lon="4.131942965882321" lat="40.056756497492245">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-417" action="modify" visible="true" lon="4.132766427639557" lat="40.060950988233884">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="119"/>
+  </node>
+  <node id="-435" action="modify" visible="true" lon="4.132581265629286" lat="40.05782828840781">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-437" action="modify" visible="true" lon="4.132563684769645" lat="40.05827402678549">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-198" action="modify" visible="true" lon="4.132144247382753" lat="40.05620481679071">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-247" action="modify" visible="true" lon="4.130360251384091" lat="40.05565034536619">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-211" action="modify" visible="true" lon="4.131552835141565" lat="40.05577339013712">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-217" action="modify" visible="true" lon="4.131487588004261" lat="40.05647152591995">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-345" action="modify" visible="true" lon="4.129399218938016" lat="40.05331405146966">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-359" action="modify" visible="true" lon="4.129252334809358" lat="40.05260437915973">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-237" action="modify" visible="true" lon="4.130601542984312" lat="40.05575299070189">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-244" action="modify" visible="true" lon="4.131503923366968" lat="40.055879212672636">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-249" action="modify" visible="true" lon="4.131631560829805" lat="40.055887464229876">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-173" action="modify" visible="true" lon="4.132187918883121" lat="40.05720310033442">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-353" action="modify" visible="true" lon="4.129381784566483" lat="40.05303169067281">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-282" action="modify" visible="true" lon="4.128907993572042" lat="40.05149436487159">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-292" action="modify" visible="true" lon="4.129291170750986" lat="40.05482618169021">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-125" action="modify" visible="true" lon="4.125899648530888" lat="40.0484792850485">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-504" action="modify" visible="true" lon="4.129336995671772" lat="40.05500279212352">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-260" action="modify" visible="true" lon="4.129838528456151" lat="40.05520406460735">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-429" action="modify" visible="true" lon="4.132523712066357" lat="40.05770677290978">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-20" action="modify" visible="true" lon="4.129306628726635" lat="40.054151347594214">
+    <tag k="addr:street" v="Travessera de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-443" action="modify" visible="true" lon="4.13268715013273" lat="40.05807880119577">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-341" action="modify" visible="true" lon="4.128633315821807" lat="40.05123135340998">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-321" action="modify" visible="true" lon="4.129487730833749" lat="40.05392137851259">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-328" action="modify" visible="true" lon="4.129424919962397" lat="40.05373341353776">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-164" action="modify" visible="true" lon="4.13217569913229" lat="40.05702603163223">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-431" action="modify" visible="true" lon="4.1325363631875325" lat="40.05773026079014">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-100" action="modify" visible="true" lon="4.132102714780947" lat="40.058445336721654">
+    <tag k="addr:street" v="Carrer des Misous"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-366" action="modify" visible="true" lon="4.131843181530529" lat="40.05604730945952">
+    <tag k="addr:street" v="Carrer Sant Antoni"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-331" action="modify" visible="true" lon="4.129420761395699" lat="40.053658136919836">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-209" action="modify" visible="true" lon="4.13144361255515" lat="40.05569195711893">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-259" action="modify" visible="true" lon="4.13008213091225" lat="40.05540582379383">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-14" action="modify" visible="true" lon="4.132419348496411" lat="40.056562859623696">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-65" action="modify" visible="true" lon="4.131567092120022" lat="40.0562327310413">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-405" action="modify" visible="true" lon="4.132260497643108" lat="40.057399732263875">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-412" action="modify" visible="true" lon="4.132385657017995" lat="40.057689433573366">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-39" action="modify" visible="true" lon="4.1306708692093235" lat="40.055862320887314">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-423" action="modify" visible="true" lon="4.1328108902829275" lat="40.06126012597697">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="129"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-221" action="modify" visible="true" lon="4.131085084341206" lat="40.05683973057428">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-141" action="modify" visible="true" lon="4.125880504133896" lat="40.04894020853684">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-108" action="modify" visible="true" lon="4.129267059597282" lat="40.05734361560082">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-450" action="modify" visible="true" lon="4.132421119033564" lat="40.058581117556095">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-37" action="modify" visible="true" lon="4.131124257818299" lat="40.05603750847487">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-1" action="modify" visible="true" lon="4.132540781833169" lat="40.0568150131285">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-49" action="modify" visible="true" lon="4.131493572526353" lat="40.05614854795577">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-220" action="modify" visible="true" lon="4.131019942738891" lat="40.05679915501108">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-149" action="modify" visible="true" lon="4.125778337889335" lat="40.04783403769974">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-5" action="modify" visible="true" lon="4.132381770070682" lat="40.05648521319621">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-489" action="modify" visible="true" lon="4.129162704090596" lat="40.054994788300895">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-496" action="modify" visible="true" lon="4.128774199423721" lat="40.05503908545072">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-374" action="modify" visible="true" lon="4.1296906722318365" lat="40.05445737390399">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-391" action="modify" visible="true" lon="4.129874579914866" lat="40.05192833110068">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-144" action="modify" visible="true" lon="4.125956789385408" lat="40.04823295712143">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-361" action="modify" visible="true" lon="4.129247425818248" lat="40.05254136109603">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-73" action="modify" visible="true" lon="4.1318189318284135" lat="40.05751260582743">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-202" action="modify" visible="true" lon="4.131764548775213" lat="40.055938542673644">
+    <tag k="addr:street" v="Plaça des Forn"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-420" action="modify" visible="true" lon="4.132787111917367" lat="40.06106043039217">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-175" action="modify" visible="true" lon="4.132183182866952" lat="40.05723466739827">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-11" action="modify" visible="true" lon="4.132975864066478" lat="40.05772523566354">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-233" action="modify" visible="true" lon="4.131531089245524" lat="40.056903378114335">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-25" action="modify" visible="true" lon="4.1300714965501095" lat="40.05554595135455">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-124" action="modify" visible="true" lon="4.126672007291291" lat="40.04839826584438">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-214" action="modify" visible="true" lon="4.1318279262556485" lat="40.05618534410709">
+    <tag k="addr:street" v="Plaça Pere Maria Cardona"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-307" action="modify" visible="true" lon="4.129455258649087" lat="40.05429403105485">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-436" action="modify" visible="true" lon="4.13257313725869" lat="40.05822708733333">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-188" action="modify" visible="true" lon="4.130814461660443" lat="40.05554983171122">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-66" action="modify" visible="true" lon="4.131563317716867" lat="40.056344741230156">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-157" action="modify" visible="true" lon="4.132020265968192" lat="40.05673928063568">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-163" action="modify" visible="true" lon="4.1320111399641215" lat="40.056892528191675">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-505" action="modify" visible="true" lon="4.129281373412893" lat="40.05500639062317">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-261" action="modify" visible="true" lon="4.129239440314829" lat="40.052412698877816">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-317" action="modify" visible="true" lon="4.129440993934478" lat="40.05404019821173">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-111" action="modify" visible="true" lon="4.13204954073061" lat="40.058714707865285">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-40" action="modify" visible="true" lon="4.130695115951394" lat="40.055939818544125">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-3" action="modify" visible="true" lon="4.132602146161516" lat="40.05700624092454">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-351" action="modify" visible="true" lon="4.129154542932209" lat="40.05299214372411">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-19" action="modify" visible="true" lon="4.129306628726635" lat="40.054151347594214">
+    <tag k="addr:street" v="Travessera de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-272" action="modify" visible="true" lon="4.129333336129857" lat="40.05227150849572">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-150" action="modify" visible="true" lon="4.126904160076741" lat="40.04958154249442">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-241" action="modify" visible="true" lon="4.130674533862336" lat="40.055776564735595">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-415" action="modify" visible="true" lon="4.132726542064618" lat="40.06085482903928">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-251" action="modify" visible="true" lon="4.131093674134215" lat="40.05580505547062">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-421" action="modify" visible="true" lon="4.132780630484123" lat="40.06112041441226">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-346" action="modify" visible="true" lon="4.129849072632814" lat="40.0552505122796">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-401" action="modify" visible="true" lon="4.128875239011927" lat="40.05072384718707">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-195" action="modify" visible="true" lon="4.132043559400538" lat="40.05594069372104">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-502" action="modify" visible="true" lon="4.128254735508069" lat="40.055072947975745">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-87" action="modify" visible="true" lon="4.131818458521961" lat="40.05789060567665">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-222" action="modify" visible="true" lon="4.1309292582112285" lat="40.056856668303986">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-354" action="modify" visible="true" lon="4.129261061308107" lat="40.05279213591916">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-356" action="modify" visible="true" lon="4.129380562506991" lat="40.05298057150972">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-254" action="modify" visible="true" lon="4.13096644226243" lat="40.0558445404115">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-234" action="modify" visible="true" lon="4.131512299811216" lat="40.05688949795227">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="6I"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-325" action="modify" visible="true" lon="4.129430730374434" lat="40.053816176845665">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-246" action="modify" visible="true" lon="4.131567182632654" lat="40.055883363814466">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-335" action="modify" visible="true" lon="4.129417663690236" lat="40.053601585713764">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-306" action="modify" visible="true" lon="4.129357274296936" lat="40.054373863900736">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-279" action="modify" visible="true" lon="4.12898694531473" lat="40.05158278873286">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="143"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-418" action="modify" visible="true" lon="4.132740610098605" lat="40.06099920674167">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-257" action="modify" visible="true" lon="4.130448925302626" lat="40.05568550104852">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-55" action="modify" visible="true" lon="4.13165670113954" lat="40.056159276999125">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-225" action="modify" visible="true" lon="4.130791821613166" lat="40.05685651730502">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-440" action="modify" visible="true" lon="4.132671092787341" lat="40.058029839442895">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-318" action="modify" visible="true" lon="4.129334908515726" lat="40.0539919971954">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-409" action="modify" visible="true" lon="4.132685854585265" lat="40.060574466823745">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-329" action="modify" visible="true" lon="4.129314299382652" lat="40.0536810174301">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-42" action="modify" visible="true" lon="4.130743503183241" lat="40.055961404959476">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-181" action="modify" visible="true" lon="4.131749233987592" lat="40.05657505351304">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-485" action="modify" visible="true" lon="4.1326165895798495" lat="40.06033346512157">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-363" action="modify" visible="true" lon="4.12924442552111" lat="40.05249454137609">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-334" action="modify" visible="true" lon="4.129185360360227" lat="40.05349448155036">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-130" action="modify" visible="true" lon="4.1262435198984" lat="40.0496106130227">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-10" action="modify" visible="true" lon="4.132914501708123" lat="40.057657409438924">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-477" action="modify" visible="true" lon="4.132544522267921" lat="40.05996006528805">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-62" action="modify" visible="true" lon="4.131335310096973" lat="40.05616141114943">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-402" action="modify" visible="true" lon="4.1299015693058205" lat="40.05477959426248">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-493" action="modify" visible="true" lon="4.128913457169171" lat="40.05503013359264">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-370" action="modify" visible="true" lon="4.130034673764635" lat="40.05501241775721">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-376" action="modify" visible="true" lon="4.129629440943886" lat="40.05402780938921">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-337" action="modify" visible="true" lon="4.12929875388774" lat="40.053434946166504">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-136" action="modify" visible="true" lon="4.126728279156557" lat="40.05048475391776">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-447" action="modify" visible="true" lon="4.132708087183872" lat="40.05819282513802">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-250" action="modify" visible="true" lon="4.13102457637011" lat="40.055801344446536">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-380" action="modify" visible="true" lon="4.129409387660701" lat="40.05339490643456">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-178" action="modify" visible="true" lon="4.132207506308282" lat="40.05728436810412">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-228" action="modify" visible="true" lon="4.130841951426989" lat="40.056911724427444">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-146" action="modify" visible="true" lon="4.126956723611696" lat="40.04970554140067">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-26" action="modify" visible="true" lon="4.130105794020487" lat="40.05557772124727">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-283" action="modify" visible="true" lon="4.128059324966725" lat="40.050526195307576">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-120" action="modify" visible="true" lon="4.132702006073067" lat="40.05812297160606">
+    <tag k="addr:street" v="Camino/Carmen M"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-85" action="modify" visible="true" lon="4.13186634718665" lat="40.05789204700871">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-54" action="modify" visible="true" lon="4.131001986619327" lat="40.0560554277688">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-70" action="modify" visible="true" lon="4.132520002020164" lat="40.0572405231184">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-459" action="modify" visible="true" lon="4.132421684714474" lat="40.05912373471654">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-381" action="modify" visible="true" lon="4.129684098139343" lat="40.0532261016987">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-303" action="modify" visible="true" lon="4.129361221993936" lat="40.054435449804764">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-396" action="modify" visible="true" lon="4.129459673069096" lat="40.051483467790256">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-230" action="modify" visible="true" lon="4.131416504419043" lat="40.05654468666163">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-486" action="modify" visible="true" lon="4.132628265766771" lat="40.06038688996065">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-31" action="modify" visible="true" lon="4.130918879700895" lat="40.05596202585492">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-204" action="modify" visible="true" lon="4.131930391713794" lat="40.05599474692164">
+    <tag k="addr:street" v="Plaça des Forn"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-419" action="modify" visible="true" lon="4.132487997100266" lat="40.05762220851839">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-295" action="modify" visible="true" lon="4.129962983387464" lat="40.05527808130126">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-264" action="modify" visible="true" lon="4.129123486225104" lat="40.05223725308083">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-154" action="modify" visible="true" lon="4.130565918995908" lat="40.05451064798761">
+    <tag k="addr:street" v="Calle Q"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-375" action="modify" visible="true" lon="4.129451244609241" lat="40.054126513288594">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="22B"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-342" action="modify" visible="true" lon="4.129286697357924" lat="40.053244334374114">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-471" action="modify" visible="true" lon="4.132501387183535" lat="40.05968728878037">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-268" action="modify" visible="true" lon="4.1283307496971995" lat="40.05112861187943">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-314" action="modify" visible="true" lon="4.129442126189102" lat="40.05408798333456">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-192" action="modify" visible="true" lon="4.131038484171231" lat="40.05555150757095">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-115" action="modify" visible="true" lon="4.129434221331043" lat="40.05381972851401">
+    <tag k="addr:street" v="Calle H"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-498" action="modify" visible="true" lon="4.128709118005938" lat="40.05519964991967">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="24I"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-2" action="modify" visible="true" lon="4.13257883664529" lat="40.05689403264082">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-50" action="modify" visible="true" lon="4.130899654746546" lat="40.0560214681146">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-433" action="modify" visible="true" lon="4.132557792084416" lat="40.05777707578601">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-238" action="modify" visible="true" lon="4.131261625111608" lat="40.05586823264742">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-207" action="modify" visible="true" lon="4.131352667040921" lat="40.05562894900569">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-383" action="modify" visible="true" lon="4.129379813711485" lat="40.0528888656002">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-223" action="modify" visible="true" lon="4.13092370584983" lat="40.05683830600499">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-480" action="modify" visible="true" lon="4.1325700149702085" lat="40.0601198569492">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-398" action="modify" visible="true" lon="4.129348718049613" lat="40.05132598900402">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-276" action="modify" visible="true" lon="4.126648605903881" lat="40.04739043151932">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-199" action="modify" visible="true" lon="4.132195969699262" lat="40.05613109572757">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-36" action="modify" visible="true" lon="4.1305706028174285" lat="40.05588177626356">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-167" action="modify" visible="true" lon="4.1320808432857925" lat="40.05702897083243">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-422" action="modify" visible="true" lon="4.132796516465847" lat="40.06119341292229">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="127"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-512" action="modify" visible="true" lon="4.127147591628397" lat="40.050895166952174">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-97" action="modify" visible="true" lon="4.133000138050231" lat="40.058108390603884">
+    <tag k="addr:street" v="Carrer des Misous"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-322" action="modify" visible="true" lon="4.129329477632165" lat="40.05390447863118">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-123" action="modify" visible="true" lon="4.126691006227186" lat="40.048520579029066">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-465" action="modify" visible="true" lon="4.132472980385938" lat="40.05942092410714">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-266" action="modify" visible="true" lon="4.1298198077679364" lat="40.05505019074106">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-142" action="modify" visible="true" lon="4.125848813017933" lat="40.04872411015604">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-482" action="modify" visible="true" lon="4.132363265902001" lat="40.0576370996643">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-360" action="modify" visible="true" lon="4.129375123835753" lat="40.05289233053536">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="95"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-367" action="modify" visible="true" lon="4.132035193390644" lat="40.05612327460974">
+    <tag k="addr:street" v="Carrer Sant Antoni"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-252" action="modify" visible="true" lon="4.131159976754048" lat="40.055809129226546">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="26"/>
+  </node>
+  <node id="-86" action="modify" visible="true" lon="4.131774043033163" lat="40.0579878462768">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-428" action="modify" visible="true" lon="4.132440359385837" lat="40.057877662348766">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-135" action="modify" visible="true" lon="4.126884675723388" lat="40.05060545905351">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-406" action="modify" visible="true" lon="4.132467231626049" lat="40.05757373980557">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-501" action="modify" visible="true" lon="4.128419980353216" lat="40.055061854522386">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-296" action="modify" visible="true" lon="4.129378993929461" lat="40.05468816627769">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-347" action="modify" visible="true" lon="4.129278450464744" lat="40.053114053027485">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-310" action="modify" visible="true" lon="4.1294473266855105" lat="40.0542145519473">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="45"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-21" action="modify" visible="true" lon="4.12929822446467" lat="40.05406836272272">
+    <tag k="addr:street" v="Travessera de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-444" action="modify" visible="true" lon="4.1325097068403105" lat="40.058426031951136">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-451" action="modify" visible="true" lon="4.132677064001208" lat="40.05834912407456">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-330" action="modify" visible="true" lon="4.129309284322618" lat="40.05360412591612">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-336" action="modify" visible="true" lon="4.129879657129044" lat="40.055148429699024">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-253" action="modify" visible="true" lon="4.131242683401454" lat="40.055811462502106">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-305" action="modify" visible="true" lon="4.1299222522533885" lat="40.05535136190022">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-490" action="modify" visible="true" lon="4.129126432416874" lat="40.05501641451798">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-165" action="modify" visible="true" lon="4.132052981291311" lat="40.05697166959404">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-297" action="modify" visible="true" lon="4.1295256679430254" lat="40.05452422489727">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-177" action="modify" visible="true" lon="4.132504767655457" lat="40.05722891445775">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-60" action="modify" visible="true" lon="4.131214634005609" lat="40.05610824400508">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-105" action="modify" visible="true" lon="4.131287414167188" lat="40.05843124341873">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-67" action="modify" visible="true" lon="4.130800587757785" lat="40.05591401286364">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-74" action="modify" visible="true" lon="4.131757213140297" lat="40.05753104441027">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-455" action="modify" visible="true" lon="4.132569413939906" lat="40.05856441281028">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-210" action="modify" visible="true" lon="4.131472424643339" lat="40.055712469850995">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-386" action="modify" visible="true" lon="4.129837421001424" lat="40.05231133319882">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-280" action="modify" visible="true" lon="4.1289462892988755" lat="40.051534895840454">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="149"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-458" action="modify" visible="true" lon="4.132313401426722" lat="40.057521189609936">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-460" action="modify" visible="true" lon="4.132436957551666" lat="40.059200894068965">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-213" action="modify" visible="true" lon="4.131744999374006" lat="40.056153329221125">
+    <tag k="addr:street" v="Plaça Pere Maria Cardona"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-98" action="modify" visible="true" lon="4.13222447150357" lat="40.058127782737444">
+    <tag k="addr:street" v="Carrer des Misous"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-18" action="modify" visible="true" lon="4.128948675645361" lat="40.0546780356062">
+    <tag k="addr:street" v="Travessera de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-189" action="modify" visible="true" lon="4.130871060467969" lat="40.05554442699405">
+    <tag k="addr:street" v="Carrer Gabriel Gelabert"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-151" action="modify" visible="true" lon="4.12675680845702" lat="40.04871357992337">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-158" action="modify" visible="true" lon="4.131833920669061" lat="40.05663351351284">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-289" action="modify" visible="true" lon="4.12964341059495" lat="40.05474054564453">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-127" action="modify" visible="true" lon="4.126007272203503" lat="40.04893772869491">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="14A"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-514" action="modify" visible="true" lon="4.128473414857429" lat="40.05413841657825">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-28" action="modify" visible="true" lon="4.130182976463877" lat="40.055639416797106">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-122" action="modify" visible="true" lon="4.127354587648339" lat="40.05016700255626">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-377" action="modify" visible="true" lon="4.129627807030004" lat="40.053781028570874">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-4" action="modify" visible="true" lon="4.132779675718374" lat="40.05730837677563">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-94" action="modify" visible="true" lon="4.131976141025821" lat="40.05800312409083">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="8"/>
+  </node>
+  <node id="-478" action="modify" visible="true" lon="4.132553164177187" lat="40.06001275253121">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-273" action="modify" visible="true" lon="4.129325576530986" lat="40.05218807817372">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-235" action="modify" visible="true" lon="4.131166543838786" lat="40.05674512926422">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-242" action="modify" visible="true" lon="4.1314280166528174" lat="40.05587632734976">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-413" action="modify" visible="true" lon="4.132706632687696" lat="40.060763979527295">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-294" action="modify" visible="true" lon="4.1295592519943165" lat="40.05459207912941">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-432" action="modify" visible="true" lon="4.132549724662073" lat="40.05805759967356">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-112" action="modify" visible="true" lon="4.130714493021145" lat="40.05772659922019">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-373" action="modify" visible="true" lon="4.129678128459189" lat="40.054506592163996">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-461" action="modify" visible="true" lon="4.13244813496245" lat="40.0592610876587">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-256" action="modify" visible="true" lon="4.130403585804288" lat="40.05567228788108">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-180" action="modify" visible="true" lon="4.131708266018363" lat="40.05654677407262">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-397" action="modify" visible="true" lon="4.129453861434304" lat="40.051362739494444">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-357" action="modify" visible="true" lon="4.129254873920419" lat="40.05265877128369">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="92"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-319" action="modify" visible="true" lon="4.129437791615287" lat="40.05398338398867">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-326" action="modify" visible="true" lon="4.12944090608117" lat="40.053788081421445">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="59A"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-118" action="modify" visible="true" lon="4.130170567409879" lat="40.05648030666952">
+    <tag k="addr:street" v="Avinguda de sa Punta Petita"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-126" action="modify" visible="true" lon="4.125945694665928" lat="40.048769837436076">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-349" action="modify" visible="true" lon="4.129273370165009" lat="40.05303355837404">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="82"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-196" action="modify" visible="true" lon="4.132137817350768" lat="40.0560531920921">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-510" action="modify" visible="true" lon="4.127447510426343" lat="40.05125325149189">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-53" action="modify" visible="true" lon="4.131576265234673" lat="40.05615523440291">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-313" action="modify" visible="true" lon="4.129226225889049" lat="40.0541117973556">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-441" action="modify" visible="true" lon="4.132535888774694" lat="40.05837422690645">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-403" action="modify" visible="true" lon="4.1291105616888" lat="40.051016089833105">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="76C"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-410" action="modify" visible="true" lon="4.132680478582502" lat="40.060644975157">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-372" action="modify" visible="true" lon="4.12955773482842" lat="40.054583153229466">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-463" action="modify" visible="true" lon="4.132424639051622" lat="40.057475325324276">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-13" action="modify" visible="true" lon="4.13302899085772" lat="40.05783517458182">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-426" action="modify" visible="true" lon="4.132857510646037" lat="40.0614994418579">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-364" action="modify" visible="true" lon="4.131854934473781" lat="40.05602912712919">
+    <tag k="addr:street" v="Carrer Sant Antoni"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-499" action="modify" visible="true" lon="4.128564041170016" lat="40.05505259451732">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-96" action="modify" visible="true" lon="4.132212019160995" lat="40.05804889630244">
+    <tag k="addr:street" v="Carrer des Misous"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-145" action="modify" visible="true" lon="4.126196650300947" lat="40.04815670006511">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-63" action="modify" visible="true" lon="4.130362548649589" lat="40.055760225763336">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-487" action="modify" visible="true" lon="4.132639983292076" lat="40.06044138679437">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-494" action="modify" visible="true" lon="4.129425571357826" lat="40.05499706161551">
+    <tag k="addr:street" v="Carrer de la Verge del Carme"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-454" action="modify" visible="true" lon="4.132642989332671" lat="40.05844776456484">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-169" action="modify" visible="true" lon="4.132116297642766" lat="40.05710105354693">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-469" action="modify" visible="true" lon="4.132493756530105" lat="40.05963767499362">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-179" action="modify" visible="true" lon="4.131664514045942" lat="40.05651609665524">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-448" action="modify" visible="true" lon="4.132448995708044" lat="40.05852815812077">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-34" action="modify" visible="true" lon="4.130518039742341" lat="40.05585327978978">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-293" action="modify" visible="true" lon="4.129278762262789" lat="40.05474914974941">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-258" action="modify" visible="true" lon="4.130523577365328" lat="40.055725736734544">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-95" action="modify" visible="true" lon="4.131947828006151" lat="40.05786861759859">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-439" action="modify" visible="true" lon="4.132552623253979" lat="40.05832229425847">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-147" action="modify" visible="true" lon="4.12575860021113" lat="40.047740918876656">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-27" action="modify" visible="true" lon="4.130139036667134" lat="40.05560689608022">
+    <tag k="addr:place" v="Plaça S'Algaret"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-32" action="modify" visible="true" lon="4.130457937821175" lat="40.055847762687634">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-161" action="modify" visible="true" lon="4.132123592846562" lat="40.05694469993768">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-170" action="modify" visible="true" lon="4.132244879575795" lat="40.05709596684061">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-51" action="modify" visible="true" lon="4.131527573047879" lat="40.05615212683542">
+    <tag k="addr:street" v="Carrer Major"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-174" action="modify" visible="true" lon="4.132307165335251" lat="40.057209156885584">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-71" action="modify" visible="true" lon="4.13190546198177" lat="40.05748676015096">
+    <tag k="addr:street" v="Carrer d'es Castell"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-137" action="modify" visible="true" lon="4.126295715520814" lat="40.050004981162104">
+    <tag k="addr:street" v="Carrer ses Vinyes"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-355" action="modify" visible="true" lon="4.1292581406232785" lat="40.05272883269881">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-231" action="modify" visible="true" lon="4.131337819622567" lat="40.05665111231201">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-109" action="modify" visible="true" lon="4.132113497545366" lat="40.05871813708698">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-116" action="modify" visible="true" lon="4.130356088614437" lat="40.056597057900824">
+    <tag k="addr:street" v="Avinguda de sa Punta Petita"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-414" action="modify" visible="true" lon="4.132733741876403" lat="40.06079689119875">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-378" action="modify" visible="true" lon="4.129662258645018" lat="40.05357583890118">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-218" action="modify" visible="true" lon="4.131141802398908" lat="40.0567221287682">
+    <tag k="addr:street" v="Calle Moli"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-389" action="modify" visible="true" lon="4.129882703226292" lat="40.052078398547785">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-90" action="modify" visible="true" lon="4.132122494512139" lat="40.05781831922269">
+    <tag k="addr:street" v="Carrer de S'Atalaia"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-155" action="modify" visible="true" lon="4.131580221894559" lat="40.05645802568545">
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-513" action="modify" visible="true" lon="4.128402535013115" lat="40.054294135147515">
+    <tag k="addr:street" v="Calle Des Pujol , Ag Fornells"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-271" action="modify" visible="true" lon="4.12657854412679" lat="40.04805510746368">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="116"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-315" action="modify" visible="true" lon="4.129916914138121" lat="40.05520827407745">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-193" action="modify" visible="true" lon="4.132019372299297" lat="40.05602059479691">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-200" action="modify" visible="true" lon="4.132319050183227" lat="40.05640015252015">
+    <tag k="addr:street" v="Carrer del Governador"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-456" action="modify" visible="true" lon="4.132529645454745" lat="40.05862334462635">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-462" action="modify" visible="true" lon="4.1324560929365655" lat="40.05931325429734">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-9" action="modify" visible="true" lon="4.13290313566347" lat="40.05756823372598">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-300" action="modify" visible="true" lon="4.12948694852684" lat="40.05442432541541">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-239" action="modify" visible="true" lon="4.130651441853179" lat="40.05576976277247">
+    <tag k="addr:street" v="Carrer de ses Roques"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-6" action="modify" visible="true" lon="4.132797987110766" lat="40.05734847894471">
+    <tag k="addr:street" v="Carrer de Vivers"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-262" action="modify" visible="true" lon="4.12923665308667" lat="40.05235002050635">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-103" action="modify" visible="true" lon="4.131513155781939" lat="40.05833854468719">
+    <tag k="addr:street" v="Avinguda de sa Punta Gran"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-399" action="modify" visible="true" lon="4.129215453992347" lat="40.05122204412364">
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-277" action="modify" visible="true" lon="4.1291355564871575" lat="40.051593858914366">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-284" action="modify" visible="true" lon="4.129769080087096" lat="40.05512747947413">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-203" action="modify" visible="true" lon="4.131798425805907" lat="40.055967321166605">
+    <tag k="addr:street" v="Plaça des Forn"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-338" action="modify" visible="true" lon="4.129414427087224" lat="40.05354270103844">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-348" action="modify" visible="true" lon="4.129395100454235" lat="40.05324886345418">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-467" action="modify" visible="true" lon="4.1324760566636725" lat="40.05952939603566">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="67"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-323" action="modify" visible="true" lon="4.129432880627109" lat="40.05386838882516">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-427" action="modify" visible="true" lon="4.132511409244698" lat="40.05767573187218">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-304" action="modify" visible="true" lon="4.129459015022855" lat="40.054329807028175">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="07748"/>
+  </node>
+  <node id="-312" action="modify" visible="true" lon="4.129446423459764" lat="40.054155985308235">
+    <tag k="addr:street" v="Carrer del Rosari"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="-483" action="modify" visible="true" lon="4.132592388266154" lat="40.06022397069559">
+    <tag k="addr:street" v="Carrer Tramuntana"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+</osm>

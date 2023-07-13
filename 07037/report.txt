@@ -1,0 +1,83 @@
+Municipality: es Mercadal
+Cadastre name: ES MERCADAL
+Code: 07037
+Split file: fornells_sol.geojson
+Date: 13/7/23
+Options: -s fornells_sol.geojson 07037
+Language: ca_ES
+
+=System info=
+Application version: CatAtom2Osm 2.15.1
+Platform: Linux 5.19.0-46-generic #47~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Jun 21 15:35:31 UTC 2 x86_64 x86_64
+QGIS version: 3.10.4-A Coruña
+GDAL version: 3.0.4
+CPU count: 4
+CPU frequency: 3800.0 Mhz
+Execution time: 2.9 seconds
+Total memory: 15858.92 MB
+Physical memory usage: 189.30 MB
+Virtual memory usage: 671.14 MB
+
+=Addresses=
+
+==Input data==
+Source date: 2023-04-03
+Feature count: 565
+  Type entrance: 502
+  Type parcel: 63
+Postal codes: 3
+Street names: 30
+
+==Process==
+Addresses without associated building excluded: 1
+Addresses deleted by street name: 1
+Addresses without house number deleted: 10
+Addresses belonging to multiple buildings deleted: 38
+
+==Conflation==
+OSM addresses : 2
+Addresses rejected because they exist in OSM: 1
+
+=Buildings=
+
+==Input data==
+Source date: 2023-04-03
+Feature count: 2142
+  Buildings: 466
+  Building parts: 1590
+  Swimming pools: 86
+
+==Process==
+Parts outside outline deleted: 11
+Parts with no floors above ground: 84
+Buildings with multipart geometries: 76
+Buildings resulting from splitting multiparts: 168
+Parts merged to the outline: 350
+Adjacent parts merged: 258
+Close vertices merged: 360
+Topological points created: 239
+Simplified vertices: 4499
+
+==Output data==
+Nodes: 14839
+Ways: 1572
+Relations: 40
+Feature count: 1531
+  Buildings: 558
+  Buildings parts: 887
+  Swimming pools: 86
+    Over buildings: 1
+Building types counter: residential: 501, industrial: 22, public: 13, retail: 17, office: 2, yes: 3
+Max. levels above ground (level: # of buildings): 1: 70, 2: 274, 3: 101, 4: 20
+Min. levels below ground (level: # of buildings): 1: 44
+
+=Project=
+Building parts threshold: 20
+Distance threshold: 1000
+Tasks files: 62
+  Rustic: 1
+  Urban: 61
+
+=Problems=
+Report validation: 1
+  Sum of output and deleted addresses should be equal to the input addresses

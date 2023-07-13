@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+  <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+  <meta osm_base="2023-07-13T14:29:59Z" areas="2023-07-13T10:33:58Z"/>
+  <changeset>
+    <tag k="comment" v="#Spanish_Cadastre_Buildings_Import 07037 es Mercadal current_address"/>
+    <tag k="source" v="Dirección General del Catastro"/>
+    <tag k="type" v="import"/>
+    <tag k="url" v="https://wiki.openstreetmap.org/wiki/Spanish_Cadastre/Buildings_Import"/>
+    <tag k="generator" v="CatAtom2Osm 2.15.1"/>
+    <tag k="source:date" v="2023-04-03"/>
+    <tag k="source:date:addr" v="2023-04-03"/>
+  </changeset>
+  <node id="1648263768" action="modify" visible="true" version="1" timestamp="2012-02-26T10:04:36Z" changeset="10795296" uid="179581" user="Geofreund1" lon="4.131841" lat="40.056387"/>
+  <node id="2114245588" action="modify" visible="true" version="1" timestamp="2013-01-16T16:48:28Z" changeset="14674656" uid="975150" user="Pau69" lon="4.1320926" lat="40.0562985"/>
+  <node id="2114245590" action="modify" visible="true" version="1" timestamp="2013-01-16T16:48:28Z" changeset="14674656" uid="975150" user="Pau69" lon="4.1320826" lat="40.0563843"/>
+  <node id="6961663863" action="modify" visible="true" version="1" timestamp="2019-11-10T12:06:14Z" changeset="76866253" uid="7691857" user="Puxan_importacions" lon="4.1299317" lat="40.0543051">
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="addr:street" v="Passeig Marítim Gumersind Riera"/>
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="2114245589" action="modify" visible="true" version="1" timestamp="2013-01-16T16:48:28Z" changeset="14674656" uid="975150" user="Pau69" lon="4.1321306" lat="40.0563698"/>
+  <node id="2114245591" action="modify" visible="true" version="1" timestamp="2013-01-16T16:48:28Z" changeset="14674656" uid="975150" user="Pau69" lon="4.1320891" lat="40.0563975"/>
+  <node id="2114245593" action="modify" visible="true" version="1" timestamp="2013-01-16T16:48:28Z" changeset="14674656" uid="975150" user="Pau69" lon="4.1318795" lat="40.0564612"/>
+  <way id="201441156" action="modify" visible="true" version="13" timestamp="2020-10-07T19:21:37Z" changeset="92129334" uid="3392826" user="Hugoren Martinako">
+    <nd ref="2114245588"/>
+    <nd ref="2114245589"/>
+    <nd ref="2114245590"/>
+    <nd ref="2114245591"/>
+    <nd ref="2114245593"/>
+    <nd ref="1648263768"/>
+    <nd ref="2114245588"/>
+    <tag k="addr:city" v="Es Mercadal"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="07748"/>
+    <tag k="addr:street" v="Carrer de ses Escoles"/>
+    <tag k="addr:unit" v="Fornells"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="Esglèsia de Sant Antoni Abat"/>
+    <tag k="name:ca" v="Esglèsia de Sant Antoni Abat"/>
+    <tag k="name:es" v="Iglesia de San Antonio Abad"/>
+    <tag k="phone" v="+34 971 376 611"/>
+    <tag k="religion" v="christian"/>
+    <tag k="service_times" v="Sep 24-Jun 10 Mo-Fr 18:00; Sep 24-Jun 10 PH 12:30; Jun 11-Sep 23 Mo-Fr 19:00; Jul-Aug PH 20:00"/>
+    <tag k="wikipedia" v="es:Iglesia de San Antonio Abad (Fornells)"/>
+  </way>
+</osm>
